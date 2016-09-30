@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2016_09 = 
 [
 	{
+		"created_at": "Thu Sep 29 07:29:40 +0000 2016",
+		"id": 781395502583648300,
+		"id_str": "781395502583648256",
+		"text": "Small correction @sharp_pam -- #LTHEChat is weekly; #HEAChat is last Wednesday of month. Follow @LTHEchat and… https://t.co/dGskV9tIp9",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						31,
+						40
+					]
+				},
+				{
+					"text": "HEAChat",
+					"indices": [
+						52,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sharp_pam",
+					"name": "Pam Sharp",
+					"id": 1344380917,
+					"id_str": "1344380917",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						96,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dGskV9tIp9",
+					"expanded_url": "https://twitter.com/i/web/status/781395502583648256",
+					"display_url": "twitter.com/i/web/status/7…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "(((Chris Jobling)))",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. SALT Champion. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Want to #RemainInEU.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1020,
+			"friends_count": 1073,
+			"listed_count": 118,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 4670,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8833,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/750572130916524032/J0EPNjDo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/750572130916524032/J0EPNjDo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1f36c2b60fbc98ac",
+			"url": "https://api.twitter.com/1.1/geo/id/1f36c2b60fbc98ac.json",
+			"place_type": "city",
+			"name": "Swansea",
+			"full_name": "Swansea, Wales",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.029331,
+							51.5987484
+						],
+						[
+							-3.8621388,
+							51.5987484
+						],
+						[
+							-3.8621388,
+							51.68983
+						],
+						[
+							-4.029331,
+							51.68983
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 781393253979529200,
+		"quoted_status_id_str": "781393253979529216",
+		"quoted_status": {
+			"created_at": "Thu Sep 29 07:20:43 +0000 2016",
+			"id": 781393253979529200,
+			"id_str": "781393253979529216",
+			"text": "Chats ever Wednesday evening for academics #highereducation @HEA_chat #HEAchat \n@obu_nursing",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "highereducation",
+						"indices": [
+							43,
+							59
+						]
+					},
+					{
+						"text": "HEAchat",
+						"indices": [
+							70,
+							78
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HEA_chat",
+						"name": "#HEAchat",
+						"id": 3726587775,
+						"id_str": "3726587775",
+						"indices": [
+							60,
+							69
+						]
+					},
+					{
+						"screen_name": "obu_nursing",
+						"name": "OBU Nursing",
+						"id": 2240615996,
+						"id_str": "2240615996",
+						"indices": [
+							80,
+							92
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1344380917,
+				"id_str": "1344380917",
+				"name": "Pam Sharp",
+				"screen_name": "sharp_pam",
+				"location": "Oxford Brookes University",
+				"description": "Senior lecturer & nurse. Interests: evidence based practice, mentoring,  reflection, SoMe & active learning. Love the sea & sunny days",
+				"url": "http://t.co/Z4OY4Xh18r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Z4OY4Xh18r",
+								"expanded_url": "http://www.chc.brookes.ac.uk/pam-sharp",
+								"display_url": "chc.brookes.ac.uk/pam-sharp",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 483,
+				"friends_count": 365,
+				"listed_count": 27,
+				"created_at": "Thu Apr 11 13:18:38 +0000 2013",
+				"favourites_count": 767,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1614,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/623567088796348416/qChrjmpr_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/623567088796348416/qChrjmpr_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1344380917/1374783478",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 28 20:10:29 +0000 2016",
 		"id": 781224580438523900,
 		"id_str": "781224580438523904",
