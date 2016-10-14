@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2016_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 07:22:05 +0000 2016",
+		"id": 786467027456254000,
+		"id_str": "786467027456253953",
+		"text": "RT @Sareh88: “13 Kickass Talks by Women In Tech” @WHFNP #AdaLovelaceDay  https://t.co/E1c3uQBNfH",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdaLovelaceDay",
+					"indices": [
+						56,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sareh88",
+					"name": "S_reh Heid_ri",
+					"id": 21869925,
+					"id_str": "21869925",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "WHFNP",
+					"name": "{ women hack }",
+					"id": 3247745341,
+					"id_str": "3247745341",
+					"indices": [
+						49,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E1c3uQBNfH",
+					"expanded_url": "https://blog.womenhackfornonprofits.com/13-kickass-talks-by-women-in-tech-bd7aa4fe24cf",
+					"display_url": "blog.womenhackfornonprofits.com/13-kickass-tal…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "(((Chris Jobling)))",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. SALT Champion. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Want to #RemainInEU.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1031,
+			"friends_count": 1072,
+			"listed_count": 119,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 4727,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8949,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/750572130916524032/J0EPNjDo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/750572130916524032/J0EPNjDo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 13 07:20:23 +0000 2016",
+			"id": 786466597498150900,
+			"id_str": "786466597498150912",
+			"text": "“13 Kickass Talks by Women In Tech” @WHFNP #AdaLovelaceDay  https://t.co/E1c3uQBNfH",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AdaLovelaceDay",
+						"indices": [
+							43,
+							58
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WHFNP",
+						"name": "{ women hack }",
+						"id": 3247745341,
+						"id_str": "3247745341",
+						"indices": [
+							36,
+							42
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/E1c3uQBNfH",
+						"expanded_url": "https://blog.womenhackfornonprofits.com/13-kickass-talks-by-women-in-tech-bd7aa4fe24cf",
+						"display_url": "blog.womenhackfornonprofits.com/13-kickass-tal…",
+						"indices": [
+							60,
+							83
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21869925,
+				"id_str": "21869925",
+				"name": "S_reh Heid_ri",
+				"screen_name": "Sareh88",
+				"location": "London",
+				"description": "Web Developer. (she/her). Interested in emerging technologies and how they can change the way we live and work, for the better. #a11y #WomeninTech #PoCinTech",
+				"url": "https://t.co/Ls1I3iSjO5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ls1I3iSjO5",
+								"expanded_url": "https://www.linkedin.com/in/sarehheidari",
+								"display_url": "linkedin.com/in/sarehheidari",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1429,
+				"friends_count": 2960,
+				"listed_count": 95,
+				"created_at": "Wed Feb 25 14:23:31 +0000 2009",
+				"favourites_count": 4394,
+				"utc_offset": 3600,
+				"time_zone": "Europe/London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3693,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/665566180745310208/FbDoC-om_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/665566180745310208/FbDoC-om_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21869925/1465417272",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 10,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 12 20:03:00 +0000 2016",
 		"id": 786296127683461100,
 		"id_str": "786296127683461120",
