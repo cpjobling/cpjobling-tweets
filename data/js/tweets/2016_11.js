@@ -1,6 +1,580 @@
 Grailbird.data.tweets_2016_11 = 
 [
 	{
+		"created_at": "Tue Nov 01 08:45:08 +0000 2016",
+		"id": 793373293743050800,
+		"id_str": "793373293743050756",
+		"text": "RT @mlpoulter: The link is https://t.co/PwBT9g5Zgn https://t.co/K39whkqaQW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mlpoulter",
+					"name": "Martin L Poulter",
+					"id": 16996407,
+					"id_str": "16996407",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PwBT9g5Zgn",
+					"expanded_url": "https://warwick.mediaspace.kaltura.com/media/OESIG+A+New+Look+at+Wikimedia%2C+the+World%27s+Largest+OER+%28cut%29/1_n5lipvb1/6227901",
+					"display_url": "warwick.mediaspace.kaltura.com/media/OESIG+A+…",
+					"indices": [
+						27,
+						50
+					]
+				},
+				{
+					"url": "https://t.co/K39whkqaQW",
+					"expanded_url": "https://twitter.com/WarwickLanguage/status/793076008400326657",
+					"display_url": "twitter.com/WarwickLanguag…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "(((Chris Jobling)))",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. SALT Champion. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Want to #RemainInEU.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1038,
+			"friends_count": 1073,
+			"listed_count": 119,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 4841,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9095,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/750572130916524032/J0EPNjDo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/750572130916524032/J0EPNjDo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 31 13:29:35 +0000 2016",
+			"id": 793082493213737000,
+			"id_str": "793082493213736960",
+			"text": "The link is https://t.co/PwBT9g5Zgn https://t.co/K39whkqaQW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/PwBT9g5Zgn",
+						"expanded_url": "https://warwick.mediaspace.kaltura.com/media/OESIG+A+New+Look+at+Wikimedia%2C+the+World%27s+Largest+OER+%28cut%29/1_n5lipvb1/6227901",
+						"display_url": "warwick.mediaspace.kaltura.com/media/OESIG+A+…",
+						"indices": [
+							12,
+							35
+						]
+					},
+					{
+						"url": "https://t.co/K39whkqaQW",
+						"expanded_url": "https://twitter.com/WarwickLanguage/status/793076008400326657",
+						"display_url": "twitter.com/WarwickLanguag…",
+						"indices": [
+							36,
+							59
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16996407,
+				"id_str": "16996407",
+				"name": "Martin L Poulter",
+				"screen_name": "mlpoulter",
+				"location": "Bristol, UK",
+				"description": "Philosophy PhD; psychology buff; Wikimedian In Residence at @bodleianlibs / @uniofoxford. @economics_net tech manager; Personal views. Alt acct @sillypoult",
+				"url": "http://t.co/BRsPYEgKdi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/BRsPYEgKdi",
+								"expanded_url": "http://infobomb.org/",
+								"display_url": "infobomb.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1412,
+				"friends_count": 1333,
+				"listed_count": 149,
+				"created_at": "Mon Oct 27 11:18:19 +0000 2008",
+				"favourites_count": 4312,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9442,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1570047854/martin_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570047854/martin_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16996407/1356458511",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 793076008400326700,
+			"quoted_status_id_str": "793076008400326657",
+			"quoted_status": {
+				"created_at": "Mon Oct 31 13:03:49 +0000 2016",
+				"id": 793076008400326700,
+				"id_str": "793076008400326657",
+				"text": "recording of last week's #openedsig webinar, worth listening to @mlpoulter on the many affordances of @Wikimedia for open practice #altc",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "openedsig",
+							"indices": [
+								25,
+								35
+							]
+						},
+						{
+							"text": "altc",
+							"indices": [
+								131,
+								136
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "mlpoulter",
+							"name": "Martin L Poulter",
+							"id": 16996407,
+							"id_str": "16996407",
+							"indices": [
+								64,
+								74
+							]
+						},
+						{
+							"screen_name": "Wikimedia",
+							"name": "Wikimedia",
+							"id": 86390762,
+							"id_str": "86390762",
+							"indices": [
+								102,
+								112
+							]
+						}
+					],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 81817497,
+					"id_str": "81817497",
+					"name": "Teresa MacKinnon",
+					"screen_name": "WarwickLanguage",
+					"location": "Coventry, UK",
+					"description": "Principal Teaching Fellow at University of Warwick, Senior Fellow HEA, CMALT Learning Technologist.",
+					"url": "http://t.co/8aDcc9kevF",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/8aDcc9kevF",
+									"expanded_url": "http://about.me/teresamackinnon",
+									"display_url": "about.me/teresamackinnon",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 4403,
+					"friends_count": 4776,
+					"listed_count": 458,
+					"created_at": "Mon Oct 12 11:11:38 +0000 2009",
+					"favourites_count": 6968,
+					"utc_offset": 0,
+					"time_zone": "London",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 35492,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C6E2EE",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/754956635450200064/iN-luRsi_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/754956635450200064/iN-luRsi_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/81817497/1354468137",
+					"profile_link_color": "1F98C7",
+					"profile_sidebar_border_color": "C6E2EE",
+					"profile_sidebar_fill_color": "DAECF4",
+					"profile_text_color": "663B12",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": true,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 2,
+				"favorite_count": 2,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 793076008400326700,
+		"quoted_status_id_str": "793076008400326657",
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Nov 01 07:52:47 +0000 2016",
+		"id": 793360121447538700,
+		"id_str": "793360121447538688",
+		"text": "RT @GuardianEdu: Peter Scott: The UK is becoming the nasty country, and our universities will suffer https://t.co/wXSU3XSuWX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GuardianEdu",
+					"name": "Guardian Education",
+					"id": 24907913,
+					"id_str": "24907913",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wXSU3XSuWX",
+					"expanded_url": "https://www.theguardian.com/education/2016/nov/01/universities-suffer-brexit-britain-refugee-children?CMP=share_btn_tw",
+					"display_url": "theguardian.com/education/2016…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "(((Chris Jobling)))",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. SALT Champion. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Want to #RemainInEU.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1038,
+			"friends_count": 1073,
+			"listed_count": 119,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 4841,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9095,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/750572130916524032/J0EPNjDo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/750572130916524032/J0EPNjDo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Nov 01 07:22:32 +0000 2016",
+			"id": 793352510312505300,
+			"id_str": "793352510312505344",
+			"text": "Peter Scott: The UK is becoming the nasty country, and our universities will suffer https://t.co/wXSU3XSuWX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wXSU3XSuWX",
+						"expanded_url": "https://www.theguardian.com/education/2016/nov/01/universities-suffer-brexit-britain-refugee-children?CMP=share_btn_tw",
+						"display_url": "theguardian.com/education/2016…",
+						"indices": [
+							84,
+							107
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24907913,
+				"id_str": "24907913",
+				"name": "Guardian Education",
+				"screen_name": "GuardianEdu",
+				"location": "London",
+				"description": "Education news and comment from the @guardian",
+				"url": "http://t.co/ec2YxwtpuP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ec2YxwtpuP",
+								"expanded_url": "http://www.theguardian.com/education",
+								"display_url": "theguardian.com/education",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 220275,
+				"friends_count": 126,
+				"listed_count": 3843,
+				"created_at": "Tue Mar 17 16:31:26 +0000 2009",
+				"favourites_count": 80,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20615,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/703403832/ff996aa3bc2009a2f9b97cdd43e8b5b7.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/703403832/ff996aa3bc2009a2f9b97cdd43e8b5b7.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/564806209258008576/_vb2d4yR_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/564806209258008576/_vb2d4yR_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24907913/1423495323",
+				"profile_link_color": "005789",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CAE3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 17,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Nov 01 00:47:20 +0000 2016",
 		"id": 793253051255681000,
 		"id_str": "793253051255681024",
