@@ -1,6 +1,636 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Mon Feb 06 13:08:20 +0000 2017",
+		"id": 828591157101879300,
+		"id_str": "828591157101879296",
+		"text": "What a great topic! Looking forward to #LTHEchat this week. https://t.co/cQbVt5UCUQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						39,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cQbVt5UCUQ",
+					"expanded_url": "https://twitter.com/LTHEchat/status/828506590277955584",
+					"display_url": "twitter.com/LTHEchat/statu…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. SALT Lead. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Want to #RemainInEU.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1151,
+			"friends_count": 1129,
+			"listed_count": 128,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 5621,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10662,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804635267994976256/j0AWAWoE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804635267994976256/j0AWAWoE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 828506590277955600,
+		"quoted_status_id_str": "828506590277955584",
+		"quoted_status": {
+			"created_at": "Mon Feb 06 07:32:18 +0000 2017",
+			"id": 828506590277955600,
+			"id_str": "828506590277955584",
+			"text": "#LTHEchat 75: Managing the Sophomore Slump, OR, how to Motivate Second Year Students as the… https://t.co/gXttRIFFav https://t.co/TnKuXsmauN",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTHEchat",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gXttRIFFav",
+						"expanded_url": "http://lthechat.com/2017/02/06/lthechat-75-managing-the-sophomore-slump-or-how-to-motivate-second-year-students-as-the-middle-child-of-the-higher-education-experience",
+						"display_url": "lthechat.com/2017/02/06/lth…",
+						"indices": [
+							93,
+							116
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 828506588092604400,
+						"id_str": "828506588092604416",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/C39yWi1UoAAExkc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C39yWi1UoAAExkc.jpg",
+						"url": "https://t.co/TnKuXsmauN",
+						"display_url": "pic.twitter.com/TnKuXsmauN",
+						"expanded_url": "https://twitter.com/LTHEchat/status/828506590277955584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 512,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 512,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 512,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 828506588092604400,
+						"id_str": "828506588092604416",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/C39yWi1UoAAExkc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C39yWi1UoAAExkc.jpg",
+						"url": "https://t.co/TnKuXsmauN",
+						"display_url": "pic.twitter.com/TnKuXsmauN",
+						"expanded_url": "https://twitter.com/LTHEchat/status/828506590277955584/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 512,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 512,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 512,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2659221798,
+				"id_str": "2659221798",
+				"name": "LTHE Tweetchat",
+				"screen_name": "LTHEchat",
+				"location": "",
+				"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+				"url": "https://t.co/IprE39BVnA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IprE39BVnA",
+								"expanded_url": "http://lthechat.com",
+								"display_url": "lthechat.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3092,
+				"friends_count": 2147,
+				"listed_count": 135,
+				"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+				"favourites_count": 1566,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5103,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+				"profile_link_color": "7ECAE6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 06 08:09:46 +0000 2017",
+		"id": 828516018595184600,
+		"id_str": "828516018595184640",
+		"text": "Read my Feb 6 'swan-uni-staff' Newsletter featuring “Why multilingualism is good for economic growth” https://t.co/ff6Uw4MSPR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ff6Uw4MSPR",
+					"expanded_url": "http://nzzl.us/vas1v1j",
+					"display_url": "nzzl.us/vas1v1j",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. SALT Lead. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Want to #RemainInEU.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1151,
+			"friends_count": 1129,
+			"listed_count": 128,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 5621,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10662,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804635267994976256/j0AWAWoE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804635267994976256/j0AWAWoE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 06 08:09:42 +0000 2017",
+		"id": 828515999800496100,
+		"id_str": "828515999800496128",
+		"text": "Read my Feb 6 Newsletter featuring “After 2 Weeks, Trump's Bungles Have Aides Rethinking Strategy” https://t.co/gl9RyEmVau",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gl9RyEmVau",
+					"expanded_url": "http://nzzl.us/gncIbvZ",
+					"display_url": "nzzl.us/gncIbvZ",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. SALT Lead. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Want to #RemainInEU.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1151,
+			"friends_count": 1129,
+			"listed_count": 128,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 5621,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10662,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804635267994976256/j0AWAWoE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804635267994976256/j0AWAWoE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Feb 06 07:56:41 +0000 2017",
+		"id": 828512723671666700,
+		"id_str": "828512723671666688",
+		"text": "Yes, Digital Literacy. But Which One? By @holden discussed with @bonni208 in #TIHEPC 138 https://t.co/UHBzOVz15d",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TIHEPC",
+					"indices": [
+						77,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "holden",
+					"name": "Mike Caulfield",
+					"id": 1912681,
+					"id_str": "1912681",
+					"indices": [
+						41,
+						48
+					]
+				},
+				{
+					"screen_name": "bonni208",
+					"name": "Bonni Stachowiak",
+					"id": 14777884,
+					"id_str": "14777884",
+					"indices": [
+						64,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UHBzOVz15d",
+					"expanded_url": "https://hapgood.us/2016/12/19/yes-digital-literacy-but-which-one/",
+					"display_url": "hapgood.us/2016/12/19/yes…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. SALT Lead. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Want to #RemainInEU.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1151,
+			"friends_count": 1129,
+			"listed_count": 128,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 5621,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10662,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804635267994976256/j0AWAWoE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804635267994976256/j0AWAWoE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Feb 05 08:10:03 +0000 2017",
 		"id": 828153702036930600,
 		"id_str": "828153702036930562",
