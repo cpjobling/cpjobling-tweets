@@ -1,6 +1,494 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Mon Jul 03 09:00:04 +0000 2017",
+		"id": 881799693893763100,
+		"id_str": "881799693893763072",
+		"text": "RT @noplacelikeHull: Amy Johnson from #Hull is on Google today #GoHull https://t.co/847FRLWVZQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Hull",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "GoHull",
+					"indices": [
+						63,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "noplacelikeHull",
+					"name": "No place like Hull .",
+					"id": 1183774512,
+					"id_str": "1183774512",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 881089358002102300,
+					"id_str": "881089358002102276",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DDpCGlcXoAQFKwM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDpCGlcXoAQFKwM.jpg",
+					"url": "https://t.co/847FRLWVZQ",
+					"display_url": "pic.twitter.com/847FRLWVZQ",
+					"expanded_url": "https://twitter.com/noplacelikeHull/status/881089361802129408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 540,
+							"h": 419,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 419,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 419,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 881089361802129400,
+					"source_status_id_str": "881089361802129408",
+					"source_user_id": 1183774512,
+					"source_user_id_str": "1183774512"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 881089358002102300,
+					"id_str": "881089358002102276",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DDpCGlcXoAQFKwM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DDpCGlcXoAQFKwM.jpg",
+					"url": "https://t.co/847FRLWVZQ",
+					"display_url": "pic.twitter.com/847FRLWVZQ",
+					"expanded_url": "https://twitter.com/noplacelikeHull/status/881089361802129408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 540,
+							"h": 419,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 540,
+							"h": 419,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 540,
+							"h": 419,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 881089361802129400,
+					"source_status_id_str": "881089361802129408",
+					"source_user_id": 1183774512,
+					"source_user_id_str": "1183774512"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. SALT Lead. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Proud to be one of the 48%.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1220,
+			"friends_count": 1164,
+			"listed_count": 132,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 6402,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12270,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804635267994976256/j0AWAWoE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804635267994976256/j0AWAWoE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 01 09:57:28 +0000 2017",
+			"id": 881089361802129400,
+			"id_str": "881089361802129408",
+			"text": "Amy Johnson from #Hull is on Google today #GoHull https://t.co/847FRLWVZQ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Hull",
+						"indices": [
+							17,
+							22
+						]
+					},
+					{
+						"text": "GoHull",
+						"indices": [
+							42,
+							49
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 881089358002102300,
+						"id_str": "881089358002102276",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DDpCGlcXoAQFKwM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDpCGlcXoAQFKwM.jpg",
+						"url": "https://t.co/847FRLWVZQ",
+						"display_url": "pic.twitter.com/847FRLWVZQ",
+						"expanded_url": "https://twitter.com/noplacelikeHull/status/881089361802129408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 540,
+								"h": 419,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 540,
+								"h": 419,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 540,
+								"h": 419,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 881089358002102300,
+						"id_str": "881089358002102276",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DDpCGlcXoAQFKwM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DDpCGlcXoAQFKwM.jpg",
+						"url": "https://t.co/847FRLWVZQ",
+						"display_url": "pic.twitter.com/847FRLWVZQ",
+						"expanded_url": "https://twitter.com/noplacelikeHull/status/881089361802129408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 540,
+								"h": 419,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 540,
+								"h": 419,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 540,
+								"h": 419,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1183774512,
+				"id_str": "1183774512",
+				"name": "No place like Hull .",
+				"screen_name": "noplacelikeHull",
+				"location": "",
+				"description": "Dorothy once said there's no place like home. How very true, we believe there's no place like Hull Est. 2012. 100% positivity around #Hull",
+				"url": "https://t.co/W2Ua0OGxKR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/W2Ua0OGxKR",
+								"expanded_url": "http://www.noplacelikehull.wordpress.com",
+								"display_url": "noplacelikehull.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5809,
+				"friends_count": 773,
+				"listed_count": 34,
+				"created_at": "Sat Feb 16 10:46:40 +0000 2013",
+				"favourites_count": 706,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2624,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000104923568/ddd43a73477f5015fb913957fb2c1d29.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000104923568/ddd43a73477f5015fb913957fb2c1d29.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3703710715/46c442925a3d3a9c90812ef70e6111e3_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3703710715/46c442925a3d3a9c90812ef70e6111e3_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1183774512/1487288754",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 37,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jul 03 07:13:21 +0000 2017",
+		"id": 881772837534666800,
+		"id_str": "881772837534666752",
+		"text": "Read my Jul 3 Newsletter featuring “Poll finds that 60% of Britons want to keep their EU citizenship” https://t.co/2Y20n2KtaN",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2Y20n2KtaN",
+					"expanded_url": "http://nzzl.us/fQysLsk",
+					"display_url": "nzzl.us/fQysLsk",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. SALT Lead. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Proud to be one of the 48%.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1220,
+			"friends_count": 1164,
+			"listed_count": 132,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 6402,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12270,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/804635267994976256/j0AWAWoE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/804635267994976256/j0AWAWoE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jul 02 07:12:49 +0000 2017",
 		"id": 881410313219956700,
 		"id_str": "881410313219956737",
