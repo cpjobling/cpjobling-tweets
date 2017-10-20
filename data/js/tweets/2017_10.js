@@ -1,6 +1,2175 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Thu Oct 19 18:46:03 +0000 2017",
+		"id": 921085049717645300,
+		"id_str": "921085049717645313",
+		"text": "RT @SUEngineering: We've been ranked in the World's Top 250 Engineering departments #THEunirankings https://t.co/C7GVilS98Q",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THEunirankings",
+					"indices": [
+						84,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SUEngineering",
+					"name": "Swansea Engineering",
+					"id": 154145391,
+					"id_str": "154145391",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 921028069489561600,
+					"id_str": "921028069489561602",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DMgmJj4W0AIF_aS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMgmJj4W0AIF_aS.jpg",
+					"url": "https://t.co/C7GVilS98Q",
+					"display_url": "pic.twitter.com/C7GVilS98Q",
+					"expanded_url": "https://twitter.com/SUEngineering/status/921028078700322816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921028078700322800,
+					"source_status_id_str": "921028078700322816",
+					"source_user_id": 154145391,
+					"source_user_id_str": "154145391"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 921028069489561600,
+					"id_str": "921028069489561602",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DMgmJj4W0AIF_aS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DMgmJj4W0AIF_aS.jpg",
+					"url": "https://t.co/C7GVilS98Q",
+					"display_url": "pic.twitter.com/C7GVilS98Q",
+					"expanded_url": "https://twitter.com/SUEngineering/status/921028078700322816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 921028078700322800,
+					"source_status_id_str": "921028078700322816",
+					"source_user_id": 154145391,
+					"source_user_id_str": "154145391"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Proud to be one of the 48%.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1307,
+			"friends_count": 1111,
+			"listed_count": 128,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 7887,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13770,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 19 14:59:40 +0000 2017",
+			"id": 921028078700322800,
+			"id_str": "921028078700322816",
+			"text": "We've been ranked in the World's Top 250 Engineering departments #THEunirankings https://t.co/C7GVilS98Q",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "THEunirankings",
+						"indices": [
+							65,
+							80
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 921028069489561600,
+						"id_str": "921028069489561602",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/DMgmJj4W0AIF_aS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMgmJj4W0AIF_aS.jpg",
+						"url": "https://t.co/C7GVilS98Q",
+						"display_url": "pic.twitter.com/C7GVilS98Q",
+						"expanded_url": "https://twitter.com/SUEngineering/status/921028078700322816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 921028069489561600,
+						"id_str": "921028069489561602",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/DMgmJj4W0AIF_aS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DMgmJj4W0AIF_aS.jpg",
+						"url": "https://t.co/C7GVilS98Q",
+						"display_url": "pic.twitter.com/C7GVilS98Q",
+						"expanded_url": "https://twitter.com/SUEngineering/status/921028078700322816/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 630,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 357,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 154145391,
+				"id_str": "154145391",
+				"name": "Swansea Engineering",
+				"screen_name": "SUEngineering",
+				"location": "Swansea University ",
+				"description": "Multi-disciplinary engineering department at @SwanseaUni. Follow to find out about our pioneering research and undergraduate/postgraduate opportunities!",
+				"url": "https://t.co/wdGdUrJPS1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wdGdUrJPS1",
+								"expanded_url": "http://www.swan.ac.uk/engineering",
+								"display_url": "swan.ac.uk/engineering",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2832,
+				"friends_count": 576,
+				"listed_count": 0,
+				"created_at": "Thu Jun 10 14:01:55 +0000 2010",
+				"favourites_count": 1510,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6097,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/274606578/a3.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/274606578/a3.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877844628908724224/95wzwHBO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877844628908724224/95wzwHBO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/154145391/1398245576",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 18,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 19 18:26:34 +0000 2017",
+		"id": 921080144973975600,
+		"id_str": "921080144973975555",
+		"text": "RT @SwanseaEEE: Susan Jones telling us about plan-do-check-act https://t.co/UFv4NY9mhW #IETwalesSouthWest @IETSouthWales",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IETwalesSouthWest",
+					"indices": [
+						87,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SwanseaEEE",
+					"name": "Swansea Uni EEE",
+					"id": 912778733345497100,
+					"id_str": "912778733345497088",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "IETSouthWales",
+					"name": "IET South Wales",
+					"id": 564949827,
+					"id_str": "564949827",
+					"indices": [
+						106,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UFv4NY9mhW",
+					"expanded_url": "https://en.m.wikipedia.org/wiki/PDCA",
+					"display_url": "en.m.wikipedia.org/wiki/PDCA",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Proud to be one of the 48%.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1307,
+			"friends_count": 1111,
+			"listed_count": 128,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 7887,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13770,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 19 18:20:25 +0000 2017",
+			"id": 921078598538354700,
+			"id_str": "921078598538354688",
+			"text": "Susan Jones telling us about plan-do-check-act https://t.co/UFv4NY9mhW #IETwalesSouthWest @IETSouthWales",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IETwalesSouthWest",
+						"indices": [
+							71,
+							89
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "IETSouthWales",
+						"name": "IET South Wales",
+						"id": 564949827,
+						"id_str": "564949827",
+						"indices": [
+							90,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/UFv4NY9mhW",
+						"expanded_url": "https://en.m.wikipedia.org/wiki/PDCA",
+						"display_url": "en.m.wikipedia.org/wiki/PDCA",
+						"indices": [
+							47,
+							70
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 912778733345497100,
+				"id_str": "912778733345497088",
+				"name": "Swansea Uni EEE",
+				"screen_name": "SwanseaEEE",
+				"location": "Swansea, Wales",
+				"description": "Electronic and Electrical Engineering at Swansea University",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11,
+				"friends_count": 19,
+				"listed_count": 0,
+				"created_at": "Tue Sep 26 20:39:43 +0000 2017",
+				"favourites_count": 31,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 81,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/912784290454413313/VrG1ptTX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/912784290454413313/VrG1ptTX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/912778733345497088/1506459872",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 19 18:26:27 +0000 2017",
+		"id": 921080118889603100,
+		"id_str": "921080118889603073",
+		"text": "RT @SwanseaEEE: Susan Jones: “Risk management and improvement are key themes in standards” #IETwalesSouthWest @IETSouthWales",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IETwalesSouthWest",
+					"indices": [
+						91,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SwanseaEEE",
+					"name": "Swansea Uni EEE",
+					"id": 912778733345497100,
+					"id_str": "912778733345497088",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "IETSouthWales",
+					"name": "IET South Wales",
+					"id": 564949827,
+					"id_str": "564949827",
+					"indices": [
+						110,
+						124
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Proud to be one of the 48%.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1307,
+			"friends_count": 1111,
+			"listed_count": 128,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 7887,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13770,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 19 18:16:34 +0000 2017",
+			"id": 921077630492971000,
+			"id_str": "921077630492971010",
+			"text": "Susan Jones: “Risk management and improvement are key themes in standards” #IETwalesSouthWest @IETSouthWales",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IETwalesSouthWest",
+						"indices": [
+							75,
+							93
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "IETSouthWales",
+						"name": "IET South Wales",
+						"id": 564949827,
+						"id_str": "564949827",
+						"indices": [
+							94,
+							108
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 912778733345497100,
+				"id_str": "912778733345497088",
+				"name": "Swansea Uni EEE",
+				"screen_name": "SwanseaEEE",
+				"location": "Swansea, Wales",
+				"description": "Electronic and Electrical Engineering at Swansea University",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11,
+				"friends_count": 19,
+				"listed_count": 0,
+				"created_at": "Tue Sep 26 20:39:43 +0000 2017",
+				"favourites_count": 31,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 81,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/912784290454413313/VrG1ptTX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/912784290454413313/VrG1ptTX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/912778733345497088/1506459872",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 19 18:26:16 +0000 2017",
+		"id": 921080072571965400,
+		"id_str": "921080072571965441",
+		"text": "RT @SwanseaEEE: Susan Jones “We’re engineers because superhero isn’t an official job title” #IETwalesSouthWest @IETSouthWales",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IETwalesSouthWest",
+					"indices": [
+						92,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SwanseaEEE",
+					"name": "Swansea Uni EEE",
+					"id": 912778733345497100,
+					"id_str": "912778733345497088",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "IETSouthWales",
+					"name": "IET South Wales",
+					"id": 564949827,
+					"id_str": "564949827",
+					"indices": [
+						111,
+						125
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Proud to be one of the 48%.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1307,
+			"friends_count": 1111,
+			"listed_count": 128,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 7887,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13770,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 19 18:14:15 +0000 2017",
+			"id": 921077045806944300,
+			"id_str": "921077045806944256",
+			"text": "Susan Jones “We’re engineers because superhero isn’t an official job title” #IETwalesSouthWest @IETSouthWales",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IETwalesSouthWest",
+						"indices": [
+							76,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "IETSouthWales",
+						"name": "IET South Wales",
+						"id": 564949827,
+						"id_str": "564949827",
+						"indices": [
+							95,
+							109
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 912778733345497100,
+				"id_str": "912778733345497088",
+				"name": "Swansea Uni EEE",
+				"screen_name": "SwanseaEEE",
+				"location": "Swansea, Wales",
+				"description": "Electronic and Electrical Engineering at Swansea University",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11,
+				"friends_count": 19,
+				"listed_count": 0,
+				"created_at": "Tue Sep 26 20:39:43 +0000 2017",
+				"favourites_count": 31,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 81,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/912784290454413313/VrG1ptTX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/912784290454413313/VrG1ptTX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/912778733345497088/1506459872",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 19 18:26:10 +0000 2017",
+		"id": 921080045325750300,
+		"id_str": "921080045325750278",
+		"text": "RT @SwanseaEEE: We will be tweeting from the first #IETwalesSouthWest Lecture of 2017-18 @IETSouthWales season - Susan Jones on Problem Sol…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IETwalesSouthWest",
+					"indices": [
+						51,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SwanseaEEE",
+					"name": "Swansea Uni EEE",
+					"id": 912778733345497100,
+					"id_str": "912778733345497088",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "IETSouthWales",
+					"name": "IET South Wales",
+					"id": 564949827,
+					"id_str": "564949827",
+					"indices": [
+						89,
+						103
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Proud to be one of the 48%.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1307,
+			"friends_count": 1111,
+			"listed_count": 128,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 7887,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13770,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Oct 19 18:07:29 +0000 2017",
+			"id": 921075342277824500,
+			"id_str": "921075342277824518",
+			"text": "We will be tweeting from the first #IETwalesSouthWest Lecture of 2017-18 @IETSouthWales season - Susan Jones on Pro… https://t.co/h3t4BYbgW6",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IETwalesSouthWest",
+						"indices": [
+							35,
+							53
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "IETSouthWales",
+						"name": "IET South Wales",
+						"id": 564949827,
+						"id_str": "564949827",
+						"indices": [
+							73,
+							87
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/h3t4BYbgW6",
+						"expanded_url": "https://twitter.com/i/web/status/921075342277824518",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 912778733345497100,
+				"id_str": "912778733345497088",
+				"name": "Swansea Uni EEE",
+				"screen_name": "SwanseaEEE",
+				"location": "Swansea, Wales",
+				"description": "Electronic and Electrical Engineering at Swansea University",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11,
+				"friends_count": 19,
+				"listed_count": 0,
+				"created_at": "Tue Sep 26 20:39:43 +0000 2017",
+				"favourites_count": 31,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 81,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/912784290454413313/VrG1ptTX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/912784290454413313/VrG1ptTX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/912778733345497088/1506459872",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 19 17:13:47 +0000 2017",
+		"id": 921061830843359200,
+		"id_str": "921061830843359232",
+		"text": "@suewatling @JennyLewinJones @chrisowen1711 @scottturneruon Check out your profile page on twitter. Moments is thir… https://t.co/TKPlfAolbp",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "JennyLewinJones",
+					"name": "Jenny Lewin-Jones",
+					"id": 1484808264,
+					"id_str": "1484808264",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"screen_name": "chrisowen1711",
+					"name": "Chris Owen",
+					"id": 1954066338,
+					"id_str": "1954066338",
+					"indices": [
+						29,
+						43
+					]
+				},
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						44,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TKPlfAolbp",
+					"expanded_url": "https://twitter.com/i/web/status/921061830843359232",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 920988469266174000,
+		"in_reply_to_status_id_str": "920988469266173953",
+		"in_reply_to_user_id": 14897464,
+		"in_reply_to_user_id_str": "14897464",
+		"in_reply_to_screen_name": "suewatling",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Proud to be one of the 48%.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1307,
+			"friends_count": 1111,
+			"listed_count": 128,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 7887,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13770,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 19 09:25:20 +0000 2017",
+		"id": 920943939091394600,
+		"id_str": "920943939091394560",
+		"text": "@suewatling @JennyLewinJones @chrisowen1711 @scottturneruon P.s. I wasn’t present in last night’s #LTHEChat either!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						98,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "JennyLewinJones",
+					"name": "Jenny Lewin-Jones",
+					"id": 1484808264,
+					"id_str": "1484808264",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"screen_name": "chrisowen1711",
+					"name": "Chris Owen",
+					"id": 1954066338,
+					"id_str": "1954066338",
+					"indices": [
+						29,
+						43
+					]
+				},
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						44,
+						59
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 920943630088589300,
+		"in_reply_to_status_id_str": "920943630088589313",
+		"in_reply_to_user_id": 4229341,
+		"in_reply_to_user_id_str": "4229341",
+		"in_reply_to_screen_name": "cpjobling",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Proud to be one of the 48%.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1307,
+			"friends_count": 1111,
+			"listed_count": 128,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 7887,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13770,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 19 09:24:06 +0000 2017",
+		"id": 920943630088589300,
+		"id_str": "920943630088589313",
+		"text": "@suewatling @JennyLewinJones @chrisowen1711 @scottturneruon Mining for gold in #lthechat requires human editorial effort I think.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lthechat",
+					"indices": [
+						79,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "JennyLewinJones",
+					"name": "Jenny Lewin-Jones",
+					"id": 1484808264,
+					"id_str": "1484808264",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"screen_name": "chrisowen1711",
+					"name": "Chris Owen",
+					"id": 1954066338,
+					"id_str": "1954066338",
+					"indices": [
+						29,
+						43
+					]
+				},
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						44,
+						59
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 920943342615179300,
+		"in_reply_to_status_id_str": "920943342615179264",
+		"in_reply_to_user_id": 4229341,
+		"in_reply_to_user_id_str": "4229341",
+		"in_reply_to_screen_name": "cpjobling",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Proud to be one of the 48%.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1307,
+			"friends_count": 1111,
+			"listed_count": 128,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 7887,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13770,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 19 09:22:57 +0000 2017",
+		"id": 920943342615179300,
+		"id_str": "920943342615179264",
+		"text": "@suewatling @JennyLewinJones @chrisowen1711 @scottturneruon Twitter moments would be good if they could capture con… https://t.co/mh86b0KIJu",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "JennyLewinJones",
+					"name": "Jenny Lewin-Jones",
+					"id": 1484808264,
+					"id_str": "1484808264",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"screen_name": "chrisowen1711",
+					"name": "Chris Owen",
+					"id": 1954066338,
+					"id_str": "1954066338",
+					"indices": [
+						29,
+						43
+					]
+				},
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						44,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mh86b0KIJu",
+					"expanded_url": "https://twitter.com/i/web/status/920943342615179264",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 920942742825590800,
+		"in_reply_to_status_id_str": "920942742825590784",
+		"in_reply_to_user_id": 4229341,
+		"in_reply_to_user_id_str": "4229341",
+		"in_reply_to_screen_name": "cpjobling",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Proud to be one of the 48%.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1307,
+			"friends_count": 1111,
+			"listed_count": 128,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 7887,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13770,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 19 09:20:34 +0000 2017",
+		"id": 920942742825590800,
+		"id_str": "920942742825590784",
+		"text": "@suewatling @JennyLewinJones @chrisowen1711 @scottturneruon If a TAGexplorer was made you could use the data to sur… https://t.co/NXwfW00MCU",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suewatling",
+					"name": "Sue Watling",
+					"id": 14897464,
+					"id_str": "14897464",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "JennyLewinJones",
+					"name": "Jenny Lewin-Jones",
+					"id": 1484808264,
+					"id_str": "1484808264",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"screen_name": "chrisowen1711",
+					"name": "Chris Owen",
+					"id": 1954066338,
+					"id_str": "1954066338",
+					"indices": [
+						29,
+						43
+					]
+				},
+				{
+					"screen_name": "scottturneruon",
+					"name": "Dr Scott Turner",
+					"id": 56366858,
+					"id_str": "56366858",
+					"indices": [
+						44,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NXwfW00MCU",
+					"expanded_url": "https://twitter.com/i/web/status/920942742825590784",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 920893534160457700,
+		"in_reply_to_status_id_str": "920893534160457728",
+		"in_reply_to_user_id": 14897464,
+		"in_reply_to_user_id_str": "14897464",
+		"in_reply_to_screen_name": "suewatling",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Proud to be one of the 48%.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1307,
+			"friends_count": 1111,
+			"listed_count": 128,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 7887,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13770,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 19 07:09:08 +0000 2017",
+		"id": 920909664975491100,
+		"id_str": "920909664975491072",
+		"text": "Read the Oct 19 Newsletter curated by my PLN featuring “Blended learning approach to problem based learning” https://t.co/4tXwiNuJ8I",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4tXwiNuJ8I",
+					"expanded_url": "http://nzzl.us/0uXM6qm",
+					"display_url": "nzzl.us/0uXM6qm",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Proud to be one of the 48%.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1307,
+			"friends_count": 1111,
+			"listed_count": 128,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 7887,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13770,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Oct 19 07:09:05 +0000 2017",
+		"id": 920909650903666700,
+		"id_str": "920909650903666688",
+		"text": "Read my Oct 19 'swan-uni-staff' Newsletter featuring “'No-deal' Brexit likely to hit low-income families hardest” https://t.co/UhsrqP6ORo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UhsrqP6ORo",
+					"expanded_url": "http://nzzl.us/Y3vK9Xw",
+					"display_url": "nzzl.us/Y3vK9Xw",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Proud to be one of the 48%.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1307,
+			"friends_count": 1111,
+			"listed_count": 128,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 7887,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13770,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 18 16:09:03 +0000 2017",
 		"id": 920683153689374700,
 		"id_str": "920683153689374720",
