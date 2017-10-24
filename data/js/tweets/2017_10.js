@@ -1,6 +1,711 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Mon Oct 23 18:23:09 +0000 2017",
+		"id": 922528838713860100,
+		"id_str": "922528838713860097",
+		"text": "@HoodedScientist Congratulations Myrto",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HoodedScientist",
+					"name": "Myrto P. Zacharof",
+					"id": 404399284,
+					"id_str": "404399284",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 922388769562681300,
+		"in_reply_to_status_id_str": "922388769562681344",
+		"in_reply_to_user_id": 404399284,
+		"in_reply_to_user_id_str": "404399284",
+		"in_reply_to_screen_name": "HoodedScientist",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Proud to be one of the 48%.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1307,
+			"friends_count": 1111,
+			"listed_count": 128,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 7896,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13782,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl"
+	},
+	{
+		"created_at": "Mon Oct 23 18:12:33 +0000 2017",
+		"id": 922526172881268700,
+		"id_str": "922526172881268743",
+		"text": "RT @HEASTEM: Heads up for next #HEAchat #LTHEchat Thought provoking blog on ensuring effective interaction w/in diverse cohorts https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HEAchat",
+					"indices": [
+						31,
+						39
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						40,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HEASTEM",
+					"name": "HEA STEM",
+					"id": 576011356,
+					"id_str": "576011356",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Proud to be one of the 48%.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1307,
+			"friends_count": 1111,
+			"listed_count": 128,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 7896,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13782,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 20 09:13:23 +0000 2017",
+			"id": 921303323541753900,
+			"id_str": "921303323541753856",
+			"text": "Heads up for next #HEAchat #LTHEchat Thought provoking blog on ensuring effective interaction w/in diverse cohorts https://t.co/VC4cPHTW22 …",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HEAchat",
+						"indices": [
+							18,
+							26
+						]
+					},
+					{
+						"text": "LTHEchat",
+						"indices": [
+							27,
+							36
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VC4cPHTW22",
+						"expanded_url": "https://www.heacademy.ac.uk/blog/why-should-we-design-student-interactions-diverse-cohorts-our-learning-and-teaching",
+						"display_url": "heacademy.ac.uk/blog/why-shoul…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 576011356,
+				"id_str": "576011356",
+				"name": "HEA STEM",
+				"screen_name": "HEASTEM",
+				"location": "",
+				"description": "",
+				"url": "http://t.co/nEfcHxuL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/nEfcHxuL",
+								"expanded_url": "http://www.heacademy.ac.uk/stem",
+								"display_url": "heacademy.ac.uk/stem",
+								"indices": [
+									0,
+									20
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1136,
+				"friends_count": 491,
+				"listed_count": 69,
+				"created_at": "Thu May 10 06:53:50 +0000 2012",
+				"favourites_count": 404,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2596,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/657197860274860032/NhqCDv7b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/657197860274860032/NhqCDv7b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/576011356/1445523113",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Oct 23 17:59:01 +0000 2017",
+		"id": 922522766615728100,
+		"id_str": "922522766615728128",
+		"text": "RT @simonrae: Wed ⏰\n#LTHEchat @LTHEchat plus @HEA_chat #HEAchat\n\non designing interaction for diverse cohorts\n\nhttps://t.co/A2yf8AxQ1b http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						20,
+						29
+					]
+				},
+				{
+					"text": "HEAchat",
+					"indices": [
+						55,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "simonrae",
+					"name": "Simon Rae",
+					"id": 48292696,
+					"id_str": "48292696",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"screen_name": "HEA_chat",
+					"name": "#HEAchat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						45,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/A2yf8AxQ1b",
+					"expanded_url": "https://www.heacademy.ac.uk/blog/why-should-we-design-student-interactions-diverse-cohorts-our-learning-and-teaching",
+					"display_url": "heacademy.ac.uk/blog/why-shoul…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Proud to be one of the 48%.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1307,
+			"friends_count": 1111,
+			"listed_count": 128,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 7896,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13782,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 21 21:48:38 +0000 2017",
+			"id": 921855773701009400,
+			"id_str": "921855773701009408",
+			"text": "Wed ⏰\n#LTHEchat @LTHEchat plus @HEA_chat #HEAchat\n\non designing interaction for diverse cohorts… https://t.co/HQpUPZfadp",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTHEchat",
+						"indices": [
+							6,
+							15
+						]
+					},
+					{
+						"text": "HEAchat",
+						"indices": [
+							41,
+							49
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LTHEchat",
+						"name": "LTHE Tweetchat",
+						"id": 2659221798,
+						"id_str": "2659221798",
+						"indices": [
+							16,
+							25
+						]
+					},
+					{
+						"screen_name": "HEA_chat",
+						"name": "#HEAchat",
+						"id": 3726587775,
+						"id_str": "3726587775",
+						"indices": [
+							31,
+							40
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/HQpUPZfadp",
+						"expanded_url": "https://twitter.com/i/web/status/921855773701009408",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							97,
+							120
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 48292696,
+				"id_str": "48292696",
+				"name": "Simon Rae",
+				"screen_name": "simonrae",
+				"location": "Milton Keynes",
+				"description": "retired Lecturer in Professional Development now doing cartoons doodles and drawings for pleasure or requests…also holder of the #LTHEchat Golden Tweeter Award",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 853,
+				"friends_count": 760,
+				"listed_count": 69,
+				"created_at": "Thu Jun 18 08:46:23 +0000 2009",
+				"favourites_count": 3139,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7692,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DDF0E7",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/205096465/Sewells_16-11-1940.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/205096465/Sewells_16-11-1940.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/616003602117750785/qKNwKfJN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/616003602117750785/qKNwKfJN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/48292696/1484765473",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "072430",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 8,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Oct 23 07:08:34 +0000 2017",
+		"id": 922359072103587800,
+		"id_str": "922359072103587840",
+		"text": "Read the Oct 23 Newsletter curated by my PLN featuring “Why should we design student interactions for diverse…” https://t.co/S75UbzWa3T",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S75UbzWa3T",
+					"expanded_url": "http://nzzl.us/InGNVbq",
+					"display_url": "nzzl.us/InGNVbq",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Proud to be one of the 48%.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1307,
+			"friends_count": 1111,
+			"listed_count": 128,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 7896,
+			"utc_offset": -25200,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13782,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920609517846585344/zyiQ4waV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Oct 22 07:08:15 +0000 2017",
 		"id": 921996606827876400,
 		"id_str": "921996606827876352",
