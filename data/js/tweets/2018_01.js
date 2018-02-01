@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2018_01 = 
 [
 	{
+		"created_at": "Wed Jan 31 21:05:40 +0000 2018",
+		"id": 958808523479158800,
+		"id_str": "958808523479158787",
+		"text": "@neiledtech @alexgspiers @neilwithnell @mhawksey @sheilmcn Worth giving it a try for an #LTHEchat.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						88,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "neiledtech",
+					"name": "Neil Cocklin",
+					"id": 912806244099948500,
+					"id_str": "912806244099948545",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "alexgspiers",
+					"name": "Alex Spiers",
+					"id": 1056578767,
+					"id_str": "1056578767",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"screen_name": "neilwithnell",
+					"name": "Neil Withnell",
+					"id": 249686528,
+					"id_str": "249686528",
+					"indices": [
+						25,
+						38
+					]
+				},
+				{
+					"screen_name": "mhawksey",
+					"name": "Martin Hawksey",
+					"id": 13046992,
+					"id_str": "13046992",
+					"indices": [
+						39,
+						48
+					]
+				},
+				{
+					"screen_name": "sheilmcn",
+					"name": "Sheila MacNeill",
+					"id": 4013641,
+					"id_str": "4013641",
+					"indices": [
+						49,
+						58
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 958058483064197100,
+		"in_reply_to_status_id_str": "958058483064197120",
+		"in_reply_to_user_id": 912806244099948500,
+		"in_reply_to_user_id_str": "912806244099948545",
+		"in_reply_to_screen_name": "neiledtech",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Proud to be one of the 48%.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1373,
+			"friends_count": 1123,
+			"listed_count": 130,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 8848,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957688106349711362/S_CCEFCA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957688106349711362/S_CCEFCA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 31 08:13:05 +0000 2018",
+		"id": 958614094793400300,
+		"id_str": "958614094793400320",
+		"text": "Read my Jan 31 'swan-uni-staff' Newsletter featuring “Undergraduate Open Days” https://t.co/1ttQA6AULE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1ttQA6AULE",
+					"expanded_url": "http://nzzl.us/uwjW4wu",
+					"display_url": "nzzl.us/uwjW4wu",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Proud to be one of the 48%.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1373,
+			"friends_count": 1123,
+			"listed_count": 130,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 8848,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957688106349711362/S_CCEFCA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957688106349711362/S_CCEFCA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jan 31 08:13:03 +0000 2018",
+		"id": 958614088225034200,
+		"id_str": "958614088225034240",
+		"text": "Read the Jan 31 Newsletter curated by my PLN featuring “Your photos can be used in 'catfishing' romance scams” https://t.co/476nil3FLY",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/476nil3FLY",
+					"expanded_url": "http://nzzl.us/fF0OVld",
+					"display_url": "nzzl.us/fF0OVld",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat, #SU7DoT and #BYOD4L. Volunteer and Member of @theiet. Proud to be one of the 48%.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1373,
+			"friends_count": 1123,
+			"listed_count": 130,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 8848,
+			"utc_offset": -28800,
+			"time_zone": "Pacific Time (US & Canada)",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15056,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957688106349711362/S_CCEFCA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957688106349711362/S_CCEFCA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jan 30 08:11:00 +0000 2018",
 		"id": 958251185630318600,
 		"id_str": "958251185630318593",
