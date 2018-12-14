@@ -1,6 +1,825 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 13 10:35:11 +0000 2018",
+		"id": 1073164421273399300,
+		"id_str": "1073164421273399296",
+		"full_text": "Reasons to be at #SocMedHE18 Number 125: This Keynote!!! \"Community, equality, openness–a keynote in three hashtags by @MarenDeepwell. This talk is going to focus on how we use social media and technology for teaching, learning and assessment by exploring three critical themes\" https://t.co/LdhFradJdH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SocMedHE18",
+					"indices": [
+						17,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						119,
+						133
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1073163615384019000,
+					"id_str": "1073163615384018945",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DuSkn1DWoAEPgzW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuSkn1DWoAEPgzW.jpg",
+					"url": "https://t.co/LdhFradJdH",
+					"display_url": "pic.twitter.com/LdhFradJdH",
+					"expanded_url": "https://twitter.com/SocMedHE/status/1073164421273399296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1073163615384019000,
+					"id_str": "1073163615384018945",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DuSkn1DWoAEPgzW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuSkn1DWoAEPgzW.jpg",
+					"url": "https://t.co/LdhFradJdH",
+					"display_url": "pic.twitter.com/LdhFradJdH",
+					"expanded_url": "https://twitter.com/SocMedHE/status/1073164421273399296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3346395670,
+			"id_str": "3346395670",
+			"name": "@SocMedHE",
+			"screen_name": "SocMedHE",
+			"location": "Nottingham, England",
+			"description": "The Social Media for Learning in Higher Ed Event. Join us 9th January 2019 at @TrentUni #SocMedHE18 \nTweets by @RKChallen @horrocks_simon @suebecks",
+			"url": "https://t.co/jwYPKkAERp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jwYPKkAERp",
+							"expanded_url": "https://socmedhe18.wordpress.com/",
+							"display_url": "socmedhe18.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1234,
+			"friends_count": 1425,
+			"listed_count": 63,
+			"created_at": "Fri Jun 26 08:20:41 +0000 2015",
+			"favourites_count": 1930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1708,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059925392130236422/d3FujkpR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059925392130236422/d3FujkpR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3346395670/1541575058",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reasons to be at #SocMedHE18 Number 125: This Keynote!!! \"Community, equality, openness–a keynote in three hashtags by @MarenDeepwell. This talk is going to focus on how we use social media and technology for teaching, learning and assessment by exploring three critical themes\" https://t.co/LdhFradJdH"
+	},
+	{
+		"created_at": "Thu Dec 13 12:41:22 +0000 2018",
+		"id": 1073196179037610000,
+		"id_str": "1073196179037609985",
+		"full_text": "Registered and booked travel and hotel for #SocMedHE18. Who do I contact to reserve a place at the Ye Olde Trip to Jerusalem?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SocMedHE18",
+					"indices": [
+						43,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1478,
+			"friends_count": 1185,
+			"listed_count": 133,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 9893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17132,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Registered and booked travel and hotel for #SocMedHE18. Who do I contact to reserve a place at the Ye Olde Trip to Jerusalem?"
+	},
+	{
+		"created_at": "Thu Dec 13 11:59:39 +0000 2018",
+		"id": 1073185680614981600,
+		"id_str": "1073185680614981633",
+		"full_text": "@santanuvasant @AdvanceHE @1PamParker @squinsee @CityUniLEaD @BrunelLearnTech @JuliaStephenson @r_a_knight @nealsumner Congratulations! \"Apply for #SFHEA\" has been on my \"to do one day\" list for a while too!\n\nWas it worth it?",
+		"truncated": false,
+		"display_text_range": [
+			119,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SFHEA",
+					"indices": [
+						147,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "santanuvasant",
+					"name": "Santanu Vasant",
+					"id": 23588538,
+					"id_str": "23588538",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "AdvanceHE",
+					"name": "Advance HE",
+					"id": 941587234465177600,
+					"id_str": "941587234465177600",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "1PamParker",
+					"name": "Pam Parker",
+					"id": 21387507,
+					"id_str": "21387507",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "squinsee",
+					"name": "Susannah Quinsee",
+					"id": 14139503,
+					"id_str": "14139503",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"screen_name": "CityUniLEaD",
+					"name": "City Uni LEaD",
+					"id": 118827531,
+					"id_str": "118827531",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"screen_name": "BrunelLearnTech",
+					"name": "Digital Education at Brunel",
+					"id": 274912795,
+					"id_str": "274912795",
+					"indices": [
+						61,
+						77
+					]
+				},
+				{
+					"screen_name": "JuliaStephenson",
+					"name": "JuliaStephenson",
+					"id": 14465531,
+					"id_str": "14465531",
+					"indices": [
+						78,
+						94
+					]
+				},
+				{
+					"screen_name": "r_a_knight",
+					"name": "Rachael-Anne Knight",
+					"id": 336987120,
+					"id_str": "336987120",
+					"indices": [
+						95,
+						106
+					]
+				},
+				{
+					"screen_name": "nealsumner",
+					"name": "neal sumner",
+					"id": 47573919,
+					"id_str": "47573919",
+					"indices": [
+						107,
+						118
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1073154709110906900,
+		"in_reply_to_status_id_str": "1073154709110906882",
+		"in_reply_to_user_id": 23588538,
+		"in_reply_to_user_id_str": "23588538",
+		"in_reply_to_screen_name": "santanuvasant",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1478,
+			"friends_count": 1185,
+			"listed_count": 133,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 9893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17132,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@santanuvasant @AdvanceHE @1PamParker @squinsee @CityUniLEaD @BrunelLearnTech @JuliaStephenson @r_a_knight @nealsumner Congratulations! \"Apply for #SFHEA\" has been on my \"to do one day\" list for a while too!\n\nWas it worth it?"
+	},
+	{
+		"created_at": "Thu Dec 13 08:42:19 +0000 2018",
+		"id": 1073136020273664000,
+		"id_str": "1073136020273664000",
+		"full_text": "Read the Dec 13 Newsletter curated by my PLN featuring “Jisc and Eduserv to merge and form UK public sector…” https://t.co/TgUX78OWh3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TgUX78OWh3",
+					"expanded_url": "https://nzzl.us/BE6iM0l",
+					"display_url": "nzzl.us/BE6iM0l",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1478,
+			"friends_count": 1185,
+			"listed_count": 133,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 9893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17132,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Dec 13 Newsletter curated by my PLN featuring “Jisc and Eduserv to merge and form UK public sector…” https://t.co/TgUX78OWh3"
+	},
+	{
+		"created_at": "Thu Dec 13 08:42:17 +0000 2018",
+		"id": 1073136010303848400,
+		"id_str": "1073136010303848448",
+		"full_text": "Read my Dec 13 'swan-uni-staff' Newsletter featuring “Tory MPs trigger vote of no confidence in May amid Brexit…” https://t.co/pO8PGESSTW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pO8PGESSTW",
+					"expanded_url": "https://nzzl.us/JTyGrVL",
+					"display_url": "nzzl.us/JTyGrVL",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1478,
+			"friends_count": 1185,
+			"listed_count": 133,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 9893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17132,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Dec 13 'swan-uni-staff' Newsletter featuring “Tory MPs trigger vote of no confidence in May amid Brexit…” https://t.co/pO8PGESSTW"
+	},
+	{
+		"created_at": "Thu Dec 13 07:28:25 +0000 2018",
+		"id": 1073117422000005100,
+		"id_str": "1073117422000005120",
+		"full_text": "@srowett The tweet was supposed to have been sent at 11 AM rather than PM! The recording is now available but the link is now: https://t.co/lnmWnPwhPP",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "srowett",
+					"name": "Steve Rowett",
+					"id": 351707332,
+					"id_str": "351707332",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lnmWnPwhPP",
+					"expanded_url": "https://eu.bbcollab.com/recording/6cf7bbfa27894153b26e94078188539f",
+					"display_url": "eu.bbcollab.com/recording/6cf7…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1072988554928816100,
+		"in_reply_to_status_id_str": "1072988554928816128",
+		"in_reply_to_user_id": 351707332,
+		"in_reply_to_user_id_str": "351707332",
+		"in_reply_to_screen_name": "srowett",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1478,
+			"friends_count": 1185,
+			"listed_count": 133,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 9893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17132,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@srowett The tweet was supposed to have been sent at 11 AM rather than PM! The recording is now available but the link is now: https://t.co/lnmWnPwhPP"
+	},
+	{
 		"created_at": "Wed Dec 12 22:55:18 +0000 2018",
 		"id": 1072988292814131200,
 		"id_str": "1072988292814131200",
