@@ -1,6 +1,1420 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 20 11:26:57 +0000 2018",
+		"id": 1075714165719875600,
+		"id_str": "1075714165719875584",
+		"full_text": "@Gatwick_Airport would you care to review your communications? This is what your own app says https://t.co/f3i4CDos3x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gatwick_Airport",
+					"name": "Gatwick Airport LGW",
+					"id": 33875003,
+					"id_str": "33875003",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1075714158279172100,
+					"id_str": "1075714158279172097",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/Du20U9wWoAEDh1e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du20U9wWoAEDh1e.jpg",
+					"url": "https://t.co/f3i4CDos3x",
+					"display_url": "pic.twitter.com/f3i4CDos3x",
+					"expanded_url": "https://twitter.com/cpjobling/status/1075714165719875584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 473,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 473,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075714158279172100,
+					"id_str": "1075714158279172097",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/Du20U9wWoAEDh1e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du20U9wWoAEDh1e.jpg",
+					"url": "https://t.co/f3i4CDos3x",
+					"display_url": "pic.twitter.com/f3i4CDos3x",
+					"expanded_url": "https://twitter.com/cpjobling/status/1075714165719875584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 473,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 473,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 33875003,
+		"in_reply_to_user_id_str": "33875003",
+		"in_reply_to_screen_name": "Gatwick_Airport",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1478,
+			"friends_count": 1186,
+			"listed_count": 133,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 9916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17176,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Gatwick_Airport would you care to review your communications? This is what your own app says https://t.co/f3i4CDos3x"
+	},
+	{
+		"created_at": "Thu Dec 20 10:15:54 +0000 2018",
+		"id": 1075696285968146400,
+		"id_str": "1075696285968146433",
+		"full_text": "@Gatwick_Airport @_AnaCapucho The airlines don’t seem to be any better informed than @Gatwick_Airport. Surely someone has definitive information that can shared. Whose benefit does it serve keeping passengers in the dark?",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gatwick_Airport",
+					"name": "Gatwick Airport LGW",
+					"id": 33875003,
+					"id_str": "33875003",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "_AnaCapucho",
+					"name": "Ana Capucho",
+					"id": 824269300622094300,
+					"id_str": "824269300622094342",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"screen_name": "Gatwick_Airport",
+					"name": "Gatwick Airport LGW",
+					"id": 33875003,
+					"id_str": "33875003",
+					"indices": [
+						85,
+						101
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1075694798638604300,
+		"in_reply_to_status_id_str": "1075694798638604288",
+		"in_reply_to_user_id": 33875003,
+		"in_reply_to_user_id_str": "33875003",
+		"in_reply_to_screen_name": "Gatwick_Airport",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1478,
+			"friends_count": 1186,
+			"listed_count": 133,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 9916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17176,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Gatwick_Airport @_AnaCapucho The airlines don’t seem to be any better informed than @Gatwick_Airport. Surely someone has definitive information that can shared. Whose benefit does it serve keeping passengers in the dark?"
+	},
+	{
+		"created_at": "Thu Dec 20 08:18:38 +0000 2018",
+		"id": 1075666772907475000,
+		"id_str": "1075666772907474944",
+		"full_text": "Read my Dec 20 'swan-uni-staff' Newsletter featuring “Being called a mumpreneur is patronising” https://t.co/3yivExJm0a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3yivExJm0a",
+					"expanded_url": "https://nzzl.us/JBoLS1U",
+					"display_url": "nzzl.us/JBoLS1U",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1478,
+			"friends_count": 1186,
+			"listed_count": 133,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 9916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17176,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Dec 20 'swan-uni-staff' Newsletter featuring “Being called a mumpreneur is patronising” https://t.co/3yivExJm0a"
+	},
+	{
+		"created_at": "Thu Dec 20 08:18:31 +0000 2018",
+		"id": 1075666746579783700,
+		"id_str": "1075666746579783681",
+		"full_text": "Read the Dec 20 Newsletter curated by my PLN featuring “As Facebook Raised a Privacy Wall, It Carved an Opening…” https://t.co/kEf2WXb4RK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kEf2WXb4RK",
+					"expanded_url": "https://nzzl.us/KlY2RBC",
+					"display_url": "nzzl.us/KlY2RBC",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1478,
+			"friends_count": 1186,
+			"listed_count": 133,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 9916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17176,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Dec 20 Newsletter curated by my PLN featuring “As Facebook Raised a Privacy Wall, It Carved an Opening…” https://t.co/kEf2WXb4RK"
+	},
+	{
+		"created_at": "Thu Dec 20 05:51:16 +0000 2018",
+		"id": 1075629688477896700,
+		"id_str": "1075629688477896704",
+		"full_text": ".@Gatwick_Airport why tell people to go to airline desk when airline desk has no information? #shambles",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "shambles",
+					"indices": [
+						94,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gatwick_Airport",
+					"name": "Gatwick Airport LGW",
+					"id": 33875003,
+					"id_str": "33875003",
+					"indices": [
+						1,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1478,
+			"friends_count": 1186,
+			"listed_count": 133,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 9916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17176,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": ".@Gatwick_Airport why tell people to go to airline desk when airline desk has no information? #shambles"
+	},
+	{
+		"created_at": "Thu Dec 20 05:12:07 +0000 2018",
+		"id": 1075619836447940600,
+		"id_str": "1075619836447940609",
+		"full_text": ".@Gatwick_Airport why aren't you showing Norwegian D82410 6:00 am as cancelled when the airline has told us that it is?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gatwick_Airport",
+					"name": "Gatwick Airport LGW",
+					"id": 33875003,
+					"id_str": "33875003",
+					"indices": [
+						1,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1478,
+			"friends_count": 1186,
+			"listed_count": 133,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 9916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17176,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": ".@Gatwick_Airport why aren't you showing Norwegian D82410 6:00 am as cancelled when the airline has told us that it is?"
+	},
+	{
+		"created_at": "Tue Dec 18 18:28:01 +0000 2018",
+		"id": 1075095353421152300,
+		"id_str": "1075095353421152257",
+		"full_text": "Universities: We want students to understand that failure is OK and doesn't make them bad people. \nAlso universities: Your course grades are determined by three tests and a final. \n#masterygrading \nhttps://t.co/efJHJfgDhX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "masterygrading",
+					"indices": [
+						181,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/efJHJfgDhX",
+					"expanded_url": "https://www.wsj.com/articles/failure-101-colleges-teach-students-how-to-cope-with-setbacks-11545129000",
+					"display_url": "wsj.com/articles/failu…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10461,
+			"id_str": "10461",
+			"name": "Robert Talbert",
+			"screen_name": "RobertTalbert",
+			"location": "Michigan, USA",
+			"description": "Professor of Mathematics at @GVSU and author of Flipped Learning: A Guide for Higher Education Faculty from @StylusPub. My views != GVSU's.",
+			"url": "https://t.co/kvYHUeVQOB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kvYHUeVQOB",
+							"expanded_url": "http://rtalbert.org",
+							"display_url": "rtalbert.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4194,
+			"friends_count": 933,
+			"listed_count": 291,
+			"created_at": "Wed Oct 25 11:18:35 +0000 2006",
+			"favourites_count": 2692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33196,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E9D39B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/651479677140250628/lauLSa73_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/651479677140250628/lauLSa73_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10461/1485465836",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "919BFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 31,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Universities: We want students to understand that failure is OK and doesn't make them bad people. \nAlso universities: Your course grades are determined by three tests and a final. \n#masterygrading \nhttps://t.co/efJHJfgDhX"
+	},
+	{
+		"created_at": "Wed Dec 19 00:13:43 +0000 2018",
+		"id": 1075182354182869000,
+		"id_str": "1075182354182868992",
+		"full_text": "This sort of thing gives me the screaming abdabs: MPs cannot “vote down the no deal options”: they have to proactively choose something else in its place. https://t.co/UA2Z3eVmm1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UA2Z3eVmm1",
+					"expanded_url": "https://twitter.com/barrysheerman/status/1075181856092553216",
+					"display_url": "twitter.com/barrysheerman/…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145671928,
+			"id_str": "145671928",
+			"name": "Stephen Bush",
+			"screen_name": "stephenkb",
+			"location": "London",
+			"description": "Political editor at @NewStatesman Fortnightly columnist in @theipaper stephen.bush[at]https://t.co/Vt8yIRpvk3",
+			"url": "https://t.co/JSqHO9xuLD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JSqHO9xuLD",
+							"expanded_url": "http://www.newstatesman.com/writers/stephen_bush",
+							"display_url": "newstatesman.com/writers/stephe…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Vt8yIRpvk3",
+							"expanded_url": "http://newstatesman.co.uk",
+							"display_url": "newstatesman.co.uk",
+							"indices": [
+								86,
+								109
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 68507,
+			"friends_count": 4802,
+			"listed_count": 1138,
+			"created_at": "Wed May 19 15:32:38 +0000 2010",
+			"favourites_count": 19655,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 99655,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "020812",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061676786310963202/oXHF56Dz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061676786310963202/oXHF56Dz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145671928/1452465712",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "020812",
+			"profile_text_color": "2280A9",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1075181856092553200,
+		"quoted_status_id_str": "1075181856092553216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UA2Z3eVmm1",
+			"expanded": "https://twitter.com/barrysheerman/status/1075181856092553216",
+			"display": "twitter.com/barrysheerman/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 19 00:11:45 +0000 2018",
+			"id": 1075181856092553200,
+			"id_str": "1075181856092553216",
+			"full_text": "These quite extreme arrangements &amp; mobilisation plans are pure nonsense to panic MPs into voting for a totally flawed deal we must vote down the deal &amp; the no deal options! @BBCNews",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				189
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BBCNews",
+						"name": "BBC News (UK)",
+						"id": 612473,
+						"id_str": "612473",
+						"indices": [
+							181,
+							189
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 250091875,
+				"id_str": "250091875",
+				"name": "Barry Sheerman",
+				"screen_name": "BarrySheerman",
+				"location": "Huddersfield",
+				"description": "Social Enterpriser. Campaigner. Labour Cooperative MP for Huddersfield.Chair Global Legislators for Road Safety.Chair & founder Policy Connect.",
+				"url": "https://t.co/Oi3KjWudV2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Oi3KjWudV2",
+								"expanded_url": "http://www.barrysheerman.co.uk",
+								"display_url": "barrysheerman.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13435,
+				"friends_count": 3333,
+				"listed_count": 548,
+				"created_at": "Thu Feb 10 12:03:55 +0000 2011",
+				"favourites_count": 461,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 48484,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DF0404",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/600237080493568000/rdvy7KEK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/600237080493568000/rdvy7KEK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/250091875/1453808478",
+				"profile_link_color": "DF0404",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 70,
+			"favorite_count": 174,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 180,
+		"favorite_count": 506,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This sort of thing gives me the screaming abdabs: MPs cannot “vote down the no deal options”: they have to proactively choose something else in its place. https://t.co/UA2Z3eVmm1"
+	},
+	{
+		"created_at": "Wed Dec 19 08:17:35 +0000 2018",
+		"id": 1075304121635348500,
+		"id_str": "1075304121635348481",
+		"full_text": "Read the Dec 19 Newsletter curated by my PLN featuring “Shazam” https://t.co/CZ5HXjR9zs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CZ5HXjR9zs",
+					"expanded_url": "https://nzzl.us/seE3HTT",
+					"display_url": "nzzl.us/seE3HTT",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1478,
+			"friends_count": 1186,
+			"listed_count": 133,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 9916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17176,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Dec 19 Newsletter curated by my PLN featuring “Shazam” https://t.co/CZ5HXjR9zs"
+	},
+	{
+		"created_at": "Wed Dec 19 08:17:34 +0000 2018",
+		"id": 1075304118162473000,
+		"id_str": "1075304118162472960",
+		"full_text": "Read my Dec 19 'swan-uni-staff' Newsletter featuring “Being called a mumpreneur is patronising” https://t.co/VjaSKtlPQy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VjaSKtlPQy",
+					"expanded_url": "https://nzzl.us/HxUk0KX",
+					"display_url": "nzzl.us/HxUk0KX",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1478,
+			"friends_count": 1186,
+			"listed_count": 133,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 9916,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17176,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Dec 19 'swan-uni-staff' Newsletter featuring “Being called a mumpreneur is patronising” https://t.co/VjaSKtlPQy"
+	},
+	{
+		"created_at": "Tue Dec 18 09:45:10 +0000 2018",
+		"id": 1074963774149398500,
+		"id_str": "1074963774149398529",
+		"full_text": "Theresa May's deal or no deal binary offer: why all is not what it seems @price_andy https://t.co/5kSXH8kVkW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "price_andy",
+					"name": "Andy Price - #FBPE",
+					"id": 312510682,
+					"id_str": "312510682",
+					"indices": [
+						73,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5kSXH8kVkW",
+					"expanded_url": "http://bit.ly/2GqcVtJ",
+					"display_url": "bit.ly/2GqcVtJ",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1241258612,
+			"id_str": "1241258612",
+			"name": "The Conversation",
+			"screen_name": "ConversationUK",
+			"location": "London",
+			"description": "An independent news and commentary website produced by academics and journalists. Free to read and republish.",
+			"url": "http://t.co/g15iOzwSgj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/g15iOzwSgj",
+							"expanded_url": "http://www.theconversation.com/uk",
+							"display_url": "theconversation.com/uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107331,
+			"friends_count": 11769,
+			"listed_count": 2362,
+			"created_at": "Mon Mar 04 12:34:00 +0000 2013",
+			"favourites_count": 6746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 96803,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875640793590976512/IH4VD6Vm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875640793590976512/IH4VD6Vm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1241258612/1422008498",
+			"profile_link_color": "D8362A",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Theresa May's deal or no deal binary offer: why all is not what it seems @price_andy https://t.co/5kSXH8kVkW"
+	},
+	{
 		"created_at": "Tue Dec 18 18:28:01 +0000 2018",
 		"id": 1075095353421152300,
 		"id_str": "1075095353421152257",
