@@ -1,6 +1,734 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 15 06:04:41 +0000 2019",
+		"id": 1085055147494031400,
+		"id_str": "1087788146857857026",
+		"full_text": "1/n - Brexit vote thread from someone who properly knows their trade and EU stuff: https://t.co/aPhCmiUQk1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aPhCmiUQk1",
+					"expanded_url": "https://twitter.com/GuitarMoog/status/1070439519269388288?s=19",
+					"display_url": "twitter.com/GuitarMoog/sta…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41209095,
+			"id_str": "41209095",
+			"name": "Seb Schmoller",
+			"screen_name": "sebschmoller",
+			"location": "Sheffield, UK",
+			"description": "In FE on & off from 1976, & online learning since 1991. Led @A_L_T 2003-2012. Trustee of @NOCN1. Chair of @SheffCol's Board. Threads as bookmarks. Own views.",
+			"url": "https://t.co/fvyIsrsTuG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fvyIsrsTuG",
+							"expanded_url": "http://schmoller.net/",
+							"display_url": "schmoller.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2548,
+			"friends_count": 999,
+			"listed_count": 210,
+			"created_at": "Tue May 19 20:58:41 +0000 2009",
+			"favourites_count": 2636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18166,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715959497496334336/x6jYLlhk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715959497496334336/x6jYLlhk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41209095/1540109548",
+			"profile_link_color": "0000CC",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1070439519269388300,
+		"quoted_status_id_str": "1070439519269388288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aPhCmiUQk1",
+			"expanded": "https://twitter.com/GuitarMoog/status/1070439519269388288?s=19",
+			"display": "twitter.com/GuitarMoog/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 05 22:07:23 +0000 2018",
+			"id": 1070439519269388300,
+			"id_str": "1070439519269388288",
+			"full_text": "50 simple chunks of reality to help MPs in these difficult times.\n\n1. The Withdrawal Agreement (WA) is not up for renegotiation\n2. The Political Declaration (PD) might be tweaked cosmetically\n3. The future relationship will be negotiated during the transition period",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 720975284,
+				"id_str": "720975284",
+				"name": "Steve Bullock",
+				"screen_name": "GuitarMoog",
+				"location": "Brussels, Belgium",
+				"description": "Immigrant, Musician, Sound Engineer, ex-negotiator for UK in EU, Brexit geek for Alyn Smith MEP (views mine, not his), anti-Brexit campaigner, CakeWatch co-host",
+				"url": "https://t.co/thPghduBZ0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/thPghduBZ0",
+								"expanded_url": "http://CakeWat.ch",
+								"display_url": "CakeWat.ch",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44588,
+				"friends_count": 7575,
+				"listed_count": 431,
+				"created_at": "Fri Jul 27 22:10:44 +0000 2012",
+				"favourites_count": 74400,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 46553,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1069906615837581312/aRTXlKGV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069906615837581312/aRTXlKGV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/720975284/1481169693",
+				"profile_link_color": "003399",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2421,
+			"favorite_count": 3152,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1/n - Brexit vote thread from someone who properly knows their trade and EU stuff: https://t.co/aPhCmiUQk1"
+	},
+	{
+		"created_at": "Tue Jan 22 16:37:53 +0000 2019",
+		"id": 1087751215663013900,
+		"id_str": "1087785252624449537",
+		"full_text": "“The relationship of Great Britain to Europe was always very...patchy.”\n\nGerman Chancellor Angela Merkel discusses Brexit - after signing a new treaty with French President Emmanuel Macron forging closer ties between the two countries. https://t.co/BHIGWwzz2Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087750762548117500,
+					"id_str": "1087750762548117505",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1087750762548117505/img/nFDv5m34fxsTGDIk.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1087750762548117505/img/nFDv5m34fxsTGDIk.jpg",
+					"url": "https://t.co/BHIGWwzz2Z",
+					"display_url": "pic.twitter.com/BHIGWwzz2Z",
+					"expanded_url": "https://twitter.com/Channel4News/status/1087751215663013888/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087750762548117500,
+					"id_str": "1087750762548117505",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1087750762548117505/img/nFDv5m34fxsTGDIk.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1087750762548117505/img/nFDv5m34fxsTGDIk.jpg",
+					"url": "https://t.co/BHIGWwzz2Z",
+					"display_url": "pic.twitter.com/BHIGWwzz2Z",
+					"expanded_url": "https://twitter.com/Channel4News/status/1087751215663013888/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 109520,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1087750762548117505/vid/320x320/W_eLHs-aO0MQ3TGJ.mp4?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1087750762548117505/vid/480x480/od0_E3AMzLG2Hfci.mp4?tag=9"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1087750762548117505/pl/AlU2bvKINJ27RiMD.m3u8?tag=9"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1087750762548117505/vid/720x720/z_LX1IW_eaGTNSy9.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14569869,
+			"id_str": "14569869",
+			"name": "Channel 4 News",
+			"screen_name": "Channel4News",
+			"location": "United Kingdom",
+			"description": "Stories that reveal and inspire, challenging expectations.\n\nSubscribe to us on YouTube for documentaries, long interview and explainers\nhttps://t.co/elRqd9f2mG",
+			"url": "https://t.co/LBhZvqcoKL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LBhZvqcoKL",
+							"expanded_url": "http://www.channel4.com/news",
+							"display_url": "channel4.com/news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/elRqd9f2mG",
+							"expanded_url": "http://bit.ly/c4news_sub",
+							"display_url": "bit.ly/c4news_sub",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2127345,
+			"friends_count": 4560,
+			"listed_count": 9716,
+			"created_at": "Mon Apr 28 14:29:37 +0000 2008",
+			"favourites_count": 467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 93234,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2C1C36",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875404558528393216/cTknVhwm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875404558528393216/cTknVhwm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14569869/1464103587",
+			"profile_link_color": "421174",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FAF0F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 680,
+		"favorite_count": 1026,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“The relationship of Great Britain to Europe was always very...patchy.”\n\nGerman Chancellor Angela Merkel discusses Brexit - after signing a new treaty with French President Emmanuel Macron forging closer ties between the two countries. https://t.co/BHIGWwzz2Z"
+	},
+	{
+		"created_at": "Mon Jan 21 15:16:18 +0000 2019",
+		"id": 1087368296620609500,
+		"id_str": "1087784603052658688",
+		"full_text": "This is what being an academic feels like https://t.co/3vwccD8wDP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1087368132367388700,
+					"id_str": "1087368132367388672",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DxcbjiXWkAAPm73.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DxcbjiXWkAAPm73.jpg",
+					"url": "https://t.co/3vwccD8wDP",
+					"display_url": "pic.twitter.com/3vwccD8wDP",
+					"expanded_url": "https://twitter.com/StellaPe12/status/1087368296620609536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 418,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 418,
+							"h": 314,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 418,
+							"h": 314,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1087368132367388700,
+					"id_str": "1087368132367388672",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DxcbjiXWkAAPm73.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DxcbjiXWkAAPm73.jpg",
+					"url": "https://t.co/3vwccD8wDP",
+					"display_url": "pic.twitter.com/3vwccD8wDP",
+					"expanded_url": "https://twitter.com/StellaPe12/status/1087368296620609536/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 418,
+							"h": 314,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 418,
+							"h": 314,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 418,
+							"h": 314,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							209,
+							157
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DxcbjiXWkAAPm73.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1053242651116474400,
+			"id_str": "1053242651116474368",
+			"name": "Dr Stella Pedrazzini",
+			"screen_name": "StellaPe12",
+			"location": "London, England",
+			"description": "Lecturer @ImpMaterials | #WomenInSTEM advocate👩🏼‍🔬 |#atomprobe and #corrosion of metals used in ✈️ and 🚗 | 🇮🇹 living in 🇬🇧 | PhD Materials Science",
+			"url": "https://t.co/GCJn3gozLL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GCJn3gozLL",
+							"expanded_url": "http://www.imperial.ac.uk/people/s.pedrazzini/",
+							"display_url": "imperial.ac.uk/people/s.pedra…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 431,
+			"friends_count": 361,
+			"listed_count": 0,
+			"created_at": "Fri Oct 19 11:13:11 +0000 2018",
+			"favourites_count": 2474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 465,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071155307940855814/uNyDZLCJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071155307940855814/uNyDZLCJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1053242651116474368/1544217640",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 971,
+		"favorite_count": 3777,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is what being an academic feels like https://t.co/3vwccD8wDP"
+	},
+	{
+		"created_at": "Tue Jan 22 17:51:56 +0000 2019",
+		"id": 1087769847302422500,
+		"id_str": "1087769847302422530",
+		"full_text": "@econproph @MarenDeepwell The beauty of having a domain of one’s own is that you, the owner, have complete control of the private/public boundary.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "econproph",
+					"name": "Jim Luke really needs a new longer name",
+					"id": 26559701,
+					"id_str": "26559701",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "MarenDeepwell",
+					"name": "Dr Maren Deepwell",
+					"id": 323173367,
+					"id_str": "323173367",
+					"indices": [
+						11,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1087769314516705300,
+		"in_reply_to_status_id_str": "1087769314516705282",
+		"in_reply_to_user_id": 4229341,
+		"in_reply_to_user_id_str": "4229341",
+		"in_reply_to_screen_name": "cpjobling",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1483,
+			"friends_count": 1196,
+			"listed_count": 128,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17464,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@econproph @MarenDeepwell The beauty of having a domain of one’s own is that you, the owner, have complete control of the private/public boundary."
+	},
+	{
 		"created_at": "Sun Jan 20 21:33:58 +0000 2019",
 		"id": 1087100949309599700,
 		"id_str": "1087270639797440512",
