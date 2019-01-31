@@ -1,6 +1,714 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 30 15:00:00 +0000 2019",
+		"id": 1090625684370788400,
+		"id_str": "1090662031735300097",
+		"full_text": "Being really cheeky but if you’re at #KeeleLTC19 and feel that you’ve still got something left, #AdvanceHE_chat #LTHEChat tonight is on Inclusive assessment (8pm, twitter).  https://t.co/yVVWpwuFT0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KeeleLTC19",
+					"indices": [
+						37,
+						48
+					]
+				},
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						96,
+						111
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						112,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yVVWpwuFT0",
+					"expanded_url": "http://bit.ly/2DIkJ6H",
+					"display_url": "bit.ly/2DIkJ6H",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34229633,
+			"id_str": "34229633",
+			"name": "Dr Katherine J Haxton",
+			"screen_name": "kjhaxton",
+			"location": "UK",
+			"description": "Chemist Herder. Generally interstitial. I don't always agree with things I RT. Limited tolerance for thoughtlessness.",
+			"url": "https://t.co/jIwE7id4UD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jIwE7id4UD",
+							"expanded_url": "http://www.kjhaxton.co.uk",
+							"display_url": "kjhaxton.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2208,
+			"friends_count": 1339,
+			"listed_count": 136,
+			"created_at": "Wed Apr 22 09:27:23 +0000 2009",
+			"favourites_count": 11726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18909,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "587480",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073950966242836480/ottYwXyG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073950966242836480/ottYwXyG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34229633/1530465501",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Being really cheeky but if you’re at #KeeleLTC19 and feel that you’ve still got something left, #AdvanceHE_chat #LTHEChat tonight is on Inclusive assessment (8pm, twitter).  https://t.co/yVVWpwuFT0"
+	},
+	{
+		"created_at": "Wed Jan 30 17:20:37 +0000 2019",
+		"id": 1090661070212083700,
+		"id_str": "1090661070212083712",
+		"full_text": "@kjhaxton I hide behind C.P. but it’s Chris to friends and Christopher to my mother.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kjhaxton",
+					"name": "Dr Katherine J Haxton",
+					"id": 34229633,
+					"id_str": "34229633",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1090542319345025000,
+		"in_reply_to_status_id_str": "1090542319345025024",
+		"in_reply_to_user_id": 34229633,
+		"in_reply_to_user_id_str": "34229633",
+		"in_reply_to_screen_name": "kjhaxton",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1480,
+			"friends_count": 1195,
+			"listed_count": 127,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17518,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kjhaxton I hide behind C.P. but it’s Chris to friends and Christopher to my mother."
+	},
+	{
+		"created_at": "Tue Jan 29 16:16:10 +0000 2019",
+		"id": 1090282465388908500,
+		"id_str": "1090560964678819840",
+		"full_text": "“Let them go to the chippy instead” - DUP MPs muttering behind me when @IanBlackfordMP mentioned food prices rising after No Deal #Brexit.\n\nIt won't be MPs who have to cope with worst impacts of No Deal. @duponline should be ashamed of their disregard for people they represent.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Brexit",
+					"indices": [
+						130,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IanBlackfordMP",
+					"name": "Ian Blackford",
+					"id": 1325563478,
+					"id_str": "1325563478",
+					"indices": [
+						71,
+						86
+					]
+				},
+				{
+					"screen_name": "duponline",
+					"name": "DUP",
+					"id": 19977542,
+					"id_str": "19977542",
+					"indices": [
+						204,
+						214
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 80802900,
+			"id_str": "80802900",
+			"name": "Caroline Lucas",
+			"screen_name": "CarolineLucas",
+			"location": "Brighton",
+			"description": "MP for Brighton Pavilion, former leader and co-leader of @TheGreenParty, Mum",
+			"url": "https://t.co/rztDp8fZTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rztDp8fZTO",
+							"expanded_url": "http://www.carolinelucas.com",
+							"display_url": "carolinelucas.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 344788,
+			"friends_count": 5491,
+			"listed_count": 4363,
+			"created_at": "Thu Oct 08 08:46:30 +0000 2009",
+			"favourites_count": 278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21363,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/772740003856343040/5eGrmUPp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/772740003856343040/5eGrmUPp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/80802900/1433526430",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5680,
+		"favorite_count": 12604,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "“Let them go to the chippy instead” - DUP MPs muttering behind me when @IanBlackfordMP mentioned food prices rising after No Deal #Brexit.\n\nIt won't be MPs who have to cope with worst impacts of No Deal. @duponline should be ashamed of their disregard for people they represent."
+	},
+	{
+		"created_at": "Wed Jan 30 10:25:39 +0000 2019",
+		"id": 1090556640699580400,
+		"id_str": "1090556640699580416",
+		"full_text": "Enhancing the curriculum with learning analytics https://t.co/s1Hpxzh6om via @wonkhe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wonkhe",
+					"name": "Wonkhe",
+					"id": 245499504,
+					"id_str": "245499504",
+					"indices": [
+						77,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/s1Hpxzh6om",
+					"expanded_url": "https://wonkhe.com/blogs/enhancing-the-curriculum-with-learning-analytics/",
+					"display_url": "wonkhe.com/blogs/enhancin…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1480,
+			"friends_count": 1195,
+			"listed_count": 127,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17518,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Enhancing the curriculum with learning analytics https://t.co/s1Hpxzh6om via @wonkhe"
+	},
+	{
+		"created_at": "Wed Jan 30 10:24:21 +0000 2019",
+		"id": 1090556315435446300,
+		"id_str": "1090556315435446272",
+		"full_text": "appalling “Facebook pays teens to install VPN that spies on them” - TechCrunch https://t.co/UA7leTnM4E by @JoshConstine thanks @ProfDcotton",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JoshConstine",
+					"name": "Josh Constine",
+					"id": 19563366,
+					"id_str": "19563366",
+					"indices": [
+						106,
+						119
+					]
+				},
+				{
+					"screen_name": "ProfDcotton",
+					"name": "Debby Cotton",
+					"id": 20269498,
+					"id_str": "20269498",
+					"indices": [
+						127,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UA7leTnM4E",
+					"expanded_url": "https://nzzl.us/Izo9GEV",
+					"display_url": "nzzl.us/Izo9GEV",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1480,
+			"friends_count": 1195,
+			"listed_count": 127,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17518,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "appalling “Facebook pays teens to install VPN that spies on them” - TechCrunch https://t.co/UA7leTnM4E by @JoshConstine thanks @ProfDcotton"
+	},
+	{
+		"created_at": "Wed Jan 30 08:03:22 +0000 2019",
+		"id": 1090520832688955400,
+		"id_str": "1090520832688955392",
+		"full_text": "Read the Jan 30 Newsletter curated by my PLN featuring “May thinks she's won. But the reality of Brexit will…” https://t.co/Ok7sUc2Rlh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ok7sUc2Rlh",
+					"expanded_url": "https://nzzl.us/red7xAM",
+					"display_url": "nzzl.us/red7xAM",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1480,
+			"friends_count": 1195,
+			"listed_count": 127,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17518,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Jan 30 Newsletter curated by my PLN featuring “May thinks she's won. But the reality of Brexit will…” https://t.co/Ok7sUc2Rlh"
+	},
+	{
 		"created_at": "Tue Jan 29 22:12:27 +0000 2019",
 		"id": 1090372125687459800,
 		"id_str": "1090372125687459840",
