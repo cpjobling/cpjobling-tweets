@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 29 04:26:55 +0000 2019",
+		"id": 1090103973833363500,
+		"id_str": "1090907564714414082",
+		"full_text": "Sometimes students don’t read my grading comments so I made them begin the semester by GIF-ing my feedback. They were encouraged to take liberties in adapting some of my most common feedback into GIFs. The humor &amp; authorship give them extra incentive to read ‘em. Behold! A thread https://t.co/KvPoqlpNHo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1090103949879701500,
+					"id_str": "1090103949879701505",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DyDTxEzUcAEwZyE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DyDTxEzUcAEwZyE.jpg",
+					"url": "https://t.co/KvPoqlpNHo",
+					"display_url": "pic.twitter.com/KvPoqlpNHo",
+					"expanded_url": "https://twitter.com/keralovell/status/1090103973833363456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1090103949879701500,
+					"id_str": "1090103949879701505",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DyDTxEzUcAEwZyE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DyDTxEzUcAEwZyE.jpg",
+					"url": "https://t.co/KvPoqlpNHo",
+					"display_url": "pic.twitter.com/KvPoqlpNHo",
+					"expanded_url": "https://twitter.com/keralovell/status/1090103973833363456/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DyDTxEzUcAEwZyE.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 552270387,
+			"id_str": "552270387",
+			"name": "Kera Lovell, Ph.D.",
+			"screen_name": "keralovell",
+			"location": "Incheon, Republic of Korea",
+			"description": "(she/her) Assistant Professor of History/ American Studies scholar @ University of Utah Asia Campus 🇰🇷, 🏳️‍🌈 anti racist feminist, #HistoryTeachesUsToResist",
+			"url": "https://t.co/nmXH4hBwtQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nmXH4hBwtQ",
+							"expanded_url": "http://www.keralovell.com",
+							"display_url": "keralovell.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2844,
+			"friends_count": 4957,
+			"listed_count": 52,
+			"created_at": "Thu Apr 12 21:36:42 +0000 2012",
+			"favourites_count": 11753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3704,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086853628285964290/uK_7suQg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086853628285964290/uK_7suQg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/552270387/1546295804",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 219,
+		"favorite_count": 667,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sometimes students don’t read my grading comments so I made them begin the semester by GIF-ing my feedback. They were encouraged to take liberties in adapting some of my most common feedback into GIFs. The humor &amp; authorship give them extra incentive to read ‘em. Behold! A thread https://t.co/KvPoqlpNHo"
+	},
+	{
+		"created_at": "Thu Jan 31 08:03:10 +0000 2019",
+		"id": 1090883171682525200,
+		"id_str": "1090883171682525184",
+		"full_text": "Read the Jan 31 Newsletter curated by my PLN featuring “Inclusive Assessment: Where Next?” https://t.co/vljzqjsqE7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vljzqjsqE7",
+					"expanded_url": "https://nzzl.us/ghGteHN",
+					"display_url": "nzzl.us/ghGteHN",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1481,
+			"friends_count": 1195,
+			"listed_count": 127,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17521,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Jan 31 Newsletter curated by my PLN featuring “Inclusive Assessment: Where Next?” https://t.co/vljzqjsqE7"
+	},
+	{
 		"created_at": "Wed Jan 30 15:00:00 +0000 2019",
 		"id": 1090625684370788400,
 		"id_str": "1090662031735300097",
