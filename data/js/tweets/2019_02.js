@@ -1,6 +1,555 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 08 08:19:21 +0000 2019",
+		"id": 1093786348727746600,
+		"id_str": "1093786348727746560",
+		"full_text": "@NtuTilt @AdvanceHE @BradS4 @jennywahwah @drmelaniepope @Sarah__wright1 @SocMedHE @MMU_CeLT @LivUniCIE @clairemtimmins @HarperEdDev @SHU_AcDev Not sure I’d be a supportive voice. #heafellowship #skeptic",
+		"truncated": false,
+		"display_text_range": [
+			143,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "heafellowship",
+					"indices": [
+						179,
+						193
+					]
+				},
+				{
+					"text": "skeptic",
+					"indices": [
+						194,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NtuTilt",
+					"name": "Trent Institute for Learning and Teaching",
+					"id": 1059747227755864000,
+					"id_str": "1059747227755864064",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "AdvanceHE",
+					"name": "Advance HE",
+					"id": 941587234465177600,
+					"id_str": "941587234465177600",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"screen_name": "BradS4",
+					"name": "Prof Sally Bradley PFHEA",
+					"id": 96797167,
+					"id_str": "96797167",
+					"indices": [
+						20,
+						27
+					]
+				},
+				{
+					"screen_name": "jennywahwah",
+					"name": "Dr Jen L L. PFHEA",
+					"id": 562138516,
+					"id_str": "562138516",
+					"indices": [
+						28,
+						40
+					]
+				},
+				{
+					"screen_name": "drmelaniepope",
+					"name": "Melanie Pope",
+					"id": 3369075359,
+					"id_str": "3369075359",
+					"indices": [
+						41,
+						55
+					]
+				},
+				{
+					"screen_name": "Sarah__wright1",
+					"name": "Sarah Wright",
+					"id": 204746761,
+					"id_str": "204746761",
+					"indices": [
+						56,
+						71
+					]
+				},
+				{
+					"screen_name": "SocMedHE",
+					"name": "@SocMedHE",
+					"id": 3346395670,
+					"id_str": "3346395670",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"screen_name": "MMU_CeLT",
+					"name": "MMU CELT",
+					"id": 31112590,
+					"id_str": "31112590",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"screen_name": "LivUniCIE",
+					"name": "Centre for Innovation in Education",
+					"id": 978576350192816100,
+					"id_str": "978576350192816129",
+					"indices": [
+						92,
+						102
+					]
+				},
+				{
+					"screen_name": "clairemtimmins",
+					"name": "Dr Claire Timmins",
+					"id": 36925713,
+					"id_str": "36925713",
+					"indices": [
+						103,
+						118
+					]
+				},
+				{
+					"screen_name": "HarperEdDev",
+					"name": "Lydia Arnold",
+					"id": 1962894121,
+					"id_str": "1962894121",
+					"indices": [
+						119,
+						131
+					]
+				},
+				{
+					"screen_name": "SHU_AcDev",
+					"name": "SHU_AcDev",
+					"id": 756441531783970800,
+					"id_str": "756441531783970817",
+					"indices": [
+						132,
+						142
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1093485037612400600,
+		"in_reply_to_status_id_str": "1093485037612400640",
+		"in_reply_to_user_id": 1059747227755864000,
+		"in_reply_to_user_id_str": "1059747227755864064",
+		"in_reply_to_screen_name": "NtuTilt",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1483,
+			"friends_count": 1195,
+			"listed_count": 127,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17544,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NtuTilt @AdvanceHE @BradS4 @jennywahwah @drmelaniepope @Sarah__wright1 @SocMedHE @MMU_CeLT @LivUniCIE @clairemtimmins @HarperEdDev @SHU_AcDev Not sure I’d be a supportive voice. #heafellowship #skeptic"
+	},
+	{
+		"created_at": "Fri Feb 08 08:17:45 +0000 2019",
+		"id": 1093785945646731300,
+		"id_str": "1093785945646731265",
+		"full_text": "@DrHLCockings There has to be a bettet way!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrHLCockings",
+					"name": "Hollie Cockings",
+					"id": 391929853,
+					"id_str": "391929853",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1092890635558883300,
+		"in_reply_to_status_id_str": "1092890635558883334",
+		"in_reply_to_user_id": 391929853,
+		"in_reply_to_user_id_str": "391929853",
+		"in_reply_to_screen_name": "DrHLCockings",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1483,
+			"friends_count": 1195,
+			"listed_count": 127,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17544,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrHLCockings There has to be a bettet way!"
+	},
+	{
+		"created_at": "Fri Feb 08 08:09:32 +0000 2019",
+		"id": 1093783878211391500,
+		"id_str": "1093783878211391488",
+		"full_text": ".@FirstCymru what happened to the number 10s that were supposed to arrive at Bernard street (Bay Campus bound) at 7:53 and 8:03? People rely on your timetables and keep getting let down.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FirstCymru",
+					"name": "First Cymru Buses",
+					"id": 97223190,
+					"id_str": "97223190",
+					"indices": [
+						1,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1483,
+			"friends_count": 1195,
+			"listed_count": 127,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17544,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": ".@FirstCymru what happened to the number 10s that were supposed to arrive at Bernard street (Bay Campus bound) at 7:53 and 8:03? People rely on your timetables and keep getting let down."
+	},
+	{
+		"created_at": "Fri Feb 08 08:03:37 +0000 2019",
+		"id": 1093782390013681700,
+		"id_str": "1093782390013681664",
+		"full_text": "Read the Feb 8 Newsletter curated by my PLN featuring “Student guest post: 8 ways students and staff can engage…” https://t.co/Gl5DMIMB1I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gl5DMIMB1I",
+					"expanded_url": "https://nzzl.us/mvlGqy2",
+					"display_url": "nzzl.us/mvlGqy2",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1483,
+			"friends_count": 1195,
+			"listed_count": 127,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17544,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Feb 8 Newsletter curated by my PLN featuring “Student guest post: 8 ways students and staff can engage…” https://t.co/Gl5DMIMB1I"
+	},
+	{
 		"created_at": "Thu Feb 07 08:04:07 +0000 2019",
 		"id": 1093420127872340000,
 		"id_str": "1093420127872339968",
