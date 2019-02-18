@@ -1,6 +1,6792 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 17 17:30:15 +0000 2019",
+		"id": 1097186477744812000,
+		"id_str": "1097186477744812032",
+		"full_text": "Thanks to the organisers and participants. I really enjoyed being a mentor at #suinvent #IFTP2019 #iftp - see you in 2020!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "suinvent",
+					"indices": [
+						78,
+						87
+					]
+				},
+				{
+					"text": "IFTP2019",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"text": "iftp",
+					"indices": [
+						98,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1486,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Thanks to the organisers and participants. I really enjoyed being a mentor at #suinvent #IFTP2019 #iftp - see you in 2020!"
+	},
+	{
+		"created_at": "Sun Feb 17 17:28:37 +0000 2019",
+		"id": 1097186067239878700,
+		"id_str": "1097186067239878656",
+		"full_text": "And the winner of #suinvent 2019 at @SUEngineering in @SwanseaUni was awarded to ..... superSocial  #iftp #IFTP2019 https://t.co/XBaUXWm8Hj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "suinvent",
+					"indices": [
+						18,
+						27
+					]
+				},
+				{
+					"text": "iftp",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "IFTP2019",
+					"indices": [
+						106,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SUEngineering",
+					"name": "Swansea Engineering",
+					"id": 154145391,
+					"id_str": "154145391",
+					"indices": [
+						36,
+						50
+					]
+				},
+				{
+					"screen_name": "SwanseaUni",
+					"name": "Swansea University",
+					"id": 62489200,
+					"id_str": "62489200",
+					"indices": [
+						54,
+						65
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097186026785853400,
+					"id_str": "1097186026785853440",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzn84NMX0AA2Bcb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzn84NMX0AA2Bcb.jpg",
+					"url": "https://t.co/XBaUXWm8Hj",
+					"display_url": "pic.twitter.com/XBaUXWm8Hj",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097186067239878656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097186026785853400,
+					"id_str": "1097186026785853440",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzn84NMX0AA2Bcb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzn84NMX0AA2Bcb.jpg",
+					"url": "https://t.co/XBaUXWm8Hj",
+					"display_url": "pic.twitter.com/XBaUXWm8Hj",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097186067239878656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1486,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And the winner of #suinvent 2019 at @SUEngineering in @SwanseaUni was awarded to ..... superSocial  #iftp #IFTP2019 https://t.co/XBaUXWm8Hj"
+	},
+	{
+		"created_at": "Sun Feb 17 17:26:19 +0000 2019",
+		"id": 1097185488400760800,
+		"id_str": "1097185488400760834",
+		"full_text": "Mentor’s best team award went to MeduCare  #iftp #IFTP2019 #suinvent https://t.co/2SnUpGh3vr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iftp",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "IFTP2019",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"text": "suinvent",
+					"indices": [
+						59,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097185458952515600,
+					"id_str": "1097185458952515584",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzn8XJ2WsAA3WBC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzn8XJ2WsAA3WBC.jpg",
+					"url": "https://t.co/2SnUpGh3vr",
+					"display_url": "pic.twitter.com/2SnUpGh3vr",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097185488400760834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097185458952515600,
+					"id_str": "1097185458952515584",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzn8XJ2WsAA3WBC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzn8XJ2WsAA3WBC.jpg",
+					"url": "https://t.co/2SnUpGh3vr",
+					"display_url": "pic.twitter.com/2SnUpGh3vr",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097185488400760834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1486,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mentor’s best team award went to MeduCare  #iftp #IFTP2019 #suinvent https://t.co/2SnUpGh3vr"
+	},
+	{
+		"created_at": "Sun Feb 17 17:25:37 +0000 2019",
+		"id": 1097185310658756600,
+		"id_str": "1097185310658756610",
+		"full_text": "In second place was TechConnect https://t.co/fU9FhCPWdZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097185269722296300,
+					"id_str": "1097185269722296320",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzn8MI6WsAAyofY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzn8MI6WsAAyofY.jpg",
+					"url": "https://t.co/fU9FhCPWdZ",
+					"display_url": "pic.twitter.com/fU9FhCPWdZ",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097185310658756610/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097185269722296300,
+					"id_str": "1097185269722296320",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzn8MI6WsAAyofY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzn8MI6WsAAyofY.jpg",
+					"url": "https://t.co/fU9FhCPWdZ",
+					"display_url": "pic.twitter.com/fU9FhCPWdZ",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097185310658756610/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1486,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In second place was TechConnect https://t.co/fU9FhCPWdZ"
+	},
+	{
+		"created_at": "Sun Feb 17 17:24:41 +0000 2019",
+		"id": 1097185074485841900,
+		"id_str": "1097185074485841920",
+		"full_text": "In third place was Drip #iftp #IFTP2019 #suinvent https://t.co/eb9gqBHM2S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iftp",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "IFTP2019",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"text": "suinvent",
+					"indices": [
+						40,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097185050637013000,
+					"id_str": "1097185050637012992",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzn7_YwWkAA32GZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzn7_YwWkAA32GZ.jpg",
+					"url": "https://t.co/eb9gqBHM2S",
+					"display_url": "pic.twitter.com/eb9gqBHM2S",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097185074485841920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097185050637013000,
+					"id_str": "1097185050637012992",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzn7_YwWkAA32GZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzn7_YwWkAA32GZ.jpg",
+					"url": "https://t.co/eb9gqBHM2S",
+					"display_url": "pic.twitter.com/eb9gqBHM2S",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097185074485841920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1486,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In third place was Drip #iftp #IFTP2019 #suinvent https://t.co/eb9gqBHM2S"
+	},
+	{
+		"created_at": "Sun Feb 17 16:42:36 +0000 2019",
+		"id": 1097174486024183800,
+		"id_str": "1097174486024183808",
+		"full_text": "Judges look happy! #suinvent #IFTP #IFTP2019 https://t.co/V5jzg4RhGd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "suinvent",
+					"indices": [
+						19,
+						28
+					]
+				},
+				{
+					"text": "IFTP",
+					"indices": [
+						29,
+						34
+					]
+				},
+				{
+					"text": "IFTP2019",
+					"indices": [
+						35,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097174481297125400,
+					"id_str": "1097174481297125378",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DznyYK5WsAI5dHh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznyYK5WsAI5dHh.jpg",
+					"url": "https://t.co/V5jzg4RhGd",
+					"display_url": "pic.twitter.com/V5jzg4RhGd",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097174486024183808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097174481297125400,
+					"id_str": "1097174481297125378",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/DznyYK5WsAI5dHh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznyYK5WsAI5dHh.jpg",
+					"url": "https://t.co/V5jzg4RhGd",
+					"display_url": "pic.twitter.com/V5jzg4RhGd",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097174486024183808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1486,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Judges look happy! #suinvent #IFTP #IFTP2019 https://t.co/V5jzg4RhGd"
+	},
+	{
+		"created_at": "Sun Feb 17 16:27:03 +0000 2019",
+		"id": 1097170570070949900,
+		"id_str": "1097174026320076800",
+		"full_text": "#IFTP #InventForThePlanet Les équipes ont présenté leurs travaux devant un jury attentif. Les résultats sont attendus. Le jury délibère. Campus @ArtsetMetiers_  d’ @aixmaville https://t.co/dyLMxxzy4k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IFTP",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "InventForThePlanet",
+					"indices": [
+						6,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ArtsetMetiers_",
+					"name": "Arts et Métiers - ENSAM",
+					"id": 92709348,
+					"id_str": "92709348",
+					"indices": [
+						144,
+						159
+					]
+				},
+				{
+					"screen_name": "aixmaville",
+					"name": "Aix-en-Provence",
+					"id": 223447750,
+					"id_str": "223447750",
+					"indices": [
+						164,
+						175
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097170540643708900,
+					"id_str": "1097170540643708934",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Dznuyy0XcAYJr3U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dznuyy0XcAYJr3U.jpg",
+					"url": "https://t.co/dyLMxxzy4k",
+					"display_url": "pic.twitter.com/dyLMxxzy4k",
+					"expanded_url": "https://twitter.com/ArtsetMetiers_/status/1097170570070949888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097170540643708900,
+					"id_str": "1097170540643708934",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Dznuyy0XcAYJr3U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dznuyy0XcAYJr3U.jpg",
+					"url": "https://t.co/dyLMxxzy4k",
+					"display_url": "pic.twitter.com/dyLMxxzy4k",
+					"expanded_url": "https://twitter.com/ArtsetMetiers_/status/1097170570070949888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097170540664639500,
+					"id_str": "1097170540664639489",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Dznuyy5W0AEzpk6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dznuyy5W0AEzpk6.jpg",
+					"url": "https://t.co/dyLMxxzy4k",
+					"display_url": "pic.twitter.com/dyLMxxzy4k",
+					"expanded_url": "https://twitter.com/ArtsetMetiers_/status/1097170570070949888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097170540660432900,
+					"id_str": "1097170540660432896",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Dznuyy4WoAAkXKV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dznuyy4WoAAkXKV.jpg",
+					"url": "https://t.co/dyLMxxzy4k",
+					"display_url": "pic.twitter.com/dyLMxxzy4k",
+					"expanded_url": "https://twitter.com/ArtsetMetiers_/status/1097170570070949888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097170540710760400,
+					"id_str": "1097170540710760448",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/DznuyzEWkAAwhuD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznuyzEWkAAwhuD.jpg",
+					"url": "https://t.co/dyLMxxzy4k",
+					"display_url": "pic.twitter.com/dyLMxxzy4k",
+					"expanded_url": "https://twitter.com/ArtsetMetiers_/status/1097170570070949888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 92709348,
+			"id_str": "92709348",
+			"name": "Arts et Métiers - ENSAM",
+			"screen_name": "ArtsetMetiers_",
+			"location": "",
+			"description": "Arts et Métiers ParisTech (ENSAM) Grande école d'ingénieurs française. Accélérateur de talents pour l'industrie du Futur. Membre @heSam_Univ & @industrie_futur",
+			"url": "https://t.co/2ujTCzT5ah",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ujTCzT5ah",
+							"expanded_url": "http://www.artsetmetiers.fr",
+							"display_url": "artsetmetiers.fr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8563,
+			"friends_count": 1375,
+			"listed_count": 515,
+			"created_at": "Thu Nov 26 07:50:44 +0000 2009",
+			"favourites_count": 4052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13135,
+			"lang": "fr",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/683981719926620160/cyWh6Kot_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/683981719926620160/cyWh6Kot_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/92709348/1549295219",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "#IFTP #InventForThePlanet Les équipes ont présenté leurs travaux devant un jury attentif. Les résultats sont attendus. Le jury délibère. Campus @ArtsetMetiers_  d’ @aixmaville https://t.co/dyLMxxzy4k"
+	},
+	{
+		"created_at": "Sun Feb 17 16:21:56 +0000 2019",
+		"id": 1097169283157774300,
+		"id_str": "1097170016418570240",
+		"full_text": "It’s Sunday, last day of Invent for the Planet and we are LIVE! #IFTP | Invent for the Planet Live show https://t.co/QBegZIG1w0 vía @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IFTP",
+					"indices": [
+						64,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						132,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QBegZIG1w0",
+					"expanded_url": "http://youtu.be/HjCRK2MppDc",
+					"display_url": "youtu.be/HjCRK2MppDc",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4865305574,
+			"id_str": "4865305574",
+			"name": "UP Yucatán",
+			"screen_name": "UPYucatan",
+			"location": "Ucú, Yucatán",
+			"description": "Universidad Politécnica de Yucatán, especializada en tecnologías disruptivas, operando bajo el modelo Bilingüe, Internacional y Sustentable",
+			"url": "https://t.co/cGjQV7rPMK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cGjQV7rPMK",
+							"expanded_url": "http://www.upy.edu.mx",
+							"display_url": "upy.edu.mx",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 552,
+			"friends_count": 873,
+			"listed_count": 12,
+			"created_at": "Fri Feb 05 17:03:57 +0000 2016",
+			"favourites_count": 2022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1906,
+			"lang": "es",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058116378845097984/4bkz90vE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058116378845097984/4bkz90vE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4865305574/1547484893",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s Sunday, last day of Invent for the Planet and we are LIVE! #IFTP | Invent for the Planet Live show https://t.co/QBegZIG1w0 vía @YouTube"
+	},
+	{
+		"created_at": "Sun Feb 17 16:13:35 +0000 2019",
+		"id": 1097167183971524600,
+		"id_str": "1097167183971524619",
+		"full_text": "Judges are deliberating now. Phenomenal presentations well done everyone #SUInvent #IFTP #IFTP2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SUInvent",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"text": "IFTP",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "IFTP2019",
+					"indices": [
+						89,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1486,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Judges are deliberating now. Phenomenal presentations well done everyone #SUInvent #IFTP #IFTP2019"
+	},
+	{
+		"created_at": "Sun Feb 17 15:50:35 +0000 2019",
+		"id": 1097161394066280400,
+		"id_str": "1097161394066280448",
+		"full_text": "Last but not least is Drip addressing Proving Access to Clean Water #iftp #iftp2019 #suinvent https://t.co/fWCs6DUufu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iftp",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "iftp2019",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"text": "suinvent",
+					"indices": [
+						84,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097161389834227700,
+					"id_str": "1097161389834227713",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DznmeJZX0AEQG_A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznmeJZX0AEQG_A.jpg",
+					"url": "https://t.co/fWCs6DUufu",
+					"display_url": "pic.twitter.com/fWCs6DUufu",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097161394066280448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097161389834227700,
+					"id_str": "1097161389834227713",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/DznmeJZX0AEQG_A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznmeJZX0AEQG_A.jpg",
+					"url": "https://t.co/fWCs6DUufu",
+					"display_url": "pic.twitter.com/fWCs6DUufu",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097161394066280448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1486,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last but not least is Drip addressing Proving Access to Clean Water #iftp #iftp2019 #suinvent https://t.co/fWCs6DUufu"
+	},
+	{
+		"created_at": "Sun Feb 17 15:36:20 +0000 2019",
+		"id": 1097157807886004200,
+		"id_str": "1097157807886004225",
+		"full_text": "Fifth up is Medicare addressing Equipping Rural Medical Workers #iftp ##IFTP2019 #suinvent https://t.co/sPRVm6Oc3i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iftp",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "IFTP2019",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"text": "suinvent",
+					"indices": [
+						81,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097157803523932200,
+					"id_str": "1097157803523932160",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DznjNZWXgAAG2Mh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznjNZWXgAAG2Mh.jpg",
+					"url": "https://t.co/sPRVm6Oc3i",
+					"display_url": "pic.twitter.com/sPRVm6Oc3i",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097157807886004225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097157803523932200,
+					"id_str": "1097157803523932160",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/DznjNZWXgAAG2Mh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznjNZWXgAAG2Mh.jpg",
+					"url": "https://t.co/sPRVm6Oc3i",
+					"display_url": "pic.twitter.com/sPRVm6Oc3i",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097157807886004225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1486,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fifth up is Medicare addressing Equipping Rural Medical Workers #iftp ##IFTP2019 #suinvent https://t.co/sPRVm6Oc3i"
+	},
+	{
+		"created_at": "Sun Feb 17 15:18:14 +0000 2019",
+		"id": 1097153253094187000,
+		"id_str": "1097153253094187010",
+		"full_text": "Team Mozzie addressing Malaria Treatment Compliance #iftp ##IFTP2019 #suinvent https://t.co/rqgaGWtLDq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iftp",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "IFTP2019",
+					"indices": [
+						59,
+						68
+					]
+				},
+				{
+					"text": "suinvent",
+					"indices": [
+						69,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097153248102936600,
+					"id_str": "1097153248102936576",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DznfEPFXcAA3lCx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznfEPFXcAA3lCx.jpg",
+					"url": "https://t.co/rqgaGWtLDq",
+					"display_url": "pic.twitter.com/rqgaGWtLDq",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097153253094187010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097153248102936600,
+					"id_str": "1097153248102936576",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DznfEPFXcAA3lCx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznfEPFXcAA3lCx.jpg",
+					"url": "https://t.co/rqgaGWtLDq",
+					"display_url": "pic.twitter.com/rqgaGWtLDq",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097153253094187010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1486,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Team Mozzie addressing Malaria Treatment Compliance #iftp ##IFTP2019 #suinvent https://t.co/rqgaGWtLDq"
+	},
+	{
+		"created_at": "Sun Feb 17 15:00:01 +0000 2019",
+		"id": 1097148671500668900,
+		"id_str": "1097148671500668930",
+		"full_text": "Next up it’s Tech Connect with an application for Global IoT by creating temporary communications for disaster relief.  #IFTP2019 #iftp #suinvent https://t.co/uHqXStwrm0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IFTP2019",
+					"indices": [
+						120,
+						129
+					]
+				},
+				{
+					"text": "iftp",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "suinvent",
+					"indices": [
+						136,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097148665339228200,
+					"id_str": "1097148665339228160",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzna5e9WsAA37tS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzna5e9WsAA37tS.jpg",
+					"url": "https://t.co/uHqXStwrm0",
+					"display_url": "pic.twitter.com/uHqXStwrm0",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097148671500668930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097148665339228200,
+					"id_str": "1097148665339228160",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzna5e9WsAA37tS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzna5e9WsAA37tS.jpg",
+					"url": "https://t.co/uHqXStwrm0",
+					"display_url": "pic.twitter.com/uHqXStwrm0",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097148671500668930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1486,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Next up it’s Tech Connect with an application for Global IoT by creating temporary communications for disaster relief.  #IFTP2019 #iftp #suinvent https://t.co/uHqXStwrm0"
+	},
+	{
+		"created_at": "Sun Feb 17 14:44:34 +0000 2019",
+		"id": 1097144782982430700,
+		"id_str": "1097144782982430720",
+		"full_text": "Heart breaking opening from Supersocial addressing Loneliness   #IFTP2019 #iftp #suinvent https://t.co/0x0bf7IsuE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IFTP2019",
+					"indices": [
+						64,
+						73
+					]
+				},
+				{
+					"text": "iftp",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "suinvent",
+					"indices": [
+						80,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097144778280652800,
+					"id_str": "1097144778280652801",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DznXXOiX0AEVaQK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznXXOiX0AEVaQK.jpg",
+					"url": "https://t.co/0x0bf7IsuE",
+					"display_url": "pic.twitter.com/0x0bf7IsuE",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097144782982430720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097144778280652800,
+					"id_str": "1097144778280652801",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/DznXXOiX0AEVaQK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznXXOiX0AEVaQK.jpg",
+					"url": "https://t.co/0x0bf7IsuE",
+					"display_url": "pic.twitter.com/0x0bf7IsuE",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097144782982430720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1486,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Heart breaking opening from Supersocial addressing Loneliness   #IFTP2019 #iftp #suinvent https://t.co/0x0bf7IsuE"
+	},
+	{
+		"created_at": "Sun Feb 17 14:24:16 +0000 2019",
+		"id": 1097139671082123300,
+		"id_str": "1097139671082123265",
+		"full_text": "Team Apex is first up with “Enhance Virtual Reality”  #IFTP2019 #iftp #suinvent https://t.co/z8xiIugk5u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IFTP2019",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"text": "iftp",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "suinvent",
+					"indices": [
+						70,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097139666233507800,
+					"id_str": "1097139666233507841",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/DznStqrWwAEXFMI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznStqrWwAEXFMI.jpg",
+					"url": "https://t.co/z8xiIugk5u",
+					"display_url": "pic.twitter.com/z8xiIugk5u",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097139671082123265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097139666233507800,
+					"id_str": "1097139666233507841",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/DznStqrWwAEXFMI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznStqrWwAEXFMI.jpg",
+					"url": "https://t.co/z8xiIugk5u",
+					"display_url": "pic.twitter.com/z8xiIugk5u",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097139671082123265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1486,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Team Apex is first up with “Enhance Virtual Reality”  #IFTP2019 #iftp #suinvent https://t.co/z8xiIugk5u"
+	},
+	{
+		"created_at": "Sun Feb 17 14:13:14 +0000 2019",
+		"id": 1097136896122196000,
+		"id_str": "1097136896122195968",
+		"full_text": "And we’re off #IFTP2019 #iftp #suinvent https://t.co/NQN8LNBqTy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IFTP2019",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"text": "iftp",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "suinvent",
+					"indices": [
+						30,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097136891047100400,
+					"id_str": "1097136891047100417",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DznQMITWwAEh-d2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznQMITWwAEh-d2.jpg",
+					"url": "https://t.co/NQN8LNBqTy",
+					"display_url": "pic.twitter.com/NQN8LNBqTy",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097136896122195968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097136891047100400,
+					"id_str": "1097136891047100417",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DznQMITWwAEh-d2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznQMITWwAEh-d2.jpg",
+					"url": "https://t.co/NQN8LNBqTy",
+					"display_url": "pic.twitter.com/NQN8LNBqTy",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097136896122195968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1486,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And we’re off #IFTP2019 #iftp #suinvent https://t.co/NQN8LNBqTy"
+	},
+	{
+		"created_at": "Sun Feb 17 14:08:49 +0000 2019",
+		"id": 1097135784451297300,
+		"id_str": "1097135784451297281",
+		"full_text": "#IFTP2019 #iftp #suinvent about to start the presentations at @SwanseaUni https://t.co/nGX06M9nuq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IFTP2019",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "iftp",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "suinvent",
+					"indices": [
+						16,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SwanseaUni",
+					"name": "Swansea University",
+					"id": 62489200,
+					"id_str": "62489200",
+					"indices": [
+						62,
+						73
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097135779216801800,
+					"id_str": "1097135779216801794",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DznPLaaWwAI_afe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznPLaaWwAI_afe.jpg",
+					"url": "https://t.co/nGX06M9nuq",
+					"display_url": "pic.twitter.com/nGX06M9nuq",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097135784451297281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097135779216801800,
+					"id_str": "1097135779216801794",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DznPLaaWwAI_afe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznPLaaWwAI_afe.jpg",
+					"url": "https://t.co/nGX06M9nuq",
+					"display_url": "pic.twitter.com/nGX06M9nuq",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097135784451297281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097135779204206600,
+					"id_str": "1097135779204206592",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DznPLaXWkAAy8Fh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznPLaXWkAAy8Fh.jpg",
+					"url": "https://t.co/nGX06M9nuq",
+					"display_url": "pic.twitter.com/nGX06M9nuq",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097135784451297281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1181,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 669,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2016,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097135779191709700,
+					"id_str": "1097135779191709701",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DznPLaUX4AUwBD5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznPLaUX4AUwBD5.jpg",
+					"url": "https://t.co/nGX06M9nuq",
+					"display_url": "pic.twitter.com/nGX06M9nuq",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097135784451297281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1486,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#IFTP2019 #iftp #suinvent about to start the presentations at @SwanseaUni https://t.co/nGX06M9nuq"
+	},
+	{
+		"created_at": "Sun Feb 17 13:44:05 +0000 2019",
+		"id": 1097129561526014000,
+		"id_str": "1097129561526013953",
+		"full_text": "Invent for the Planet 2019 #iftp - a wakelet curated by @SUEngineering for #SUInvent https://t.co/PIMYVELKPn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iftp",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "SUInvent",
+					"indices": [
+						75,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SUEngineering",
+					"name": "Swansea Engineering",
+					"id": 154145391,
+					"id_str": "154145391",
+					"indices": [
+						56,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PIMYVELKPn",
+					"expanded_url": "https://wakelet.com/wake/d67ad1a4-a42a-4cc4-93c8-3f99804b7e19",
+					"display_url": "wakelet.com/wake/d67ad1a4-…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1486,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Invent for the Planet 2019 #iftp - a wakelet curated by @SUEngineering for #SUInvent https://t.co/PIMYVELKPn"
+	},
+	{
+		"created_at": "Sun Feb 17 13:34:02 +0000 2019",
+		"id": 1097127030200717300,
+		"id_str": "1097127030200717314",
+		"full_text": "Teams rehearsing their presentations for mentor feedback for #suinvent #iftp https://t.co/ot9VSKpgCu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "suinvent",
+					"indices": [
+						61,
+						70
+					]
+				},
+				{
+					"text": "iftp",
+					"indices": [
+						71,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097127021673615400,
+					"id_str": "1097127021673615360",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/DznHNqBWkAAM3tv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznHNqBWkAAM3tv.jpg",
+					"url": "https://t.co/ot9VSKpgCu",
+					"display_url": "pic.twitter.com/ot9VSKpgCu",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097127030200717314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097127021673615400,
+					"id_str": "1097127021673615360",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/DznHNqBWkAAM3tv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznHNqBWkAAM3tv.jpg",
+					"url": "https://t.co/ot9VSKpgCu",
+					"display_url": "pic.twitter.com/ot9VSKpgCu",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097127030200717314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097127021682016300,
+					"id_str": "1097127021682016257",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/DznHNqDWwAEw1Mi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznHNqDWwAEw1Mi.jpg",
+					"url": "https://t.co/ot9VSKpgCu",
+					"display_url": "pic.twitter.com/ot9VSKpgCu",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097127030200717314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097127021682012200,
+					"id_str": "1097127021682012160",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/DznHNqDWsAAiiPy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznHNqDWsAAiiPy.jpg",
+					"url": "https://t.co/ot9VSKpgCu",
+					"display_url": "pic.twitter.com/ot9VSKpgCu",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097127030200717314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097127021686202400,
+					"id_str": "1097127021686202369",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/DznHNqEWoAEYHmS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznHNqEWoAEYHmS.jpg",
+					"url": "https://t.co/ot9VSKpgCu",
+					"display_url": "pic.twitter.com/ot9VSKpgCu",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097127030200717314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1486,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Teams rehearsing their presentations for mentor feedback for #suinvent #iftp https://t.co/ot9VSKpgCu"
+	},
+	{
+		"created_at": "Sun Feb 17 11:00:29 +0000 2019",
+		"id": 1097088389579329500,
+		"id_str": "1097088389579329536",
+		"full_text": "Getting communications ready for #suinvent #iftp https://t.co/BUCnobJJDM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "suinvent",
+					"indices": [
+						33,
+						42
+					]
+				},
+				{
+					"text": "iftp",
+					"indices": [
+						43,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BUCnobJJDM",
+					"expanded_url": "https://www.pscp.tv/w/bzk2TTE4MjAyMDF8MVlxS0R5QldiTUJHVugGhmjDD5zB1uE1mYA87db-TAZ4wWEcf83I75Yx4EF3",
+					"display_url": "pscp.tv/w/bzk2TTE4MjAy…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1486,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Getting communications ready for #suinvent #iftp https://t.co/BUCnobJJDM"
+	},
+	{
+		"created_at": "Sun Feb 17 10:58:38 +0000 2019",
+		"id": 1097087922816380900,
+		"id_str": "1097087922816380928",
+		"full_text": "Presentation preparation for#suinvent #iftp https://t.co/LjTnQxJVTs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iftp",
+					"indices": [
+						38,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097087918152319000,
+					"id_str": "1097087918152318976",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DzmjpiDXgAAeA2p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzmjpiDXgAAeA2p.jpg",
+					"url": "https://t.co/LjTnQxJVTs",
+					"display_url": "pic.twitter.com/LjTnQxJVTs",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097087922816380928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097087918152319000,
+					"id_str": "1097087918152318976",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DzmjpiDXgAAeA2p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzmjpiDXgAAeA2p.jpg",
+					"url": "https://t.co/LjTnQxJVTs",
+					"display_url": "pic.twitter.com/LjTnQxJVTs",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097087922816380928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097087918181703700,
+					"id_str": "1097087918181703680",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DzmjpiKX4AAUHoM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzmjpiKX4AAUHoM.jpg",
+					"url": "https://t.co/LjTnQxJVTs",
+					"display_url": "pic.twitter.com/LjTnQxJVTs",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097087922816380928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097087918177509400,
+					"id_str": "1097087918177509381",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DzmjpiJX4AUPi6M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzmjpiJX4AUPi6M.jpg",
+					"url": "https://t.co/LjTnQxJVTs",
+					"display_url": "pic.twitter.com/LjTnQxJVTs",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097087922816380928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097087918185869300,
+					"id_str": "1097087918185869312",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/DzmjpiLXcAAniy-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzmjpiLXcAAniy-.jpg",
+					"url": "https://t.co/LjTnQxJVTs",
+					"display_url": "pic.twitter.com/LjTnQxJVTs",
+					"expanded_url": "https://twitter.com/cpjobling/status/1097087922816380928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1486,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Presentation preparation for#suinvent #iftp https://t.co/LjTnQxJVTs"
+	},
+	{
+		"created_at": "Fri Feb 15 22:21:24 +0000 2019",
+		"id": 1096534969776828400,
+		"id_str": "1097068778909847552",
+		"full_text": "Invent for the Planet 2019 with @TAMU is well underway! Our incredible students are presenting their initial solutions to Needs Statements. #IFTP https://t.co/izAnDrY6n1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IFTP",
+					"indices": [
+						140,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TAMU",
+					"name": "Texas A&M University",
+					"id": 17237540,
+					"id_str": "17237540",
+					"indices": [
+						32,
+						37
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096534960889098200,
+					"id_str": "1096534960889098240",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DzesvLuXcAAspcD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzesvLuXcAAspcD.jpg",
+					"url": "https://t.co/izAnDrY6n1",
+					"display_url": "pic.twitter.com/izAnDrY6n1",
+					"expanded_url": "https://twitter.com/SUEngineering/status/1096534969776828416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096534960889098200,
+					"id_str": "1096534960889098240",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/DzesvLuXcAAspcD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzesvLuXcAAspcD.jpg",
+					"url": "https://t.co/izAnDrY6n1",
+					"display_url": "pic.twitter.com/izAnDrY6n1",
+					"expanded_url": "https://twitter.com/SUEngineering/status/1096534969776828416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154145391,
+			"id_str": "154145391",
+			"name": "Swansea Engineering",
+			"screen_name": "SUEngineering",
+			"location": "Swansea University",
+			"description": "Multi-disciplinary engineering department at @SwanseaUni. Follow to find out about our pioneering research and undergraduate/postgraduate opportunities!",
+			"url": "https://t.co/wdGdUrJPS1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wdGdUrJPS1",
+							"expanded_url": "http://www.swan.ac.uk/engineering",
+							"display_url": "swan.ac.uk/engineering",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3610,
+			"friends_count": 804,
+			"listed_count": 63,
+			"created_at": "Thu Jun 10 14:01:55 +0000 2010",
+			"favourites_count": 2720,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7813,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877844628908724224/95wzwHBO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877844628908724224/95wzwHBO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154145391/1549970343",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Invent for the Planet 2019 with @TAMU is well underway! Our incredible students are presenting their initial solutions to Needs Statements. #IFTP https://t.co/izAnDrY6n1"
+	},
+	{
+		"created_at": "Sun Feb 17 07:42:04 +0000 2019",
+		"id": 1097038457485054000,
+		"id_str": "1097066766843428865",
+		"full_text": "#Hackathon #IFTP Nouveau #Teaser 👏\n🎬 Retour sur la 2e nuit des étudiants à l'#ENISE 👉 mini #interviews, ressentis et point à date ! \nDernière ligne droite 🙌 https://t.co/rCnqNYvniI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Hackathon",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "IFTP",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "Teaser",
+					"indices": [
+						25,
+						32
+					]
+				},
+				{
+					"text": "ENISE",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "interviews",
+					"indices": [
+						91,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097035804709408800,
+					"id_str": "1097035804709408768",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097035804709408768/pu/img/TqAa5H1fxcApPxDJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097035804709408768/pu/img/TqAa5H1fxcApPxDJ.jpg",
+					"url": "https://t.co/rCnqNYvniI",
+					"display_url": "pic.twitter.com/rCnqNYvniI",
+					"expanded_url": "https://twitter.com/ENISaintEtienne/status/1097038457485053953/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097035804709408800,
+					"id_str": "1097035804709408768",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1097035804709408768/pu/img/TqAa5H1fxcApPxDJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1097035804709408768/pu/img/TqAa5H1fxcApPxDJ.jpg",
+					"url": "https://t.co/rCnqNYvniI",
+					"display_url": "pic.twitter.com/rCnqNYvniI",
+					"expanded_url": "https://twitter.com/ENISaintEtienne/status/1097038457485053953/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 66500,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1097035804709408768/pu/vid/320x180/BLWegXltoqfpWzjZ.mp4?tag=6"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1097035804709408768/pu/pl/kP5kHx0cWUDhYxVn.m3u8?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1097035804709408768/pu/vid/640x360/9i3bJu_0fIu_-LOG.mp4?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1097035804709408768/pu/vid/1280x720/U56GtzAfpH3UzUte.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 386454108,
+			"id_str": "386454108",
+			"name": "École Nationale d'Ingénieurs de Saint-Étienne",
+			"screen_name": "ENISaintEtienne",
+			"location": "Saint-Etienne, France",
+			"description": "Le relais d'actualité de la #recherche, de l'#innovation et du monde #industriel \n#GénieCivil #GénieMécanique #GéniePhysique",
+			"url": "http://t.co/Sz6EefN0Gb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Sz6EefN0Gb",
+							"expanded_url": "http://www.enise.fr",
+							"display_url": "enise.fr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 549,
+			"friends_count": 195,
+			"listed_count": 19,
+			"created_at": "Fri Oct 07 09:45:54 +0000 2011",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 288,
+			"lang": "fr",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1743269297/Sans_titre-2_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1743269297/Sans_titre-2_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/386454108/1547648699",
+			"profile_link_color": "00B333",
+			"profile_sidebar_border_color": "43BF00",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "083EF0",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "#Hackathon #IFTP Nouveau #Teaser 👏\n🎬 Retour sur la 2e nuit des étudiants à l'#ENISE 👉 mini #interviews, ressentis et point à date ! \nDernière ligne droite 🙌 https://t.co/rCnqNYvniI"
+	},
+	{
+		"created_at": "Sun Feb 17 07:12:37 +0000 2019",
+		"id": 1097031042437972000,
+		"id_str": "1097066177405308928",
+		"full_text": "#hackathon #IFTP\nTandis que certains sont déjà / toujours au travail d’autres s’accordent un peu de repos 💤 https://t.co/VETDwg7raj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hackathon",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "IFTP",
+					"indices": [
+						11,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1097031007058972700,
+					"id_str": "1097031007058972672",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzlv43tW0AAmV90.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzlv43tW0AAmV90.jpg",
+					"url": "https://t.co/VETDwg7raj",
+					"display_url": "pic.twitter.com/VETDwg7raj",
+					"expanded_url": "https://twitter.com/ENISaintEtienne/status/1097031042437971968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1374,
+							"h": 1832,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097031007058972700,
+					"id_str": "1097031007058972672",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzlv43tW0AAmV90.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzlv43tW0AAmV90.jpg",
+					"url": "https://t.co/VETDwg7raj",
+					"display_url": "pic.twitter.com/VETDwg7raj",
+					"expanded_url": "https://twitter.com/ENISaintEtienne/status/1097031042437971968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1374,
+							"h": 1832,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1097031007038070800,
+					"id_str": "1097031007038070784",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzlv43oX4AAiHsh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzlv43oX4AAiHsh.jpg",
+					"url": "https://t.co/VETDwg7raj",
+					"display_url": "pic.twitter.com/VETDwg7raj",
+					"expanded_url": "https://twitter.com/ENISaintEtienne/status/1097031042437971968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1832,
+							"h": 1374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 386454108,
+			"id_str": "386454108",
+			"name": "École Nationale d'Ingénieurs de Saint-Étienne",
+			"screen_name": "ENISaintEtienne",
+			"location": "Saint-Etienne, France",
+			"description": "Le relais d'actualité de la #recherche, de l'#innovation et du monde #industriel \n#GénieCivil #GénieMécanique #GéniePhysique",
+			"url": "http://t.co/Sz6EefN0Gb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Sz6EefN0Gb",
+							"expanded_url": "http://www.enise.fr",
+							"display_url": "enise.fr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 549,
+			"friends_count": 195,
+			"listed_count": 19,
+			"created_at": "Fri Oct 07 09:45:54 +0000 2011",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 288,
+			"lang": "fr",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1743269297/Sans_titre-2_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1743269297/Sans_titre-2_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/386454108/1547648699",
+			"profile_link_color": "00B333",
+			"profile_sidebar_border_color": "43BF00",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "083EF0",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "#hackathon #IFTP\nTandis que certains sont déjà / toujours au travail d’autres s’accordent un peu de repos 💤 https://t.co/VETDwg7raj"
+	},
+	{
+		"created_at": "Sun Feb 17 03:43:09 +0000 2019",
+		"id": 1096978330039898100,
+		"id_str": "1097066119221968896",
+		"full_text": "jmu teams are at the 30 hour mark. 18 more hours until the finish line is reached for presenting inventions for three really compelling needs. #DukesInvent #IFTP @ James Madison University https://t.co/I1VDrtFYgB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DukesInvent",
+					"indices": [
+						143,
+						155
+					]
+				},
+				{
+					"text": "IFTP",
+					"indices": [
+						156,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I1VDrtFYgB",
+					"expanded_url": "https://www.instagram.com/p/Bt992SgHSPf/?utm_source=ig_twitter_share&igshid=16w1xj9nx0cgv",
+					"display_url": "instagram.com/p/Bt992SgHSPf/…",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 847397756,
+			"id_str": "847397756",
+			"name": "JMUEngineering",
+			"screen_name": "JMUEngineering",
+			"location": "Harrisonburg, Virginia",
+			"description": "What will your better be?",
+			"url": "http://t.co/pJ0ms2O9Qu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/pJ0ms2O9Qu",
+							"expanded_url": "http://www.jmu.edu/engineering",
+							"display_url": "jmu.edu/engineering",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 752,
+			"friends_count": 17,
+			"listed_count": 14,
+			"created_at": "Wed Sep 26 13:22:57 +0000 2012",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1857,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3810A6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1033854383040151552/PId7sDS6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1033854383040151552/PId7sDS6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/847397756/1526418701",
+			"profile_link_color": "8A65D4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFBF8",
+			"profile_text_color": "000306",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "jmu teams are at the 30 hour mark. 18 more hours until the finish line is reached for presenting inventions for three really compelling needs. #DukesInvent #IFTP @ James Madison University https://t.co/I1VDrtFYgB"
+	},
+	{
+		"created_at": "Sun Feb 17 03:22:44 +0000 2019",
+		"id": 1096973193112404000,
+		"id_str": "1097066046060670977",
+		"full_text": "Day #2  #iftp wrapping up for @KentState students with team meet-up and photo. Pitches tomorrow 🙌 @KentStateCAE @LaunchNET_KSU https://t.co/FVcFI7mPI9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iftp",
+					"indices": [
+						8,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KentState",
+					"name": "Kent State",
+					"id": 17790352,
+					"id_str": "17790352",
+					"indices": [
+						30,
+						40
+					]
+				},
+				{
+					"screen_name": "KentStateCAE",
+					"name": "Kent State Aeronautics & Engineering",
+					"id": 1945019450,
+					"id_str": "1945019450",
+					"indices": [
+						98,
+						111
+					]
+				},
+				{
+					"screen_name": "LaunchNET_KSU",
+					"name": "LaunchNET Kent State",
+					"id": 733428422,
+					"id_str": "733428422",
+					"indices": [
+						112,
+						126
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096973185071894500,
+					"id_str": "1096973185071894528",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzk7TMBW0AAFWG0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzk7TMBW0AAFWG0.jpg",
+					"url": "https://t.co/FVcFI7mPI9",
+					"display_url": "pic.twitter.com/FVcFI7mPI9",
+					"expanded_url": "https://twitter.com/julienewbiz/status/1096973193112403968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096973185071894500,
+					"id_str": "1096973185071894528",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzk7TMBW0AAFWG0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzk7TMBW0AAFWG0.jpg",
+					"url": "https://t.co/FVcFI7mPI9",
+					"display_url": "pic.twitter.com/FVcFI7mPI9",
+					"expanded_url": "https://twitter.com/julienewbiz/status/1096973193112403968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37313284,
+			"id_str": "37313284",
+			"name": "Julie Messing",
+			"screen_name": "julienewbiz",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/AbGPv7FzdO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AbGPv7FzdO",
+							"expanded_url": "http://www.kent.edu/launchnet",
+							"display_url": "kent.edu/launchnet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 322,
+			"friends_count": 202,
+			"listed_count": 13,
+			"created_at": "Sat May 02 23:52:22 +0000 2009",
+			"favourites_count": 1348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 946,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1941810123/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1941810123/image_normal.jpg",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "249bc600a1b6bb6a",
+			"url": "https://api.twitter.com/1.1/geo/id/249bc600a1b6bb6a.json",
+			"place_type": "city",
+			"name": "Aurora",
+			"full_name": "Aurora, OH",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-81.391771,
+							41.275668
+						],
+						[
+							-81.310528,
+							41.275668
+						],
+						[
+							-81.310528,
+							41.348308
+						],
+						[
+							-81.391771,
+							41.348308
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Day #2  #iftp wrapping up for @KentState students with team meet-up and photo. Pitches tomorrow 🙌 @KentStateCAE @LaunchNET_KSU https://t.co/FVcFI7mPI9"
+	},
+	{
+		"created_at": "Sun Feb 17 03:03:59 +0000 2019",
+		"id": 1096968475657015300,
+		"id_str": "1097066017325498368",
+		"full_text": "#IFTP | Invent for the Planet Live show https://t.co/p8rHRWEZxn vía @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IFTP",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						68,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/p8rHRWEZxn",
+					"expanded_url": "https://youtu.be/kGZFXzuvMqo",
+					"display_url": "youtu.be/kGZFXzuvMqo",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4865305574,
+			"id_str": "4865305574",
+			"name": "UP Yucatán",
+			"screen_name": "UPYucatan",
+			"location": "Ucú, Yucatán",
+			"description": "Universidad Politécnica de Yucatán, especializada en tecnologías disruptivas, operando bajo el modelo Bilingüe, Internacional y Sustentable",
+			"url": "https://t.co/cGjQV7rPMK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cGjQV7rPMK",
+							"expanded_url": "http://www.upy.edu.mx",
+							"display_url": "upy.edu.mx",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 552,
+			"friends_count": 873,
+			"listed_count": 12,
+			"created_at": "Fri Feb 05 17:03:57 +0000 2016",
+			"favourites_count": 2022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1906,
+			"lang": "es",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1058116378845097984/4bkz90vE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058116378845097984/4bkz90vE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4865305574/1547484893",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "#IFTP | Invent for the Planet Live show https://t.co/p8rHRWEZxn vía @YouTube"
+	},
+	{
+		"created_at": "Sun Feb 17 02:54:12 +0000 2019",
+		"id": 1096966011805327400,
+		"id_str": "1097065992927264770",
+		"full_text": "Working late on day two at #IFTP and exchanging ideas with @UPYucatan with solutions to take care of our aging population #innovation https://t.co/cGFw37Jxg9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IFTP",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "innovation",
+					"indices": [
+						122,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UPYucatan",
+					"name": "UP Yucatán",
+					"id": 4865305574,
+					"id_str": "4865305574",
+					"indices": [
+						59,
+						69
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096966006377873400,
+					"id_str": "1096966006377873409",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzk0xVTVAAEckft.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzk0xVTVAAEckft.jpg",
+					"url": "https://t.co/cGFw37Jxg9",
+					"display_url": "pic.twitter.com/cGFw37Jxg9",
+					"expanded_url": "https://twitter.com/PortlandStateCE/status/1096966011805327360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096966006377873400,
+					"id_str": "1096966006377873409",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzk0xVTVAAEckft.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzk0xVTVAAEckft.jpg",
+					"url": "https://t.co/cGFw37Jxg9",
+					"display_url": "pic.twitter.com/cGFw37Jxg9",
+					"expanded_url": "https://twitter.com/PortlandStateCE/status/1096966011805327360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4799100776,
+			"id_str": "4799100776",
+			"name": "PSU Entrepreneurship",
+			"screen_name": "PortlandStateCE",
+			"location": "Portland State University",
+			"description": "PSU Center for Entrepreneurship fostering collaboration and innovation at @Portland_State & Portland Metro Area.",
+			"url": "https://t.co/CnWnqFYyu9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CnWnqFYyu9",
+							"expanded_url": "http://www.pdx.edu/entrepreneurship/",
+							"display_url": "pdx.edu/entrepreneursh…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 989,
+			"friends_count": 591,
+			"listed_count": 52,
+			"created_at": "Fri Jan 22 17:20:51 +0000 2016",
+			"favourites_count": 715,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1823,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/941037019735588865/uvHEaLvz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/941037019735588865/uvHEaLvz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4799100776/1513194587",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Working late on day two at #IFTP and exchanging ideas with @UPYucatan with solutions to take care of our aging population #innovation https://t.co/cGFw37Jxg9"
+	},
+	{
+		"created_at": "Sat Feb 16 23:55:02 +0000 2019",
+		"id": 1096920924681658400,
+		"id_str": "1097065952309641216",
+		"full_text": "Another busy day helping out with #IFTP https://t.co/UylbkOEK6p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IFTP",
+					"indices": [
+						34,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096920920231428100,
+					"id_str": "1096920920231428098",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DzkLw-UWwAITf_n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzkLw-UWwAITf_n.jpg",
+					"url": "https://t.co/UylbkOEK6p",
+					"display_url": "pic.twitter.com/UylbkOEK6p",
+					"expanded_url": "https://twitter.com/GoCreateWSU/status/1096920924681658374/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 890,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096920920231428100,
+					"id_str": "1096920920231428098",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DzkLw-UWwAITf_n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzkLw-UWwAITf_n.jpg",
+					"url": "https://t.co/UylbkOEK6p",
+					"display_url": "pic.twitter.com/UylbkOEK6p",
+					"expanded_url": "https://twitter.com/GoCreateWSU/status/1096920924681658374/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 890,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3894164412,
+			"id_str": "3894164412",
+			"name": "GoCreate",
+			"screen_name": "GoCreateWSU",
+			"location": "Wichita, KS",
+			"description": "COME. COLLABORATE. CREATE. Ideas improve lives. Create jobs. Maybe even change the world. So bring your wild imaginings to GoCreate.",
+			"url": "https://t.co/huayq8NHEG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/huayq8NHEG",
+							"expanded_url": "https://gocreate.com/events/1832",
+							"display_url": "gocreate.com/events/1832",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 323,
+			"friends_count": 114,
+			"listed_count": 6,
+			"created_at": "Wed Oct 14 18:11:34 +0000 2015",
+			"favourites_count": 79,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 208,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/794201254675116032/Cy0G3yux_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/794201254675116032/Cy0G3yux_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3894164412/1510784038",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Another busy day helping out with #IFTP https://t.co/UylbkOEK6p"
+	},
+	{
+		"created_at": "Sat Feb 16 23:14:38 +0000 2019",
+		"id": 1096910754647892000,
+		"id_str": "1097065900493234177",
+		"full_text": "Fantastic work at #IFTP  @CFISDCyLakes! https://t.co/lhkSFkVQru",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IFTP",
+					"indices": [
+						18,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CFISDCyLakes",
+					"name": "Cy Lakes HS",
+					"id": 2576935890,
+					"id_str": "2576935890",
+					"indices": [
+						25,
+						38
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096910745965654000,
+					"id_str": "1096910745965654016",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DzkCgwOXcAAOBSv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzkCgwOXcAAOBSv.jpg",
+					"url": "https://t.co/lhkSFkVQru",
+					"display_url": "pic.twitter.com/lhkSFkVQru",
+					"expanded_url": "https://twitter.com/SparkTAMU/status/1096910754647891968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096910745965654000,
+					"id_str": "1096910745965654016",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/DzkCgwOXcAAOBSv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzkCgwOXcAAOBSv.jpg",
+					"url": "https://t.co/lhkSFkVQru",
+					"display_url": "pic.twitter.com/lhkSFkVQru",
+					"expanded_url": "https://twitter.com/SparkTAMU/status/1096910754647891968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2769227087,
+			"id_str": "2769227087",
+			"name": "Spark! PK-12 Engineering Education Outreach",
+			"screen_name": "SparkTAMU",
+			"location": "College Station, Texas",
+			"description": "Ignite an Engineering Spirit!",
+			"url": "https://t.co/8a6yG9c1tq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8a6yG9c1tq",
+							"expanded_url": "http://tx.ag/spark",
+							"display_url": "tx.ag/spark",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 857,
+			"friends_count": 555,
+			"listed_count": 24,
+			"created_at": "Sat Sep 13 19:23:59 +0000 2014",
+			"favourites_count": 1475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1333,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "500000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/930189872182132736/npFruM5a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/930189872182132736/npFruM5a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2769227087/1489007792",
+			"profile_link_color": "500000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fantastic work at #IFTP  @CFISDCyLakes! https://t.co/lhkSFkVQru"
+	},
+	{
+		"created_at": "Sat Feb 16 23:02:52 +0000 2019",
+		"id": 1096907794358386700,
+		"id_str": "1097065737070493696",
+		"full_text": "A productive second day on Invent for the Planet @SwanseaUni - and fortunately no earthquake for us this year! \nThanks to today’s fantastic experts &amp; mentors, and to @thebeardedtacos &amp; Dilly’s Kitchen for keeping us fed! \n #IFTP https://t.co/wff72YS5Yu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IFTP",
+					"indices": [
+						231,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SwanseaUni",
+					"name": "Swansea University",
+					"id": 62489200,
+					"id_str": "62489200",
+					"indices": [
+						49,
+						60
+					]
+				},
+				{
+					"screen_name": "thebeardedtacos",
+					"name": "The Bearded Taco",
+					"id": 3400636649,
+					"id_str": "3400636649",
+					"indices": [
+						170,
+						186
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096907789643976700,
+					"id_str": "1096907789643976704",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzj_0rEWkAAoCM1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzj_0rEWkAAoCM1.jpg",
+					"url": "https://t.co/wff72YS5Yu",
+					"display_url": "pic.twitter.com/wff72YS5Yu",
+					"expanded_url": "https://twitter.com/SUinTexas/status/1096907794358386690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 663,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1132,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096907789643976700,
+					"id_str": "1096907789643976704",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzj_0rEWkAAoCM1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzj_0rEWkAAoCM1.jpg",
+					"url": "https://t.co/wff72YS5Yu",
+					"display_url": "pic.twitter.com/wff72YS5Yu",
+					"expanded_url": "https://twitter.com/SUinTexas/status/1096907794358386690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 663,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1132,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2751882590,
+			"id_str": "2751882590",
+			"name": "Swansea Uni in Texas",
+			"screen_name": "SUinTexas",
+			"location": "Swansea, UK",
+			"description": "News from Swansea University's sector-leading Strategic Partnership with universities & health institutions in Texas. Read more at https://t.co/XOsAgohEcV",
+			"url": "https://t.co/XOsAgohEcV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XOsAgohEcV",
+							"expanded_url": "http://www.swansea.ac.uk/Texas",
+							"display_url": "swansea.ac.uk/Texas",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XOsAgohEcV",
+							"expanded_url": "http://www.swansea.ac.uk/Texas",
+							"display_url": "swansea.ac.uk/Texas",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 411,
+			"friends_count": 118,
+			"listed_count": 6,
+			"created_at": "Thu Aug 21 10:59:59 +0000 2014",
+			"favourites_count": 741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1041,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/965981821287784448/C8bOGn0c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/965981821287784448/C8bOGn0c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2751882590/1408619300",
+			"profile_link_color": "194899",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A productive second day on Invent for the Planet @SwanseaUni - and fortunately no earthquake for us this year! \nThanks to today’s fantastic experts &amp; mentors, and to @thebeardedtacos &amp; Dilly’s Kitchen for keeping us fed! \n #IFTP https://t.co/wff72YS5Yu"
+	},
+	{
+		"created_at": "Sat Feb 16 21:15:02 +0000 2019",
+		"id": 1096880657337331700,
+		"id_str": "1097065629436256256",
+		"full_text": "Teams from @CFISDCyLakes received direct mentorship as they worked through the engineering design process during #IFTP. Excited and ready for presentations of their solutions. https://t.co/iOon7xl4rP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IFTP",
+					"indices": [
+						113,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CFISDCyLakes",
+					"name": "Cy Lakes HS",
+					"id": 2576935890,
+					"id_str": "2576935890",
+					"indices": [
+						11,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096880513422381000,
+					"id_str": "1096880513422381056",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/DzjnA_OW0AAG_Z7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzjnA_OW0AAG_Z7.jpg",
+					"url": "https://t.co/iOon7xl4rP",
+					"display_url": "pic.twitter.com/iOon7xl4rP",
+					"expanded_url": "https://twitter.com/SparkTAMU/status/1096880657337331712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096880513422381000,
+					"id_str": "1096880513422381056",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/DzjnA_OW0AAG_Z7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzjnA_OW0AAG_Z7.jpg",
+					"url": "https://t.co/iOon7xl4rP",
+					"display_url": "pic.twitter.com/iOon7xl4rP",
+					"expanded_url": "https://twitter.com/SparkTAMU/status/1096880657337331712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1096880513481142300,
+					"id_str": "1096880513481142272",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/DzjnA_cXcAAHYVA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzjnA_cXcAAHYVA.jpg",
+					"url": "https://t.co/iOon7xl4rP",
+					"display_url": "pic.twitter.com/iOon7xl4rP",
+					"expanded_url": "https://twitter.com/SparkTAMU/status/1096880657337331712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1096880513464311800,
+					"id_str": "1096880513464311812",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/DzjnA_YWoAQhwgC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzjnA_YWoAQhwgC.jpg",
+					"url": "https://t.co/iOon7xl4rP",
+					"display_url": "pic.twitter.com/iOon7xl4rP",
+					"expanded_url": "https://twitter.com/SparkTAMU/status/1096880657337331712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2769227087,
+			"id_str": "2769227087",
+			"name": "Spark! PK-12 Engineering Education Outreach",
+			"screen_name": "SparkTAMU",
+			"location": "College Station, Texas",
+			"description": "Ignite an Engineering Spirit!",
+			"url": "https://t.co/8a6yG9c1tq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8a6yG9c1tq",
+							"expanded_url": "http://tx.ag/spark",
+							"display_url": "tx.ag/spark",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 857,
+			"friends_count": 555,
+			"listed_count": 24,
+			"created_at": "Sat Sep 13 19:23:59 +0000 2014",
+			"favourites_count": 1475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1333,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "500000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/930189872182132736/npFruM5a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/930189872182132736/npFruM5a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2769227087/1489007792",
+			"profile_link_color": "500000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Teams from @CFISDCyLakes received direct mentorship as they worked through the engineering design process during #IFTP. Excited and ready for presentations of their solutions. https://t.co/iOon7xl4rP"
+	},
+	{
+		"created_at": "Sat Feb 16 20:29:58 +0000 2019",
+		"id": 1096869316375601200,
+		"id_str": "1097065436699656192",
+		"full_text": "#NMSUengineering students are working on their project, a solution for something caused by hail! Only a few hours to go! Stay tuned for updates. #IFTP https://t.co/nMTJGYC3va",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NMSUengineering",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "IFTP",
+					"indices": [
+						145,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096869294883958800,
+					"id_str": "1096869294883958784",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzjcz-6XcAAynVm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzjcz-6XcAAynVm.jpg",
+					"url": "https://t.co/nMTJGYC3va",
+					"display_url": "pic.twitter.com/nMTJGYC3va",
+					"expanded_url": "https://twitter.com/nmsu_engineer/status/1096869316375601152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096869294883958800,
+					"id_str": "1096869294883958784",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzjcz-6XcAAynVm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzjcz-6XcAAynVm.jpg",
+					"url": "https://t.co/nMTJGYC3va",
+					"display_url": "pic.twitter.com/nMTJGYC3va",
+					"expanded_url": "https://twitter.com/nmsu_engineer/status/1096869316375601152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1096869294883917800,
+					"id_str": "1096869294883917825",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzjcz-6W0AE4RzU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzjcz-6W0AE4RzU.jpg",
+					"url": "https://t.co/nMTJGYC3va",
+					"display_url": "pic.twitter.com/nMTJGYC3va",
+					"expanded_url": "https://twitter.com/nmsu_engineer/status/1096869316375601152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1096869294888140800,
+					"id_str": "1096869294888140801",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzjcz-7XQAECRUp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzjcz-7XQAECRUp.jpg",
+					"url": "https://t.co/nMTJGYC3va",
+					"display_url": "pic.twitter.com/nMTJGYC3va",
+					"expanded_url": "https://twitter.com/nmsu_engineer/status/1096869316375601152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1096869294758076400,
+					"id_str": "1096869294758076417",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzjcz-cWoAE5awl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzjcz-cWoAE5awl.jpg",
+					"url": "https://t.co/nMTJGYC3va",
+					"display_url": "pic.twitter.com/nMTJGYC3va",
+					"expanded_url": "https://twitter.com/nmsu_engineer/status/1096869316375601152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2314215974,
+			"id_str": "2314215974",
+			"name": "NMSU Engineering",
+			"screen_name": "nmsu_engineer",
+			"location": "Las Cruces, NM",
+			"description": "The College of Engineering at New Mexico State University. Seven engineering departments helping you #ShapetheFuture! Tag us! #NMSUengineering",
+			"url": "https://t.co/IgONaGOYHS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IgONaGOYHS",
+							"expanded_url": "http://engr.nmsu.edu",
+							"display_url": "engr.nmsu.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 556,
+			"friends_count": 55,
+			"listed_count": 14,
+			"created_at": "Mon Jan 27 19:57:55 +0000 2014",
+			"favourites_count": 2634,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1926,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "882345",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067923602601725954/h3lnVjAb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067923602601725954/h3lnVjAb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2314215974/1546478497",
+			"profile_link_color": "882345",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9f768ef080000",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9f768ef080000.json",
+			"place_type": "poi",
+			"name": "Engineering Complex",
+			"full_name": "Engineering Complex",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-106.75487995147705,
+							32.280094068259835
+						],
+						[
+							-106.75487995147705,
+							32.280094068259835
+						],
+						[
+							-106.75487995147705,
+							32.280094068259835
+						],
+						[
+							-106.75487995147705,
+							32.280094068259835
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#NMSUengineering students are working on their project, a solution for something caused by hail! Only a few hours to go! Stay tuned for updates. #IFTP https://t.co/nMTJGYC3va"
+	},
+	{
+		"created_at": "Sun Feb 17 08:04:31 +0000 2019",
+		"id": 1097044107342561300,
+		"id_str": "1097044107342561280",
+		"full_text": "Read my Feb 17 'swan-uni-staff' Newsletter featuring “Microscopy Gender Equality Resource” https://t.co/dYe6rjeuOC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dYe6rjeuOC",
+					"expanded_url": "https://nzzl.us/7x42nIq",
+					"display_url": "nzzl.us/7x42nIq",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1486,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17657,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Feb 17 'swan-uni-staff' Newsletter featuring “Microscopy Gender Equality Resource” https://t.co/dYe6rjeuOC"
+	},
+	{
 		"created_at": "Sat Feb 16 19:32:44 +0000 2019",
 		"id": 1096854914859319300,
 		"id_str": "1096856853856862210",
