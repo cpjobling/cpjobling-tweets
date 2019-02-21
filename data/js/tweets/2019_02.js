@@ -1,6 +1,3716 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 20 21:02:05 +0000 2019",
+		"id": 1098326950358192100,
+		"id_str": "1098326950358192131",
+		"full_text": "@NomadWarMachine @JennyLewinJones Night night Sarah. Get well soon.",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "JennyLewinJones",
+					"name": "Jenny Lewin-Jones",
+					"id": 1484808264,
+					"id_str": "1484808264",
+					"indices": [
+						17,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1098326515438227500,
+		"in_reply_to_status_id_str": "1098326515438227456",
+		"in_reply_to_user_id": 558091832,
+		"in_reply_to_user_id_str": "558091832",
+		"in_reply_to_screen_name": "NomadWarMachine",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1487,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17694,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NomadWarMachine @JennyLewinJones Night night Sarah. Get well soon."
+	},
+	{
+		"created_at": "Wed Feb 20 21:00:05 +0000 2019",
+		"id": 1098326445682819100,
+		"id_str": "1098326445682819074",
+		"full_text": "Few answers tonight. But good lurking with you #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						47,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1487,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17694,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Few answers tonight. But good lurking with you #LTHEChat"
+	},
+	{
+		"created_at": "Wed Feb 20 20:50:00 +0000 2019",
+		"id": 1098323908892282900,
+		"id_str": "1098324711879118862",
+		"full_text": "Q6 What learning &amp; teaching tips have you got for “making a contribution to the process of internationalisation” (HEA Framework)? #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						134,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5705,
+			"friends_count": 3005,
+			"listed_count": 151,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 2993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7408,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Q6 What learning &amp; teaching tips have you got for “making a contribution to the process of internationalisation” (HEA Framework)? #LTHEchat"
+	},
+	{
+		"created_at": "Wed Feb 20 20:40:00 +0000 2019",
+		"id": 1098321391965720600,
+		"id_str": "1098321439814488074",
+		"full_text": "Q5 What practical steps can individuals and/or teams take (in whatever your role is)? #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						86,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5705,
+			"friends_count": 3005,
+			"listed_count": 151,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 2993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7408,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Q5 What practical steps can individuals and/or teams take (in whatever your role is)? #LTHEchat"
+	},
+	{
+		"created_at": "Wed Feb 20 20:37:03 +0000 2019",
+		"id": 1098320648848502800,
+		"id_str": "1098320718805241857",
+		"full_text": "#LTHEchat A4 surely many of the barriers to this are the same as the barriers to more inclusive curricula generally? The lean, mean, measurable, employability, outcomes-fixated narrative of HE? The *speak* of HE does not reflect the complexity/beauty of praxis? https://t.co/wad9oCXjko",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wad9oCXjko",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1098318875442270208",
+					"display_url": "twitter.com/LTHEchat/statu…",
+					"indices": [
+						262,
+						285
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236802458,
+			"id_str": "236802458",
+			"name": "Sandra Sinfield",
+			"screen_name": "Danceswithcloud",
+			"location": "London and Essex",
+			"description": "Education Developer tweets #studychat & #loveld. For creativity as emancipatory practice, drawing & animation for learning & SecondLife as learning space.",
+			"url": "https://t.co/Bs3j20JL5U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Bs3j20JL5U",
+							"expanded_url": "http://learning.londonmet.ac.uk/take5/",
+							"display_url": "learning.londonmet.ac.uk/take5/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1344,
+			"friends_count": 1828,
+			"listed_count": 65,
+			"created_at": "Tue Jan 11 12:06:17 +0000 2011",
+			"favourites_count": 8697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7936,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213598693/Sandra_and_Lesley_by_sea_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213598693/Sandra_and_Lesley_by_sea_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236802458/1355492798",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098318875442270200,
+		"quoted_status_id_str": "1098318875442270208",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wad9oCXjko",
+			"expanded": "https://twitter.com/LTHEchat/status/1098318875442270208",
+			"display": "twitter.com/LTHEchat/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 20 20:30:00 +0000 2019",
+			"id": 1098318875442270200,
+			"id_str": "1098318875442270208",
+			"full_text": "Q4   What practical steps can institutions take towards overcoming barriers to internationalisation? #LTHEchat",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				110
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTHEchat",
+						"indices": [
+							101,
+							110
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2659221798,
+				"id_str": "2659221798",
+				"name": "LTHE Tweetchat",
+				"screen_name": "LTHEchat",
+				"location": "",
+				"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+				"url": "https://t.co/IprE39BVnA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IprE39BVnA",
+								"expanded_url": "http://lthechat.com",
+								"display_url": "lthechat.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5705,
+				"friends_count": 3005,
+				"listed_count": 151,
+				"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+				"favourites_count": 2993,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7408,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+				"profile_link_color": "7ECAE6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LTHEchat A4 surely many of the barriers to this are the same as the barriers to more inclusive curricula generally? The lean, mean, measurable, employability, outcomes-fixated narrative of HE? The *speak* of HE does not reflect the complexity/beauty of praxis? https://t.co/wad9oCXjko"
+	},
+	{
+		"created_at": "Wed Feb 20 20:31:58 +0000 2019",
+		"id": 1098319372249002000,
+		"id_str": "1098319462938435585",
+		"full_text": "@LTHEchat share these links with your academics, support them in experiencing #virtualexchange https://t.co/U8Ewv789YY find an international partner and get started! #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "virtualexchange",
+					"indices": [
+						78,
+						94
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						166,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/U8Ewv789YY",
+					"expanded_url": "https://www.unicollaboration.org/index.php/2019/02/12/online-virtual-exchange-partnering-fair-february-28/",
+					"display_url": "unicollaboration.org/index.php/2019…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1098318875442270200,
+		"in_reply_to_status_id_str": "1098318875442270208",
+		"in_reply_to_user_id": 2659221798,
+		"in_reply_to_user_id_str": "2659221798",
+		"in_reply_to_screen_name": "LTHEchat",
+		"user": {
+			"id": 81817497,
+			"id_str": "81817497",
+			"name": "Teresa MacKinnon",
+			"screen_name": "WarwickLanguage",
+			"location": "Coventry, UK",
+			"description": "Principal Teaching Fellow at University of Warwick, Senior Fellow HEA, CMALT Learning Technologist.",
+			"url": "https://t.co/sDZp6LOabl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sDZp6LOabl",
+							"expanded_url": "https://about.me/teresamackinnon",
+							"display_url": "about.me/teresamackinnon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5740,
+			"friends_count": 6253,
+			"listed_count": 485,
+			"created_at": "Mon Oct 12 11:11:38 +0000 2009",
+			"favourites_count": 33214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55465,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/754956635450200064/iN-luRsi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/754956635450200064/iN-luRsi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/81817497/1354468137",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@LTHEchat share these links with your academics, support them in experiencing #virtualexchange https://t.co/U8Ewv789YY find an international partner and get started! #LTHEchat"
+	},
+	{
+		"created_at": "Wed Feb 20 20:30:00 +0000 2019",
+		"id": 1098318875442270200,
+		"id_str": "1098318951673724934",
+		"full_text": "Q4   What practical steps can institutions take towards overcoming barriers to internationalisation? #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5705,
+			"friends_count": 3005,
+			"listed_count": 151,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 2993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7408,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Q4   What practical steps can institutions take towards overcoming barriers to internationalisation? #LTHEchat"
+	},
+	{
+		"created_at": "Wed Feb 20 20:25:19 +0000 2019",
+		"id": 1098317695810981900,
+		"id_str": "1098317877059424256",
+		"full_text": "@LTHEchat A3 #lthechat ummmmm https://t.co/pmdW2pk3z1",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			29
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lthechat",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1098317688131256300,
+					"id_str": "1098317688131256320",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dz4CHkOXgAAid9N.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dz4CHkOXgAAid9N.jpg",
+					"url": "https://t.co/pmdW2pk3z1",
+					"display_url": "pic.twitter.com/pmdW2pk3z1",
+					"expanded_url": "https://twitter.com/MichaelONeill89/status/1098317695810981888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 276,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 276,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098317688131256300,
+					"id_str": "1098317688131256320",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dz4CHkOXgAAid9N.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dz4CHkOXgAAid9N.jpg",
+					"url": "https://t.co/pmdW2pk3z1",
+					"display_url": "pic.twitter.com/pmdW2pk3z1",
+					"expanded_url": "https://twitter.com/MichaelONeill89/status/1098317695810981888/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 276,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 276,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							46
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Dz4CHkOXgAAid9N.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1098316358645821400,
+		"in_reply_to_status_id_str": "1098316358645821440",
+		"in_reply_to_user_id": 2659221798,
+		"in_reply_to_user_id_str": "2659221798",
+		"in_reply_to_screen_name": "LTHEchat",
+		"user": {
+			"id": 902222919245418500,
+			"id_str": "902222919245418497",
+			"name": "M.",
+			"screen_name": "MichaelONeill89",
+			"location": "Hull, England",
+			"description": "my head says Bulbasaur, but my heart says Charmander",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 322,
+			"friends_count": 1201,
+			"listed_count": 0,
+			"created_at": "Mon Aug 28 17:34:41 +0000 2017",
+			"favourites_count": 13666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3673,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077814000820408321/SafgzMf-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077814000820408321/SafgzMf-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/902222919245418497/1547713634",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@LTHEchat A3 #lthechat ummmmm https://t.co/pmdW2pk3z1"
+	},
+	{
+		"created_at": "Wed Feb 20 20:24:05 +0000 2019",
+		"id": 1098317386837561300,
+		"id_str": "1098317386837561345",
+		"full_text": "A3: The tribal nature of humankind. #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						36,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1487,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17694,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A3: The tribal nature of humankind. #LTHEChat"
+	},
+	{
+		"created_at": "Wed Feb 20 20:20:00 +0000 2019",
+		"id": 1098316358645821400,
+		"id_str": "1098316833537605632",
+		"full_text": "Q3  What barriers or reluctance might there be to internationalisation? #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						72,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5705,
+			"friends_count": 3005,
+			"listed_count": 151,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 2993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7408,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Q3  What barriers or reluctance might there be to internationalisation? #LTHEchat"
+	},
+	{
+		"created_at": "Wed Feb 20 20:21:29 +0000 2019",
+		"id": 1098316733323055100,
+		"id_str": "1098316733323055105",
+		"full_text": "@JennyLewinJones How about l10n and a11y? Can you guess what they are?\n\nHint: number is number of letters between first and last. \n\nComputer people hey!\n\n#LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						154,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JennyLewinJones",
+					"name": "Jenny Lewin-Jones",
+					"id": 1484808264,
+					"id_str": "1484808264",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1098313968635048000,
+		"in_reply_to_status_id_str": "1098313968635047936",
+		"in_reply_to_user_id": 1484808264,
+		"in_reply_to_user_id_str": "1484808264",
+		"in_reply_to_screen_name": "JennyLewinJones",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1487,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17694,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JennyLewinJones How about l10n and a11y? Can you guess what they are?\n\nHint: number is number of letters between first and last. \n\nComputer people hey!\n\n#LTHEChat"
+	},
+	{
+		"created_at": "Wed Feb 20 20:15:24 +0000 2019",
+		"id": 1098315203555541000,
+		"id_str": "1098315257821446145",
+		"full_text": "@LTHEchat A2 It can include international visits, international guest lectures, virtual webinars with international students or speakers #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						137,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1098313842340155400,
+		"in_reply_to_status_id_str": "1098313842340155392",
+		"in_reply_to_user_id": 2659221798,
+		"in_reply_to_user_id_str": "2659221798",
+		"in_reply_to_screen_name": "LTHEchat",
+		"user": {
+			"id": 34904126,
+			"id_str": "34904126",
+			"name": "Sue Beckingham",
+			"screen_name": "suebecks",
+			"location": "Sheffield",
+			"description": "National Teaching Fellow/Principal Lecturer/SFHEA @sheffhallamuni Social Media Researcher @Hootsuite_UK Ambassador @LTHEchat #WIASN https://t.co/rmz7tfxkQY",
+			"url": "http://t.co/7tyEm2bWZO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/7tyEm2bWZO",
+							"expanded_url": "http://www.linkedin.com/in/suebeckingham",
+							"display_url": "linkedin.com/in/suebeckingh…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rmz7tfxkQY",
+							"expanded_url": "http://socialmediaforlearning.com/",
+							"display_url": "socialmediaforlearning.com",
+							"indices": [
+								132,
+								155
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11364,
+			"friends_count": 9435,
+			"listed_count": 849,
+			"created_at": "Fri Apr 24 11:40:31 +0000 2009",
+			"favourites_count": 16865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47582,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "080808",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/752530081134837760/SoxVPTBo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/752530081134837760/SoxVPTBo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34904126/1348772653",
+			"profile_link_color": "DE1637",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A5A7A8",
+			"profile_text_color": "0A0000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@LTHEchat A2 It can include international visits, international guest lectures, virtual webinars with international students or speakers #LTHEchat"
+	},
+	{
+		"created_at": "Wed Feb 20 20:14:51 +0000 2019",
+		"id": 1098315062626926600,
+		"id_str": "1098315201206718464",
+		"full_text": "@cpjobling @LTHEchat No, but I know my colleagues @UEL_News @STaR_Injuries and @marciaw1404 would be an examples of a lecturer who’s aware of most of these issues and others at UEL too, we have a diverse student population, so need to be. #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						239,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cpjobling",
+					"name": "Chris Jobling #FBPE",
+					"id": 4229341,
+					"id_str": "4229341",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "UEL_News",
+					"name": "Uni of East London",
+					"id": 59105248,
+					"id_str": "59105248",
+					"indices": [
+						50,
+						59
+					]
+				},
+				{
+					"screen_name": "STaR_Injuries",
+					"name": "Michael",
+					"id": 1280075155,
+					"id_str": "1280075155",
+					"indices": [
+						60,
+						74
+					]
+				},
+				{
+					"screen_name": "marciaw1404",
+					"name": "Dr Marcia Wilson",
+					"id": 256702977,
+					"id_str": "256702977",
+					"indices": [
+						79,
+						91
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1098314553874677800,
+		"in_reply_to_status_id_str": "1098314553874677760",
+		"in_reply_to_user_id": 4229341,
+		"in_reply_to_user_id_str": "4229341",
+		"in_reply_to_screen_name": "cpjobling",
+		"user": {
+			"id": 23588538,
+			"id_str": "23588538",
+			"name": "Santanu Vasant",
+			"screen_name": "santanuvasant",
+			"location": "London",
+			"description": "#EdTech Head @UEL_CELT | UCL IoE MA, Ex-Brunel, Imperial, City, ICT Teach, SFHEA Journal Reviewer RLT @A_L_T #ukhelf steering member | My views. #learningspaces",
+			"url": "https://t.co/tpdRMC7GF9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tpdRMC7GF9",
+							"expanded_url": "http://about.me/santanuvasant",
+							"display_url": "about.me/santanuvasant",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1057,
+			"friends_count": 611,
+			"listed_count": 157,
+			"created_at": "Tue Mar 10 13:05:31 +0000 2009",
+			"favourites_count": 2986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11583,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077865576721076224/J44EV5tZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077865576721076224/J44EV5tZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23588538/1514966184",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@cpjobling @LTHEchat No, but I know my colleagues @UEL_News @STaR_Injuries and @marciaw1404 would be an examples of a lecturer who’s aware of most of these issues and others at UEL too, we have a diverse student population, so need to be. #LTHEChat"
+	},
+	{
+		"created_at": "Wed Feb 20 20:13:57 +0000 2019",
+		"id": 1098314838139433000,
+		"id_str": "1098314915381764097",
+		"full_text": "A2: Maybe 2 levels of this: first being to remove anything country/culture-specific or make this a specific focus (contextualise or compare it), second to actively build from students' own contrasting experiences to make new teaching/learning/assessment opportunities #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						268,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1527274158,
+			"id_str": "1527274158",
+			"name": "Sophie Cormack",
+			"screen_name": "DrSophieCormack",
+			"location": "Sunderland, UK",
+			"description": "Senior Lecturer in Cognitive Psychology, Uni. of Sunderland. Perception of time, procrastination, learning analytics, e-learning, cats, travel & happiness.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1121,
+			"friends_count": 2014,
+			"listed_count": 35,
+			"created_at": "Tue Jun 18 09:43:38 +0000 2013",
+			"favourites_count": 6148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1945,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000182689027/f9c5bf64a96b7165c2e01333577d3127_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000182689027/f9c5bf64a96b7165c2e01333577d3127_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "A2: Maybe 2 levels of this: first being to remove anything country/culture-specific or make this a specific focus (contextualise or compare it), second to actively build from students' own contrasting experiences to make new teaching/learning/assessment opportunities #LTHEchat"
+	},
+	{
+		"created_at": "Wed Feb 20 20:12:43 +0000 2019",
+		"id": 1098314527400177700,
+		"id_str": "1098314621193240582",
+		"full_text": "#LTHEchat A2 I do bang on about this - but I like to think that all HE should start with a healthy dose of de- and un-schooling: disruptive pedagogy in action - but space should also be made for students to get to know each other - to bond and make friends... https://t.co/OdguWy70hV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OdguWy70hV",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1098313842340155392",
+					"display_url": "twitter.com/LTHEchat/statu…",
+					"indices": [
+						260,
+						283
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236802458,
+			"id_str": "236802458",
+			"name": "Sandra Sinfield",
+			"screen_name": "Danceswithcloud",
+			"location": "London and Essex",
+			"description": "Education Developer tweets #studychat & #loveld. For creativity as emancipatory practice, drawing & animation for learning & SecondLife as learning space.",
+			"url": "https://t.co/Bs3j20JL5U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Bs3j20JL5U",
+							"expanded_url": "http://learning.londonmet.ac.uk/take5/",
+							"display_url": "learning.londonmet.ac.uk/take5/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1344,
+			"friends_count": 1828,
+			"listed_count": 65,
+			"created_at": "Tue Jan 11 12:06:17 +0000 2011",
+			"favourites_count": 8697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7936,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213598693/Sandra_and_Lesley_by_sea_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213598693/Sandra_and_Lesley_by_sea_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236802458/1355492798",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098313842340155400,
+		"quoted_status_id_str": "1098313842340155392",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OdguWy70hV",
+			"expanded": "https://twitter.com/LTHEchat/status/1098313842340155392",
+			"display": "twitter.com/LTHEchat/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 20 20:10:00 +0000 2019",
+			"id": 1098313842340155400,
+			"id_str": "1098313842340155392",
+			"full_text": "Q2 What might internationalisation of the curriculum ideally look like? Any examples? #LTHEchat",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				95
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTHEchat",
+						"indices": [
+							86,
+							95
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2659221798,
+				"id_str": "2659221798",
+				"name": "LTHE Tweetchat",
+				"screen_name": "LTHEchat",
+				"location": "",
+				"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+				"url": "https://t.co/IprE39BVnA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IprE39BVnA",
+								"expanded_url": "http://lthechat.com",
+								"display_url": "lthechat.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5705,
+				"friends_count": 3005,
+				"listed_count": 151,
+				"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+				"favourites_count": 2993,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7408,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+				"profile_link_color": "7ECAE6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LTHEchat A2 I do bang on about this - but I like to think that all HE should start with a healthy dose of de- and un-schooling: disruptive pedagogy in action - but space should also be made for students to get to know each other - to bond and make friends... https://t.co/OdguWy70hV"
+	},
+	{
+		"created_at": "Wed Feb 20 20:12:49 +0000 2019",
+		"id": 1098314553874677800,
+		"id_str": "1098314553874677760",
+		"full_text": "@santanuvasant @LTHEchat Can you give us any specific examples? \n\n#LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						66,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "santanuvasant",
+					"name": "Santanu Vasant",
+					"id": 23588538,
+					"id_str": "23588538",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1098314318012125200,
+		"in_reply_to_status_id_str": "1098314318012125185",
+		"in_reply_to_user_id": 23588538,
+		"in_reply_to_user_id_str": "23588538",
+		"in_reply_to_screen_name": "santanuvasant",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1487,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17694,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@santanuvasant @LTHEchat Can you give us any specific examples? \n\n#LTHEChat"
+	},
+	{
+		"created_at": "Wed Feb 20 20:11:39 +0000 2019",
+		"id": 1098314257140195300,
+		"id_str": "1098314257140195329",
+		"full_text": "@KiuSum @LTHEchat @JennyLewinJones 10 minutes goes by fast in #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						62,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KiuSum",
+					"name": "Kiu Sum",
+					"id": 246951711,
+					"id_str": "246951711",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"screen_name": "JennyLewinJones",
+					"name": "Jenny Lewin-Jones",
+					"id": 1484808264,
+					"id_str": "1484808264",
+					"indices": [
+						18,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1098314161900138500,
+		"in_reply_to_status_id_str": "1098314161900138498",
+		"in_reply_to_user_id": 246951711,
+		"in_reply_to_user_id_str": "246951711",
+		"in_reply_to_screen_name": "KiuSum",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1487,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17694,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KiuSum @LTHEchat @JennyLewinJones 10 minutes goes by fast in #LTHEChat"
+	},
+	{
+		"created_at": "Wed Feb 20 20:10:00 +0000 2019",
+		"id": 1098313842340155400,
+		"id_str": "1098313923869241345",
+		"full_text": "Q2 What might internationalisation of the curriculum ideally look like? Any examples? #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						86,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5705,
+			"friends_count": 3005,
+			"listed_count": 151,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 2993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7408,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Q2 What might internationalisation of the curriculum ideally look like? Any examples? #LTHEchat"
+	},
+	{
+		"created_at": "Wed Feb 20 20:08:30 +0000 2019",
+		"id": 1098313466404851700,
+		"id_str": "1098313466404851713",
+		"full_text": "@NomadWarMachine @baaanedict @neilwithnell And whiskey! #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						56,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "baaanedict",
+					"name": "Baaanedict",
+					"id": 987423597324103700,
+					"id_str": "987423597324103680",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"screen_name": "neilwithnell",
+					"name": "Neil Withnell",
+					"id": 249686528,
+					"id_str": "249686528",
+					"indices": [
+						29,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1098313296787226600,
+		"in_reply_to_status_id_str": "1098313296787226629",
+		"in_reply_to_user_id": 558091832,
+		"in_reply_to_user_id_str": "558091832",
+		"in_reply_to_screen_name": "NomadWarMachine",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1487,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17694,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NomadWarMachine @baaanedict @neilwithnell And whiskey! #LTHEChat"
+	},
+	{
+		"created_at": "Wed Feb 20 20:07:13 +0000 2019",
+		"id": 1098313141308584000,
+		"id_str": "1098313141308583936",
+		"full_text": "A1: in software i18n means talking to your customers in their language. I always liked that idea (and the abbreviation) #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						120,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1487,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17694,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A1: in software i18n means talking to your customers in their language. I always liked that idea (and the abbreviation) #LTHEChat"
+	},
+	{
+		"created_at": "Wed Feb 20 20:04:22 +0000 2019",
+		"id": 1098312425512812500,
+		"id_str": "1098312425512812551",
+		"full_text": "A1: ensuring the curriculum, environment and community is as accessible and welcoming to all our staff and students, no matter where they hail from? #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						149,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1487,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17694,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A1: ensuring the curriculum, environment and community is as accessible and welcoming to all our staff and students, no matter where they hail from? #LTHEChat"
+	},
+	{
+		"created_at": "Wed Feb 20 20:01:00 +0000 2019",
+		"id": 1098311577739120600,
+		"id_str": "1098311807767326722",
+		"full_text": "Q1 What do you think the purpose of internationalisation in HE is (or should be)? #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						82,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5705,
+			"friends_count": 3005,
+			"listed_count": 151,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 2993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7408,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Q1 What do you think the purpose of internationalisation in HE is (or should be)? #LTHEchat"
+	},
+	{
+		"created_at": "Wed Feb 20 20:01:17 +0000 2019",
+		"id": 1098311650954891300,
+		"id_str": "1098311650954891264",
+		"full_text": "@JennyLewinJones Hello Jenny. Good luck! #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						41,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JennyLewinJones",
+					"name": "Jenny Lewin-Jones",
+					"id": 1484808264,
+					"id_str": "1484808264",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1098311498433220600,
+		"in_reply_to_status_id_str": "1098311498433220608",
+		"in_reply_to_user_id": 1484808264,
+		"in_reply_to_user_id_str": "1484808264",
+		"in_reply_to_screen_name": "JennyLewinJones",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1487,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17694,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JennyLewinJones Hello Jenny. Good luck! #LTHEChat"
+	},
+	{
+		"created_at": "Wed Feb 20 20:00:36 +0000 2019",
+		"id": 1098311477675601900,
+		"id_str": "1098311477675601920",
+		"full_text": "@S_J_Lancaster @LeeFallin @NomadWarMachine @baaanedict @JennyLewinJones @kjhaxton @LTHEchat Nice ... #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			92,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "S_J_Lancaster",
+					"name": "Simon Lancaster",
+					"id": 240186025,
+					"id_str": "240186025",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						26,
+						42
+					]
+				},
+				{
+					"screen_name": "baaanedict",
+					"name": "Baaanedict",
+					"id": 987423597324103700,
+					"id_str": "987423597324103680",
+					"indices": [
+						43,
+						54
+					]
+				},
+				{
+					"screen_name": "JennyLewinJones",
+					"name": "Jenny Lewin-Jones",
+					"id": 1484808264,
+					"id_str": "1484808264",
+					"indices": [
+						55,
+						71
+					]
+				},
+				{
+					"screen_name": "kjhaxton",
+					"name": "Dr Katherine J Haxton",
+					"id": 34229633,
+					"id_str": "34229633",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						82,
+						91
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1098311394720653300,
+		"in_reply_to_status_id_str": "1098311394720653313",
+		"in_reply_to_user_id": 240186025,
+		"in_reply_to_user_id_str": "240186025",
+		"in_reply_to_screen_name": "S_J_Lancaster",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1487,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17694,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@S_J_Lancaster @LeeFallin @NomadWarMachine @baaanedict @JennyLewinJones @kjhaxton @LTHEchat Nice ... #LTHEChat"
+	},
+	{
+		"created_at": "Wed Feb 20 19:59:33 +0000 2019",
+		"id": 1098311212411117600,
+		"id_str": "1098311212411117568",
+		"full_text": "@LeeFallin @NomadWarMachine @baaanedict @JennyLewinJones @kjhaxton @LTHEchat Because yesterday was Tuesday I guess! #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			77,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						116,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "baaanedict",
+					"name": "Baaanedict",
+					"id": 987423597324103700,
+					"id_str": "987423597324103680",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "JennyLewinJones",
+					"name": "Jenny Lewin-Jones",
+					"id": 1484808264,
+					"id_str": "1484808264",
+					"indices": [
+						40,
+						56
+					]
+				},
+				{
+					"screen_name": "kjhaxton",
+					"name": "Dr Katherine J Haxton",
+					"id": 34229633,
+					"id_str": "34229633",
+					"indices": [
+						57,
+						66
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						67,
+						76
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1098311049336504300,
+		"in_reply_to_status_id_str": "1098311049336504325",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1487,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17694,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LeeFallin @NomadWarMachine @baaanedict @JennyLewinJones @kjhaxton @LTHEchat Because yesterday was Tuesday I guess! #LTHEChat"
+	},
+	{
+		"created_at": "Wed Feb 20 19:58:43 +0000 2019",
+		"id": 1098311003199152100,
+		"id_str": "1098311003199152129",
+		"full_text": "Hello Teresa. Hello Simon. Hello Kate. Hello everyone. Chris from @SwanseaUni here with coffee and digestives to hand. Get well soon Sarah! #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						140,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SwanseaUni",
+					"name": "Swansea University",
+					"id": 62489200,
+					"id_str": "62489200",
+					"indices": [
+						66,
+						77
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1487,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17694,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Hello Teresa. Hello Simon. Hello Kate. Hello everyone. Chris from @SwanseaUni here with coffee and digestives to hand. Get well soon Sarah! #LTHEChat"
+	},
+	{
+		"created_at": "Wed Feb 20 19:55:00 +0000 2019",
+		"id": 1098310067655503900,
+		"id_str": "1098310545818730498",
+		"full_text": "Hello all and welcome to #LTHEchat. Tonight we have @JennyLewinJones here to talk about Internationalisation in Higher Education – what does it mean and what can we do?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						25,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JennyLewinJones",
+					"name": "Jenny Lewin-Jones",
+					"id": 1484808264,
+					"id_str": "1484808264",
+					"indices": [
+						52,
+						68
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5705,
+			"friends_count": 3005,
+			"listed_count": 151,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 2993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7408,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hello all and welcome to #LTHEchat. Tonight we have @JennyLewinJones here to talk about Internationalisation in Higher Education – what does it mean and what can we do?"
+	},
+	{
+		"created_at": "Wed Feb 20 19:48:44 +0000 2019",
+		"id": 1098308492958552000,
+		"id_str": "1098308492958552064",
+		"full_text": "@LTHEchat @JennyLewinJones In 15 minutes or so #LTHEChat 138 Internationalisation in Higher Education – what does it mean and what can we do? with @JennyLewinJones",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						47,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "JennyLewinJones",
+					"name": "Jenny Lewin-Jones",
+					"id": 1484808264,
+					"id_str": "1484808264",
+					"indices": [
+						10,
+						26
+					]
+				},
+				{
+					"screen_name": "JennyLewinJones",
+					"name": "Jenny Lewin-Jones",
+					"id": 1484808264,
+					"id_str": "1484808264",
+					"indices": [
+						147,
+						163
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1097194548151889900,
+		"in_reply_to_status_id_str": "1097194548151889920",
+		"in_reply_to_user_id": 2659221798,
+		"in_reply_to_user_id_str": "2659221798",
+		"in_reply_to_screen_name": "LTHEchat",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1487,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17694,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LTHEchat @JennyLewinJones In 15 minutes or so #LTHEChat 138 Internationalisation in Higher Education – what does it mean and what can we do? with @JennyLewinJones"
+	},
+	{
+		"created_at": "Wed Feb 20 08:05:27 +0000 2019",
+		"id": 1098131505535205400,
+		"id_str": "1098131505535205376",
+		"full_text": "Read my Feb 20 'swan-uni-staff' Newsletter featuring “A systematic review of practices to promote vegetable…” https://t.co/zaju5QeHrd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zaju5QeHrd",
+					"expanded_url": "https://nzzl.us/og70utK",
+					"display_url": "nzzl.us/og70utK",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1487,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17694,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Feb 20 'swan-uni-staff' Newsletter featuring “A systematic review of practices to promote vegetable…” https://t.co/zaju5QeHrd"
+	},
+	{
 		"created_at": "Tue Feb 19 08:03:53 +0000 2019",
 		"id": 1097768719810482200,
 		"id_str": "1097768719810482176",
