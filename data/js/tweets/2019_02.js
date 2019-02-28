@@ -1,6 +1,1145 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 23 18:55:52 +0000 2019",
+		"id": 1099382352017608700,
+		"id_str": "1100802292503248897",
+		"full_text": "This is Brexit, the dystopian dream of the nearly dead, the small-minded, the stealers of dreams. https://t.co/lo7Bv285Wg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lo7Bv285Wg",
+					"expanded_url": "https://twitter.com/denismacshane/status/1099347068739567616",
+					"display_url": "twitter.com/denismacshane/…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3250741,
+			"id_str": "3250741",
+			"name": "Lawrie",
+			"screen_name": "Lawrie",
+			"location": "Europe. #HopenotHate",
+			"description": "Some things cannot be outsourced!",
+			"url": "https://t.co/VXCS80ZddW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VXCS80ZddW",
+							"expanded_url": "http://lawriephipps.co.uk",
+							"display_url": "lawriephipps.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3249,
+			"friends_count": 1168,
+			"listed_count": 167,
+			"created_at": "Mon Apr 02 21:08:17 +0000 2007",
+			"favourites_count": 5464,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27320,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993876598666551299/03Sna7Dr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993876598666551299/03Sna7Dr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3250741/1496472460",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1099347068739567600,
+		"quoted_status_id_str": "1099347068739567616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lo7Bv285Wg",
+			"expanded": "https://twitter.com/denismacshane/status/1099347068739567616",
+			"display": "twitter.com/denismacshane/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 23 16:35:40 +0000 2019",
+			"id": 1099347068739567600,
+			"id_str": "1099347068739567616",
+			"full_text": "Spanish universities to close Erasmus scholarships for UK as result of hard Brexit. Anyone care? https://t.co/XMtKoZ5Jex",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				96
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1099347058362859500,
+						"id_str": "1099347058362859520",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/D0GqUzKWwAAUHqE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0GqUzKWwAAUHqE.jpg",
+						"url": "https://t.co/XMtKoZ5Jex",
+						"display_url": "pic.twitter.com/XMtKoZ5Jex",
+						"expanded_url": "https://twitter.com/DenisMacShane/status/1099347068739567616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1099347058362859500,
+						"id_str": "1099347058362859520",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/D0GqUzKWwAAUHqE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0GqUzKWwAAUHqE.jpg",
+						"url": "https://t.co/XMtKoZ5Jex",
+						"display_url": "pic.twitter.com/XMtKoZ5Jex",
+						"expanded_url": "https://twitter.com/DenisMacShane/status/1099347068739567616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 79737242,
+				"id_str": "79737242",
+				"name": "Denis MacShane",
+				"screen_name": "DenisMacShane",
+				"location": "no locstion",
+				"description": "My book \"Brexit, No Exit How (in the End) Britain Won't Leave Europe\" Buy now  from IB Tauris. Picture © by Fabien Clairefond - All Rights Reserved,",
+				"url": "https://t.co/L36LX4tKIx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L36LX4tKIx",
+								"expanded_url": "http://www.denismacshane.com",
+								"display_url": "denismacshane.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16720,
+				"friends_count": 631,
+				"listed_count": 601,
+				"created_at": "Sun Oct 04 14:05:57 +0000 2009",
+				"favourites_count": 2278,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 67459,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2018586615/Denis_by_FabienClairefond_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2018586615/Denis_by_FabienClairefond_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/79737242/1499093916",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2397,
+			"favorite_count": 2691,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is Brexit, the dystopian dream of the nearly dead, the small-minded, the stealers of dreams. https://t.co/lo7Bv285Wg"
+	},
+	{
+		"created_at": "Sun Feb 24 10:10:37 +0000 2019",
+		"id": 1099612554064732200,
+		"id_str": "1100802229815123970",
+		"full_text": "As we stare into the abyss of Brexit, the hopes and dreams of youth discarded, the potential for millions to lose their jobs, I only have one question for any candidate in any future election. \n\n“Will you vote to join the EU?” \n\nBecause the campaign to Join the EU must start now.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3250741,
+			"id_str": "3250741",
+			"name": "Lawrie",
+			"screen_name": "Lawrie",
+			"location": "Europe. #HopenotHate",
+			"description": "Some things cannot be outsourced!",
+			"url": "https://t.co/VXCS80ZddW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VXCS80ZddW",
+							"expanded_url": "http://lawriephipps.co.uk",
+							"display_url": "lawriephipps.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3249,
+			"friends_count": 1168,
+			"listed_count": 167,
+			"created_at": "Mon Apr 02 21:08:17 +0000 2007",
+			"favourites_count": 5464,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27320,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/993876598666551299/03Sna7Dr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/993876598666551299/03Sna7Dr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3250741/1496472460",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "As we stare into the abyss of Brexit, the hopes and dreams of youth discarded, the potential for millions to lose their jobs, I only have one question for any candidate in any future election. \n\n“Will you vote to join the EU?” \n\nBecause the campaign to Join the EU must start now."
+	},
+	{
+		"created_at": "Mon Feb 25 20:31:12 +0000 2019",
+		"id": 1100131115489206300,
+		"id_str": "1100801894786785286",
+		"full_text": "This is a great summary of evidence-based study skills that can work across #HigherEd and #MedEd https://t.co/Wq94npn644",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HigherEd",
+					"indices": [
+						76,
+						85
+					]
+				},
+				{
+					"text": "MedEd",
+					"indices": [
+						90,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wq94npn644",
+					"expanded_url": "https://twitter.com/MedMnemonist/status/1098016203325562880",
+					"display_url": "twitter.com/MedMnemonist/s…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 152547223,
+			"id_str": "152547223",
+			"name": "Prof Phil Newton",
+			"screen_name": "NewtonsNeurosci",
+			"location": "Swansea University",
+			"description": "Director of Learning + Teaching @swanseamedicine. Interested in Evidence-based education, member of team @MScMedEd. OA copies of papers on website",
+			"url": "https://t.co/bD07fmrDPT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bD07fmrDPT",
+							"expanded_url": "http://www.swansea.ac.uk/staff/medicine/learningandteaching/newtonpm/#publications=is-expanded",
+							"display_url": "swansea.ac.uk/staff/medicine…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1226,
+			"friends_count": 621,
+			"listed_count": 41,
+			"created_at": "Sun Jun 06 06:49:24 +0000 2010",
+			"favourites_count": 7624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3145,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964267204/NB_Logo_mini_mini_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964267204/NB_Logo_mini_mini_normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/152547223/1451297702",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098016203325562900,
+		"quoted_status_id_str": "1098016203325562880",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Wq94npn644",
+			"expanded": "https://twitter.com/MedMnemonist/status/1098016203325562880",
+			"display": "twitter.com/MedMnemonist/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 20 00:27:17 +0000 2019",
+			"id": 1098016203325562900,
+			"id_str": "1098016203325562880",
+			"full_text": "Here's our latest episode with @DrSumeracki, one of the @AceThatTest Learning Scientists! We cover the most effective #EvidenceBased #LearningStrategies to maximize your learning potential https://t.co/cge2ihgZfV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				212
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EvidenceBased",
+						"indices": [
+							118,
+							132
+						]
+					},
+					{
+						"text": "LearningStrategies",
+						"indices": [
+							133,
+							152
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DrSumeracki",
+						"name": "Dr. Megan Sumeracki",
+						"id": 4775364622,
+						"id_str": "4775364622",
+						"indices": [
+							31,
+							43
+						]
+					},
+					{
+						"screen_name": "AceThatTest",
+						"name": "Learning Scientists",
+						"id": 4833924899,
+						"id_str": "4833924899",
+						"indices": [
+							56,
+							68
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cge2ihgZfV",
+						"expanded_url": "https://freemeded.org/podcasts/the-six-strategies-of-effective-learning",
+						"display_url": "freemeded.org/podcasts/the-s…",
+						"indices": [
+							189,
+							212
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1055698023089500200,
+				"id_str": "1055698023089500160",
+				"name": "MedicalMnemonistPodcast",
+				"screen_name": "MedMnemonist",
+				"location": "",
+				"description": "Medical Education Mnemonic Medical School Memory Palace Speed Reading Accelerated Learning",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10,
+				"friends_count": 32,
+				"listed_count": 0,
+				"created_at": "Fri Oct 26 05:49:57 +0000 2018",
+				"favourites_count": 14,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1078767833000091649/oSgUwEX5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1078767833000091649/oSgUwEX5_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a great summary of evidence-based study skills that can work across #HigherEd and #MedEd https://t.co/Wq94npn644"
+	},
+	{
+		"created_at": "Wed Feb 27 16:56:22 +0000 2019",
+		"id": 1100801830349615100,
+		"id_str": "1100801830349615108",
+		"full_text": "@SUEngineering was discussing this very issue at today’s L&amp;T meeting. Any insights to share? https://t.co/4fIeUGvdZY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SUEngineering",
+					"name": "Swansea Engineering",
+					"id": 154145391,
+					"id_str": "154145391",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4fIeUGvdZY",
+					"expanded_url": "https://twitter.com/philgmaull/status/1100430341800710146",
+					"display_url": "twitter.com/philgmaull/sta…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 154145391,
+		"in_reply_to_user_id_str": "154145391",
+		"in_reply_to_screen_name": "SUEngineering",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1492,
+			"friends_count": 1194,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17712,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1100430341800710100,
+		"quoted_status_id_str": "1100430341800710146",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4fIeUGvdZY",
+			"expanded": "https://twitter.com/philgmaull/status/1100430341800710146",
+			"display": "twitter.com/philgmaull/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 26 16:20:13 +0000 2019",
+			"id": 1100430341800710100,
+			"id_str": "1100430341800710146",
+			"full_text": "Curriculum and assessment design to combat academic misconduct. Best session of the day for me! #qualityinsights19 https://t.co/vAPIZYRAP2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				114
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "qualityinsights19",
+						"indices": [
+							96,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1100430334846480400,
+						"id_str": "1100430334846480388",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/D0WDjyiWsAQKM45.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0WDjyiWsAQKM45.jpg",
+						"url": "https://t.co/vAPIZYRAP2",
+						"display_url": "pic.twitter.com/vAPIZYRAP2",
+						"expanded_url": "https://twitter.com/PhilGMaull/status/1100430341800710146/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1100430334846480400,
+						"id_str": "1100430334846480388",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/D0WDjyiWsAQKM45.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D0WDjyiWsAQKM45.jpg",
+						"url": "https://t.co/vAPIZYRAP2",
+						"display_url": "pic.twitter.com/vAPIZYRAP2",
+						"expanded_url": "https://twitter.com/PhilGMaull/status/1100430341800710146/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 905737194270326800,
+				"id_str": "905737194270326784",
+				"name": "Phil Maull",
+				"screen_name": "PhilGMaull",
+				"location": "Swansea, Wales",
+				"description": "Head of Academic Quality Services, Swansea University.  Passionate about curriculum and assessment design for enhancing the student experience.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 156,
+				"friends_count": 198,
+				"listed_count": 0,
+				"created_at": "Thu Sep 07 10:19:09 +0000 2017",
+				"favourites_count": 1364,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 650,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/905742677521694720/K7ggH-72_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/905742677521694720/K7ggH-72_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SUEngineering was discussing this very issue at today’s L&amp;T meeting. Any insights to share? https://t.co/4fIeUGvdZY"
+	},
+	{
+		"created_at": "Wed Feb 27 14:47:32 +0000 2019",
+		"id": 1100769408627167200,
+		"id_str": "1100769467594883072",
+		"full_text": "LTEC Webinar Launch: https://t.co/7yaaw0qdxA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7yaaw0qdxA",
+					"expanded_url": "https://collegeintranet.swan.ac.uk/wordpress/ltec-lunch-and-learn-webinars/",
+					"display_url": "collegeintranet.swan.ac.uk/wordpress/ltec…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 806525141509402600,
+			"id_str": "806525141509402625",
+			"name": "SU LTEC",
+			"screen_name": "sultec4",
+			"location": "Swansea, Wales",
+			"description": "The Learning and Teaching Enhancement Centre is in the College of Engineering, Swansea University.",
+			"url": "https://t.co/QRpjAasVD8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QRpjAasVD8",
+							"expanded_url": "http://www.swansea.ac.uk/engineering/ltec/",
+							"display_url": "swansea.ac.uk/engineering/lt…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 155,
+			"friends_count": 103,
+			"listed_count": 8,
+			"created_at": "Wed Dec 07 15:45:53 +0000 2016",
+			"favourites_count": 202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 921,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/806527675825266688/tc0-6uKw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/806527675825266688/tc0-6uKw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/806525141509402625/1481126200",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "lt",
+		"text": "LTEC Webinar Launch: https://t.co/7yaaw0qdxA"
+	},
+	{
+		"created_at": "Wed Feb 27 08:03:12 +0000 2019",
+		"id": 1100667653709017100,
+		"id_str": "1100667653709017089",
+		"full_text": "Read my Feb 27 'swan-uni-staff' Newsletter featuring “Persimmon earnings top £1bn on rise in homebuilding” https://t.co/jLOc4Dph4E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jLOc4Dph4E",
+					"expanded_url": "https://nzzl.us/kjtZTgX",
+					"display_url": "nzzl.us/kjtZTgX",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1492,
+			"friends_count": 1194,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17712,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Feb 27 'swan-uni-staff' Newsletter featuring “Persimmon earnings top £1bn on rise in homebuilding” https://t.co/jLOc4Dph4E"
+	},
+	{
 		"created_at": "Tue Feb 26 08:04:30 +0000 2019",
 		"id": 1100305591204020200,
 		"id_str": "1100305591204020224",
