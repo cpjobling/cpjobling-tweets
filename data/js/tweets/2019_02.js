@@ -1,6 +1,535 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 28 08:03:39 +0000 2019",
+		"id": 1101030155340955600,
+		"id_str": "1101030155340955648",
+		"full_text": "Read the Feb 28 Newsletter curated by my PLN featuring “Findings from the 2018 ALT Annual Survey” https://t.co/n5xDutOPUT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n5xDutOPUT",
+					"expanded_url": "https://nzzl.us/SPJ8ujX",
+					"display_url": "nzzl.us/SPJ8ujX",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1495,
+			"friends_count": 1194,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17716,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Feb 28 Newsletter curated by my PLN featuring “Findings from the 2018 ALT Annual Survey” https://t.co/n5xDutOPUT"
+	},
+	{
+		"created_at": "Thu Feb 28 08:03:38 +0000 2019",
+		"id": 1101030151683559400,
+		"id_str": "1101030151683559424",
+		"full_text": "Read my Feb 28 'swan-uni-staff' Newsletter featuring “Millennial burnout': this is how it feels” https://t.co/zLDjXQ0Elx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zLDjXQ0Elx",
+					"expanded_url": "https://nzzl.us/klakKhp",
+					"display_url": "nzzl.us/klakKhp",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1495,
+			"friends_count": 1194,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17716,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Feb 28 'swan-uni-staff' Newsletter featuring “Millennial burnout': this is how it feels” https://t.co/zLDjXQ0Elx"
+	},
+	{
+		"created_at": "Mon Feb 25 08:59:59 +0000 2019",
+		"id": 1099957166335819800,
+		"id_str": "1101029920933859328",
+		"full_text": "An early reminder to save the date: 19th December 2019!\n#SocMedHE19\nFollow @SocMedHE for exciting updates! https://t.co/a5TtxjbzxU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SocMedHE19",
+					"indices": [
+						56,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SocMedHE",
+					"name": "@SocMedHE",
+					"id": 3346395670,
+					"id_str": "3346395670",
+					"indices": [
+						75,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/a5TtxjbzxU",
+					"expanded_url": "https://twitter.com/SocMedHE/status/1092707732388528128",
+					"display_url": "twitter.com/SocMedHE/statu…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34904126,
+			"id_str": "34904126",
+			"name": "Sue Beckingham",
+			"screen_name": "suebecks",
+			"location": "Sheffield",
+			"description": "National Teaching Fellow/Principal Lecturer/SFHEA @sheffhallamuni Social Media Researcher @Hootsuite_UK Ambassador @LTHEchat #WIASN https://t.co/rmz7tfxkQY",
+			"url": "http://t.co/7tyEm2bWZO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/7tyEm2bWZO",
+							"expanded_url": "http://www.linkedin.com/in/suebeckingham",
+							"display_url": "linkedin.com/in/suebeckingh…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rmz7tfxkQY",
+							"expanded_url": "http://socialmediaforlearning.com/",
+							"display_url": "socialmediaforlearning.com",
+							"indices": [
+								132,
+								155
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11393,
+			"friends_count": 9453,
+			"listed_count": 849,
+			"created_at": "Fri Apr 24 11:40:31 +0000 2009",
+			"favourites_count": 16984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47675,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "080808",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/752530081134837760/SoxVPTBo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/752530081134837760/SoxVPTBo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34904126/1348772653",
+			"profile_link_color": "DE1637",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A5A7A8",
+			"profile_text_color": "0A0000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1092707732388528100,
+		"quoted_status_id_str": "1092707732388528128",
+		"quoted_status_permalink": {
+			"url": "https://t.co/a5TtxjbzxU",
+			"expanded": "https://twitter.com/SocMedHE/status/1092707732388528128",
+			"display": "twitter.com/SocMedHE/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 05 08:53:19 +0000 2019",
+			"id": 1092707732388528100,
+			"id_str": "1092707732388528128",
+			"full_text": "If you loved #SocMedHE18 ... please register your interest for #SocMedHE19 to make sure you get all of the updates hot off the press!!! Or if you would like to join our friendly conference community please don't hesitate to get in touch! https://t.co/DHDx32c79I",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				237
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SocMedHE18",
+						"indices": [
+							13,
+							24
+						]
+					},
+					{
+						"text": "SocMedHE19",
+						"indices": [
+							63,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1092706698211536900,
+						"id_str": "1092706698211536897",
+						"indices": [
+							238,
+							261
+						],
+						"media_url": "http://pbs.twimg.com/media/DyoS896WsAEifXx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DyoS896WsAEifXx.jpg",
+						"url": "https://t.co/DHDx32c79I",
+						"display_url": "pic.twitter.com/DHDx32c79I",
+						"expanded_url": "https://twitter.com/SocMedHE/status/1092707732388528128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 481,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 849,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1448,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1092706698211536900,
+						"id_str": "1092706698211536897",
+						"indices": [
+							238,
+							261
+						],
+						"media_url": "http://pbs.twimg.com/media/DyoS896WsAEifXx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DyoS896WsAEifXx.jpg",
+						"url": "https://t.co/DHDx32c79I",
+						"display_url": "pic.twitter.com/DHDx32c79I",
+						"expanded_url": "https://twitter.com/SocMedHE/status/1092707732388528128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 481,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 849,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1448,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3346395670,
+				"id_str": "3346395670",
+				"name": "@SocMedHE",
+				"screen_name": "SocMedHE",
+				"location": "Edge Hill University Lancashire",
+				"description": "The Social Media for Learning in Higher Education Conference to be held on 19th December 2019 at Edge Hill University. @belld17 @Sarah__Wright1",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1400,
+				"friends_count": 1602,
+				"listed_count": 66,
+				"created_at": "Fri Jun 26 08:20:41 +0000 2015",
+				"favourites_count": 2325,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1955,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1101170498619260933/tUCfjpK0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101170498619260933/tUCfjpK0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3346395670/1551301632",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An early reminder to save the date: 19th December 2019!\n#SocMedHE19\nFollow @SocMedHE for exciting updates! https://t.co/a5TtxjbzxU"
+	},
+	{
 		"created_at": "Sat Feb 23 18:55:52 +0000 2019",
 		"id": 1099382352017608700,
 		"id_str": "1100802292503248897",
