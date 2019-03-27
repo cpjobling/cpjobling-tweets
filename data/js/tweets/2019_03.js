@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 26 14:16:41 +0000 2019",
+		"id": 1110490850541350900,
+		"id_str": "1110546114263089155",
+		"full_text": "Going to be discussing Reflection in Learning &amp; Teaching 8pm GMT 27/3 #advanceHE_chat #lthechat Here's a blog to trigger some thoughts https://t.co/4bL4gUWHpO #fellowshipat4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "advanceHE_chat",
+					"indices": [
+						74,
+						89
+					]
+				},
+				{
+					"text": "lthechat",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"text": "fellowshipat4",
+					"indices": [
+						163,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4bL4gUWHpO",
+					"expanded_url": "https://www.advance-he.ac.uk/news-and-views/reflection-learning-teaching",
+					"display_url": "advance-he.ac.uk/news-and-views…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1059747227755864000,
+			"id_str": "1059747227755864064",
+			"name": "Trent Institute for Learning and Teaching",
+			"screen_name": "NtuTilt",
+			"location": "Nottingham, England",
+			"description": "TILT is an institution-wide community of practice that recognises inspirational teaching at Nottingham Trent University",
+			"url": "https://t.co/CqrJfitILM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqrJfitILM",
+							"expanded_url": "https://www.ntu.ac.uk/c/tilt",
+							"display_url": "ntu.ac.uk/c/tilt",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 388,
+			"friends_count": 603,
+			"listed_count": 1,
+			"created_at": "Tue Nov 06 10:00:03 +0000 2018",
+			"favourites_count": 1351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1000,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059750498163703808/EKoyKkrI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059750498163703808/EKoyKkrI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1059747227755864064/1541512939",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Going to be discussing Reflection in Learning &amp; Teaching 8pm GMT 27/3 #advanceHE_chat #lthechat Here's a blog to trigger some thoughts https://t.co/4bL4gUWHpO #fellowshipat4"
+	},
+	{
+		"created_at": "Tue Mar 26 08:53:13 +0000 2019",
+		"id": 1110464710477008900,
+		"id_str": "1110464710477008896",
+		"full_text": "Read the Mar 26 Newsletter curated by my PLN featuring “Petition: Revoke Article 50 and remain in the EU.” https://t.co/JMDvj5xSkf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JMDvj5xSkf",
+					"expanded_url": "https://nzzl.us/LTXiEAM",
+					"display_url": "nzzl.us/LTXiEAM",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1499,
+			"friends_count": 1194,
+			"listed_count": 127,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17829,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Mar 26 Newsletter curated by my PLN featuring “Petition: Revoke Article 50 and remain in the EU.” https://t.co/JMDvj5xSkf"
+	},
+	{
 		"created_at": "Mon Mar 25 08:36:33 +0000 2019",
 		"id": 1110098130085699600,
 		"id_str": "1110098130085699584",
