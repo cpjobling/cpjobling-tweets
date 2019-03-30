@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 29 16:28:33 +0000 2019",
+		"id": 1111666462786236400,
+		"id_str": "1111666462786236418",
+		"full_text": "Read the Mar 29 Newsletter curated by my PLN featuring “Petition: Revoke Article 50 and remain in the EU.” https://t.co/XQdwRq5OGs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XQdwRq5OGs",
+					"expanded_url": "https://nzzl.us/T7jEfl8",
+					"display_url": "nzzl.us/T7jEfl8",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1498,
+			"friends_count": 1194,
+			"listed_count": 127,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17861,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Mar 29 Newsletter curated by my PLN featuring “Petition: Revoke Article 50 and remain in the EU.” https://t.co/XQdwRq5OGs"
+	},
+	{
+		"created_at": "Fri Mar 29 16:21:30 +0000 2019",
+		"id": 1111664689019322400,
+		"id_str": "1111664689019322369",
+		"full_text": "Read my Mar 29 'swan-uni-staff' Newsletter featuring “Fossil fuel subsidies are a staggering $5 tn per year |…” https://t.co/DdMJ2JdOeU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DdMJ2JdOeU",
+					"expanded_url": "https://nzzl.us/5TrKNa1",
+					"display_url": "nzzl.us/5TrKNa1",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1498,
+			"friends_count": 1194,
+			"listed_count": 127,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17861,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Mar 29 'swan-uni-staff' Newsletter featuring “Fossil fuel subsidies are a staggering $5 tn per year |…” https://t.co/DdMJ2JdOeU"
+	},
+	{
+		"created_at": "Fri Mar 29 11:31:12 +0000 2019",
+		"id": 1111591633789829100,
+		"id_str": "1111591633789829120",
+		"full_text": "@HelenDixon10 @catspyjamasnz @creativeict @llannerch @LearningTechn @debseed @RKChallen One to use today: OneNote class notebook. Tomorrow: Microsoft Teams. Future: Jupyter Notebooks and Jupyter Hub. #DigitalSkillsWeek19",
+		"truncated": false,
+		"display_text_range": [
+			88,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigitalSkillsWeek19",
+					"indices": [
+						200,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HelenDixon10",
+					"name": "Dr Helen Dixon",
+					"id": 557919019,
+					"id_str": "557919019",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "catspyjamasnz",
+					"name": "Joyce Seitzinger ❤️📝✏️",
+					"id": 10451462,
+					"id_str": "10451462",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "creativeict",
+					"name": "Rebecca Wilson",
+					"id": 16720249,
+					"id_str": "16720249",
+					"indices": [
+						29,
+						41
+					]
+				},
+				{
+					"screen_name": "llannerch",
+					"name": "Russell Todd",
+					"id": 153850585,
+					"id_str": "153850585",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"screen_name": "LearningTechn",
+					"name": "Dawn Buzzard",
+					"id": 390172856,
+					"id_str": "390172856",
+					"indices": [
+						53,
+						67
+					]
+				},
+				{
+					"screen_name": "debseed",
+					"name": "Debs Seed",
+					"id": 21219745,
+					"id_str": "21219745",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"screen_name": "RKChallen",
+					"name": "Rachel Challen",
+					"id": 19968678,
+					"id_str": "19968678",
+					"indices": [
+						77,
+						87
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1111218373432627200,
+		"in_reply_to_status_id_str": "1111218373432627200",
+		"in_reply_to_user_id": 557919019,
+		"in_reply_to_user_id_str": "557919019",
+		"in_reply_to_screen_name": "HelenDixon10",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1498,
+			"friends_count": 1194,
+			"listed_count": 127,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17861,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@HelenDixon10 @catspyjamasnz @creativeict @llannerch @LearningTechn @debseed @RKChallen One to use today: OneNote class notebook. Tomorrow: Microsoft Teams. Future: Jupyter Notebooks and Jupyter Hub. #DigitalSkillsWeek19"
+	},
+	{
 		"created_at": "Thu Mar 28 16:13:43 +0000 2019",
 		"id": 1111300341574836200,
 		"id_str": "1111300341574836224",
