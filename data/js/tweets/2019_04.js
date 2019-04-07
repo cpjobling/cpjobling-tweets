@@ -1,6 +1,746 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 06 11:13:18 +0000 2019",
+		"id": 1114484494348824600,
+		"id_str": "1114486231541473280",
+		"full_text": "Robot wars for #studyEEE at @SwanseaUni  https://t.co/NpvT8cQDXH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "studyEEE",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SwanseaUni",
+					"name": "Swansea University",
+					"id": 62489200,
+					"id_str": "62489200",
+					"indices": [
+						28,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NpvT8cQDXH",
+					"expanded_url": "https://twitter.com/i/broadcasts/1BRJjvzyOyBJw",
+					"display_url": "twitter.com/i/broadcasts/1…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 912778733345497100,
+			"id_str": "912778733345497088",
+			"name": "Swansea Uni EEE",
+			"screen_name": "SwanseaEEE",
+			"location": "Swansea, Wales",
+			"description": "Electronic and Electrical Engineering at Swansea University",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43,
+			"friends_count": 27,
+			"listed_count": 0,
+			"created_at": "Tue Sep 26 20:39:43 +0000 2017",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 327,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912784290454413313/VrG1ptTX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912784290454413313/VrG1ptTX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/912778733345497088/1506459872",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Robot wars for #studyEEE at @SwanseaUni  https://t.co/NpvT8cQDXH"
+	},
+	{
+		"created_at": "Sat Apr 06 11:13:15 +0000 2019",
+		"id": 1114460054844002300,
+		"id_str": "1114486221257023488",
+		"full_text": "Looking forward to our first visitors to the #studyEEE @SwanseaUni event. Slides https://t.co/0xEe2peMLO. https://t.co/VN0KDJJGfS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "studyEEE",
+					"indices": [
+						45,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SwanseaUni",
+					"name": "Swansea University",
+					"id": 62489200,
+					"id_str": "62489200",
+					"indices": [
+						55,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0xEe2peMLO",
+					"expanded_url": "https://bit.ly/swansea-eee-2019",
+					"display_url": "bit.ly/swansea-eee-20…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1114460039924920300,
+					"id_str": "1114460039924920320",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/D3dbgGwXsAADz7h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3dbgGwXsAADz7h.jpg",
+					"url": "https://t.co/VN0KDJJGfS",
+					"display_url": "pic.twitter.com/VN0KDJJGfS",
+					"expanded_url": "https://twitter.com/SwanseaEEE/status/1114460054844002304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114460039924920300,
+					"id_str": "1114460039924920320",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/D3dbgGwXsAADz7h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3dbgGwXsAADz7h.jpg",
+					"url": "https://t.co/VN0KDJJGfS",
+					"display_url": "pic.twitter.com/VN0KDJJGfS",
+					"expanded_url": "https://twitter.com/SwanseaEEE/status/1114460054844002304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1114460039929106400,
+					"id_str": "1114460039929106432",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/D3dbgGxXkAAksze.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3dbgGxXkAAksze.jpg",
+					"url": "https://t.co/VN0KDJJGfS",
+					"display_url": "pic.twitter.com/VN0KDJJGfS",
+					"expanded_url": "https://twitter.com/SwanseaEEE/status/1114460054844002304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1114460039916474400,
+					"id_str": "1114460039916474369",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/D3dbgGuW0AENdQp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3dbgGuW0AENdQp.jpg",
+					"url": "https://t.co/VN0KDJJGfS",
+					"display_url": "pic.twitter.com/VN0KDJJGfS",
+					"expanded_url": "https://twitter.com/SwanseaEEE/status/1114460054844002304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 912778733345497100,
+			"id_str": "912778733345497088",
+			"name": "Swansea Uni EEE",
+			"screen_name": "SwanseaEEE",
+			"location": "Swansea, Wales",
+			"description": "Electronic and Electrical Engineering at Swansea University",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43,
+			"friends_count": 27,
+			"listed_count": 0,
+			"created_at": "Tue Sep 26 20:39:43 +0000 2017",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 327,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912784290454413313/VrG1ptTX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912784290454413313/VrG1ptTX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/912778733345497088/1506459872",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking forward to our first visitors to the #studyEEE @SwanseaUni event. Slides https://t.co/0xEe2peMLO. https://t.co/VN0KDJJGfS"
+	},
+	{
+		"created_at": "Sat Apr 06 11:13:01 +0000 2019",
+		"id": 1114444895522046000,
+		"id_str": "1114486160062070784",
+		"full_text": "Welcome to @SwanseaUni #studyEEE https://t.co/UXjoB4ERj7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "studyEEE",
+					"indices": [
+						23,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SwanseaUni",
+					"name": "Swansea University",
+					"id": 62489200,
+					"id_str": "62489200",
+					"indices": [
+						11,
+						22
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114444879248150500,
+					"id_str": "1114444879248150528",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/D3dNto1W0AAGJRy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3dNto1W0AAGJRy.jpg",
+					"url": "https://t.co/UXjoB4ERj7",
+					"display_url": "pic.twitter.com/UXjoB4ERj7",
+					"expanded_url": "https://twitter.com/SwanseaEEE/status/1114444895522045952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114444879248150500,
+					"id_str": "1114444879248150528",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/D3dNto1W0AAGJRy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3dNto1W0AAGJRy.jpg",
+					"url": "https://t.co/UXjoB4ERj7",
+					"display_url": "pic.twitter.com/UXjoB4ERj7",
+					"expanded_url": "https://twitter.com/SwanseaEEE/status/1114444895522045952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1114444879244005400,
+					"id_str": "1114444879244005377",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/D3dNto0XkAEsMy-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3dNto0XkAEsMy-.jpg",
+					"url": "https://t.co/UXjoB4ERj7",
+					"display_url": "pic.twitter.com/UXjoB4ERj7",
+					"expanded_url": "https://twitter.com/SwanseaEEE/status/1114444895522045952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1114444879252336600,
+					"id_str": "1114444879252336641",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/D3dNto2WsAEPkri.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3dNto2WsAEPkri.jpg",
+					"url": "https://t.co/UXjoB4ERj7",
+					"display_url": "pic.twitter.com/UXjoB4ERj7",
+					"expanded_url": "https://twitter.com/SwanseaEEE/status/1114444895522045952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 912778733345497100,
+			"id_str": "912778733345497088",
+			"name": "Swansea Uni EEE",
+			"screen_name": "SwanseaEEE",
+			"location": "Swansea, Wales",
+			"description": "Electronic and Electrical Engineering at Swansea University",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43,
+			"friends_count": 27,
+			"listed_count": 0,
+			"created_at": "Tue Sep 26 20:39:43 +0000 2017",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 327,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912784290454413313/VrG1ptTX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912784290454413313/VrG1ptTX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/912778733345497088/1506459872",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Welcome to @SwanseaUni #studyEEE https://t.co/UXjoB4ERj7"
+	},
+	{
+		"created_at": "Sat Apr 06 07:03:23 +0000 2019",
+		"id": 1114423337525174300,
+		"id_str": "1114423337525174273",
+		"full_text": "Read the Apr 6 Newsletter curated by my PLN featuring “#femedtech Open Space [O-121]” https://t.co/ODRwjyWflZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "femedtech",
+					"indices": [
+						55,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ODRwjyWflZ",
+					"expanded_url": "https://nzzl.us/nduN6AO",
+					"display_url": "nzzl.us/nduN6AO",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1496,
+			"friends_count": 1194,
+			"listed_count": 127,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17901,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Apr 6 Newsletter curated by my PLN featuring “#femedtech Open Space [O-121]” https://t.co/ODRwjyWflZ"
+	},
+	{
 		"created_at": "Fri Apr 05 07:03:52 +0000 2019",
 		"id": 1114061070677815300,
 		"id_str": "1114061070677815296",
