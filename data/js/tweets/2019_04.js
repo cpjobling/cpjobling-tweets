@@ -1,6 +1,4473 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 29 17:02:27 +0000 2019",
+		"id": 1122905966058573800,
+		"id_str": "1122909018933145601",
+		"full_text": "Shneiderman believes that the best is yet to come. (Lecture ends) #JCML2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JCML2019",
+					"indices": [
+						66,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366808314,
+			"id_str": "366808314",
+			"name": "Rhys Jones",
+			"screen_name": "DrRhys",
+			"location": "Abertawe/Swansea",
+			"description": "No, not that one. Senior lecturer; director MA Digital Media @SwanseaUni: opinions mine. Uwch-ddarlithydd Cyfryngau Digidol @Prif_Abertawe: fi biau'r trydar.",
+			"url": "https://t.co/XPZahe4GzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XPZahe4GzO",
+							"expanded_url": "http://analog.newydd.net/",
+							"display_url": "analog.newydd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 749,
+			"listed_count": 24,
+			"created_at": "Fri Sep 02 21:27:01 +0000 2011",
+			"favourites_count": 1658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366808314/1383567414",
+			"profile_link_color": "1B7A26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Shneiderman believes that the best is yet to come. (Lecture ends) #JCML2019"
+	},
+	{
+		"created_at": "Mon Apr 29 16:49:44 +0000 2019",
+		"id": 1122905073800089600,
+		"id_str": "1122905819597590528",
+		"full_text": "The NASB would allow human oversight of machinic decisions #JCML2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JCML2019",
+					"indices": [
+						59,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366808314,
+			"id_str": "366808314",
+			"name": "Rhys Jones",
+			"screen_name": "DrRhys",
+			"location": "Abertawe/Swansea",
+			"description": "No, not that one. Senior lecturer; director MA Digital Media @SwanseaUni: opinions mine. Uwch-ddarlithydd Cyfryngau Digidol @Prif_Abertawe: fi biau'r trydar.",
+			"url": "https://t.co/XPZahe4GzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XPZahe4GzO",
+							"expanded_url": "http://analog.newydd.net/",
+							"display_url": "analog.newydd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 749,
+			"listed_count": 24,
+			"created_at": "Fri Sep 02 21:27:01 +0000 2011",
+			"favourites_count": 1658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366808314/1383567414",
+			"profile_link_color": "1B7A26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The NASB would allow human oversight of machinic decisions #JCML2019"
+	},
+	{
+		"created_at": "Mon Apr 29 16:49:41 +0000 2019",
+		"id": 1122905656833527800,
+		"id_str": "1122905806687621120",
+		"full_text": "Looking towards the future, there are opportunities and dangers. Privacy, fake news, election interference... Positive mechanisms can be upset by a small handful of bad actors. We need the tech companies to step up and propose solutions #JCML2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JCML2019",
+					"indices": [
+						237,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366808314,
+			"id_str": "366808314",
+			"name": "Rhys Jones",
+			"screen_name": "DrRhys",
+			"location": "Abertawe/Swansea",
+			"description": "No, not that one. Senior lecturer; director MA Digital Media @SwanseaUni: opinions mine. Uwch-ddarlithydd Cyfryngau Digidol @Prif_Abertawe: fi biau'r trydar.",
+			"url": "https://t.co/XPZahe4GzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XPZahe4GzO",
+							"expanded_url": "http://analog.newydd.net/",
+							"display_url": "analog.newydd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 749,
+			"listed_count": 24,
+			"created_at": "Fri Sep 02 21:27:01 +0000 2011",
+			"favourites_count": 1658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366808314/1383567414",
+			"profile_link_color": "1B7A26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Looking towards the future, there are opportunities and dangers. Privacy, fake news, election interference... Positive mechanisms can be upset by a small handful of bad actors. We need the tech companies to step up and propose solutions #JCML2019"
+	},
+	{
+		"created_at": "Mon Apr 29 16:47:04 +0000 2019",
+		"id": 1122904871005560800,
+		"id_str": "1122905149561868288",
+		"full_text": "Shneiderman proposes an NASB, a National Algorithm Safety Board, as a way to see a brighter future which will allow the use of these broader technologies. If backed by insurers, it could have a very positive effect #JCML2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JCML2019",
+					"indices": [
+						215,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366808314,
+			"id_str": "366808314",
+			"name": "Rhys Jones",
+			"screen_name": "DrRhys",
+			"location": "Abertawe/Swansea",
+			"description": "No, not that one. Senior lecturer; director MA Digital Media @SwanseaUni: opinions mine. Uwch-ddarlithydd Cyfryngau Digidol @Prif_Abertawe: fi biau'r trydar.",
+			"url": "https://t.co/XPZahe4GzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XPZahe4GzO",
+							"expanded_url": "http://analog.newydd.net/",
+							"display_url": "analog.newydd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 749,
+			"listed_count": 24,
+			"created_at": "Fri Sep 02 21:27:01 +0000 2011",
+			"favourites_count": 1658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366808314/1383567414",
+			"profile_link_color": "1B7A26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Shneiderman proposes an NASB, a National Algorithm Safety Board, as a way to see a brighter future which will allow the use of these broader technologies. If backed by insurers, it could have a very positive effect #JCML2019"
+	},
+	{
+		"created_at": "Mon Apr 29 16:47:01 +0000 2019",
+		"id": 1122903177874034700,
+		"id_str": "1122905134537814016",
+		"full_text": "AI, wrongly founded, can be deadly, as seen in the Boeing 737-Max tragedies. A symptom of overconfidence in 'intelligent technology' and excessive automation, as they didn't even tell the pilots what the plane was compensating for #JCML2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JCML2019",
+					"indices": [
+						231,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366808314,
+			"id_str": "366808314",
+			"name": "Rhys Jones",
+			"screen_name": "DrRhys",
+			"location": "Abertawe/Swansea",
+			"description": "No, not that one. Senior lecturer; director MA Digital Media @SwanseaUni: opinions mine. Uwch-ddarlithydd Cyfryngau Digidol @Prif_Abertawe: fi biau'r trydar.",
+			"url": "https://t.co/XPZahe4GzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XPZahe4GzO",
+							"expanded_url": "http://analog.newydd.net/",
+							"display_url": "analog.newydd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 749,
+			"listed_count": 24,
+			"created_at": "Fri Sep 02 21:27:01 +0000 2011",
+			"favourites_count": 1658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366808314/1383567414",
+			"profile_link_color": "1B7A26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "AI, wrongly founded, can be deadly, as seen in the Boeing 737-Max tragedies. A symptom of overconfidence in 'intelligent technology' and excessive automation, as they didn't even tell the pilots what the plane was compensating for #JCML2019"
+	},
+	{
+		"created_at": "Mon Apr 29 16:46:59 +0000 2019",
+		"id": 1122904131771994100,
+		"id_str": "1122905126455382017",
+		"full_text": "Shneiderman suspects that good practice in HCI, UX etc was not followed by those who believed that a technological fix would be all that was required #JCML2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JCML2019",
+					"indices": [
+						150,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366808314,
+			"id_str": "366808314",
+			"name": "Rhys Jones",
+			"screen_name": "DrRhys",
+			"location": "Abertawe/Swansea",
+			"description": "No, not that one. Senior lecturer; director MA Digital Media @SwanseaUni: opinions mine. Uwch-ddarlithydd Cyfryngau Digidol @Prif_Abertawe: fi biau'r trydar.",
+			"url": "https://t.co/XPZahe4GzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XPZahe4GzO",
+							"expanded_url": "http://analog.newydd.net/",
+							"display_url": "analog.newydd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 749,
+			"listed_count": 24,
+			"created_at": "Fri Sep 02 21:27:01 +0000 2011",
+			"favourites_count": 1658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366808314/1383567414",
+			"profile_link_color": "1B7A26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Shneiderman suspects that good practice in HCI, UX etc was not followed by those who believed that a technological fix would be all that was required #JCML2019"
+	},
+	{
+		"created_at": "Mon Apr 29 16:37:39 +0000 2019",
+		"id": 1122901144320266200,
+		"id_str": "1122902779343900672",
+		"full_text": "Audiences and communities are key here. We exist in overlapping communities and those have greater opportunities for connection. How can these creative communities get feedback on their endeavours? #JCML2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JCML2019",
+					"indices": [
+						198,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366808314,
+			"id_str": "366808314",
+			"name": "Rhys Jones",
+			"screen_name": "DrRhys",
+			"location": "Abertawe/Swansea",
+			"description": "No, not that one. Senior lecturer; director MA Digital Media @SwanseaUni: opinions mine. Uwch-ddarlithydd Cyfryngau Digidol @Prif_Abertawe: fi biau'r trydar.",
+			"url": "https://t.co/XPZahe4GzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XPZahe4GzO",
+							"expanded_url": "http://analog.newydd.net/",
+							"display_url": "analog.newydd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 749,
+			"listed_count": 24,
+			"created_at": "Fri Sep 02 21:27:01 +0000 2011",
+			"favourites_count": 1658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366808314/1383567414",
+			"profile_link_color": "1B7A26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Audiences and communities are key here. We exist in overlapping communities and those have greater opportunities for connection. How can these creative communities get feedback on their endeavours? #JCML2019"
+	},
+	{
+		"created_at": "Mon Apr 29 16:37:37 +0000 2019",
+		"id": 1122901872778588200,
+		"id_str": "1122902769747288064",
+		"full_text": "We need to get away from the surprisingly sticky notion of computers as humanoid. Remember Asimo, even Ananova? Elder care robots are seductive but Shneiderman doesn't think that's where we're going. Build communities instead #JCML2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JCML2019",
+					"indices": [
+						226,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366808314,
+			"id_str": "366808314",
+			"name": "Rhys Jones",
+			"screen_name": "DrRhys",
+			"location": "Abertawe/Swansea",
+			"description": "No, not that one. Senior lecturer; director MA Digital Media @SwanseaUni: opinions mine. Uwch-ddarlithydd Cyfryngau Digidol @Prif_Abertawe: fi biau'r trydar.",
+			"url": "https://t.co/XPZahe4GzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XPZahe4GzO",
+							"expanded_url": "http://analog.newydd.net/",
+							"display_url": "analog.newydd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 749,
+			"listed_count": 24,
+			"created_at": "Fri Sep 02 21:27:01 +0000 2011",
+			"favourites_count": 1658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366808314/1383567414",
+			"profile_link_color": "1B7A26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We need to get away from the surprisingly sticky notion of computers as humanoid. Remember Asimo, even Ananova? Elder care robots are seductive but Shneiderman doesn't think that's where we're going. Build communities instead #JCML2019"
+	},
+	{
+		"created_at": "Mon Apr 29 16:31:26 +0000 2019",
+		"id": 1122900657348980700,
+		"id_str": "1122901212989468674",
+		"full_text": "The decline of agriculture hasn't led to mass unemployment. Rather it's led to a rise of food production technologies and employments in that sector. Similarly with AI, it should allow us to raise our expectations of what we can do as work #JCML2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JCML2019",
+					"indices": [
+						240,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366808314,
+			"id_str": "366808314",
+			"name": "Rhys Jones",
+			"screen_name": "DrRhys",
+			"location": "Abertawe/Swansea",
+			"description": "No, not that one. Senior lecturer; director MA Digital Media @SwanseaUni: opinions mine. Uwch-ddarlithydd Cyfryngau Digidol @Prif_Abertawe: fi biau'r trydar.",
+			"url": "https://t.co/XPZahe4GzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XPZahe4GzO",
+							"expanded_url": "http://analog.newydd.net/",
+							"display_url": "analog.newydd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 749,
+			"listed_count": 24,
+			"created_at": "Fri Sep 02 21:27:01 +0000 2011",
+			"favourites_count": 1658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366808314/1383567414",
+			"profile_link_color": "1B7A26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The decline of agriculture hasn't led to mass unemployment. Rather it's led to a rise of food production technologies and employments in that sector. Similarly with AI, it should allow us to raise our expectations of what we can do as work #JCML2019"
+	},
+	{
+		"created_at": "Mon Apr 29 16:31:24 +0000 2019",
+		"id": 1122900036394848300,
+		"id_str": "1122901203560620033",
+		"full_text": "What are the next ten, or hundred, Wikipedias? Which would be the new opportunities to bring people in, to harness their knowledge? This is the human centered view, contrasting with the fears of AI dispensing with humans #JCML2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JCML2019",
+					"indices": [
+						221,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366808314,
+			"id_str": "366808314",
+			"name": "Rhys Jones",
+			"screen_name": "DrRhys",
+			"location": "Abertawe/Swansea",
+			"description": "No, not that one. Senior lecturer; director MA Digital Media @SwanseaUni: opinions mine. Uwch-ddarlithydd Cyfryngau Digidol @Prif_Abertawe: fi biau'r trydar.",
+			"url": "https://t.co/XPZahe4GzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XPZahe4GzO",
+							"expanded_url": "http://analog.newydd.net/",
+							"display_url": "analog.newydd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 749,
+			"listed_count": 24,
+			"created_at": "Fri Sep 02 21:27:01 +0000 2011",
+			"favourites_count": 1658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366808314/1383567414",
+			"profile_link_color": "1B7A26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "What are the next ten, or hundred, Wikipedias? Which would be the new opportunities to bring people in, to harness their knowledge? This is the human centered view, contrasting with the fears of AI dispensing with humans #JCML2019"
+	},
+	{
+		"created_at": "Mon Apr 29 16:23:16 +0000 2019",
+		"id": 1122899001861390300,
+		"id_str": "1122899160116748292",
+		"full_text": "The Internet was about notions of the information superhighway - information coming to you. But these days the flow can be reversed: we can tell our own stories. Giving rise to notions such as Wikipedia #JCML2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JCML2019",
+					"indices": [
+						203,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366808314,
+			"id_str": "366808314",
+			"name": "Rhys Jones",
+			"screen_name": "DrRhys",
+			"location": "Abertawe/Swansea",
+			"description": "No, not that one. Senior lecturer; director MA Digital Media @SwanseaUni: opinions mine. Uwch-ddarlithydd Cyfryngau Digidol @Prif_Abertawe: fi biau'r trydar.",
+			"url": "https://t.co/XPZahe4GzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XPZahe4GzO",
+							"expanded_url": "http://analog.newydd.net/",
+							"display_url": "analog.newydd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 749,
+			"listed_count": 24,
+			"created_at": "Fri Sep 02 21:27:01 +0000 2011",
+			"favourites_count": 1658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366808314/1383567414",
+			"profile_link_color": "1B7A26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The Internet was about notions of the information superhighway - information coming to you. But these days the flow can be reversed: we can tell our own stories. Giving rise to notions such as Wikipedia #JCML2019"
+	},
+	{
+		"created_at": "Mon Apr 29 16:23:12 +0000 2019",
+		"id": 1122898366818586600,
+		"id_str": "1122899141909196803",
+		"full_text": "They didn't buy Shneiderman's prediction that millions would be able to upload their own video in the future (an underestimate in hindsight!) #JCML2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JCML2019",
+					"indices": [
+						142,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366808314,
+			"id_str": "366808314",
+			"name": "Rhys Jones",
+			"screen_name": "DrRhys",
+			"location": "Abertawe/Swansea",
+			"description": "No, not that one. Senior lecturer; director MA Digital Media @SwanseaUni: opinions mine. Uwch-ddarlithydd Cyfryngau Digidol @Prif_Abertawe: fi biau'r trydar.",
+			"url": "https://t.co/XPZahe4GzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XPZahe4GzO",
+							"expanded_url": "http://analog.newydd.net/",
+							"display_url": "analog.newydd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 749,
+			"listed_count": 24,
+			"created_at": "Fri Sep 02 21:27:01 +0000 2011",
+			"favourites_count": 1658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366808314/1383567414",
+			"profile_link_color": "1B7A26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "They didn't buy Shneiderman's prediction that millions would be able to upload their own video in the future (an underestimate in hindsight!) #JCML2019"
+	},
+	{
+		"created_at": "Mon Apr 29 16:23:09 +0000 2019",
+		"id": 1122898145342578700,
+		"id_str": "1122899128822972419",
+		"full_text": "Shneiderman spoke to Intel's board in 1993 (including Gordon Moore!) His message was the idea of creating media, shareable content. He mentioned video and got the response that yes, Hollywood video could be downloaded by thousands online #JCML2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JCML2019",
+					"indices": [
+						238,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366808314,
+			"id_str": "366808314",
+			"name": "Rhys Jones",
+			"screen_name": "DrRhys",
+			"location": "Abertawe/Swansea",
+			"description": "No, not that one. Senior lecturer; director MA Digital Media @SwanseaUni: opinions mine. Uwch-ddarlithydd Cyfryngau Digidol @Prif_Abertawe: fi biau'r trydar.",
+			"url": "https://t.co/XPZahe4GzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XPZahe4GzO",
+							"expanded_url": "http://analog.newydd.net/",
+							"display_url": "analog.newydd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 749,
+			"listed_count": 24,
+			"created_at": "Fri Sep 02 21:27:01 +0000 2011",
+			"favourites_count": 1658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366808314/1383567414",
+			"profile_link_color": "1B7A26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Shneiderman spoke to Intel's board in 1993 (including Gordon Moore!) His message was the idea of creating media, shareable content. He mentioned video and got the response that yes, Hollywood video could be downloaded by thousands online #JCML2019"
+	},
+	{
+		"created_at": "Mon Apr 29 16:18:52 +0000 2019",
+		"id": 1122897601949589500,
+		"id_str": "1122898051788619782",
+		"full_text": "Think instead about amplifying human abilities. We can reach thousands of people with a text - who except world leaders had that power decades ago? #JCML2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JCML2019",
+					"indices": [
+						148,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366808314,
+			"id_str": "366808314",
+			"name": "Rhys Jones",
+			"screen_name": "DrRhys",
+			"location": "Abertawe/Swansea",
+			"description": "No, not that one. Senior lecturer; director MA Digital Media @SwanseaUni: opinions mine. Uwch-ddarlithydd Cyfryngau Digidol @Prif_Abertawe: fi biau'r trydar.",
+			"url": "https://t.co/XPZahe4GzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XPZahe4GzO",
+							"expanded_url": "http://analog.newydd.net/",
+							"display_url": "analog.newydd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 749,
+			"listed_count": 24,
+			"created_at": "Fri Sep 02 21:27:01 +0000 2011",
+			"favourites_count": 1658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366808314/1383567414",
+			"profile_link_color": "1B7A26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Think instead about amplifying human abilities. We can reach thousands of people with a text - who except world leaders had that power decades ago? #JCML2019"
+	},
+	{
+		"created_at": "Mon Apr 29 16:18:44 +0000 2019",
+		"id": 1122897185878749200,
+		"id_str": "1122898017990922246",
+		"full_text": "The old AI tries to emulate human abilities - is it better than a chess Grandmaster? Can it read mammograms better than a radiologist? This is an old way of thinking #JCML2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JCML2019",
+					"indices": [
+						166,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366808314,
+			"id_str": "366808314",
+			"name": "Rhys Jones",
+			"screen_name": "DrRhys",
+			"location": "Abertawe/Swansea",
+			"description": "No, not that one. Senior lecturer; director MA Digital Media @SwanseaUni: opinions mine. Uwch-ddarlithydd Cyfryngau Digidol @Prif_Abertawe: fi biau'r trydar.",
+			"url": "https://t.co/XPZahe4GzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XPZahe4GzO",
+							"expanded_url": "http://analog.newydd.net/",
+							"display_url": "analog.newydd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 749,
+			"listed_count": 24,
+			"created_at": "Fri Sep 02 21:27:01 +0000 2011",
+			"favourites_count": 1658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366808314/1383567414",
+			"profile_link_color": "1B7A26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The old AI tries to emulate human abilities - is it better than a chess Grandmaster? Can it read mammograms better than a radiologist? This is an old way of thinking #JCML2019"
+	},
+	{
+		"created_at": "Mon Apr 29 16:18:41 +0000 2019",
+		"id": 1122896880755773400,
+		"id_str": "1122898003059253248",
+		"full_text": "Another part of the old computing is AI. Let's go beyond artificial intelligence and see how computing can serve human needs. #JCML2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JCML2019",
+					"indices": [
+						126,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366808314,
+			"id_str": "366808314",
+			"name": "Rhys Jones",
+			"screen_name": "DrRhys",
+			"location": "Abertawe/Swansea",
+			"description": "No, not that one. Senior lecturer; director MA Digital Media @SwanseaUni: opinions mine. Uwch-ddarlithydd Cyfryngau Digidol @Prif_Abertawe: fi biau'r trydar.",
+			"url": "https://t.co/XPZahe4GzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XPZahe4GzO",
+							"expanded_url": "http://analog.newydd.net/",
+							"display_url": "analog.newydd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 749,
+			"listed_count": 24,
+			"created_at": "Fri Sep 02 21:27:01 +0000 2011",
+			"favourites_count": 1658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366808314/1383567414",
+			"profile_link_color": "1B7A26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Another part of the old computing is AI. Let's go beyond artificial intelligence and see how computing can serve human needs. #JCML2019"
+	},
+	{
+		"created_at": "Mon Apr 29 16:18:36 +0000 2019",
+		"id": 1122896590279184400,
+		"id_str": "1122897983803146242",
+		"full_text": "Small ideas, such as touching highlighted text, have had great impact. The old computing, exemplified by Moore's Law, needs to be shifted from computational speed to what we can actually do with our devices #JCML2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JCML2019",
+					"indices": [
+						207,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366808314,
+			"id_str": "366808314",
+			"name": "Rhys Jones",
+			"screen_name": "DrRhys",
+			"location": "Abertawe/Swansea",
+			"description": "No, not that one. Senior lecturer; director MA Digital Media @SwanseaUni: opinions mine. Uwch-ddarlithydd Cyfryngau Digidol @Prif_Abertawe: fi biau'r trydar.",
+			"url": "https://t.co/XPZahe4GzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XPZahe4GzO",
+							"expanded_url": "http://analog.newydd.net/",
+							"display_url": "analog.newydd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 749,
+			"listed_count": 24,
+			"created_at": "Fri Sep 02 21:27:01 +0000 2011",
+			"favourites_count": 1658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366808314/1383567414",
+			"profile_link_color": "1B7A26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Small ideas, such as touching highlighted text, have had great impact. The old computing, exemplified by Moore's Law, needs to be shifted from computational speed to what we can actually do with our devices #JCML2019"
+	},
+	{
+		"created_at": "Mon Apr 29 16:15:40 +0000 2019",
+		"id": 1122897243906945000,
+		"id_str": "1122897243906945029",
+		"full_text": "@DrRhys Following Rhys and occasionally chipping in #JCML2019 as Ben Schneiderman tells us about a human-centred future for AI https://t.co/USSR6dSuhy",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JCML2019",
+					"indices": [
+						52,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrRhys",
+					"name": "Rhys Jones",
+					"id": 366808314,
+					"id_str": "366808314",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1122897239389741000,
+					"id_str": "1122897239389741057",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/D5VVFwEXoAEbLoL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5VVFwEXoAEbLoL.jpg",
+					"url": "https://t.co/USSR6dSuhy",
+					"display_url": "pic.twitter.com/USSR6dSuhy",
+					"expanded_url": "https://twitter.com/cpjobling/status/1122897243906945029/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1122897239389741000,
+					"id_str": "1122897239389741057",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/D5VVFwEXoAEbLoL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5VVFwEXoAEbLoL.jpg",
+					"url": "https://t.co/USSR6dSuhy",
+					"display_url": "pic.twitter.com/USSR6dSuhy",
+					"expanded_url": "https://twitter.com/cpjobling/status/1122897243906945029/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1122892540036943900,
+		"in_reply_to_status_id_str": "1122892540036943877",
+		"in_reply_to_user_id": 366808314,
+		"in_reply_to_user_id_str": "366808314",
+		"in_reply_to_screen_name": "DrRhys",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1501,
+			"friends_count": 1192,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18028,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@DrRhys Following Rhys and occasionally chipping in #JCML2019 as Ben Schneiderman tells us about a human-centred future for AI https://t.co/USSR6dSuhy"
+	},
+	{
+		"created_at": "Mon Apr 29 16:11:22 +0000 2019",
+		"id": 1122895986601418800,
+		"id_str": "1122896164507062273",
+		"full_text": "Shneiderman takes the university motto as 'technology without culture is bereft'. He describes himself as 20% experimental psychologist - looking at how people use technologies in practice #JCML2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JCML2019",
+					"indices": [
+						189,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366808314,
+			"id_str": "366808314",
+			"name": "Rhys Jones",
+			"screen_name": "DrRhys",
+			"location": "Abertawe/Swansea",
+			"description": "No, not that one. Senior lecturer; director MA Digital Media @SwanseaUni: opinions mine. Uwch-ddarlithydd Cyfryngau Digidol @Prif_Abertawe: fi biau'r trydar.",
+			"url": "https://t.co/XPZahe4GzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XPZahe4GzO",
+							"expanded_url": "http://analog.newydd.net/",
+							"display_url": "analog.newydd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 749,
+			"listed_count": 24,
+			"created_at": "Fri Sep 02 21:27:01 +0000 2011",
+			"favourites_count": 1658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366808314/1383567414",
+			"profile_link_color": "1B7A26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Shneiderman takes the university motto as 'technology without culture is bereft'. He describes himself as 20% experimental psychologist - looking at how people use technologies in practice #JCML2019"
+	},
+	{
+		"created_at": "Mon Apr 29 16:11:20 +0000 2019",
+		"id": 1122895045277909000,
+		"id_str": "1122896154478501888",
+		"full_text": "Professor Ben Shneiderman introduces his talk as a dialogue, and a celebration of unbounded human creativity. Not about what computers can do, but what about people can do when given appropriate empowering tech #JCML2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JCML2019",
+					"indices": [
+						211,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366808314,
+			"id_str": "366808314",
+			"name": "Rhys Jones",
+			"screen_name": "DrRhys",
+			"location": "Abertawe/Swansea",
+			"description": "No, not that one. Senior lecturer; director MA Digital Media @SwanseaUni: opinions mine. Uwch-ddarlithydd Cyfryngau Digidol @Prif_Abertawe: fi biau'r trydar.",
+			"url": "https://t.co/XPZahe4GzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XPZahe4GzO",
+							"expanded_url": "http://analog.newydd.net/",
+							"display_url": "analog.newydd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 749,
+			"listed_count": 24,
+			"created_at": "Fri Sep 02 21:27:01 +0000 2011",
+			"favourites_count": 1658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366808314/1383567414",
+			"profile_link_color": "1B7A26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Professor Ben Shneiderman introduces his talk as a dialogue, and a celebration of unbounded human creativity. Not about what computers can do, but what about people can do when given appropriate empowering tech #JCML2019"
+	},
+	{
+		"created_at": "Mon Apr 29 16:11:18 +0000 2019",
+		"id": 1122894259831627800,
+		"id_str": "1122896146089824256",
+		"full_text": "We're in the Computational Foundry, and Professor Matt Jones, head of the College of Science, introduces the Foundry as looking for solutions to the darkening skies above computer technology #JCML2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JCML2019",
+					"indices": [
+						191,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366808314,
+			"id_str": "366808314",
+			"name": "Rhys Jones",
+			"screen_name": "DrRhys",
+			"location": "Abertawe/Swansea",
+			"description": "No, not that one. Senior lecturer; director MA Digital Media @SwanseaUni: opinions mine. Uwch-ddarlithydd Cyfryngau Digidol @Prif_Abertawe: fi biau'r trydar.",
+			"url": "https://t.co/XPZahe4GzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XPZahe4GzO",
+							"expanded_url": "http://analog.newydd.net/",
+							"display_url": "analog.newydd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 749,
+			"listed_count": 24,
+			"created_at": "Fri Sep 02 21:27:01 +0000 2011",
+			"favourites_count": 1658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366808314/1383567414",
+			"profile_link_color": "1B7A26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We're in the Computational Foundry, and Professor Matt Jones, head of the College of Science, introduces the Foundry as looking for solutions to the darkening skies above computer technology #JCML2019"
+	},
+	{
+		"created_at": "Mon Apr 29 16:10:01 +0000 2019",
+		"id": 1122892540036943900,
+		"id_str": "1122895822352416769",
+		"full_text": "Sitting as unobtrusively as possible in the audience for this year's James Callaghan Memorial Lecture https://t.co/F4ItbD8TW7 which I'll try to tweet as best I can. Arbitrary hashtag: #JCML2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JCML2019",
+					"indices": [
+						184,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F4ItbD8TW7",
+					"expanded_url": "https://www.swansea.ac.uk/press-office/latest-news/photo-taggingpioneertohostartificialintelligencetalkatswanseauniversity.php",
+					"display_url": "swansea.ac.uk/press-office/l…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 366808314,
+			"id_str": "366808314",
+			"name": "Rhys Jones",
+			"screen_name": "DrRhys",
+			"location": "Abertawe/Swansea",
+			"description": "No, not that one. Senior lecturer; director MA Digital Media @SwanseaUni: opinions mine. Uwch-ddarlithydd Cyfryngau Digidol @Prif_Abertawe: fi biau'r trydar.",
+			"url": "https://t.co/XPZahe4GzO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XPZahe4GzO",
+							"expanded_url": "http://analog.newydd.net/",
+							"display_url": "analog.newydd.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 749,
+			"listed_count": 24,
+			"created_at": "Fri Sep 02 21:27:01 +0000 2011",
+			"favourites_count": 1658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3158,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000693157145/d1a2961c06fbae8e74054e9947af50bf_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/366808314/1383567414",
+			"profile_link_color": "1B7A26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sitting as unobtrusively as possible in the audience for this year's James Callaghan Memorial Lecture https://t.co/F4ItbD8TW7 which I'll try to tweet as best I can. Arbitrary hashtag: #JCML2019"
+	},
+	{
+		"created_at": "Mon Apr 29 16:09:16 +0000 2019",
+		"id": 1122832542669901800,
+		"id_str": "1122895637094252545",
+		"full_text": "Hello twitter peeps. Question: How do you put together your revision lectures? Do you summarise the topics from across the weeks, or focus on small, key processes (key equations, theories etc)? Use it more as a signposting exercise?\nAdvice would be great!\n#AcademicTwitter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AcademicTwitter",
+					"indices": [
+						256,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2821289133,
+			"id_str": "2821289133",
+			"name": "Dr Elizabeth Evans",
+			"screen_name": "E_E_Evans",
+			"location": "the X-ray lab",
+			"description": "Teaching Tutor, Geologist. \nUses X-ray CT to study volcanic ash. \nSometime geologist poet. \nEnjoys sci comm. \nInterested in pedagogy. All views my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 280,
+			"friends_count": 345,
+			"listed_count": 15,
+			"created_at": "Fri Oct 10 16:31:49 +0000 2014",
+			"favourites_count": 5111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2655,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/526107503462199296/Mv5yEVpZ_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/526107503462199296/Mv5yEVpZ_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2821289133/1412961842",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hello twitter peeps. Question: How do you put together your revision lectures? Do you summarise the topics from across the weeks, or focus on small, key processes (key equations, theories etc)? Use it more as a signposting exercise?\nAdvice would be great!\n#AcademicTwitter"
+	},
+	{
+		"created_at": "Mon Apr 29 11:40:09 +0000 2019",
+		"id": 1122753905496956900,
+		"id_str": "1122827908547063808",
+		"full_text": "new podcast: John Dewey &amp; Education ... I've learnt heaps from talking with Jennifer Bleazby - she is a Dewey expert and does a great job of explaining why Dewey remains essential reading for everyone in education! https://t.co/VWsVkWnVkT #edchat #Philosophy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edchat",
+					"indices": [
+						243,
+						250
+					]
+				},
+				{
+					"text": "Philosophy",
+					"indices": [
+						251,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VWsVkWnVkT",
+					"expanded_url": "https://soundcloud.com/eetheducationesearcher/the-educational-philosophy-of-john-dewey-jennifer-bleazby",
+					"display_url": "soundcloud.com/eetheducatione…",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 142598896,
+			"id_str": "142598896",
+			"name": "Neil Selwyn",
+			"screen_name": "Neil_Selwyn",
+			"location": "Melbourne",
+			"description": "sociology of education + digital | Monash University | currently researching issues around digital data, AI and digital labor in education | 🇪🇺🇦🇺",
+			"url": "https://t.co/VVVVD5Yh0a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VVVVD5Yh0a",
+							"expanded_url": "http://monash.edu/research/explore/en/persons/neil-selwyn(d7dcbaa6-8961-4f05-8a24-35fbaba94cac).html",
+							"display_url": "monash.edu/research/explo…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4022,
+			"friends_count": 100,
+			"listed_count": 188,
+			"created_at": "Tue May 11 08:13:12 +0000 2010",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 593,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115554504089296896/vVyxGjXS_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115554504089296896/vVyxGjXS_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/142598896/1484877626",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 63,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "new podcast: John Dewey &amp; Education ... I've learnt heaps from talking with Jennifer Bleazby - she is a Dewey expert and does a great job of explaining why Dewey remains essential reading for everyone in education! https://t.co/VWsVkWnVkT #edchat #Philosophy"
+	},
+	{
+		"created_at": "Mon Apr 29 11:37:02 +0000 2019",
+		"id": 1122786960119144400,
+		"id_str": "1122827124325408768",
+		"full_text": "Alternatives to Google Products (Complete List) | Restore Privacy #googlealternatives  https://t.co/dxIQ2hkKDY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "googlealternatives",
+					"indices": [
+						66,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dxIQ2hkKDY",
+					"expanded_url": "https://restoreprivacy.com/google-alternatives/",
+					"display_url": "restoreprivacy.com/google-alterna…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4587771,
+			"id_str": "4587771",
+			"name": "Terese Bird",
+			"screen_name": "tbirdcymru",
+			"location": "Leicester, UK",
+			"description": "Researching & implementing learning innovation, open ed, mlearning, & medical edu at a UK university & multimedia in church contexts. CMALT, MA Ed,tweets my own",
+			"url": "https://t.co/okdPo0UEZU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/okdPo0UEZU",
+							"expanded_url": "http://www2.le.ac.uk/departments/education/people/ili-staff/terese-bird",
+							"display_url": "www2.le.ac.uk/departments/ed…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3136,
+			"friends_count": 3122,
+			"listed_count": 208,
+			"created_at": "Sat Apr 14 09:46:39 +0000 2007",
+			"favourites_count": 18561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17460,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AC9E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/59858400/CNV00013_normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/59858400/CNV00013_normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4587771/1445269617",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "74BC44",
+			"profile_sidebar_fill_color": "FFE692",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Alternatives to Google Products (Complete List) | Restore Privacy #googlealternatives  https://t.co/dxIQ2hkKDY"
+	},
+	{
+		"created_at": "Mon Apr 29 11:31:44 +0000 2019",
+		"id": 1122814456482938900,
+		"id_str": "1122825792931672064",
+		"full_text": "I have been pulled together some ideas and thought around deeper thinking and creative use of MCQs. The result is three pages on:\n\n- Higher order questioning with MCQs\n- Using MCQ questions during teaching sessions\n- Tips for writing good questions\n\nhttps://t.co/4Dm90oXxwe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4Dm90oXxwe",
+					"expanded_url": "https://davethesmith.wordpress.com/2019/04/29/deeper-thinking-and-creative-classroom-use-of-mcqs/",
+					"display_url": "davethesmith.wordpress.com/2019/04/29/dee…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19645540,
+			"id_str": "19645540",
+			"name": "David Smith",
+			"screen_name": "dave_thesmith",
+			"location": "Yorkshire",
+			"description": "National Teaching Fellow, Geek, Scientist, Record Collector, Cyclist, Dad (All views are my own and not those of my employer, appalling spelling is my own work)",
+			"url": "https://t.co/s3jUPOM5Pk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s3jUPOM5Pk",
+							"expanded_url": "http://davethesmith.wordpress.com",
+							"display_url": "davethesmith.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 917,
+			"friends_count": 797,
+			"listed_count": 38,
+			"created_at": "Wed Jan 28 10:51:48 +0000 2009",
+			"favourites_count": 1861,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3482,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/846004724830785541/EvxMwkU6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846004724830785541/EvxMwkU6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19645540/1508866707",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have been pulled together some ideas and thought around deeper thinking and creative use of MCQs. The result is three pages on:\n\n- Higher order questioning with MCQs\n- Using MCQ questions during teaching sessions\n- Tips for writing good questions\n\nhttps://t.co/4Dm90oXxwe"
+	},
+	{
+		"created_at": "Mon Apr 29 11:13:51 +0000 2019",
+		"id": 1122821291558473700,
+		"id_str": "1122821291558473733",
+		"full_text": "Great to see the new @FirstCymru live times display at my bus stop. https://t.co/7xL0GdmEhp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FirstCymru",
+					"name": "First Cymru Buses",
+					"id": 97223190,
+					"id_str": "97223190",
+					"indices": [
+						21,
+						32
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1122821284260397000,
+					"id_str": "1122821284260397056",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/D5UQAlKWwAAaAj5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5UQAlKWwAAaAj5.jpg",
+					"url": "https://t.co/7xL0GdmEhp",
+					"display_url": "pic.twitter.com/7xL0GdmEhp",
+					"expanded_url": "https://twitter.com/cpjobling/status/1122821291558473733/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1122821284260397000,
+					"id_str": "1122821284260397056",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/D5UQAlKWwAAaAj5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5UQAlKWwAAaAj5.jpg",
+					"url": "https://t.co/7xL0GdmEhp",
+					"display_url": "pic.twitter.com/7xL0GdmEhp",
+					"expanded_url": "https://twitter.com/cpjobling/status/1122821291558473733/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1501,
+			"friends_count": 1192,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18028,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great to see the new @FirstCymru live times display at my bus stop. https://t.co/7xL0GdmEhp"
+	},
+	{
+		"created_at": "Mon Apr 29 10:40:45 +0000 2019",
+		"id": 1122812961528193000,
+		"id_str": "1122812961528193025",
+		"full_text": "Case Study: Using Microsoft Teams in a third-year geography module https://t.co/kwLIKFrkaI via @YSJTEL.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YSJTEL",
+					"name": "TEL @ YSJ",
+					"id": 756974822,
+					"id_str": "756974822",
+					"indices": [
+						95,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kwLIKFrkaI",
+					"expanded_url": "https://tel.yorksj.ac.uk/case-study-using-microsoft-teams-in-a-third-year-geography-module/",
+					"display_url": "tel.yorksj.ac.uk/case-study-usi…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1501,
+			"friends_count": 1192,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18028,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Case Study: Using Microsoft Teams in a third-year geography module https://t.co/kwLIKFrkaI via @YSJTEL."
+	},
+	{
+		"created_at": "Mon Apr 29 09:00:33 +0000 2019",
+		"id": 1122787747071254500,
+		"id_str": "1122787747071254528",
+		"full_text": "Not something to celebrate but I've failed because I'll be out on Wednesday and can't attend this #LTHEChat. https://t.co/nfldb9tWLz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						98,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nfldb9tWLz",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1122786379812020225",
+					"display_url": "twitter.com/LTHEchat/statu…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1501,
+			"friends_count": 1192,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18028,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1122786379812020200,
+		"quoted_status_id_str": "1122786379812020225",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nfldb9tWLz",
+			"expanded": "https://twitter.com/LTHEchat/status/1122786379812020225",
+			"display": "twitter.com/LTHEchat/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 29 08:55:07 +0000 2019",
+			"id": 1122786379812020200,
+			"id_str": "1122786379812020225",
+			"full_text": "#LTHEchat 144 Celebrating Failure with @NomadWarMachine and @DrAnnBingham https://t.co/675pSBDjL9 https://t.co/hHUOi7xA3h",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTHEchat",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NomadWarMachine",
+						"name": "Sarah Honeychurch",
+						"id": 558091832,
+						"id_str": "558091832",
+						"indices": [
+							39,
+							55
+						]
+					},
+					{
+						"screen_name": "DrAnnBingham",
+						"name": "Dr Ann Bingham",
+						"id": 882637131725901800,
+						"id_str": "882637131725901824",
+						"indices": [
+							60,
+							73
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/675pSBDjL9",
+						"expanded_url": "http://lthechat.com/2019/04/27/lthechat-144-celebrating-failure-with-nomadwarmachine-and-drannbingham/",
+						"display_url": "lthechat.com/2019/04/27/lth…",
+						"indices": [
+							74,
+							97
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1122786378339770400,
+						"id_str": "1122786378339770370",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/D5TwQyeW4AIZoLe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5TwQyeW4AIZoLe.jpg",
+						"url": "https://t.co/hHUOi7xA3h",
+						"display_url": "pic.twitter.com/hHUOi7xA3h",
+						"expanded_url": "https://twitter.com/LTHEchat/status/1122786379812020225/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 454,
+								"h": 642,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 454,
+								"h": 642,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 454,
+								"h": 642,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1122786378339770400,
+						"id_str": "1122786378339770370",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/D5TwQyeW4AIZoLe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D5TwQyeW4AIZoLe.jpg",
+						"url": "https://t.co/hHUOi7xA3h",
+						"display_url": "pic.twitter.com/hHUOi7xA3h",
+						"expanded_url": "https://twitter.com/LTHEchat/status/1122786379812020225/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 454,
+								"h": 642,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 454,
+								"h": 642,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 454,
+								"h": 642,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2659221798,
+				"id_str": "2659221798",
+				"name": "LTHE Tweetchat",
+				"screen_name": "LTHEchat",
+				"location": "",
+				"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+				"url": "https://t.co/IprE39BVnA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IprE39BVnA",
+								"expanded_url": "http://lthechat.com",
+								"display_url": "lthechat.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5974,
+				"friends_count": 3024,
+				"listed_count": 149,
+				"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+				"favourites_count": 3027,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7571,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+				"profile_link_color": "7ECAE6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not something to celebrate but I've failed because I'll be out on Wednesday and can't attend this #LTHEChat. https://t.co/nfldb9tWLz"
+	},
+	{
+		"created_at": "Mon Apr 29 07:20:53 +0000 2019",
+		"id": 1122500368259330000,
+		"id_str": "1122762662897692673",
+		"full_text": "I encourage every faculty member, especially new and newly-tenured faculty, to read this. Administrators: Read it twice. \n\nhttps://t.co/7HTfAz3EBO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7HTfAz3EBO",
+					"expanded_url": "https://jamesclear.com/saying-no",
+					"display_url": "jamesclear.com/saying-no",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10461,
+			"id_str": "10461",
+			"name": "Robert Talbert",
+			"screen_name": "RobertTalbert",
+			"location": "Michigan, USA",
+			"description": "Math prof at @GVSU. Writer/speaker on teaching and learning (https://t.co/h1RHQkQG6C). Dad, Catholic, and @GrandArmyGR member. My views != GVSU's.",
+			"url": "https://t.co/kvYHUeVQOB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kvYHUeVQOB",
+							"expanded_url": "http://rtalbert.org",
+							"display_url": "rtalbert.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/h1RHQkQG6C",
+							"expanded_url": "http://rtalbert.org/book",
+							"display_url": "rtalbert.org/book",
+							"indices": [
+								61,
+								84
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4415,
+			"friends_count": 949,
+			"listed_count": 300,
+			"created_at": "Wed Oct 25 11:18:35 +0000 2006",
+			"favourites_count": 3161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 33834,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E9D39B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114238109665902592/HCPVKxjC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114238109665902592/HCPVKxjC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10461/1485465836",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "919BFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 42,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I encourage every faculty member, especially new and newly-tenured faculty, to read this. Administrators: Read it twice. \n\nhttps://t.co/7HTfAz3EBO"
+	},
+	{
+		"created_at": "Mon Apr 29 07:20:24 +0000 2019",
+		"id": 1122762541954998300,
+		"id_str": "1122762541954998272",
+		"full_text": "@hack_kay @S_J_Lancaster @EricStoller @suebecks @AdvanceHE @SwanseaUni My experience with Yammer at @SwanseaUni, the IET and IEEE is that walled-garden social platforms don’t work. #advanceheconnect",
+		"truncated": false,
+		"display_text_range": [
+			71,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "advanceheconnect",
+					"indices": [
+						181,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hack_kay",
+					"name": "Kay Hack",
+					"id": 804753576,
+					"id_str": "804753576",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "S_J_Lancaster",
+					"name": "Simon Lancaster",
+					"id": 240186025,
+					"id_str": "240186025",
+					"indices": [
+						10,
+						24
+					]
+				},
+				{
+					"screen_name": "EricStoller",
+					"name": "Eric Stoller",
+					"id": 1186911,
+					"id_str": "1186911",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"screen_name": "AdvanceHE",
+					"name": "Advance HE",
+					"id": 941587234465177600,
+					"id_str": "941587234465177600",
+					"indices": [
+						48,
+						58
+					]
+				},
+				{
+					"screen_name": "SwanseaUni",
+					"name": "Swansea University",
+					"id": 62489200,
+					"id_str": "62489200",
+					"indices": [
+						59,
+						70
+					]
+				},
+				{
+					"screen_name": "SwanseaUni",
+					"name": "Swansea University",
+					"id": 62489200,
+					"id_str": "62489200",
+					"indices": [
+						100,
+						111
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1122761910879961100,
+		"in_reply_to_status_id_str": "1122761910879961093",
+		"in_reply_to_user_id": 4229341,
+		"in_reply_to_user_id_str": "4229341",
+		"in_reply_to_screen_name": "cpjobling",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1501,
+			"friends_count": 1192,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18028,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hack_kay @S_J_Lancaster @EricStoller @suebecks @AdvanceHE @SwanseaUni My experience with Yammer at @SwanseaUni, the IET and IEEE is that walled-garden social platforms don’t work. #advanceheconnect"
+	},
+	{
+		"created_at": "Mon Apr 29 07:17:54 +0000 2019",
+		"id": 1122761910879961100,
+		"id_str": "1122761910879961093",
+		"full_text": "@hack_kay @S_J_Lancaster @EricStoller @suebecks @AdvanceHE According to your announcement there were only 200 individuals in the consultation though. We have 500 fellows at @swanseauni alone. #AdvanceHEConnect .",
+		"truncated": false,
+		"display_text_range": [
+			59,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHEConnect",
+					"indices": [
+						192,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hack_kay",
+					"name": "Kay Hack",
+					"id": 804753576,
+					"id_str": "804753576",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "S_J_Lancaster",
+					"name": "Simon Lancaster",
+					"id": 240186025,
+					"id_str": "240186025",
+					"indices": [
+						10,
+						24
+					]
+				},
+				{
+					"screen_name": "EricStoller",
+					"name": "Eric Stoller",
+					"id": 1186911,
+					"id_str": "1186911",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"screen_name": "AdvanceHE",
+					"name": "Advance HE",
+					"id": 941587234465177600,
+					"id_str": "941587234465177600",
+					"indices": [
+						48,
+						58
+					]
+				},
+				{
+					"screen_name": "SwanseaUni",
+					"name": "Swansea University",
+					"id": 62489200,
+					"id_str": "62489200",
+					"indices": [
+						173,
+						184
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1122758594758348800,
+		"in_reply_to_status_id_str": "1122758594758348800",
+		"in_reply_to_user_id": 804753576,
+		"in_reply_to_user_id_str": "804753576",
+		"in_reply_to_screen_name": "hack_kay",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1501,
+			"friends_count": 1192,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18028,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hack_kay @S_J_Lancaster @EricStoller @suebecks @AdvanceHE According to your announcement there were only 200 individuals in the consultation though. We have 500 fellows at @swanseauni alone. #AdvanceHEConnect ."
+	},
+	{
+		"created_at": "Mon Apr 29 07:07:46 +0000 2019",
+		"id": 1122759364081856500,
+		"id_str": "1122759364081856512",
+		"full_text": "Having only PFHEAs in preview trial and promoting to Russel group doesn’t feel very inclusive #AdvanceHEConnect",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHEConnect",
+					"indices": [
+						94,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1501,
+			"friends_count": 1192,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18028,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Having only PFHEAs in preview trial and promoting to Russel group doesn’t feel very inclusive #AdvanceHEConnect"
+	},
+	{
+		"created_at": "Mon Apr 29 07:05:48 +0000 2019",
+		"id": 1122614887610495000,
+		"id_str": "1122758867815890944",
+		"full_text": "Maybe they asked @suebecks ...I wasn't asked about it. Then again, I'm pretty open about my views on why adding more \"walled gardens\" to HE is usually not a good thing. Communities generally already have these spaces in place. @AdvanceHE #AdvanceHEConnect https://t.co/M9n9VunncL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHEConnect",
+					"indices": [
+						238,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"screen_name": "AdvanceHE",
+					"name": "Advance HE",
+					"id": 941587234465177600,
+					"id_str": "941587234465177600",
+					"indices": [
+						227,
+						237
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/M9n9VunncL",
+					"expanded_url": "https://twitter.com/S_J_Lancaster/status/1122599984833101824",
+					"display_url": "twitter.com/S_J_Lancaster/…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1186911,
+			"id_str": "1186911",
+			"name": "Eric Stoller",
+			"screen_name": "EricStoller",
+			"location": "Tampa, FL",
+			"description": "Education consultant + speaker. 🎙️ Social media + digital engagement. ☕Write for @InsideHigherEd. Live: 🇺🇸 Work: 🌍🌎🌏 Married to @GillianSeely. Jude's dad.",
+			"url": "https://t.co/VyMQlqgBiA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VyMQlqgBiA",
+							"expanded_url": "http://ericstoller.com/work",
+							"display_url": "ericstoller.com/work",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23784,
+			"friends_count": 1840,
+			"listed_count": 1497,
+			"created_at": "Wed Mar 14 22:31:16 +0000 2007",
+			"favourites_count": 98686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 59140,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C80C7A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/692721590891630592/bnjlbqkV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/692721590891630592/bnjlbqkV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1186911/1431001990",
+			"profile_link_color": "B80912",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "9B9393",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1122599984833101800,
+		"quoted_status_id_str": "1122599984833101824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/M9n9VunncL",
+			"expanded": "https://twitter.com/S_J_Lancaster/status/1122599984833101824",
+			"display": "twitter.com/S_J_Lancaster/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 28 20:34:27 +0000 2019",
+			"id": 1122599984833101800,
+			"id_str": "1122599984833101824",
+			"full_text": "Having observed the abject failure of institutional Yammer and MyRSC I am deeply sceptical of #AdvanceHEConnect However, I would be happy to be very wrong. I assume they consulted @EricStoller and @suebecks ?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				208
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AdvanceHEConnect",
+						"indices": [
+							94,
+							111
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EricStoller",
+						"name": "Eric Stoller",
+						"id": 1186911,
+						"id_str": "1186911",
+						"indices": [
+							180,
+							192
+						]
+					},
+					{
+						"screen_name": "suebecks",
+						"name": "Sue Beckingham",
+						"id": 34904126,
+						"id_str": "34904126",
+						"indices": [
+							197,
+							206
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 240186025,
+				"id_str": "240186025",
+				"name": "Simon Lancaster",
+				"screen_name": "S_J_Lancaster",
+				"location": "Norwich or not",
+				"description": "European, Professor of Chemistry Education, National Teaching Fellow. Right now I do politics - vote anything but #Brexit",
+				"url": "https://t.co/bvNjUECd3O",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bvNjUECd3O",
+								"expanded_url": "http://www.uea.ac.uk/che/people/faculty/lancasters",
+								"display_url": "uea.ac.uk/che/people/fac…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7594,
+				"friends_count": 5927,
+				"listed_count": 245,
+				"created_at": "Wed Jan 19 10:32:36 +0000 2011",
+				"favourites_count": 7506,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 47817,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000053679902/d95b82c56b64d2ec493fe9be630663fb_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000053679902/d95b82c56b64d2ec493fe9be630663fb_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/240186025/1372342264",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Maybe they asked @suebecks ...I wasn't asked about it. Then again, I'm pretty open about my views on why adding more \"walled gardens\" to HE is usually not a good thing. Communities generally already have these spaces in place. @AdvanceHE #AdvanceHEConnect https://t.co/M9n9VunncL"
+	},
+	{
+		"created_at": "Mon Apr 29 07:03:33 +0000 2019",
+		"id": 1122758299580031000,
+		"id_str": "1122758299580030979",
+		"full_text": "Read my Apr 29 'swan-uni-staff' Newsletter featuring “Asking Questions” https://t.co/trzX4dIURY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/trzX4dIURY",
+					"expanded_url": "https://nzzl.us/1hhZ7Ot",
+					"display_url": "nzzl.us/1hhZ7Ot",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1501,
+			"friends_count": 1192,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18028,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Apr 29 'swan-uni-staff' Newsletter featuring “Asking Questions” https://t.co/trzX4dIURY"
+	},
+	{
+		"created_at": "Mon Apr 29 07:03:31 +0000 2019",
+		"id": 1122758292231663600,
+		"id_str": "1122758292231663616",
+		"full_text": "Read the Apr 29 Newsletter curated by my PLN featuring “The Government Is Planning To Make EU Students Pay…” https://t.co/j6lYbxdH4Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j6lYbxdH4Y",
+					"expanded_url": "https://nzzl.us/qxedonj",
+					"display_url": "nzzl.us/qxedonj",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1501,
+			"friends_count": 1192,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18028,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Apr 29 Newsletter curated by my PLN featuring “The Government Is Planning To Make EU Students Pay…” https://t.co/j6lYbxdH4Y"
+	},
+	{
 		"created_at": "Sun Apr 28 07:04:17 +0000 2019",
 		"id": 1122396099258531800,
 		"id_str": "1122396099258531840",
