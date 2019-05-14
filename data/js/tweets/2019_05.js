@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 13 17:33:08 +0000 2019",
+		"id": 1127877932628582400,
+		"id_str": "1127990169901121536",
+		"full_text": "Take a look at the Padlet our wonderful @susaltteam CPD Team have put together using @ABC_LD methodology \n\nhttps://t.co/jEEAXGLeNK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "susaltteam",
+					"name": "SUSALT",
+					"id": 2587806050,
+					"id_str": "2587806050",
+					"indices": [
+						40,
+						51
+					]
+				},
+				{
+					"screen_name": "ABC_LD",
+					"name": "ABC LD",
+					"id": 735090086447054800,
+					"id_str": "735090086447054848",
+					"indices": [
+						85,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jEEAXGLeNK",
+					"expanded_url": "https://padlet.com/susaltysalt/9ob7clcfbam2",
+					"display_url": "padlet.com/susaltysalt/9o…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996093169031839700,
+			"id_str": "996093169031839745",
+			"name": "LO_Salt",
+			"screen_name": "LO_Salt",
+			"location": "Swansea, Wales",
+			"description": "Senior Academic Developer at Swansea Academy of Learning and Teaching (SALT), Swansea University",
+			"url": "https://t.co/BMXVeShcYU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BMXVeShcYU",
+							"expanded_url": "http://salt.swan.ac.uk",
+							"display_url": "salt.swan.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 144,
+			"listed_count": 0,
+			"created_at": "Mon May 14 18:21:32 +0000 2018",
+			"favourites_count": 238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 634,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118430733863989248/I-VFf7pr_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118430733863989248/I-VFf7pr_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996093169031839745/1526386622",
+			"profile_link_color": "9477A5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Take a look at the Padlet our wonderful @susaltteam CPD Team have put together using @ABC_LD methodology \n\nhttps://t.co/jEEAXGLeNK"
+	},
+	{
+		"created_at": "Mon May 13 07:03:58 +0000 2019",
+		"id": 1127831836346941400,
+		"id_str": "1127831836346941441",
+		"full_text": "Read the May 13 Newsletter curated by my PLN featuring “Katie Hopkins wades into dangerous anti-vaxx debate…” https://t.co/ydZpQnb5pU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ydZpQnb5pU",
+					"expanded_url": "https://nzzl.us/iC6QXD3",
+					"display_url": "nzzl.us/iC6QXD3",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1507,
+			"friends_count": 1194,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18074,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the May 13 Newsletter curated by my PLN featuring “Katie Hopkins wades into dangerous anti-vaxx debate…” https://t.co/ydZpQnb5pU"
+	},
+	{
 		"created_at": "Sun May 12 07:03:33 +0000 2019",
 		"id": 1127469342105509900,
 		"id_str": "1127469342105509890",
