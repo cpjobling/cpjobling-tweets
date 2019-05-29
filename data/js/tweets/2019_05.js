@@ -1,6 +1,599 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 28 18:14:32 +0000 2019",
+		"id": 1133011508139626500,
+		"id_str": "1133436406141988864",
+		"full_text": "6,085,174 people signed the petition to revoke article 50. Nobody took any notice.\n\n5,248,533 people voted for the Brexit Party. These are apparently The People whose will must be followed unquestioningly.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 570676314,
+			"id_str": "570676314",
+			"name": "Philip Hensher",
+			"screen_name": "PhilipHensher",
+			"location": "London",
+			"description": "Author of nine novels, including The Emperor Waltz, published in July 2014. Professor of Creative Writing at Bath Spa University.",
+			"url": "https://t.co/RDMel92Tbp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RDMel92Tbp",
+							"expanded_url": "http://bathspa.ac.uk/courses/pg-creative-writing/",
+							"display_url": "bathspa.ac.uk/courses/pg-cre…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5330,
+			"friends_count": 1514,
+			"listed_count": 99,
+			"created_at": "Fri May 04 06:41:40 +0000 2012",
+			"favourites_count": 489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5715,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1108406084572758016/JbohicnT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108406084572758016/JbohicnT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/570676314/1553099629",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17314,
+		"favorite_count": 44623,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "6,085,174 people signed the petition to revoke article 50. Nobody took any notice.\n\n5,248,533 people voted for the Brexit Party. These are apparently The People whose will must be followed unquestioningly."
+	},
+	{
+		"created_at": "Tue May 28 08:06:23 +0000 2019",
+		"id": 1129431513391620100,
+		"id_str": "1133283362716696576",
+		"full_text": "Diolch yn fawr | Thank you very much ...\n\n...to everyone who participated in TEL CPD Week, presenters, attendees and contributors. \n\n''I am still learning'' Michelangelo, aged 87. \n\n#susaltcpd #TELTALKS19 https://t.co/i4Ut50De8t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "susaltcpd",
+					"indices": [
+						182,
+						192
+					]
+				},
+				{
+					"text": "TELTALKS19",
+					"indices": [
+						193,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1129431495184134100,
+					"id_str": "1129431495184134144",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/D6yL9fyWsAAEDt3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6yL9fyWsAAEDt3.jpg",
+					"url": "https://t.co/i4Ut50De8t",
+					"display_url": "pic.twitter.com/i4Ut50De8t",
+					"expanded_url": "https://twitter.com/susaltteam/status/1129431513391620096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1129431495184134100,
+					"id_str": "1129431495184134144",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/D6yL9fyWsAAEDt3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6yL9fyWsAAEDt3.jpg",
+					"url": "https://t.co/i4Ut50De8t",
+					"display_url": "pic.twitter.com/i4Ut50De8t",
+					"expanded_url": "https://twitter.com/susaltteam/status/1129431513391620096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2587806050,
+			"id_str": "2587806050",
+			"name": "SUSALT",
+			"screen_name": "susaltteam",
+			"location": "",
+			"description": "Twitter account for the Swansea Academy for Learning and Teaching (SALT Team)",
+			"url": "https://t.co/BJONKjXOW7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BJONKjXOW7",
+							"expanded_url": "https://salt.swan.ac.uk/",
+							"display_url": "salt.swan.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 586,
+			"friends_count": 111,
+			"listed_count": 22,
+			"created_at": "Wed Jun 25 16:23:37 +0000 2014",
+			"favourites_count": 263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/618376385955000320/ddaWT38u_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/618376385955000320/ddaWT38u_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2587806050/1436266879",
+			"profile_link_color": "62397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Diolch yn fawr | Thank you very much ...\n\n...to everyone who participated in TEL CPD Week, presenters, attendees and contributors. \n\n''I am still learning'' Michelangelo, aged 87. \n\n#susaltcpd #TELTALKS19 https://t.co/i4Ut50De8t"
+	},
+	{
+		"created_at": "Tue May 28 07:54:14 +0000 2019",
+		"id": 1132805516189683700,
+		"id_str": "1133280302758092801",
+		"full_text": "UK: 99% counted.\n\nRemain parties: 40.4%\nHard Brexit parties: 34.9%\nConservatives/Labour: 23.2%\n\n#EP2019 #Brexit #EuropeanElections2019 #EUelections2019 https://t.co/D9CgBtYmNd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EP2019",
+					"indices": [
+						96,
+						103
+					]
+				},
+				{
+					"text": "Brexit",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "EuropeanElections2019",
+					"indices": [
+						112,
+						134
+					]
+				},
+				{
+					"text": "EUelections2019",
+					"indices": [
+						135,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1132805499710259200,
+					"id_str": "1132805499710259200",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/D7iImaHWwAAwXFr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7iImaHWwAAwXFr.jpg",
+					"url": "https://t.co/D9CgBtYmNd",
+					"display_url": "pic.twitter.com/D9CgBtYmNd",
+					"expanded_url": "https://twitter.com/EuropeElects/status/1132805516189683712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1324,
+							"h": 599,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 308,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 543,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1132805499710259200,
+					"id_str": "1132805499710259200",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/D7iImaHWwAAwXFr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7iImaHWwAAwXFr.jpg",
+					"url": "https://t.co/D9CgBtYmNd",
+					"display_url": "pic.twitter.com/D9CgBtYmNd",
+					"expanded_url": "https://twitter.com/EuropeElects/status/1132805516189683712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1324,
+							"h": 599,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 308,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 543,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 319677725,
+			"id_str": "319677725",
+			"name": "Europe Elects",
+			"screen_name": "EuropeElects",
+			"location": "",
+			"description": "Poll aggregation and election analysis for countries in the European Union. #EP2019 #EUElections2019 #Europawahl2019 #Europeennes2019 #EuropeseVerkiezingen",
+			"url": "https://t.co/QQBIRE02GN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QQBIRE02GN",
+							"expanded_url": "http://www.europeelects.eu",
+							"display_url": "europeelects.eu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86051,
+			"friends_count": 109,
+			"listed_count": 1546,
+			"created_at": "Sat Jun 18 14:55:35 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/564496462025728002/T_yKRTbR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/564496462025728002/T_yKRTbR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/319677725/1521423701",
+			"profile_link_color": "0084B8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6000,
+		"favorite_count": 8480,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "UK: 99% counted.\n\nRemain parties: 40.4%\nHard Brexit parties: 34.9%\nConservatives/Labour: 23.2%\n\n#EP2019 #Brexit #EuropeanElections2019 #EUelections2019 https://t.co/D9CgBtYmNd"
+	},
+	{
+		"created_at": "Tue May 28 07:04:15 +0000 2019",
+		"id": 1133267725646815200,
+		"id_str": "1133267725646815232",
+		"full_text": "Read my May 28 'swan-uni-staff' Newsletter featuring “The projects in Wales the EU has funded” https://t.co/LbjdgX4ckb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LbjdgX4ckb",
+					"expanded_url": "https://nzzl.us/QMOa6tK",
+					"display_url": "nzzl.us/QMOa6tK",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1512,
+			"friends_count": 1195,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my May 28 'swan-uni-staff' Newsletter featuring “The projects in Wales the EU has funded” https://t.co/LbjdgX4ckb"
+	},
+	{
 		"created_at": "Mon May 27 11:17:29 +0000 2019",
 		"id": 1132969067827142700,
 		"id_str": "1132969067827142656",
