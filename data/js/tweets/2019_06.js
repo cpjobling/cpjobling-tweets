@@ -1,6 +1,1416 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 06 08:41:26 +0000 2019",
+		"id": 1136553675021869000,
+		"id_str": "1136553675021869056",
+		"full_text": "#jupyter4edu https://t.co/e4sz52eq5u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "jupyter4edu",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e4sz52eq5u",
+					"expanded_url": "https://twitter.com/cpjobling/status/1136553528917409792",
+					"display_url": "twitter.com/cpjobling/stat…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1518,
+			"friends_count": 1195,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1136553528917409800,
+		"quoted_status_id_str": "1136553528917409792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/e4sz52eq5u",
+			"expanded": "https://twitter.com/cpjobling/status/1136553528917409792",
+			"display": "twitter.com/cpjobling/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 06 08:40:52 +0000 2019",
+			"id": 1136553528917409800,
+			"id_str": "1136553528917409792",
+			"full_text": "@LorenaABarba @ESIPfed I plan on making a RISE slide show from Chapter 3 for a presentation to my colleagues next week.",
+			"truncated": false,
+			"display_text_range": [
+				23,
+				119
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LorenaABarba",
+						"name": "Lorena Barba",
+						"id": 369758524,
+						"id_str": "369758524",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "ESIPfed",
+						"name": "ESIP Federation",
+						"id": 214615015,
+						"id_str": "214615015",
+						"indices": [
+							14,
+							22
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1129323385442439200,
+			"in_reply_to_status_id_str": "1129323385442439168",
+			"in_reply_to_user_id": 369758524,
+			"in_reply_to_user_id_str": "369758524",
+			"in_reply_to_screen_name": "LorenaABarba",
+			"user": {
+				"id": 4229341,
+				"id_str": "4229341",
+				"name": "Chris Jobling #FBPE",
+				"screen_name": "cpjobling",
+				"location": "Swansea",
+				"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+				"url": "https://t.co/vIMdJpfRKN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vIMdJpfRKN",
+								"expanded_url": "http://about.me/cpjobling",
+								"display_url": "about.me/cpjobling",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1518,
+				"friends_count": 1195,
+				"listed_count": 126,
+				"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+				"favourites_count": 10403,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18203,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#jupyter4edu https://t.co/e4sz52eq5u"
+	},
+	{
+		"created_at": "Thu Jun 06 08:40:52 +0000 2019",
+		"id": 1136553528917409800,
+		"id_str": "1136553528917409792",
+		"full_text": "@LorenaABarba @ESIPfed I plan on making a RISE slide show from Chapter 3 for a presentation to my colleagues next week.",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LorenaABarba",
+					"name": "Lorena Barba",
+					"id": 369758524,
+					"id_str": "369758524",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "ESIPfed",
+					"name": "ESIP Federation",
+					"id": 214615015,
+					"id_str": "214615015",
+					"indices": [
+						14,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1129323385442439200,
+		"in_reply_to_status_id_str": "1129323385442439168",
+		"in_reply_to_user_id": 369758524,
+		"in_reply_to_user_id_str": "369758524",
+		"in_reply_to_screen_name": "LorenaABarba",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1518,
+			"friends_count": 1195,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LorenaABarba @ESIPfed I plan on making a RISE slide show from Chapter 3 for a presentation to my colleagues next week."
+	},
+	{
+		"created_at": "Thu Jun 06 08:00:38 +0000 2019",
+		"id": 1136543406879125500,
+		"id_str": "1136543406879125505",
+		"full_text": "@HelenMD @MarkQJones Yes",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HelenMD",
+					"name": "Helen Davies",
+					"id": 19060236,
+					"id_str": "19060236",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "MarkQJones",
+					"name": "Mark Jones #Collab365",
+					"id": 18355936,
+					"id_str": "18355936",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1136524479021166600,
+		"in_reply_to_status_id_str": "1136524479021166595",
+		"in_reply_to_user_id": 19060236,
+		"in_reply_to_user_id_str": "19060236",
+		"in_reply_to_screen_name": "HelenMD",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1518,
+			"friends_count": 1195,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@HelenMD @MarkQJones Yes"
+	},
+	{
+		"created_at": "Thu Jun 06 07:40:59 +0000 2019",
+		"id": 1136522875572301800,
+		"id_str": "1136538460326682624",
+		"full_text": "Given how advanced we claim to be as a society, why have we created an existence that's so hard for ourselves? I read so many stories or stress, illness, burnout etc and have suffered myself. For what, I increasingly ask myself? We need to change how we think.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 905737194270326800,
+			"id_str": "905737194270326784",
+			"name": "Phil Maull",
+			"screen_name": "PhilGMaull",
+			"location": "Swansea, Wales",
+			"description": "Head of Academic Quality Services, Swansea University.  Passionate about curriculum and assessment design for enhancing the student experience.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 173,
+			"friends_count": 210,
+			"listed_count": 0,
+			"created_at": "Thu Sep 07 10:19:09 +0000 2017",
+			"favourites_count": 1745,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905742677521694720/K7ggH-72_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905742677521694720/K7ggH-72_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Given how advanced we claim to be as a society, why have we created an existence that's so hard for ourselves? I read so many stories or stress, illness, burnout etc and have suffered myself. For what, I increasingly ask myself? We need to change how we think."
+	},
+	{
+		"created_at": "Thu Jun 06 07:39:13 +0000 2019",
+		"id": 1136530492336083000,
+		"id_str": "1136538016443445248",
+		"full_text": "It takes a D Day veteran gently to tell the unspoken truth about what should be said today. It hangs in the air over the famous beaches - but it should be voiced. Brexit betrays what these men did. My father, who landed two days later, would have passionately said the same. https://t.co/86w7BEg65v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/86w7BEg65v",
+					"expanded_url": "https://twitter.com/mikegalsworthy/status/1136431886308466688",
+					"display_url": "twitter.com/mikegalsworthy…",
+					"indices": [
+						275,
+						298
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 92398758,
+			"id_str": "92398758",
+			"name": "Will Hutton",
+			"screen_name": "williamnhutton",
+			"location": "London",
+			"description": "Political economist and writer",
+			"url": "http://t.co/En5PkzsUnV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/En5PkzsUnV",
+							"expanded_url": "http://www.guardian.co.uk/profile/willhutton",
+							"display_url": "guardian.co.uk/profile/willhu…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40015,
+			"friends_count": 123,
+			"listed_count": 690,
+			"created_at": "Tue Nov 24 23:44:01 +0000 2009",
+			"favourites_count": 217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551884789/willhutton214_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551884789/willhutton214_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1136431886308466700,
+		"quoted_status_id_str": "1136431886308466688",
+		"quoted_status_permalink": {
+			"url": "https://t.co/86w7BEg65v",
+			"expanded": "https://twitter.com/mikegalsworthy/status/1136431886308466688",
+			"display": "twitter.com/mikegalsworthy…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 06 00:37:30 +0000 2019",
+			"id": 1136431886308466700,
+			"id_str": "1136431886308466688",
+			"full_text": "What a lovely guy. D-Day veteran says that after all the trouble they went to in order to bring European nations together... to break it up now would be a crying shame. \n\nhttps://t.co/0pybOnZHLA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				194
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1136310072374648800,
+						"id_str": "1136310072374648832",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1136310072374648832/img/LuBtNpZ7c1TWTMv7.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1136310072374648832/img/LuBtNpZ7c1TWTMv7.jpg",
+						"url": "https://t.co/0pybOnZHLA",
+						"display_url": "pic.twitter.com/0pybOnZHLA",
+						"expanded_url": "https://twitter.com/peoplesvote_uk/status/1136311012855095296/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1136311012855095300,
+						"source_status_id_str": "1136311012855095296",
+						"source_user_id": 3574875675,
+						"source_user_id_str": "3574875675"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1136310072374648800,
+						"id_str": "1136310072374648832",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1136310072374648832/img/LuBtNpZ7c1TWTMv7.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1136310072374648832/img/LuBtNpZ7c1TWTMv7.jpg",
+						"url": "https://t.co/0pybOnZHLA",
+						"display_url": "pic.twitter.com/0pybOnZHLA",
+						"expanded_url": "https://twitter.com/peoplesvote_uk/status/1136311012855095296/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1136311012855095300,
+						"source_status_id_str": "1136311012855095296",
+						"source_user_id": 3574875675,
+						"source_user_id_str": "3574875675",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 34450,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1136310072374648832/pl/DUbCXnJ7VN33c9Yd.m3u8?tag=13"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1136310072374648832/vid/320x320/_vbdiubU9-Zk1yCv.mp4?tag=13"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1136310072374648832/vid/720x720/hbOHYSAYYyI2jNLc.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1136310072374648832/vid/480x480/Zr8xZx_wm6kKh7FH.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "D-Day Veteran Eric Chardin: Brexit worries me",
+							"description": "",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://www.peoples-vote.uk/"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false,
+							"source_user": {
+								"id": 3574875675,
+								"id_str": "3574875675",
+								"name": "People's Vote UK",
+								"screen_name": "peoplesvote_uk",
+								"location": "United Kingdom",
+								"description": "Now we know so much more about Brexit for all of us, it’s only fair to demand the people have the final say. #PeoplesVote",
+								"url": "https://t.co/SiWVNilHEU",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/SiWVNilHEU",
+												"expanded_url": "https://www.peoplesvotetest.uk/",
+												"display_url": "peoplesvotetest.uk",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 133155,
+								"friends_count": 1278,
+								"listed_count": 647,
+								"created_at": "Mon Sep 07 08:11:46 +0000 2015",
+								"favourites_count": 3816,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 36756,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1068547901129932801/y8NFAnqb_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068547901129932801/y8NFAnqb_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/3574875675/1553509993",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34247411,
+				"id_str": "34247411",
+				"name": "Mike Galsworthy",
+				"screen_name": "mikegalsworthy",
+				"location": "London, UK",
+				"description": "Founder of @Scientists4EU & @NHSforPV. #GTTO. Still #FBPE. Tweets Brexit, EU & UK science policy, health policy, NHS, inequality.",
+				"url": "https://t.co/wIyqxO9iA7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wIyqxO9iA7",
+								"expanded_url": "http://www.scientistsforeu.uk",
+								"display_url": "scientistsforeu.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 107387,
+				"friends_count": 58309,
+				"listed_count": 770,
+				"created_at": "Wed Apr 22 11:41:40 +0000 2009",
+				"favourites_count": 35842,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25550,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1042029415482511360/M-f3-yEx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042029415482511360/M-f3-yEx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34247411/1538328525",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2496,
+			"favorite_count": 5896,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3482,
+		"favorite_count": 9045,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It takes a D Day veteran gently to tell the unspoken truth about what should be said today. It hangs in the air over the famous beaches - but it should be voiced. Brexit betrays what these men did. My father, who landed two days later, would have passionately said the same. https://t.co/86w7BEg65v"
+	},
+	{
+		"created_at": "Thu Jun 06 07:32:19 +0000 2019",
+		"id": 1136263366446469100,
+		"id_str": "1136536277367607296",
+		"full_text": "This is the same project I just called @Jisc out for.  This \"transformation\" is unethical and potentially damaging to students.  Data mining is not the same thing as mental health care. https://t.co/kIWbr3x40y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jisc",
+					"name": "Jisc",
+					"id": 18829580,
+					"id_str": "18829580",
+					"indices": [
+						39,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kIWbr3x40y",
+					"expanded_url": "https://twitter.com/NorthumbriaUni/status/1136191027142901762",
+					"display_url": "twitter.com/NorthumbriaUni…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 436886909,
+			"id_str": "436886909",
+			"name": "Dr. Donna Lanclos",
+			"screen_name": "DonnaLanclos",
+			"location": "Currently NC, USA.  Has been seen in the UK, Ireland, New Zealand, and Canada.  Will happily go where invited.",
+			"description": "Anthropologist. Feminist. Gorgon. Witch. Time Lord. Harridan. Sidhe. Kraken. Crone. PhD. Siren. Norn. Dragon. Selkie. She/Her. Out of fucks to give.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4401,
+			"friends_count": 1076,
+			"listed_count": 432,
+			"created_at": "Wed Dec 14 18:09:12 +0000 2011",
+			"favourites_count": 6211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 124227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1129440379969986567/3EcuN4Yu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129440379969986567/3EcuN4Yu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/436886909/1559521528",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1136191027142901800,
+		"quoted_status_id_str": "1136191027142901762",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kIWbr3x40y",
+			"expanded": "https://twitter.com/NorthumbriaUni/status/1136191027142901762",
+			"display": "twitter.com/NorthumbriaUni…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 05 08:40:24 +0000 2019",
+			"id": 1136191027142901800,
+			"id_str": "1136191027142901762",
+			"full_text": "We're serious about student mental health. We're delighted to announce we're leading a major project to transform how the Higher Education sector identifies mental health issues in students. Read more 👉  https://t.co/oO2GQ0eEXb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				227
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/oO2GQ0eEXb",
+						"expanded_url": "http://socsi.in/XOO3u",
+						"display_url": "socsi.in/XOO3u",
+						"indices": [
+							204,
+							227
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://orlo.tech\" rel=\"nofollow\">Orlo</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27861208,
+				"id_str": "27861208",
+				"name": "Northumbria Uni",
+				"screen_name": "NorthumbriaUni",
+				"location": "Newcastle- Top UK student city",
+				"description": "Research-rich, professional uni with global reputation for excellence. #TakeOnTomorrow. Monitored Mon-Fri, 9am-5pm. Contact @NUAsk4Help for info & advice.",
+				"url": "https://t.co/ANHMAXvORY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ANHMAXvORY",
+								"expanded_url": "http://www.northumbria.ac.uk",
+								"display_url": "northumbria.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32450,
+				"friends_count": 1108,
+				"listed_count": 427,
+				"created_at": "Tue Mar 31 12:42:15 +0000 2009",
+				"favourites_count": 5439,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7060,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B8AE93",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1101377853621448704/fOqdHo2b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101377853621448704/fOqdHo2b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27861208/1518424628",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 84,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 31,
+		"favorite_count": 69,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the same project I just called @Jisc out for.  This \"transformation\" is unethical and potentially damaging to students.  Data mining is not the same thing as mental health care. https://t.co/kIWbr3x40y"
+	},
+	{
+		"created_at": "Thu Jun 06 07:20:06 +0000 2019",
+		"id": 1135990897835987000,
+		"id_str": "1136533203915857923",
+		"full_text": "#openbook LEGO® for university learning: inspiring academic practice in higher education co-authored with Alison @alisonrjames now live at https://t.co/Mx3q3Ej4gp Thank you all who contributed and there are many! Read their stories! #legoinHE #creativeHE #opened",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "openbook",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "legoinHE",
+					"indices": [
+						233,
+						242
+					]
+				},
+				{
+					"text": "creativeHE",
+					"indices": [
+						243,
+						254
+					]
+				},
+				{
+					"text": "opened",
+					"indices": [
+						255,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alisonrjames",
+					"name": "Prof Alison James",
+					"id": 143180609,
+					"id_str": "143180609",
+					"indices": [
+						113,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Mx3q3Ej4gp",
+					"expanded_url": "https://zenodo.org/record/2813448#.XPbFOohKg2y",
+					"display_url": "zenodo.org/record/2813448…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34362372,
+			"id_str": "34362372",
+			"name": "Chrissi Nerantzi 🇬🇷🇪🇺🐝",
+			"screen_name": "chrissinerantzi",
+			"location": "United Kingdom",
+			"description": "NTF, PFHEA, FSEDA, CMALT, #go_gn alumni, my ideas: @tlcwebinars @openfdol Greenhouse @byod4l @lthechat @fos4l #creativeHE etc.",
+			"url": "https://t.co/5tgD2H2gzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5tgD2H2gzC",
+							"expanded_url": "https://chrissinerantzi.wordpress.com/",
+							"display_url": "chrissinerantzi.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3538,
+			"friends_count": 2516,
+			"listed_count": 228,
+			"created_at": "Wed Apr 22 19:02:04 +0000 2009",
+			"favourites_count": 14670,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/885916403093647361/edF1tgAb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/885916403093647361/edF1tgAb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34362372/1398468414",
+			"profile_link_color": "C0C4DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 23,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#openbook LEGO® for university learning: inspiring academic practice in higher education co-authored with Alison @alisonrjames now live at https://t.co/Mx3q3Ej4gp Thank you all who contributed and there are many! Read their stories! #legoinHE #creativeHE #opened"
+	},
+	{
+		"created_at": "Thu Jun 06 07:04:15 +0000 2019",
+		"id": 1136529216915288000,
+		"id_str": "1136529216915288064",
+		"full_text": "Read the Jun 6 Newsletter curated by my PLN featuring “Universities to trawl through students' social media to…” https://t.co/sVPpAinIOC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sVPpAinIOC",
+					"expanded_url": "https://nzzl.us/c6jQnxM",
+					"display_url": "nzzl.us/c6jQnxM",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1518,
+			"friends_count": 1195,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Jun 6 Newsletter curated by my PLN featuring “Universities to trawl through students' social media to…” https://t.co/sVPpAinIOC"
+	},
+	{
 		"created_at": "Wed Jun 05 20:05:09 +0000 2019",
 		"id": 1136363347429998600,
 		"id_str": "1136363347429998592",
