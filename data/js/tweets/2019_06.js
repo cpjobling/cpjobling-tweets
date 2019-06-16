@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 15 13:24:28 +0000 2019",
+		"id": 1139849710691336200,
+		"id_str": "1139886390316060672",
+		"full_text": "Wow, this is the best I have read so far on teaching and education in #highered, from teacher and student perspective, edutech to authentic and actual student learning, not merely passing a module, busting myths about learning and teaching! @susaltteam @cpjobling \nREAD👇🏼👇🏼👇🏼 https://t.co/YUM7NTOThu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "highered",
+					"indices": [
+						70,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "susaltteam",
+					"name": "SUSALT",
+					"id": 2587806050,
+					"id_str": "2587806050",
+					"indices": [
+						241,
+						252
+					]
+				},
+				{
+					"screen_name": "cpjobling",
+					"name": "Chris Jobling #FBPE",
+					"id": 4229341,
+					"id_str": "4229341",
+					"indices": [
+						253,
+						263
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YUM7NTOThu",
+					"expanded_url": "https://twitter.com/gregfoley2002/status/1139524144507346944",
+					"display_url": "twitter.com/gregfoley2002/…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444859403,
+			"id_str": "444859403",
+			"name": "Geertje van Keulen",
+			"screen_name": "DrGvanK",
+			"location": "",
+			"description": "Associate Professor; loves pool water sports; tries to understand & modify living+natural+manufactured materials; wettability, adhesives, antibiotics; She/her",
+			"url": "https://t.co/BjF2r0z3cG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BjF2r0z3cG",
+							"expanded_url": "http://www.swansea.ac.uk/staff/medicine/learningandteaching/vankeuleng/",
+							"display_url": "swansea.ac.uk/staff/medicine…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2133,
+			"friends_count": 1539,
+			"listed_count": 189,
+			"created_at": "Fri Dec 23 18:36:14 +0000 2011",
+			"favourites_count": 25845,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114623073762910208/eZyLO6-P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114623073762910208/eZyLO6-P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/444859403/1395151907",
+			"profile_link_color": "B35A00",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1139524144507347000,
+		"quoted_status_id_str": "1139524144507346944",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YUM7NTOThu",
+			"expanded": "https://twitter.com/gregfoley2002/status/1139524144507346944",
+			"display": "twitter.com/gregfoley2002/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 14 13:25:02 +0000 2019",
+			"id": 1139524144507347000,
+			"id_str": "1139524144507346944",
+			"full_text": "Thoughts on Inspiring and Motivating Students - slides and rough script from a recent talk I gave. #edchatie\n\nhttps://t.co/Q6ePEoGo4v",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edchatie",
+						"indices": [
+							99,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Q6ePEoGo4v",
+						"expanded_url": "https://gregfoleydcu.wordpress.com/2019/06/14/thoughts-on-motivating-and-inspiring-students/",
+						"display_url": "gregfoleydcu.wordpress.com/2019/06/14/tho…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 975290890917998600,
+				"id_str": "975290890917998592",
+				"name": "Greg Foley",
+				"screen_name": "gregfoley2002",
+				"location": "Dublin City, Ireland",
+				"description": "DCU lecturer",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 193,
+				"friends_count": 255,
+				"listed_count": 0,
+				"created_at": "Sun Mar 18 08:40:43 +0000 2018",
+				"favourites_count": 270,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1192,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1133556249163902976/Tqhck2wU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133556249163902976/Tqhck2wU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/975290890917998592/1542029455",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow, this is the best I have read so far on teaching and education in #highered, from teacher and student perspective, edutech to authentic and actual student learning, not merely passing a module, busting myths about learning and teaching! @susaltteam @cpjobling \nREAD👇🏼👇🏼👇🏼 https://t.co/YUM7NTOThu"
+	},
+	{
+		"created_at": "Sat Jun 15 07:03:41 +0000 2019",
+		"id": 1139790566072340500,
+		"id_str": "1139790566072340480",
+		"full_text": "Read the Jun 15 Newsletter curated by my PLN featuring “You saw me covered in blood on a bus. But do you get…” https://t.co/TLN2Hf2geB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TLN2Hf2geB",
+					"expanded_url": "https://nzzl.us/sTWKoJz",
+					"display_url": "nzzl.us/sTWKoJz",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #FBPE",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Views expressed are my own, except re-tweets.",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1519,
+			"friends_count": 1196,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10422,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Jun 15 Newsletter curated by my PLN featuring “You saw me covered in blood on a bus. But do you get…” https://t.co/TLN2Hf2geB"
+	},
+	{
 		"created_at": "Fri Jun 14 07:03:27 +0000 2019",
 		"id": 1139428116756160500,
 		"id_str": "1139428116756160513",
