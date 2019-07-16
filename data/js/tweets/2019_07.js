@@ -1,6 +1,457 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 15 18:13:49 +0000 2019",
+		"id": 1150703003273269200,
+		"id_str": "1150830845353238530",
+		"full_text": "BREAKING NEWS: ALL WOMEN ABDUCTED FROM THE SWANSEA AREA - PLEASE KEEP A LOOK OUT FOR THEM 🤦🏻‍♀️🏴󠁧󠁢󠁷󠁬󠁳󠁿 https://t.co/mTKNDybs7W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mTKNDybs7W",
+					"expanded_url": "https://twitter.com/ukgovwales/status/1150678327751036929",
+					"display_url": "twitter.com/ukgovwales/sta…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 885257749,
+			"id_str": "885257749",
+			"name": "Simon Horrocks",
+			"screen_name": "horrocks_simon",
+			"location": "Edinburgh",
+			"description": "Expect tweets about higher education, music, cycling & Cardiff City",
+			"url": "https://t.co/9MCWsFBUxU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9MCWsFBUxU",
+							"expanded_url": "https://blogs.ed.ac.uk/simonhorrocks/",
+							"display_url": "blogs.ed.ac.uk/simonhorrocks/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2316,
+			"friends_count": 2928,
+			"listed_count": 123,
+			"created_at": "Tue Oct 16 20:33:10 +0000 2012",
+			"favourites_count": 21506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25654,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/463706169107050496/mjIyqaiY_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/463706169107050496/mjIyqaiY_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/885257749/1551900615",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1150678327751036900,
+		"quoted_status_id_str": "1150678327751036929",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mTKNDybs7W",
+			"expanded": "https://twitter.com/ukgovwales/status/1150678327751036929",
+			"display": "twitter.com/ukgovwales/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 15 08:07:46 +0000 2019",
+			"id": 1150678327751036900,
+			"id_str": "1150678327751036929",
+			"full_text": ".@AlunCairns joins @WelshGovernment @wgmin_economy and the joint committee as both governments agree to provide an £18m funding boost to the Swansea Bay City Deal, based on business case approval of the Yr Egin and Waterfront Digital District projects. #DeliveringforWales https://t.co/himGtAYboa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DeliveringforWales",
+						"indices": [
+							253,
+							272
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AlunCairns",
+						"name": "Alun Cairns",
+						"id": 76650839,
+						"id_str": "76650839",
+						"indices": [
+							1,
+							12
+						]
+					},
+					{
+						"screen_name": "WelshGovernment",
+						"name": "Welsh Government",
+						"id": 41874178,
+						"id_str": "41874178",
+						"indices": [
+							19,
+							35
+						]
+					},
+					{
+						"screen_name": "wgmin_economy",
+						"name": "Ken Skates",
+						"id": 1286071663,
+						"id_str": "1286071663",
+						"indices": [
+							36,
+							50
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1150678317185548300,
+						"id_str": "1150678317185548288",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/media/D_gH1TqWwAAWN_0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_gH1TqWwAAWN_0.jpg",
+						"url": "https://t.co/himGtAYboa",
+						"display_url": "pic.twitter.com/himGtAYboa",
+						"expanded_url": "https://twitter.com/UKGovWales/status/1150678327751036929/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 426,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 642,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 642,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1150678317185548300,
+						"id_str": "1150678317185548288",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/media/D_gH1TqWwAAWN_0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_gH1TqWwAAWN_0.jpg",
+						"url": "https://t.co/himGtAYboa",
+						"display_url": "pic.twitter.com/himGtAYboa",
+						"expanded_url": "https://twitter.com/UKGovWales/status/1150678327751036929/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 426,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 642,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 642,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 166144866,
+				"id_str": "166144866",
+				"name": "UK Government in Wales",
+				"screen_name": "UKGovWales",
+				"location": "Wales, United Kingdom",
+				"description": "The face of the UK Government in Wales and the voice of Wales in Whitehall. Gwyneb Llywodraeth y DU yng Nghymru a llais Cymru yn Whitehall.",
+				"url": "https://t.co/GGejeu5XL3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GGejeu5XL3",
+								"expanded_url": "http://www.gov.uk/government/organisations/wales-office",
+								"display_url": "gov.uk/government/org…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14108,
+				"friends_count": 700,
+				"listed_count": 265,
+				"created_at": "Tue Jul 13 12:54:06 +0000 2010",
+				"favourites_count": 766,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10815,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1146032548943937537/8OESiUbL_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146032548943937537/8OESiUbL_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/166144866/1561130222",
+				"profile_link_color": "9D1B04",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 79,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BREAKING NEWS: ALL WOMEN ABDUCTED FROM THE SWANSEA AREA - PLEASE KEEP A LOOK OUT FOR THEM 🤦🏻‍♀️🏴󠁧󠁢󠁷󠁬󠁳󠁿 https://t.co/mTKNDybs7W"
+	},
+	{
+		"created_at": "Mon Jul 15 07:14:50 +0000 2019",
+		"id": 1150665006746353700,
+		"id_str": "1150665006746353664",
+		"full_text": "@AmandasAudit @JennaPrice @TraceyBretag Read the whole thread",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmandasAudit",
+					"name": "Dr Amanda White",
+					"id": 240085776,
+					"id_str": "240085776",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "JennaPrice",
+					"name": "Jenna Price",
+					"id": 19019494,
+					"id_str": "19019494",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "TraceyBretag",
+					"name": "Tracey Bretag",
+					"id": 39694068,
+					"id_str": "39694068",
+					"indices": [
+						26,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1149549467038707700,
+		"in_reply_to_status_id_str": "1149549467038707712",
+		"in_reply_to_user_id": 240085776,
+		"in_reply_to_user_id_str": "240085776",
+		"in_reply_to_screen_name": "AmandasAudit",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1522,
+			"friends_count": 1196,
+			"listed_count": 125,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AmandasAudit @JennaPrice @TraceyBretag Read the whole thread"
+	},
+	{
 		"created_at": "Sun Jul 14 07:03:10 +0000 2019",
 		"id": 1150299682012311600,
 		"id_str": "1150299682012311552",
