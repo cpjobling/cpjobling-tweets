@@ -1,6 +1,739 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 25 07:08:56 +0000 2019",
+		"id": 1154287399452795000,
+		"id_str": "1154287399452794880",
+		"full_text": "This is a Vote Leave government now. There will be no one else to blame https://t.co/Bvxme4F44H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Bvxme4F44H",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2019/jul/24/boris-johnson-brexiters-government-no-one-else-to-blame?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1525,
+			"friends_count": 1196,
+			"listed_count": 125,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a Vote Leave government now. There will be no one else to blame https://t.co/Bvxme4F44H"
+	},
+	{
+		"created_at": "Thu Jul 25 07:08:36 +0000 2019",
+		"id": 1154287316766249000,
+		"id_str": "1154287316766248960",
+		"full_text": "'Summer's day massacre' may spell backbench trouble for Boris Johnson https://t.co/kQmu9LsP2D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kQmu9LsP2D",
+					"expanded_url": "https://www.theguardian.com/politics/2019/jul/24/philip-hammond-quits-johnson-fully-aligned-chancellor-gauke-stewart?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/politics/2019/…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1525,
+			"friends_count": 1196,
+			"listed_count": 125,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Summer's day massacre' may spell backbench trouble for Boris Johnson https://t.co/kQmu9LsP2D"
+	},
+	{
+		"created_at": "Thu Jul 25 07:08:22 +0000 2019",
+		"id": 1154287255948804000,
+		"id_str": "1154287255948804096",
+		"full_text": "Nicola Sturgeon calls for new Scottish independence vote https://t.co/g1YW6rKTby",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g1YW6rKTby",
+					"expanded_url": "https://www.theguardian.com/uk-news/2019/jul/25/nicola-sturgeon-calls-for-new-scotland-independence-vote?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/uk-news/2019/j…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1525,
+			"friends_count": 1196,
+			"listed_count": 125,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nicola Sturgeon calls for new Scottish independence vote https://t.co/g1YW6rKTby"
+	},
+	{
+		"created_at": "Thu Jul 25 07:08:07 +0000 2019",
+		"id": 1154287192778391600,
+		"id_str": "1154287192778391552",
+		"full_text": "Boris Johnson takes his revenge and sacks over half the cabinet https://t.co/Io3UUVFVLb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Io3UUVFVLb",
+					"expanded_url": "https://www.theguardian.com/politics/2019/jul/24/boris-johnson-takes-his-revenge-and-sacks-over-half-the-cabinet?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/politics/2019/…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1525,
+			"friends_count": 1196,
+			"listed_count": 125,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Boris Johnson takes his revenge and sacks over half the cabinet https://t.co/Io3UUVFVLb"
+	},
+	{
+		"created_at": "Thu Jul 25 07:05:59 +0000 2019",
+		"id": 1154286658071728000,
+		"id_str": "1154286658071728128",
+		"full_text": "Check this out - #MSFTEduChat 2019-07 Student-centered Learning via @wakelet\nhttps://t.co/LqI4Sgv1e7 https://t.co/y4FJQ4lPvw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSFTEduChat",
+					"indices": [
+						17,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wakelet",
+					"name": "Wakelet",
+					"id": 169922611,
+					"id_str": "169922611",
+					"indices": [
+						68,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LqI4Sgv1e7",
+					"expanded_url": "https://wke.lt/w/s/-_FZCS",
+					"display_url": "wke.lt/w/s/-_FZCS",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1154286654460485600,
+					"id_str": "1154286654460485632",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EATZmLgXYAASXX0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EATZmLgXYAASXX0.jpg",
+					"url": "https://t.co/y4FJQ4lPvw",
+					"display_url": "pic.twitter.com/y4FJQ4lPvw",
+					"expanded_url": "https://twitter.com/cpjobling/status/1154286658071728128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1154286654460485600,
+					"id_str": "1154286654460485632",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EATZmLgXYAASXX0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EATZmLgXYAASXX0.jpg",
+					"url": "https://t.co/y4FJQ4lPvw",
+					"display_url": "pic.twitter.com/y4FJQ4lPvw",
+					"expanded_url": "https://twitter.com/cpjobling/status/1154286658071728128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1525,
+			"friends_count": 1196,
+			"listed_count": 125,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check this out - #MSFTEduChat 2019-07 Student-centered Learning via @wakelet\nhttps://t.co/LqI4Sgv1e7 https://t.co/y4FJQ4lPvw"
+	},
+	{
+		"created_at": "Thu Jul 25 07:03:36 +0000 2019",
+		"id": 1154286059867521000,
+		"id_str": "1154286059867521024",
+		"full_text": "Read the Jul 25 Newsletter curated by my PLN featuring “The Man Who Built The Retweet: 'We Handed A Loaded…” https://t.co/L1Epb7VlCs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L1Epb7VlCs",
+					"expanded_url": "https://nzzl.us/uDH9o0b",
+					"display_url": "nzzl.us/uDH9o0b",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1525,
+			"friends_count": 1196,
+			"listed_count": 125,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Jul 25 Newsletter curated by my PLN featuring “The Man Who Built The Retweet: 'We Handed A Loaded…” https://t.co/L1Epb7VlCs"
+	},
+	{
 		"created_at": "Wed Jul 24 07:03:17 +0000 2019",
 		"id": 1153923589265154000,
 		"id_str": "1153923589265154048",
