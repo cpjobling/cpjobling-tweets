@@ -1,6 +1,692 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 15 13:25:53 +0000 2019",
+		"id": 1161992407258468400,
+		"id_str": "1161992407258468352",
+		"full_text": "@RiaLMitchell @SUEngineering We of course have a Street named after Brian in Engineering East!",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RiaLMitchell",
+					"name": "Ria Mitchell",
+					"id": 52861594,
+					"id_str": "52861594",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "SUEngineering",
+					"name": "Swansea Engineering",
+					"id": 154145391,
+					"id_str": "154145391",
+					"indices": [
+						14,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1161992314526601200,
+		"in_reply_to_status_id_str": "1161992314526601216",
+		"in_reply_to_user_id": 4229341,
+		"in_reply_to_user_id_str": "4229341",
+		"in_reply_to_screen_name": "cpjobling",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #UniteToRemain",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1525,
+			"friends_count": 1200,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RiaLMitchell @SUEngineering We of course have a Street named after Brian in Engineering East!"
+	},
+	{
+		"created_at": "Thu Aug 15 13:25:31 +0000 2019",
+		"id": 1161992314526601200,
+		"id_str": "1161992314526601216",
+		"full_text": "@RiaLMitchell @SUEngineering That's the Queen's award for Indistry going to former VC Robin Williams and the last Head of Materials Brian Wilshire.",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RiaLMitchell",
+					"name": "Ria Mitchell",
+					"id": 52861594,
+					"id_str": "52861594",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "SUEngineering",
+					"name": "Swansea Engineering",
+					"id": 154145391,
+					"id_str": "154145391",
+					"indices": [
+						14,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1161950789704855600,
+		"in_reply_to_status_id_str": "1161950789704855553",
+		"in_reply_to_user_id": 52861594,
+		"in_reply_to_user_id_str": "52861594",
+		"in_reply_to_screen_name": "RiaLMitchell",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #UniteToRemain",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1525,
+			"friends_count": 1200,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RiaLMitchell @SUEngineering That's the Queen's award for Indistry going to former VC Robin Williams and the last Head of Materials Brian Wilshire."
+	},
+	{
+		"created_at": "Thu Aug 15 13:23:49 +0000 2019",
+		"id": 1161991840641572900,
+		"id_str": "1161991889731690496",
+		"full_text": "Give us a shout out if you're coming to #StudyEEE at @SUEngineering https://t.co/GOTBPyJUKV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StudyEEE",
+					"indices": [
+						40,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SUEngineering",
+					"name": "Swansea Engineering",
+					"id": 154145391,
+					"id_str": "154145391",
+					"indices": [
+						53,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GOTBPyJUKV",
+					"expanded_url": "https://twitter.com/SwanseaUni/status/1161983283896475649",
+					"display_url": "twitter.com/SwanseaUni/sta…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 912778733345497100,
+			"id_str": "912778733345497088",
+			"name": "Swansea Uni EEE",
+			"screen_name": "SwanseaEEE",
+			"location": "Swansea, Wales",
+			"description": "Electronic and Electrical Engineering at Swansea University",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53,
+			"friends_count": 27,
+			"listed_count": 0,
+			"created_at": "Tue Sep 26 20:39:43 +0000 2017",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912784290454413313/VrG1ptTX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912784290454413313/VrG1ptTX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/912778733345497088/1506459872",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1161983283896475600,
+		"quoted_status_id_str": "1161983283896475649",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GOTBPyJUKV",
+			"expanded": "https://twitter.com/SwanseaUni/status/1161983283896475649",
+			"display": "twitter.com/SwanseaUni/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 15 12:49:38 +0000 2019",
+			"id": 1161983283896475600,
+			"id_str": "1161983283896475649",
+			"full_text": "Haven't secured a place at uni? Had a change of heart about a particular course or where you want to study? \n \nJoin us this September through clearing and adjustment. \n \n📱 0800 094 9071\n💻 https://t.co/7o6cgYOnhP \n\n#alevelresultsday #clearing2019 https://t.co/ZoDhR6k4xZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				245
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "alevelresultsday",
+						"indices": [
+							214,
+							231
+						]
+					},
+					{
+						"text": "clearing2019",
+						"indices": [
+							232,
+							245
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7o6cgYOnhP",
+						"expanded_url": "http://swansea.ac.uk/clearing",
+						"display_url": "swansea.ac.uk/clearing",
+						"indices": [
+							188,
+							211
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1161983255035437000,
+						"id_str": "1161983255035437056",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1161983255035437056/pu/img/bLLoZnQs6MK8qG-N.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1161983255035437056/pu/img/bLLoZnQs6MK8qG-N.jpg",
+						"url": "https://t.co/ZoDhR6k4xZ",
+						"display_url": "pic.twitter.com/ZoDhR6k4xZ",
+						"expanded_url": "https://twitter.com/SwanseaUni/status/1161983283896475649/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1161983255035437000,
+						"id_str": "1161983255035437056",
+						"indices": [
+							246,
+							269
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1161983255035437056/pu/img/bLLoZnQs6MK8qG-N.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1161983255035437056/pu/img/bLLoZnQs6MK8qG-N.jpg",
+						"url": "https://t.co/ZoDhR6k4xZ",
+						"display_url": "pic.twitter.com/ZoDhR6k4xZ",
+						"expanded_url": "https://twitter.com/SwanseaUni/status/1161983283896475649/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 11000,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1161983255035437056/pu/vid/720x720/qM-IXNAxxKNy59NS.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1161983255035437056/pu/pl/Fq8ctaGG8DW19FEM.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1161983255035437056/pu/vid/480x480/0-MfALeGgcMYdK-4.mp4?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1161983255035437056/pu/vid/320x320/kMVNaSfdD1b0n1jV.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 62489200,
+				"id_str": "62489200",
+				"name": "Swansea University",
+				"screen_name": "SwanseaUni",
+				"location": "Swansea, UK",
+				"description": "Making waves since 1920 • UK top 30 university • World-class research • Superb student experience • Two glorious beachfront campuses • #SwanseaUni •",
+				"url": "https://t.co/BPZBYYXdSI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BPZBYYXdSI",
+								"expanded_url": "http://swansea.ac.uk/clearing",
+								"display_url": "swansea.ac.uk/clearing",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45601,
+				"friends_count": 2111,
+				"listed_count": 460,
+				"created_at": "Mon Aug 03 10:58:42 +0000 2009",
+				"favourites_count": 13262,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25562,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1101424889657987072/C_HpcBg0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101424889657987072/C_HpcBg0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/62489200/1565614843",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Give us a shout out if you're coming to #StudyEEE at @SUEngineering https://t.co/GOTBPyJUKV"
+	},
+	{
+		"created_at": "Thu Aug 15 07:04:19 +0000 2019",
+		"id": 1161896382162247700,
+		"id_str": "1161896382162247681",
+		"full_text": "Read my Aug 15 'swan-uni-staff' Newsletter featuring “Britain's infrastructure is breaking down. And here's why…” https://t.co/pvl7SukwFq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pvl7SukwFq",
+					"expanded_url": "https://nzzl.us/SJN0cON",
+					"display_url": "nzzl.us/SJN0cON",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #UniteToRemain",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1525,
+			"friends_count": 1200,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10484,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Aug 15 'swan-uni-staff' Newsletter featuring “Britain's infrastructure is breaking down. And here's why…” https://t.co/pvl7SukwFq"
+	},
+	{
 		"created_at": "Wed Aug 14 17:43:15 +0000 2019",
 		"id": 1161694790494359600,
 		"id_str": "1161694790494359552",
