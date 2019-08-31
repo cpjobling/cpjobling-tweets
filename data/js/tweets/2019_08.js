@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 30 08:24:38 +0000 2019",
+		"id": 1167352414422409200,
+		"id_str": "1167352414422409216",
+		"full_text": "We are happy to consider any topic! Please follow any one of the team @cpjobling @cwaterhouse_e or @rachelleeobrien and we can discuss via DM. https://t.co/dMhlWuS3Ci",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cpjobling",
+					"name": "Chris Jobling #UniteToRemain",
+					"id": 4229341,
+					"id_str": "4229341",
+					"indices": [
+						70,
+						80
+					]
+				},
+				{
+					"screen_name": "cwaterhouse_e",
+					"name": "EChapmanWaterhouse",
+					"id": 890261403793281000,
+					"id_str": "890261403793281025",
+					"indices": [
+						81,
+						95
+					]
+				},
+				{
+					"screen_name": "rachelleeobrien",
+					"name": "Rachelle O'Brien",
+					"id": 43586185,
+					"id_str": "43586185",
+					"indices": [
+						99,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dMhlWuS3Ci",
+					"expanded_url": "https://twitter.com/paul_langford/status/1166995091950592000",
+					"display_url": "twitter.com/paul_langford/…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #UniteToRemain",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1530,
+			"friends_count": 1200,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1166995091950592000,
+		"quoted_status_id_str": "1166995091950592000",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dMhlWuS3Ci",
+			"expanded": "https://twitter.com/paul_langford/status/1166995091950592000",
+			"display": "twitter.com/paul_langford/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 29 08:44:46 +0000 2019",
+			"id": 1166995091950592000,
+			"id_str": "1166995091950592000",
+			"full_text": "@LTHEchat I get why #lthechat is focused on general topics (tech, processes, space etc) so wondered if you had any plans, or know an alternate space, for discussing 'climate change and LTHE'? Implications for syllabus, for pedagogy. Too discipline specific?",
+			"truncated": false,
+			"display_text_range": [
+				10,
+				257
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "lthechat",
+						"indices": [
+							20,
+							29
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LTHEchat",
+						"name": "LTHE Tweetchat",
+						"id": 2659221798,
+						"id_str": "2659221798",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1166803421564985300,
+			"in_reply_to_status_id_str": "1166803421564985344",
+			"in_reply_to_user_id": 2659221798,
+			"in_reply_to_user_id_str": "2659221798",
+			"in_reply_to_screen_name": "LTHEchat",
+			"user": {
+				"id": 1016220239527272400,
+				"id_str": "1016220239527272448",
+				"name": "Paul Langford",
+				"screen_name": "paul_langford",
+				"location": "Edinburgh, Scotland",
+				"description": "Worked in financial services. Lecturer financial services. Doesn't make me a bad person.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 125,
+				"friends_count": 666,
+				"listed_count": 2,
+				"created_at": "Mon Jul 09 07:19:20 +0000 2018",
+				"favourites_count": 34395,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1886,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1046135591543472128/gJN6oRLq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046135591543472128/gJN6oRLq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1016220239527272448/1538253450",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are happy to consider any topic! Please follow any one of the team @cpjobling @cwaterhouse_e or @rachelleeobrien and we can discuss via DM. https://t.co/dMhlWuS3Ci"
+	},
+	{
+		"created_at": "Fri Aug 30 07:04:27 +0000 2019",
+		"id": 1167332233805488000,
+		"id_str": "1167332233805488129",
+		"full_text": "Read my Aug 30 'swan-uni-staff' Newsletter featuring “It's Black Breastfeeding Week. Wondering why? One gut…” https://t.co/T44pN5p1f1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T44pN5p1f1",
+					"expanded_url": "https://nzzl.us/iDuHDlS",
+					"display_url": "nzzl.us/iDuHDlS",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #UniteToRemain",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1530,
+			"friends_count": 1200,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10493,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Aug 30 'swan-uni-staff' Newsletter featuring “It's Black Breastfeeding Week. Wondering why? One gut…” https://t.co/T44pN5p1f1"
+	},
+	{
 		"created_at": "Thu Aug 29 07:03:44 +0000 2019",
 		"id": 1166969668508291000,
 		"id_str": "1166969668508291072",
