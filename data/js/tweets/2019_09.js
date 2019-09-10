@@ -1,6 +1,1301 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 09 16:41:35 +0000 2019",
+		"id": 1171101353512493000,
+		"id_str": "1171101353512493059",
+		"full_text": "@Isobel_Gowers @CIHE_ARU We are looking forward to it too Isobel. #lthechat",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lthechat",
+					"indices": [
+						66,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Isobel_Gowers",
+					"name": "Dr Isobel Gowers",
+					"id": 70955761,
+					"id_str": "70955761",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "CIHE_ARU",
+					"name": "CIHE",
+					"id": 928653181529227300,
+					"id_str": "928653181529227264",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1170934619509788700,
+		"in_reply_to_status_id_str": "1170934619509788672",
+		"in_reply_to_user_id": 70955761,
+		"in_reply_to_user_id_str": "70955761",
+		"in_reply_to_screen_name": "Isobel_Gowers",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #UniteToRemain",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1536,
+			"friends_count": 1201,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Isobel_Gowers @CIHE_ARU We are looking forward to it too Isobel. #lthechat"
+	},
+	{
+		"created_at": "Mon Sep 09 16:40:42 +0000 2019",
+		"id": 1170934619509788700,
+		"id_str": "1171101132434944001",
+		"full_text": "Invited to facilitate this tweet chat after presenting at the last @CIHE_ARU  #pedres meeting of the academic year. Looking forward to a new year of #LTHEchat &amp; @CIHE_ARU #pedres meetings! https://t.co/flPSe1uxkb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pedres",
+					"indices": [
+						78,
+						85
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						149,
+						158
+					]
+				},
+				{
+					"text": "pedres",
+					"indices": [
+						175,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CIHE_ARU",
+					"name": "CIHE",
+					"id": 928653181529227300,
+					"id_str": "928653181529227264",
+					"indices": [
+						67,
+						76
+					]
+				},
+				{
+					"screen_name": "CIHE_ARU",
+					"name": "CIHE",
+					"id": 928653181529227300,
+					"id_str": "928653181529227264",
+					"indices": [
+						165,
+						174
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/flPSe1uxkb",
+					"expanded_url": "https://twitter.com/lthechat/status/1170607881739259904",
+					"display_url": "twitter.com/lthechat/statu…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 70955761,
+			"id_str": "70955761",
+			"name": "Dr Isobel Gowers",
+			"screen_name": "Isobel_Gowers",
+			"location": "Writtle, UK",
+			"description": "Academic Lead: Active and Inclusive Learning at ARU. Interested in all things education. All opinions are my own.",
+			"url": "https://t.co/MVMEvH9j7v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MVMEvH9j7v",
+							"expanded_url": "https://isobelgowerslearning.wordpress.com/",
+							"display_url": "isobelgowerslearning.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 721,
+			"friends_count": 1116,
+			"listed_count": 36,
+			"created_at": "Wed Sep 02 12:51:56 +0000 2009",
+			"favourites_count": 6067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102921138689196034/voYVpq4y_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102921138689196034/voYVpq4y_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/70955761/1463133043",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "02f09c87dcbecdb5",
+			"url": "https://api.twitter.com/1.1/geo/id/02f09c87dcbecdb5.json",
+			"place_type": "city",
+			"name": "Writtle",
+			"full_name": "Writtle, East",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							0.406773,
+							51.723687
+						],
+						[
+							0.4357,
+							51.723687
+						],
+						[
+							0.4357,
+							51.738547
+						],
+						[
+							0.406773,
+							51.738547
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1170607881739260000,
+		"quoted_status_id_str": "1170607881739259904",
+		"quoted_status_permalink": {
+			"url": "https://t.co/flPSe1uxkb",
+			"expanded": "https://twitter.com/lthechat/status/1170607881739259904",
+			"display": "twitter.com/lthechat/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 08 08:00:42 +0000 2019",
+			"id": 1170607881739260000,
+			"id_str": "1170607881739259904",
+			"full_text": "#LTHEchat 151 Pedagogic Research: ‘Presenting and Publishing’ with Dr Isobel Gowers @Isobel_Gowers https://t.co/rXYdCRsYXp https://t.co/8xy0n8UCMF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				122
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTHEchat",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Isobel_Gowers",
+						"name": "Dr Isobel Gowers",
+						"id": 70955761,
+						"id_str": "70955761",
+						"indices": [
+							84,
+							98
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/rXYdCRsYXp",
+						"expanded_url": "http://lthechat.com/2019/09/08/lthechat-151-pedagogic-research-presenting-and-publishing-with-dr-isobel-gowers-isobel_gowers/",
+						"display_url": "lthechat.com/2019/09/08/lth…",
+						"indices": [
+							99,
+							122
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1170607880162205700,
+						"id_str": "1170607880162205696",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/ED7VqjRXYAAqI0E.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ED7VqjRXYAAqI0E.jpg",
+						"url": "https://t.co/8xy0n8UCMF",
+						"display_url": "pic.twitter.com/8xy0n8UCMF",
+						"expanded_url": "https://twitter.com/LTHEchat/status/1170607881739259904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1170607880162205700,
+						"id_str": "1170607880162205696",
+						"indices": [
+							123,
+							146
+						],
+						"media_url": "http://pbs.twimg.com/media/ED7VqjRXYAAqI0E.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ED7VqjRXYAAqI0E.jpg",
+						"url": "https://t.co/8xy0n8UCMF",
+						"display_url": "pic.twitter.com/8xy0n8UCMF",
+						"expanded_url": "https://twitter.com/LTHEchat/status/1170607881739259904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2659221798,
+				"id_str": "2659221798",
+				"name": "LTHE Tweetchat",
+				"screen_name": "LTHEchat",
+				"location": "",
+				"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+				"url": "https://t.co/IprE39BVnA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IprE39BVnA",
+								"expanded_url": "http://lthechat.com",
+								"display_url": "lthechat.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6276,
+				"friends_count": 3145,
+				"listed_count": 151,
+				"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+				"favourites_count": 3098,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7754,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+				"profile_link_color": "7ECAE6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Invited to facilitate this tweet chat after presenting at the last @CIHE_ARU  #pedres meeting of the academic year. Looking forward to a new year of #LTHEchat &amp; @CIHE_ARU #pedres meetings! https://t.co/flPSe1uxkb"
+	},
+	{
+		"created_at": "Mon Sep 09 16:40:23 +0000 2019",
+		"id": 1171099514536697900,
+		"id_str": "1171101050402693126",
+		"full_text": "The Practical Ed Tech Podcast is Now on Apple Podcasts https://t.co/p1aLn530wd #edtech #edapp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edtech",
+					"indices": [
+						79,
+						86
+					]
+				},
+				{
+					"text": "edapp",
+					"indices": [
+						87,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p1aLn530wd",
+					"expanded_url": "https://ift.tt/2ZYLC2g",
+					"display_url": "ift.tt/2ZYLC2g",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 521427482,
+			"id_str": "521427482",
+			"name": "Marija Petreska",
+			"screen_name": "teachermarija",
+			"location": "Macedonia",
+			"description": "English Language Teacher, Microsoft Certified Educator, MIE Fellow, Apple Teacher, Associate @ImmersiveMinds",
+			"url": "https://t.co/546CoXQHMo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/546CoXQHMo",
+							"expanded_url": "https://about.me/petreskamarija",
+							"display_url": "about.me/petreskamarija",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3577,
+			"friends_count": 1018,
+			"listed_count": 551,
+			"created_at": "Sun Mar 11 15:48:42 +0000 2012",
+			"favourites_count": 10332,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090888767081205760/Kuzs6mSi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090888767081205760/Kuzs6mSi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/521427482/1549969195",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Practical Ed Tech Podcast is Now on Apple Podcasts https://t.co/p1aLn530wd #edtech #edapp"
+	},
+	{
+		"created_at": "Mon Sep 09 16:33:45 +0000 2019",
+		"id": 1171035271967760400,
+		"id_str": "1171099384714600449",
+		"full_text": "Don’t forget that #lthechat is now back in full swing! Join us this Wednesday evening 8pm, for ‘Pedagogic Research: Presenting and Publishing’ with @Isobel_Gowers Read the blog at https://t.co/RroQzehlm4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lthechat",
+					"indices": [
+						18,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Isobel_Gowers",
+					"name": "Dr Isobel Gowers",
+					"id": 70955761,
+					"id_str": "70955761",
+					"indices": [
+						148,
+						162
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RroQzehlm4",
+					"expanded_url": "http://LTHEchat.com",
+					"display_url": "LTHEchat.com",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6276,
+			"friends_count": 3145,
+			"listed_count": 151,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 3098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don’t forget that #lthechat is now back in full swing! Join us this Wednesday evening 8pm, for ‘Pedagogic Research: Presenting and Publishing’ with @Isobel_Gowers Read the blog at https://t.co/RroQzehlm4"
+	},
+	{
+		"created_at": "Mon Sep 09 09:48:03 +0000 2019",
+		"id": 1170291933010432000,
+		"id_str": "1170997285490241539",
+		"full_text": "#altc A few of my takeaways from the conference. ALT 2019 – Time to take back control…https://t.co/YzQt4RkkKX @A_L_T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						110,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YzQt4RkkKX",
+					"expanded_url": "https://digitalrau.wordpress.com/2019/09/06/alt-2019-time-to-take-back-control/",
+					"display_url": "digitalrau.wordpress.com/2019/09/06/alt…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14322554,
+			"id_str": "14322554",
+			"name": "mariekeguy",
+			"screen_name": "mariekeguy",
+			"location": "Cirencester, Gloucestershire",
+			"description": "HE Learning Technologist @ @RoyalAgUni likes digital info/literacy, education, policy, open & green things, QA, OER, data, dataviz, #GLAM, licensing. Views own.",
+			"url": "https://t.co/6CxIQ2jgBf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6CxIQ2jgBf",
+							"expanded_url": "http://www.mariekeguy.co.uk",
+							"display_url": "mariekeguy.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2325,
+			"friends_count": 2117,
+			"listed_count": 227,
+			"created_at": "Mon Apr 07 13:09:08 +0000 2008",
+			"favourites_count": 1175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/740644955388030977/QIQc8JXx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/740644955388030977/QIQc8JXx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14322554/1441955031",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#altc A few of my takeaways from the conference. ALT 2019 – Time to take back control…https://t.co/YzQt4RkkKX @A_L_T"
+	},
+	{
+		"created_at": "Mon Sep 09 09:47:51 +0000 2019",
+		"id": 1170997234156134400,
+		"id_str": "1170997234156134401",
+		"full_text": "Wish I’d been there! #altc https://t.co/WVtYHfDYYe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						21,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WVtYHfDYYe",
+					"expanded_url": "https://twitter.com/tomfarrelly/status/1170441268020883456",
+					"display_url": "twitter.com/tomfarrelly/st…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #UniteToRemain",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1536,
+			"friends_count": 1201,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1170441268020883500,
+		"quoted_status_id_str": "1170441268020883456",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WVtYHfDYYe",
+			"expanded": "https://twitter.com/tomfarrelly/status/1170441268020883456",
+			"display": "twitter.com/tomfarrelly/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 07 20:58:38 +0000 2019",
+			"id": 1170441268020883500,
+			"id_str": "1170441268020883456",
+			"full_text": "My blog about Gasta at #altc in Edinburgh https://t.co/eaAEC14Chs\n@mhawksey @Lawrie @dazybelle @MarenDeepwell @A_L_T",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "altc",
+						"indices": [
+							23,
+							28
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mhawksey",
+						"name": "Martin Hawksey #altc",
+						"id": 13046992,
+						"id_str": "13046992",
+						"indices": [
+							66,
+							75
+						]
+					},
+					{
+						"screen_name": "Lawrie",
+						"name": "Lawrie",
+						"id": 3250741,
+						"id_str": "3250741",
+						"indices": [
+							76,
+							83
+						]
+					},
+					{
+						"screen_name": "dazybelle",
+						"name": "Margaret Adamson",
+						"id": 50447620,
+						"id_str": "50447620",
+						"indices": [
+							84,
+							94
+						]
+					},
+					{
+						"screen_name": "MarenDeepwell",
+						"name": "Dr Maren Deepwell #altc",
+						"id": 323173367,
+						"id_str": "323173367",
+						"indices": [
+							95,
+							109
+						]
+					},
+					{
+						"screen_name": "A_L_T",
+						"name": "ALT - alt.ac.uk",
+						"id": 41210876,
+						"id_str": "41210876",
+						"indices": [
+							110,
+							116
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/eaAEC14Chs",
+						"expanded_url": "https://farrellytom.wordpress.com/2019/09/07/gasta-at-altc-in-edinburgh/",
+						"display_url": "farrellytom.wordpress.com/2019/09/07/gas…",
+						"indices": [
+							42,
+							65
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 104772398,
+				"id_str": "104772398",
+				"name": "Tom Farrelly",
+				"screen_name": "TomFarrelly",
+				"location": "Firies, Co. Kerry",
+				"description": "Social Science Lecturer in @ittralee with big interest in TEL and education in general.  Any views expressed are personal. \nhttps://t.co/QilIeSNxCi…",
+				"url": "https://t.co/BxktqYCx6C",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BxktqYCx6C",
+								"expanded_url": "http://ittralee.academia.edu/TomFarrelly",
+								"display_url": "ittralee.academia.edu/TomFarrelly",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/QilIeSNxCi",
+								"expanded_url": "http://linkedin.com/profile/view?i",
+								"display_url": "linkedin.com/profile/view?i",
+								"indices": [
+									124,
+									147
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 832,
+				"friends_count": 471,
+				"listed_count": 26,
+				"created_at": "Thu Jan 14 10:20:42 +0000 2010",
+				"favourites_count": 5617,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3432,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/487214628422696961/NPJuQAd0_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/487214628422696961/NPJuQAd0_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/104772398/1562810048",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 38,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wish I’d been there! #altc https://t.co/WVtYHfDYYe"
+	},
+	{
+		"created_at": "Mon Sep 09 07:03:13 +0000 2019",
+		"id": 1170955802414391300,
+		"id_str": "1170955802414391301",
+		"full_text": "Read my Sep 9 'swan-uni-staff' Newsletter featuring “#LTHEchat 151 Pedagogic Research: 'Presenting and…” https://t.co/VY4GBS3fQK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						53,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VY4GBS3fQK",
+					"expanded_url": "https://nzzl.us/9wSLNJ8",
+					"display_url": "nzzl.us/9wSLNJ8",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #UniteToRemain",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1536,
+			"friends_count": 1201,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Sep 9 'swan-uni-staff' Newsletter featuring “#LTHEchat 151 Pedagogic Research: 'Presenting and…” https://t.co/VY4GBS3fQK"
+	},
+	{
 		"created_at": "Sun Sep 08 09:36:31 +0000 2019",
 		"id": 1170607881739260000,
 		"id_str": "1170631994658689025",
