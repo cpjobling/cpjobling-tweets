@@ -1,6 +1,449 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 12 19:12:23 +0000 2019",
+		"id": 1172209233745633300,
+		"id_str": "1172226466903416832",
+		"full_text": "A year ago today, @slamteacher and I published our book, An Urgency of Teachers: the Work of Critical Digital Pedagogy. In honor of our #bookiversary, I'm going to share some of my favorite passage, a sort of digital reading. #anurgencyofteachers https://t.co/RQ5hDt6cku",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bookiversary",
+					"indices": [
+						136,
+						149
+					]
+				},
+				{
+					"text": "anurgencyofteachers",
+					"indices": [
+						226,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "slamteacher",
+					"name": "Sean Michael Morris",
+					"id": 565218468,
+					"id_str": "565218468",
+					"indices": [
+						18,
+						30
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172209215076806700,
+					"id_str": "1172209215076806656",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/EESGEgsXsAAyBSw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EESGEgsXsAAyBSw.jpg",
+					"url": "https://t.co/RQ5hDt6cku",
+					"display_url": "pic.twitter.com/RQ5hDt6cku",
+					"expanded_url": "https://twitter.com/Jessifer/status/1172209233745633281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 852,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1455,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 483,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172209215076806700,
+					"id_str": "1172209215076806656",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/EESGEgsXsAAyBSw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EESGEgsXsAAyBSw.jpg",
+					"url": "https://t.co/RQ5hDt6cku",
+					"display_url": "pic.twitter.com/RQ5hDt6cku",
+					"expanded_url": "https://twitter.com/Jessifer/status/1172209233745633281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 852,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1455,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 483,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11702102,
+			"id_str": "11702102",
+			"name": "Jesse Stommel",
+			"screen_name": "Jessifer",
+			"location": "Washington, DC",
+			"description": "Irascibly optimistic. Education, critical digital pedagogy, documentary film. Founder @HybridPed @digpedlab. Author https://t.co/R92CXp9X00. Dad. He/Him",
+			"url": "https://t.co/c8xuFSGzJr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c8xuFSGzJr",
+							"expanded_url": "http://www.jessestommel.com",
+							"display_url": "jessestommel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/R92CXp9X00",
+							"expanded_url": "http://urgencyofteachers.com",
+							"display_url": "urgencyofteachers.com",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24060,
+			"friends_count": 8545,
+			"listed_count": 946,
+			"created_at": "Mon Dec 31 23:47:46 +0000 2007",
+			"favourites_count": 55147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 42005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/796797933400326144/Cd3YBODD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/796797933400326144/Cd3YBODD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11702102/1495459386",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 93,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A year ago today, @slamteacher and I published our book, An Urgency of Teachers: the Work of Critical Digital Pedagogy. In honor of our #bookiversary, I'm going to share some of my favorite passage, a sort of digital reading. #anurgencyofteachers https://t.co/RQ5hDt6cku"
+	},
+	{
+		"created_at": "Thu Sep 12 19:11:40 +0000 2019",
+		"id": 1172213832011473000,
+		"id_str": "1172226288272191490",
+		"full_text": "I'll start: To promote innovation in #edu, don't invest in #edtech, invest in teachers. More practically, the next time your institution is about to spend money on a new tech, work actively to divert that money toward professional development for teachers. #anurgencyofteachers",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edu",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						59,
+						66
+					]
+				},
+				{
+					"text": "anurgencyofteachers",
+					"indices": [
+						257,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1172213830706970600,
+		"in_reply_to_status_id_str": "1172213830706970624",
+		"in_reply_to_user_id": 11702102,
+		"in_reply_to_user_id_str": "11702102",
+		"in_reply_to_screen_name": "Jessifer",
+		"user": {
+			"id": 11702102,
+			"id_str": "11702102",
+			"name": "Jesse Stommel",
+			"screen_name": "Jessifer",
+			"location": "Washington, DC",
+			"description": "Irascibly optimistic. Education, critical digital pedagogy, documentary film. Founder @HybridPed @digpedlab. Author https://t.co/R92CXp9X00. Dad. He/Him",
+			"url": "https://t.co/c8xuFSGzJr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c8xuFSGzJr",
+							"expanded_url": "http://www.jessestommel.com",
+							"display_url": "jessestommel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/R92CXp9X00",
+							"expanded_url": "http://urgencyofteachers.com",
+							"display_url": "urgencyofteachers.com",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24060,
+			"friends_count": 8545,
+			"listed_count": 946,
+			"created_at": "Mon Dec 31 23:47:46 +0000 2007",
+			"favourites_count": 55147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 42005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/796797933400326144/Cd3YBODD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/796797933400326144/Cd3YBODD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11702102/1495459386",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 24,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I'll start: To promote innovation in #edu, don't invest in #edtech, invest in teachers. More practically, the next time your institution is about to spend money on a new tech, work actively to divert that money toward professional development for teachers. #anurgencyofteachers"
+	},
+	{
+		"created_at": "Thu Sep 12 07:03:30 +0000 2019",
+		"id": 1172043037163315200,
+		"id_str": "1172043037163315200",
+		"full_text": "Read the Sep 12 Newsletter curated by my PLN featuring “Tweetchat help” https://t.co/FpNyS8YDaO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FpNyS8YDaO",
+					"expanded_url": "https://nzzl.us/YpLUWjZ",
+					"display_url": "nzzl.us/YpLUWjZ",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #UniteToRemain",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1538,
+			"friends_count": 1201,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Sep 12 Newsletter curated by my PLN featuring “Tweetchat help” https://t.co/FpNyS8YDaO"
+	},
+	{
 		"created_at": "Wed Sep 11 22:08:41 +0000 2019",
 		"id": 1171889676791234600,
 		"id_str": "1171908445542461440",
