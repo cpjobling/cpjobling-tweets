@@ -1,6 +1,572 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 27 17:50:20 +0000 2019",
+		"id": 1177641353947291600,
+		"id_str": "1177641638140755974",
+		"full_text": "Very proud to be present at Prof. Karol Kalna’s inaugural lecture on ‘Multi-Gate Non-Planar Transistors for Sub-10nm Silicon Technology’ https://t.co/om79dXpcn0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1177641350247911400,
+					"id_str": "1177641350247911425",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EFfSkZJWkAEBu1z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFfSkZJWkAEBu1z.jpg",
+					"url": "https://t.co/om79dXpcn0",
+					"display_url": "pic.twitter.com/om79dXpcn0",
+					"expanded_url": "https://twitter.com/SwanseaEEE/status/1177641353947291649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1177641350247911400,
+					"id_str": "1177641350247911425",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EFfSkZJWkAEBu1z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFfSkZJWkAEBu1z.jpg",
+					"url": "https://t.co/om79dXpcn0",
+					"display_url": "pic.twitter.com/om79dXpcn0",
+					"expanded_url": "https://twitter.com/SwanseaEEE/status/1177641353947291649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 912778733345497100,
+			"id_str": "912778733345497088",
+			"name": "Swansea Uni EEE",
+			"screen_name": "SwanseaEEE",
+			"location": "Swansea, Wales",
+			"description": "Electronic and Electrical Engineering at Swansea University",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 27,
+			"listed_count": 0,
+			"created_at": "Tue Sep 26 20:39:43 +0000 2017",
+			"favourites_count": 148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912784290454413313/VrG1ptTX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912784290454413313/VrG1ptTX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/912778733345497088/1506459872",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				51.61988475,
+				-3.87643013
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-3.87643013,
+				51.61988475
+			]
+		},
+		"place": {
+			"id": "1f36c2b60fbc98ac",
+			"url": "https://api.twitter.com/1.1/geo/id/1f36c2b60fbc98ac.json",
+			"place_type": "city",
+			"name": "Swansea",
+			"full_name": "Swansea, Wales",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.029331,
+							51.5987484
+						],
+						[
+							-3.8621388,
+							51.5987484
+						],
+						[
+							-3.8621388,
+							51.68983
+						],
+						[
+							-4.029331,
+							51.68983
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very proud to be present at Prof. Karol Kalna’s inaugural lecture on ‘Multi-Gate Non-Planar Transistors for Sub-10nm Silicon Technology’ https://t.co/om79dXpcn0"
+	},
+	{
+		"created_at": "Fri Sep 27 16:28:14 +0000 2019",
+		"id": 1177612963265548300,
+		"id_str": "1177620976177160205",
+		"full_text": "Fun being a STEM pre-show speaker  @theatrnanog \"Eye of the Storm\". Story of a young female carer from Welsh valleys with a dream to study STEM to save the world. in Swansea til Sat, in Newport Oct. code here for £5 tickets- good value for an inspirational evening and fun music https://t.co/KhdUbCbWMQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theatrnanog",
+					"name": "Theatr na nÓg",
+					"id": 59093781,
+					"id_str": "59093781",
+					"indices": [
+						35,
+						47
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1177612943619477500,
+					"id_str": "1177612943619477504",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EFe4u6NXUAA94Kl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFe4u6NXUAA94Kl.jpg",
+					"url": "https://t.co/KhdUbCbWMQ",
+					"display_url": "pic.twitter.com/KhdUbCbWMQ",
+					"expanded_url": "https://twitter.com/SM_Jones/status/1177612963265548292/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 192,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 361,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 338,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1177612943619477500,
+					"id_str": "1177612943619477504",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EFe4u6NXUAA94Kl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFe4u6NXUAA94Kl.jpg",
+					"url": "https://t.co/KhdUbCbWMQ",
+					"display_url": "pic.twitter.com/KhdUbCbWMQ",
+					"expanded_url": "https://twitter.com/SM_Jones/status/1177612963265548292/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 192,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 361,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 338,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 766754945693524000,
+			"id_str": "766754945693523968",
+			"name": "Susan Jones",
+			"screen_name": "SM_Jones",
+			"location": "Wales, United Kingdom",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96,
+			"friends_count": 181,
+			"listed_count": 0,
+			"created_at": "Fri Aug 19 21:53:19 +0000 2016",
+			"favourites_count": 509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/884806836427390976/7dayToBY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/884806836427390976/7dayToBY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/766754945693523968/1498225609",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fun being a STEM pre-show speaker  @theatrnanog \"Eye of the Storm\". Story of a young female carer from Welsh valleys with a dream to study STEM to save the world. in Swansea til Sat, in Newport Oct. code here for £5 tickets- good value for an inspirational evening and fun music https://t.co/KhdUbCbWMQ"
+	},
+	{
+		"created_at": "Fri Sep 27 16:25:40 +0000 2019",
+		"id": 1177571257124053000,
+		"id_str": "1177620331655249920",
+		"full_text": "My top tip for the start of teaching. \n\nHearing a tinny, warbling sound after you've left a lecture theatre? It's not someone else's mobile, something to do with the builders, or a problem with your ears. \n\nYou've walked off with the neck mic!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28408419,
+			"id_str": "28408419",
+			"name": "Kate Wright",
+			"screen_name": "kateawright",
+			"location": "",
+			"description": "E-learning Manager, HE. Tweeting about e-learning matters (plus tea & biscuits!) in a personal capacity. She/her. SFHEA & CMALT. Rydw i'n dysgu Cymraeg 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1017,
+			"friends_count": 1361,
+			"listed_count": 50,
+			"created_at": "Thu Apr 02 20:07:20 +0000 2009",
+			"favourites_count": 6442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121462730781876225/Cuhw6gxR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121462730781876225/Cuhw6gxR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28408419/1536689470",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "D9B17E",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "My top tip for the start of teaching. \n\nHearing a tinny, warbling sound after you've left a lecture theatre? It's not someone else's mobile, something to do with the builders, or a problem with your ears. \n\nYou've walked off with the neck mic!"
+	},
+	{
+		"created_at": "Fri Sep 27 07:04:42 +0000 2019",
+		"id": 1177479157690687500,
+		"id_str": "1177479157690687488",
+		"full_text": "Read the Sep 27 Newsletter curated by my PLN featuring “Boris Johnson faces backlash over 'dangerous language” https://t.co/7dcVvzOYyX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7dcVvzOYyX",
+					"expanded_url": "https://nzzl.us/evpWXUe",
+					"display_url": "nzzl.us/evpWXUe",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #UniteToRemain",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1546,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Sep 27 Newsletter curated by my PLN featuring “Boris Johnson faces backlash over 'dangerous language” https://t.co/7dcVvzOYyX"
+	},
+	{
 		"created_at": "Thu Sep 26 15:21:07 +0000 2019",
 		"id": 1177241696909824000,
 		"id_str": "1177241696909824001",
