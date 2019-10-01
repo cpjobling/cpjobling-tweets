@@ -1,6 +1,989 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 30 12:31:20 +0000 2019",
+		"id": 1178648522352201700,
+		"id_str": "1178648522352201729",
+		"full_text": "@PhilGMaull @DrSeanWalton It’s true. But doing the right thing is not straightforward- and the skills needed are often hidden behind a rich text editor in some form of CM/S",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhilGMaull",
+					"name": "Phil Maull",
+					"id": 905737194270326800,
+					"id_str": "905737194270326784",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "DrSeanWalton",
+					"name": "Sean Walton",
+					"id": 17810974,
+					"id_str": "17810974",
+					"indices": [
+						12,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1178614326468518000,
+		"in_reply_to_status_id_str": "1178614326468517889",
+		"in_reply_to_user_id": 905737194270326800,
+		"in_reply_to_user_id_str": "905737194270326784",
+		"in_reply_to_screen_name": "PhilGMaull",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #UniteToRemain",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1547,
+			"friends_count": 1202,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PhilGMaull @DrSeanWalton It’s true. But doing the right thing is not straightforward- and the skills needed are often hidden behind a rich text editor in some form of CM/S"
+	},
+	{
+		"created_at": "Mon Sep 30 09:07:58 +0000 2019",
+		"id": 1178271813320790000,
+		"id_str": "1178597342267760640",
+		"full_text": "76 (!) studies show bias in student evaluation of teaching against female &amp; under-represented academics!\nBut change is glacial at best due to unwillingness to change easy surveys\nDepends on academics, NOT uni strategy, coming up with workable alternatives\nhttps://t.co/rfMAdpBjKW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rfMAdpBjKW",
+					"expanded_url": "https://www.timeshighereducation.com/news/us-campuses-reluctant-reduce-reliance-student-evaluations",
+					"display_url": "timeshighereducation.com/news/us-campus…",
+					"indices": [
+						260,
+						283
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444859403,
+			"id_str": "444859403",
+			"name": "Geertje van Keulen",
+			"screen_name": "DrGvanK",
+			"location": "",
+			"description": "Assoc Prof. Loves pool water sports/novice fabric friller; studies microbes in living+natural+manufactured materials, wettability/adhesives/antibiotics; She/her",
+			"url": "https://t.co/BjF2r0z3cG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BjF2r0z3cG",
+							"expanded_url": "http://www.swansea.ac.uk/staff/medicine/learningandteaching/vankeuleng/",
+							"display_url": "swansea.ac.uk/staff/medicine…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2235,
+			"friends_count": 1606,
+			"listed_count": 187,
+			"created_at": "Fri Dec 23 18:36:14 +0000 2011",
+			"favourites_count": 27971,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114623073762910208/eZyLO6-P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114623073762910208/eZyLO6-P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/444859403/1395151907",
+			"profile_link_color": "B35A00",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "76 (!) studies show bias in student evaluation of teaching against female &amp; under-represented academics!\nBut change is glacial at best due to unwillingness to change easy surveys\nDepends on academics, NOT uni strategy, coming up with workable alternatives\nhttps://t.co/rfMAdpBjKW"
+	},
+	{
+		"created_at": "Mon Sep 30 09:04:18 +0000 2019",
+		"id": 1178596419877425200,
+		"id_str": "1178596419877425152",
+		"full_text": "@E_E_Evans @DrJenBaker Which bus are you waiting for? \n\nThere are always issues at start of teaching.\n\nI always complain to @FirstCymru",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "E_E_Evans",
+					"name": "Dr Elizabeth Evans",
+					"id": 2821289133,
+					"id_str": "2821289133",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "DrJenBaker",
+					"name": "Jen",
+					"id": 3001237293,
+					"id_str": "3001237293",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "FirstCymru",
+					"name": "First Cymru Buses",
+					"id": 97223190,
+					"id_str": "97223190",
+					"indices": [
+						124,
+						135
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1178579238619881500,
+		"in_reply_to_status_id_str": "1178579238619881472",
+		"in_reply_to_user_id": 2821289133,
+		"in_reply_to_user_id_str": "2821289133",
+		"in_reply_to_screen_name": "E_E_Evans",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #UniteToRemain",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1547,
+			"friends_count": 1202,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@E_E_Evans @DrJenBaker Which bus are you waiting for? \n\nThere are always issues at start of teaching.\n\nI always complain to @FirstCymru"
+	},
+	{
+		"created_at": "Mon Sep 30 09:01:37 +0000 2019",
+		"id": 1178595743281627100,
+		"id_str": "1178595743281627136",
+		"full_text": "@SUEngineering DM Would Jen be amenable to giving this as an IET Christmas lecture? @IETSouthWales @SM_Jones",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SUEngineering",
+					"name": "Swansea Engineering",
+					"id": 154145391,
+					"id_str": "154145391",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "IETSouthWales",
+					"name": "IET South Wales",
+					"id": 564949827,
+					"id_str": "564949827",
+					"indices": [
+						84,
+						98
+					]
+				},
+				{
+					"screen_name": "SM_Jones",
+					"name": "Susan Jones",
+					"id": 766754945693524000,
+					"id_str": "766754945693523968",
+					"indices": [
+						99,
+						108
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1178589042901954600,
+		"in_reply_to_status_id_str": "1178589042901954560",
+		"in_reply_to_user_id": 154145391,
+		"in_reply_to_user_id_str": "154145391",
+		"in_reply_to_screen_name": "SUEngineering",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #UniteToRemain",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1547,
+			"friends_count": 1202,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SUEngineering DM Would Jen be amenable to giving this as an IET Christmas lecture? @IETSouthWales @SM_Jones"
+	},
+	{
+		"created_at": "Mon Sep 30 07:21:27 +0000 2019",
+		"id": 1178218087889461200,
+		"id_str": "1178570536860966917",
+		"full_text": "#LTHEchat 153 Beyond the course team – the role of educational/curriculum development support with University of Liverpool Centre of Innovation in Education @LivUniCIE https://t.co/KC2gNQQlzQ https://t.co/4lBKPDSAJH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LivUniCIE",
+					"name": "Centre for Innovation in Education",
+					"id": 978576350192816100,
+					"id_str": "978576350192816129",
+					"indices": [
+						157,
+						167
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KC2gNQQlzQ",
+					"expanded_url": "http://lthechat.com/2019/09/29/lthechat-153-beyond-the-course-team-the-role-of-educational-curriculum-development-support-with-university-of-liverpool-centre-of-innovation-in-education-livunicie/",
+					"display_url": "lthechat.com/2019/09/29/lth…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1178218086203310000,
+					"id_str": "1178218086203310081",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EFnfG2AWwAEVahT.png",
+					"media_url_https": "https://pbs.twimg.com/media/EFnfG2AWwAEVahT.png",
+					"url": "https://t.co/4lBKPDSAJH",
+					"display_url": "pic.twitter.com/4lBKPDSAJH",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1178218087889461248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 342,
+							"h": 342,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 342,
+							"h": 342,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 342,
+							"h": 342,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1178218086203310000,
+					"id_str": "1178218086203310081",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EFnfG2AWwAEVahT.png",
+					"media_url_https": "https://pbs.twimg.com/media/EFnfG2AWwAEVahT.png",
+					"url": "https://t.co/4lBKPDSAJH",
+					"display_url": "pic.twitter.com/4lBKPDSAJH",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1178218087889461248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 342,
+							"h": 342,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 342,
+							"h": 342,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 342,
+							"h": 342,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6339,
+			"friends_count": 3143,
+			"listed_count": 150,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 3131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LTHEchat 153 Beyond the course team – the role of educational/curriculum development support with University of Liverpool Centre of Innovation in Education @LivUniCIE https://t.co/KC2gNQQlzQ https://t.co/4lBKPDSAJH"
+	},
+	{
+		"created_at": "Mon Sep 30 07:19:56 +0000 2019",
+		"id": 1177498753252487200,
+		"id_str": "1178570156638908416",
+		"full_text": "in 1989 Tim Berners-Lee invented the web because he realised printed documentation goes out of date quickly - how many of you work somewhere still using printed (or static pdf) handbooks?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17810974,
+			"id_str": "17810974",
+			"name": "Sean Walton",
+			"screen_name": "DrSeanWalton",
+			"location": "Bridgend, Wales, UK",
+			"description": "Computer Science Lecturer at Swansea University,\n\n@BAFTACymru nominated indie game developer and founder of @pillbugint\n\nTweets my own.",
+			"url": "https://t.co/H2J7yV3j9r",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H2J7yV3j9r",
+							"expanded_url": "https://seanwalton.github.io/",
+							"display_url": "seanwalton.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 897,
+			"friends_count": 519,
+			"listed_count": 59,
+			"created_at": "Tue Dec 02 16:26:57 +0000 2008",
+			"favourites_count": 5654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7D8487",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964523273055764482/1rKKKnHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964523273055764482/1rKKKnHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17810974/1497803080",
+			"profile_link_color": "568A37",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "66F2AC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "in 1989 Tim Berners-Lee invented the web because he realised printed documentation goes out of date quickly - how many of you work somewhere still using printed (or static pdf) handbooks?"
+	},
+	{
+		"created_at": "Mon Sep 30 07:19:07 +0000 2019",
+		"id": 1177541411333464000,
+		"id_str": "1178569950862221317",
+		"full_text": "Teachers- Take some time today to talk to a student about how much they've improved.\n\nLast night at strength class, instructor pulled me aside and told me how much better my form has gotten in 4 weeks, and I almost cried. Can only imagine s's need the same encouragement.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10461,
+			"id_str": "10461",
+			"name": "Robert Talbert",
+			"screen_name": "RobertTalbert",
+			"location": "Michigan, USA",
+			"description": "Math prof and interim chair @GVSUmath. Writer/speaker on teaching and learning (https://t.co/h1RHQkz4I2). Dad, Catholic, @Arsenal, @GrandRapidsFC. My views != GVSU's.",
+			"url": "https://t.co/kvYHUeVQOB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kvYHUeVQOB",
+							"expanded_url": "http://rtalbert.org",
+							"display_url": "rtalbert.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/h1RHQkz4I2",
+							"expanded_url": "http://rtalbert.org/book",
+							"display_url": "rtalbert.org/book",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4564,
+			"friends_count": 987,
+			"listed_count": 312,
+			"created_at": "Wed Oct 25 11:18:35 +0000 2006",
+			"favourites_count": 3766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E9D39B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126233069936152578/z4_zVTNq_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126233069936152578/z4_zVTNq_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10461/1557349835",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "919BFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 46,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Teachers- Take some time today to talk to a student about how much they've improved.\n\nLast night at strength class, instructor pulled me aside and told me how much better my form has gotten in 4 weeks, and I almost cried. Can only imagine s's need the same encouragement."
+	},
+	{
+		"created_at": "Mon Sep 30 07:03:19 +0000 2019",
+		"id": 1178565972506091500,
+		"id_str": "1178565972506091520",
+		"full_text": "Read my Sep 30 'swan-uni-staff' Newsletter featuring “US campuses reluctant to reduce reliance on student…” https://t.co/mXRh81IPgY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mXRh81IPgY",
+					"expanded_url": "https://nzzl.us/OJvO1UB",
+					"display_url": "nzzl.us/OJvO1UB",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #UniteToRemain",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1547,
+			"friends_count": 1202,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Sep 30 'swan-uni-staff' Newsletter featuring “US campuses reluctant to reduce reliance on student…” https://t.co/mXRh81IPgY"
+	},
+	{
 		"created_at": "Sun Sep 29 07:03:28 +0000 2019",
 		"id": 1178203624150835200,
 		"id_str": "1178203624150835200",
