@@ -1,6 +1,638 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 07 09:49:04 +0000 2019",
+		"id": 1181140812618444800,
+		"id_str": "1181144399109087232",
+		"full_text": "This looks like it could be handy... a Raspberry Pi cluster board... https://t.co/WqpxhyznWV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WqpxhyznWV",
+					"expanded_url": "https://twitter.com/learnk8s/status/1180860436373225474",
+					"display_url": "twitter.com/learnk8s/statu…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7129072,
+			"id_str": "7129072",
+			"name": "Tony Hirst",
+			"screen_name": "psychemedia",
+			"location": "UK",
+			"description": "Open public data  / data journalism tinkerer, Isle of WIght resident #f1datajunkie #rallydatajunkie #TrackingJupyter Looking to be useful and make a difference.",
+			"url": "http://t.co/Wf2lbdihKQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Wf2lbdihKQ",
+							"expanded_url": "http://blog.ouseful.info",
+							"display_url": "blog.ouseful.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5793,
+			"friends_count": 1747,
+			"listed_count": 732,
+			"created_at": "Thu Jun 28 11:37:39 +0000 2007",
+			"favourites_count": 4160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195013164/Picture_23_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195013164/Picture_23_normal.png",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1180860436373225500,
+		"quoted_status_id_str": "1180860436373225474",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WqpxhyznWV",
+			"expanded": "https://twitter.com/learnk8s/status/1180860436373225474",
+			"display": "twitter.com/learnk8s/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 06 15:00:42 +0000 2019",
+			"id": 1180860436373225500,
+			"id_str": "1180860436373225474",
+			"full_text": "The Turing PI clusterboard is a board for Raspberri PIs compute modules designed to help you build your homelab Kubernetes cluster.\nTuring Pi supports Kubernetes software ecosystem, as well as Jupyter Notebook, machine learning and serverless stacks\nhttps://t.co/Eh5aDkTEuE https://t.co/LoR7hdmNvW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Eh5aDkTEuE",
+						"expanded_url": "http://bit.ly/2TZHpFV",
+						"display_url": "bit.ly/2TZHpFV",
+						"indices": [
+							250,
+							273
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1180860434234138600,
+						"id_str": "1180860434234138625",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/EGNCTvfW4AEXtpb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGNCTvfW4AEXtpb.jpg",
+						"url": "https://t.co/LoR7hdmNvW",
+						"display_url": "pic.twitter.com/LoR7hdmNvW",
+						"expanded_url": "https://twitter.com/learnk8s/status/1180860436373225474/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 472,
+								"h": 485,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 472,
+								"h": 485,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 472,
+								"h": 485,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1180860434234138600,
+						"id_str": "1180860434234138625",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/EGNCTvfW4AEXtpb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGNCTvfW4AEXtpb.jpg",
+						"url": "https://t.co/LoR7hdmNvW",
+						"display_url": "pic.twitter.com/LoR7hdmNvW",
+						"expanded_url": "https://twitter.com/learnk8s/status/1180860436373225474/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 472,
+								"h": 485,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 472,
+								"h": 485,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 472,
+								"h": 485,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://smarterqueue.com\" rel=\"nofollow\">SmarterQueue</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 906103600673415200,
+				"id_str": "906103600673415168",
+				"name": "Learnk8s",
+				"screen_name": "learnk8s",
+				"location": "London, Milan, Singapore",
+				"description": "Open cloud training for top enterprises and SMEs using containers, Kubernetes and cloud native technologies.",
+				"url": "https://t.co/RtmspEYdrR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RtmspEYdrR",
+								"expanded_url": "https://learnk8s.io",
+								"display_url": "learnk8s.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4546,
+				"friends_count": 29,
+				"listed_count": 65,
+				"created_at": "Fri Sep 08 10:35:07 +0000 2017",
+				"favourites_count": 2148,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2772,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/925127335573114880/9yCkEIe3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/925127335573114880/9yCkEIe3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/906103600673415168/1533891675",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This looks like it could be handy... a Raspberry Pi cluster board... https://t.co/WqpxhyznWV"
+	},
+	{
+		"created_at": "Mon Oct 07 09:47:07 +0000 2019",
+		"id": 1181124299253526500,
+		"id_str": "1181143912011960321",
+		"full_text": "Employer Talk - @InSiteTechnical \n📆 Today \n🕕 6pm\n 📍  B001, Engineering Central \n🍕  Free pizza! \n✅ Chemical, Civil, Electronic &amp; Electrical and Mechanical \n       Engineering",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "InSiteTechnical",
+					"name": "InSite Technical Services",
+					"id": 1067694252602400800,
+					"id_str": "1067694252602400768",
+					"indices": [
+						16,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154145391,
+			"id_str": "154145391",
+			"name": "Swansea Engineering",
+			"screen_name": "SUEngineering",
+			"location": "Swansea University",
+			"description": "Multi-disciplinary engineering department at @SwanseaUni. Follow to find out about our pioneering research and undergraduate/postgraduate opportunities!",
+			"url": "https://t.co/wdGdUrJPS1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wdGdUrJPS1",
+							"expanded_url": "http://www.swan.ac.uk/engineering",
+							"display_url": "swan.ac.uk/engineering",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3823,
+			"friends_count": 911,
+			"listed_count": 65,
+			"created_at": "Thu Jun 10 14:01:55 +0000 2010",
+			"favourites_count": 3245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877844628908724224/95wzwHBO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877844628908724224/95wzwHBO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154145391/1566212623",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Employer Talk - @InSiteTechnical \n📆 Today \n🕕 6pm\n 📍  B001, Engineering Central \n🍕  Free pizza! \n✅ Chemical, Civil, Electronic &amp; Electrical and Mechanical \n       Engineering"
+	},
+	{
+		"created_at": "Mon Oct 07 08:33:12 +0000 2019",
+		"id": 1181116953831731200,
+		"id_str": "1181125308264656896",
+		"full_text": "#LTHEChat 154: Design for Active and Blended Learning with Andrew Middleton @andrewmid, 8-9 pm BST 9th October 2019 https://t.co/ZQrbASca0M.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andrewmid",
+					"name": "Andrew Middleton",
+					"id": 800614,
+					"id_str": "800614",
+					"indices": [
+						76,
+						86
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZQrbASca0M",
+					"expanded_url": "https://lthechat.com/lthechat-154-design-for-active-and-blended-learning-with-andrew-middleton-andrewmid",
+					"display_url": "lthechat.com/lthechat-154-d…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6381,
+			"friends_count": 3143,
+			"listed_count": 150,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 3133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LTHEChat 154: Design for Active and Blended Learning with Andrew Middleton @andrewmid, 8-9 pm BST 9th October 2019 https://t.co/ZQrbASca0M."
+	},
+	{
+		"created_at": "Mon Oct 07 07:03:27 +0000 2019",
+		"id": 1181102723229536300,
+		"id_str": "1181102723229536257",
+		"full_text": "Read my Oct 7 'swan-uni-staff' Newsletter featuring “Centenary Essays · Swansea University Digital Collections” https://t.co/kZAhHHJuXP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kZAhHHJuXP",
+					"expanded_url": "https://nzzl.us/uunzlxC",
+					"display_url": "nzzl.us/uunzlxC",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #UniteToRemain",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1551,
+			"friends_count": 1202,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Oct 7 'swan-uni-staff' Newsletter featuring “Centenary Essays · Swansea University Digital Collections” https://t.co/kZAhHHJuXP"
+	},
+	{
 		"created_at": "Sun Oct 06 13:40:27 +0000 2019",
 		"id": 1180788777465368600,
 		"id_str": "1180840244834443265",
