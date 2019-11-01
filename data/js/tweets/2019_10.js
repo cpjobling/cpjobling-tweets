@@ -1,6 +1,483 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 31 10:59:53 +0000 2019",
+		"id": 1189859533558075400,
+		"id_str": "1189859533558075393",
+		"full_text": "@RacePhil @sultec4 You are welcome!",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "sultec4",
+					"name": "SU LTEC",
+					"id": 806525141509402600,
+					"id_str": "806525141509402625",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1189832831993819100,
+		"in_reply_to_status_id_str": "1189832831993819138",
+		"in_reply_to_user_id": 1350065268,
+		"in_reply_to_user_id_str": "1350065268",
+		"in_reply_to_screen_name": "RacePhil",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #UniteToRemain",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1554,
+			"friends_count": 1202,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10794,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RacePhil @sultec4 You are welcome!"
+	},
+	{
+		"created_at": "Thu Oct 31 08:34:16 +0000 2019",
+		"id": 1189822886233686000,
+		"id_str": "1189822886233686016",
+		"full_text": ".@sultec4 Because Brexit didn't happen (yet), as a present to myself, I just bought my copy of @RacePhil The Lecturer's Toolkit, 5th Ed, Routledge, London, 2019. #LTK5 https://t.co/BEFEoX3q6A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTK5",
+					"indices": [
+						162,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sultec4",
+					"name": "SU LTEC",
+					"id": 806525141509402600,
+					"id_str": "806525141509402625",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						95,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BEFEoX3q6A",
+					"expanded_url": "https://twitter.com/RacePhil/status/1178972967746899969",
+					"display_url": "twitter.com/RacePhil/statu…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #UniteToRemain",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1554,
+			"friends_count": 1202,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10794,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1178972967746900000,
+		"quoted_status_id_str": "1178972967746899969",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BEFEoX3q6A",
+			"expanded": "https://twitter.com/RacePhil/status/1178972967746899969",
+			"display": "twitter.com/RacePhil/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 01 10:00:34 +0000 2019",
+			"id": 1178972967746900000,
+			"id_str": "1178972967746899969",
+			"full_text": "5th edition of ‘The Lecturer’s Toolkit’ out later this month! Link here to a download of the flyer, which bears a code for 20% discount if ordered online from the publisher.  https://t.co/Vb58UHQelL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				198
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Vb58UHQelL",
+						"expanded_url": "https://phil-race.co.uk/2019/10/5th-edition-of-the-lecturers-toolkit-out-this-month/",
+						"display_url": "phil-race.co.uk/2019/10/5th-ed…",
+						"indices": [
+							175,
+							198
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1350065268,
+				"id_str": "1350065268",
+				"name": "Phil Race",
+				"screen_name": "RacePhil",
+				"location": "Newcastle Upon Tyne, England",
+				"description": "Writer and keynoter on assessment, feedback, teaching and learning in tertiary education, e.g.'Making Learning Happen' & 'Lecturer's Toolkit'. NTF, PFHEA",
+				"url": "https://t.co/4KgQ6vybwe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4KgQ6vybwe",
+								"expanded_url": "http://phil-race.co.uk",
+								"display_url": "phil-race.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8049,
+				"friends_count": 8088,
+				"listed_count": 140,
+				"created_at": "Sat Apr 13 19:50:29 +0000 2013",
+				"favourites_count": 11329,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13206,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000609415725/19672c718d9873a6c2faba1242b6562d_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000609415725/19672c718d9873a6c2faba1242b6562d_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1350065268/1460222436",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 70,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@sultec4 Because Brexit didn't happen (yet), as a present to myself, I just bought my copy of @RacePhil The Lecturer's Toolkit, 5th Ed, Routledge, London, 2019. #LTK5 https://t.co/BEFEoX3q6A"
+	},
+	{
+		"created_at": "Thu Oct 31 08:04:13 +0000 2019",
+		"id": 1189815324281053200,
+		"id_str": "1189815324281053184",
+		"full_text": "Read the Oct 31 Newsletter curated by my PLN featuring “As the internet turns 50, we must protect it as a force…” https://t.co/Su7DhWw5RM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Su7DhWw5RM",
+					"expanded_url": "https://nzzl.us/pTD31eb",
+					"display_url": "nzzl.us/pTD31eb",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling #UniteToRemain",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1554,
+			"friends_count": 1202,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10794,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19042,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Oct 31 Newsletter curated by my PLN featuring “As the internet turns 50, we must protect it as a force…” https://t.co/Su7DhWw5RM"
+	},
+	{
 		"created_at": "Wed Oct 30 21:06:01 +0000 2019",
 		"id": 1189649681204289500,
 		"id_str": "1189649681204289536",
@@ -3663,7 +4140,7 @@ Grailbird.data.tweets_2019_10 =
 		"created_at": "Wed Oct 30 10:55:38 +0000 2019",
 		"id": 1188845161335443500,
 		"id_str": "1189496076165943297",
-		"full_text": "“Why ­aren’t there departments of higher-education pedagogy at every university? Why aren’t there for-credit classes being offered in higher-education teaching and learning in every graduate program?” Excerpts from my @chronicle interview with @becksup  https://t.co/vCPIcNzd2q",
+		"full_text": "“Why aren’t there departments of higher-education pedagogy at every university? Why aren’t there for-credit classes being offered in higher-education teaching and learning in every graduate program?” Excerpts from my @chronicle interview with @becksup  https://t.co/vCPIcNzd2q",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -3796,7 +4273,7 @@ Grailbird.data.tweets_2019_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "“Why ­aren’t there departments of higher-education pedagogy at every university? Why aren’t there for-credit classes being offered in higher-education teaching and learning in every graduate program?” Excerpts from my @chronicle interview with @becksup  https://t.co/vCPIcNzd2q"
+		"text": "“Why aren’t there departments of higher-education pedagogy at every university? Why aren’t there for-credit classes being offered in higher-education teaching and learning in every graduate program?” Excerpts from my @chronicle interview with @becksup  https://t.co/vCPIcNzd2q"
 	},
 	{
 		"created_at": "Wed Oct 30 10:54:37 +0000 2019",
