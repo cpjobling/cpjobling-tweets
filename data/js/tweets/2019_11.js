@@ -1,6 +1,820 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 05 16:38:06 +0000 2019",
+		"id": 1191756586978558000,
+		"id_str": "1191756586978557952",
+		"full_text": "Targeted ads are one of the world's most destructive trends. Here's why | Arwa Mahdawi https://t.co/WysdUWDaIZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WysdUWDaIZ",
+					"expanded_url": "https://www.theguardian.com/world/2019/nov/05/targeted-ads-fake-news-clickbait-surveillance-capitalism-data-mining-democracy",
+					"display_url": "theguardian.com/world/2019/nov…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1553,
+			"friends_count": 1202,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Targeted ads are one of the world's most destructive trends. Here's why | Arwa Mahdawi https://t.co/WysdUWDaIZ"
+	},
+	{
+		"created_at": "Tue Nov 05 16:32:17 +0000 2019",
+		"id": 1191755120264003600,
+		"id_str": "1191755120264003584",
+		"full_text": "Digital experience insights survey 2019: findings from teaching staff in UK further and higher education https://t.co/0hdNrPvp1l via @nuzzel",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nuzzel",
+					"name": "Nuzzel",
+					"id": 106041193,
+					"id_str": "106041193",
+					"indices": [
+						133,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0hdNrPvp1l",
+					"expanded_url": "https://nzzl.us/JMrdae3",
+					"display_url": "nzzl.us/JMrdae3",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1553,
+			"friends_count": 1202,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Digital experience insights survey 2019: findings from teaching staff in UK further and higher education https://t.co/0hdNrPvp1l via @nuzzel"
+	},
+	{
+		"created_at": "Tue Nov 05 12:51:09 +0000 2019",
+		"id": 1191699471211679700,
+		"id_str": "1191699471211679744",
+		"full_text": "Are the so-called \"productivity-enhancing\" IT systems provided by your institution getting you down?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1553,
+			"friends_count": 1202,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Are the so-called \"productivity-enhancing\" IT systems provided by your institution getting you down?"
+	},
+	{
+		"created_at": "Tue Nov 05 11:20:41 +0000 2019",
+		"id": 1191676672640258000,
+		"id_str": "1191676705754222592",
+		"full_text": "More information and registration here: #IETWalesSouthWest https://t.co/xT26Io07Pr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IETWalesSouthWest",
+					"indices": [
+						40,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xT26Io07Pr",
+					"expanded_url": "https://events.theiet.org/nano-biosensors/",
+					"display_url": "events.theiet.org/nano-biosensor…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1188064627432874000,
+		"in_reply_to_status_id_str": "1188064627432873984",
+		"in_reply_to_user_id": 564949827,
+		"in_reply_to_user_id_str": "564949827",
+		"in_reply_to_screen_name": "IETSouthWales",
+		"user": {
+			"id": 564949827,
+			"id_str": "564949827",
+			"name": "IET South Wales",
+			"screen_name": "IETSouthWales",
+			"location": "Cardiff",
+			"description": "The South Wales local networks, technical sections and young professionals of the Institution of Engineering & Technology.",
+			"url": "http://t.co/GeyufF6anH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/GeyufF6anH",
+							"expanded_url": "http://www.theiet.org/southwales/",
+							"display_url": "theiet.org/southwales/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 661,
+			"friends_count": 477,
+			"listed_count": 10,
+			"created_at": "Fri Apr 27 19:47:18 +0000 2012",
+			"favourites_count": 116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/527447398633598980/ndj279lM_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/527447398633598980/ndj279lM_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "More information and registration here: #IETWalesSouthWest https://t.co/xT26Io07Pr"
+	},
+	{
+		"created_at": "Tue Nov 05 11:18:39 +0000 2019",
+		"id": 1188064627432874000,
+		"id_str": "1191676193554210816",
+		"full_text": "November IET Wales South West event is with the Institute of Physics. https://t.co/IJTJxHMPKr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1188064546864410600,
+					"id_str": "1188064546864410626",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EHzaaSYWsAIY7XY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHzaaSYWsAIY7XY.jpg",
+					"url": "https://t.co/IJTJxHMPKr",
+					"display_url": "pic.twitter.com/IJTJxHMPKr",
+					"expanded_url": "https://twitter.com/IETSouthWales/status/1188064627432873984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 471,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1040,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 67,
+									"y": 414,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 43,
+									"y": 270,
+									"h": 37,
+									"w": 37
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 67,
+									"y": 414,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 67,
+									"y": 414,
+									"h": 57,
+									"w": 57
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1188064546864410600,
+					"id_str": "1188064546864410626",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EHzaaSYWsAIY7XY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHzaaSYWsAIY7XY.jpg",
+					"url": "https://t.co/IJTJxHMPKr",
+					"display_url": "pic.twitter.com/IJTJxHMPKr",
+					"expanded_url": "https://twitter.com/IETSouthWales/status/1188064627432873984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 471,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1040,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 67,
+									"y": 414,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 43,
+									"y": 270,
+									"h": 37,
+									"w": 37
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 67,
+									"y": 414,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 67,
+									"y": 414,
+									"h": 57,
+									"w": 57
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 564949827,
+			"id_str": "564949827",
+			"name": "IET South Wales",
+			"screen_name": "IETSouthWales",
+			"location": "Cardiff",
+			"description": "The South Wales local networks, technical sections and young professionals of the Institution of Engineering & Technology.",
+			"url": "http://t.co/GeyufF6anH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/GeyufF6anH",
+							"expanded_url": "http://www.theiet.org/southwales/",
+							"display_url": "theiet.org/southwales/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 661,
+			"friends_count": 477,
+			"listed_count": 10,
+			"created_at": "Fri Apr 27 19:47:18 +0000 2012",
+			"favourites_count": 116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/527447398633598980/ndj279lM_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/527447398633598980/ndj279lM_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "November IET Wales South West event is with the Institute of Physics. https://t.co/IJTJxHMPKr"
+	},
+	{
+		"created_at": "Tue Nov 05 08:03:48 +0000 2019",
+		"id": 1191627160076898300,
+		"id_str": "1191627160076898304",
+		"full_text": "Read the Nov 5 Newsletter curated by my PLN featuring “#LTHEchat 157 A Proposal for a Sector-wide Framework for…” https://t.co/4swJgcpr9k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						55,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4swJgcpr9k",
+					"expanded_url": "https://nzzl.us/Y6MxHmZ",
+					"display_url": "nzzl.us/Y6MxHmZ",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1553,
+			"friends_count": 1202,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Nov 5 Newsletter curated by my PLN featuring “#LTHEchat 157 A Proposal for a Sector-wide Framework for…” https://t.co/4swJgcpr9k"
+	},
+	{
 		"created_at": "Mon Nov 04 18:59:07 +0000 2019",
 		"id": 1191429688067022800,
 		"id_str": "1191429688067022849",
