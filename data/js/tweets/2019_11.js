@@ -1,6 +1,619 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 11 11:18:49 +0000 2019",
+		"id": 1193777949914345500,
+		"id_str": "1193850563051622401",
+		"full_text": "We're so excited... Our first learning &amp; keynote lecture is now available at https://t.co/UH7ThCRdQK \n\nProfs @ProfSallyBrown &amp; @RacePhil explain how to 'Bringing your teaching to life: practical tips to inspire learning'. \n\n#MondayMotivation #InspiringLearning https://t.co/RSfJDMmvHr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MondayMotivation",
+					"indices": [
+						232,
+						249
+					]
+				},
+				{
+					"text": "InspiringLearning",
+					"indices": [
+						250,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						113,
+						128
+					]
+				},
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						135,
+						144
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UH7ThCRdQK",
+					"expanded_url": "https://youtu.be/QytSqIXLIks",
+					"display_url": "youtu.be/QytSqIXLIks",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1193777946051391500,
+					"id_str": "1193777946051391488",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EJEmt48WsAAW_Jv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJEmt48WsAAW_Jv.jpg",
+					"url": "https://t.co/RSfJDMmvHr",
+					"display_url": "pic.twitter.com/RSfJDMmvHr",
+					"expanded_url": "https://twitter.com/LTA_HWU/status/1193777949914345472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 663,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1998,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1171,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1165,
+									"y": 601,
+									"h": 152,
+									"w": 152
+								},
+								{
+									"x": 1181,
+									"y": 342,
+									"h": 200,
+									"w": 200
+								},
+								{
+									"x": 1628,
+									"y": 655,
+									"h": 163,
+									"w": 163
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 289,
+									"y": 149,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 293,
+									"y": 84,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 404,
+									"y": 162,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 871,
+									"y": 449,
+									"h": 113,
+									"w": 113
+								},
+								{
+									"x": 883,
+									"y": 255,
+									"h": 149,
+									"w": 149
+								},
+								{
+									"x": 1217,
+									"y": 489,
+									"h": 121,
+									"w": 121
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 510,
+									"y": 263,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 517,
+									"y": 149,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 713,
+									"y": 287,
+									"h": 71,
+									"w": 71
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1193777946051391500,
+					"id_str": "1193777946051391488",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EJEmt48WsAAW_Jv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJEmt48WsAAW_Jv.jpg",
+					"url": "https://t.co/RSfJDMmvHr",
+					"display_url": "pic.twitter.com/RSfJDMmvHr",
+					"expanded_url": "https://twitter.com/LTA_HWU/status/1193777949914345472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 663,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1998,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1171,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1165,
+									"y": 601,
+									"h": 152,
+									"w": 152
+								},
+								{
+									"x": 1181,
+									"y": 342,
+									"h": 200,
+									"w": 200
+								},
+								{
+									"x": 1628,
+									"y": 655,
+									"h": 163,
+									"w": 163
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 289,
+									"y": 149,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 293,
+									"y": 84,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 404,
+									"y": 162,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 871,
+									"y": 449,
+									"h": 113,
+									"w": 113
+								},
+								{
+									"x": 883,
+									"y": 255,
+									"h": 149,
+									"w": 149
+								},
+								{
+									"x": 1217,
+									"y": 489,
+									"h": 121,
+									"w": 121
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 510,
+									"y": 263,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 517,
+									"y": 149,
+									"h": 87,
+									"w": 87
+								},
+								{
+									"x": 713,
+									"y": 287,
+									"h": 71,
+									"w": 71
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1154336330446442500,
+			"id_str": "1154336330446442496",
+			"name": "HWU Learning & Teaching Academy",
+			"screen_name": "LTA_HWU",
+			"location": "",
+			"description": "The Twitter home of @HeriotWattUni's Learning & Teaching Academy.  Follow us to hear about upcoming events and to join the discussion about #InspiringLearning.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 180,
+			"friends_count": 84,
+			"listed_count": 0,
+			"created_at": "Thu Jul 25 10:23:22 +0000 2019",
+			"favourites_count": 104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154342573772812289/z1royXjE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154342573772812289/z1royXjE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1154336330446442496/1564151758",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're so excited... Our first learning &amp; keynote lecture is now available at https://t.co/UH7ThCRdQK \n\nProfs @ProfSallyBrown &amp; @RacePhil explain how to 'Bringing your teaching to life: practical tips to inspire learning'. \n\n#MondayMotivation #InspiringLearning https://t.co/RSfJDMmvHr"
+	},
+	{
+		"created_at": "Mon Nov 11 09:39:23 +0000 2019",
+		"id": 1193825539406086100,
+		"id_str": "1193825539406086144",
+		"full_text": "@anortcliffe DM I will be happy to show you around. I assume you'll get a Taxi from the station?",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anortcliffe",
+					"name": "anortcliffe",
+					"id": 592655531,
+					"id_str": "592655531",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1193611630275448800,
+		"in_reply_to_status_id_str": "1193611630275448834",
+		"in_reply_to_user_id": 592655531,
+		"in_reply_to_user_id_str": "592655531",
+		"in_reply_to_screen_name": "anortcliffe",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1554,
+			"friends_count": 1200,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@anortcliffe DM I will be happy to show you around. I assume you'll get a Taxi from the station?"
+	},
+	{
+		"created_at": "Mon Nov 11 08:03:30 +0000 2019",
+		"id": 1193801408203673600,
+		"id_str": "1193801408203673601",
+		"full_text": "Read the Nov 11 Newsletter curated by my PLN featuring “#LTHEchat 158 'The Emerging Field of Learning…” https://t.co/7Hnvmzno15",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						56,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7Hnvmzno15",
+					"expanded_url": "https://nzzl.us/7hnW8cE",
+					"display_url": "nzzl.us/7hnW8cE",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1554,
+			"friends_count": 1200,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Nov 11 Newsletter curated by my PLN featuring “#LTHEchat 158 'The Emerging Field of Learning…” https://t.co/7Hnvmzno15"
+	},
+	{
 		"created_at": "Sun Nov 10 12:00:41 +0000 2019",
 		"id": 1193484225858744300,
 		"id_str": "1193498709029457920",
