@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 18 09:46:03 +0000 2019",
+		"id": 1195355137407148000,
+		"id_str": "1196363932660903937",
+		"full_text": "HE…Just turn it off and on again! A collaboration with @EmmaThirkell highlighting the potential in rethinking our institutional approaches to #teaching &amp; #learning with #edtech. #altc #OneNote #TeamsEducation #VLE #LTHEchat \nhttps://t.co/IMz6Qf88x3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "teaching",
+					"indices": [
+						142,
+						151
+					]
+				},
+				{
+					"text": "learning",
+					"indices": [
+						158,
+						167
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						173,
+						180
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						188,
+						196
+					]
+				},
+				{
+					"text": "TeamsEducation",
+					"indices": [
+						197,
+						212
+					]
+				},
+				{
+					"text": "VLE",
+					"indices": [
+						213,
+						217
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						218,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EmmaThirkell",
+					"name": "Dr Emma Thirkell",
+					"id": 476148040,
+					"id_str": "476148040",
+					"indices": [
+						55,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IMz6Qf88x3",
+					"expanded_url": "https://digitaleducation96.wordpress.com/2019/11/15/he-just-turn-it-off-and-on-again/",
+					"display_url": "digitaleducation96.wordpress.com/2019/11/15/he-…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 425731247,
+			"id_str": "425731247",
+			"name": "Dale Munday",
+			"screen_name": "Dale_Munday",
+			"location": "North West, England",
+			"description": "Digital Learning Facilitator @LancasterUni. Passionate about improving teaching & learning with a focus on digital technology. Always learning & developing.",
+			"url": "https://t.co/t62aVMFsdJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t62aVMFsdJ",
+							"expanded_url": "https://digitaleducation96.wordpress.com/",
+							"display_url": "digitaleducation96.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 709,
+			"friends_count": 912,
+			"listed_count": 57,
+			"created_at": "Thu Dec 01 10:54:46 +0000 2011",
+			"favourites_count": 4274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085463151854972928/JEjDxnZP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085463151854972928/JEjDxnZP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/425731247/1546017315",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HE…Just turn it off and on again! A collaboration with @EmmaThirkell highlighting the potential in rethinking our institutional approaches to #teaching &amp; #learning with #edtech. #altc #OneNote #TeamsEducation #VLE #LTHEchat \nhttps://t.co/IMz6Qf88x3"
+	},
+	{
+		"created_at": "Mon Nov 18 08:03:22 +0000 2019",
+		"id": 1196338089498697700,
+		"id_str": "1196338089498697728",
+		"full_text": "Read my Nov 18 'swan-uni-staff' Newsletter featuring “Why more people are talking about the issue of social care” https://t.co/JfTOPQ9CFq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JfTOPQ9CFq",
+					"expanded_url": "https://nzzl.us/rXSUT25",
+					"display_url": "nzzl.us/rXSUT25",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1553,
+			"friends_count": 1201,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10841,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19173,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Nov 18 'swan-uni-staff' Newsletter featuring “Why more people are talking about the issue of social care” https://t.co/JfTOPQ9CFq"
+	},
+	{
 		"created_at": "Sun Nov 17 08:03:38 +0000 2019",
 		"id": 1195975771623477200,
 		"id_str": "1195975771623477248",
