@@ -1,6 +1,1172 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 25 18:50:39 +0000 2019",
+		"id": 1198950968068649000,
+		"id_str": "1199037702290780161",
+		"full_text": "No group should be disenfranchised in #GE2019: after tomorrow, it will not be possible to register to vote. Please contact your local council today and make sure you can vote. https://t.co/1hcfVCBvfI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GE2019",
+					"indices": [
+						38,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198950965061308400,
+					"id_str": "1198950965061308416",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EKOHjOeXUAADHkb.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKOHjOeXUAADHkb.png",
+					"url": "https://t.co/1hcfVCBvfI",
+					"display_url": "pic.twitter.com/1hcfVCBvfI",
+					"expanded_url": "https://twitter.com/remainutd/status/1198950968068648967/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1012,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1012,
+							"h": 506,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 396,
+									"y": 253,
+									"h": 39,
+									"w": 39
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 266,
+									"y": 170,
+									"h": 26,
+									"w": 26
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 396,
+									"y": 253,
+									"h": 39,
+									"w": 39
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 396,
+									"y": 253,
+									"h": 39,
+									"w": 39
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198950965061308400,
+					"id_str": "1198950965061308416",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EKOHjOeXUAADHkb.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKOHjOeXUAADHkb.png",
+					"url": "https://t.co/1hcfVCBvfI",
+					"display_url": "pic.twitter.com/1hcfVCBvfI",
+					"expanded_url": "https://twitter.com/remainutd/status/1198950968068648967/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1012,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1012,
+							"h": 506,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 396,
+									"y": 253,
+									"h": 39,
+									"w": 39
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 266,
+									"y": 170,
+									"h": 26,
+									"w": 26
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 396,
+									"y": 253,
+									"h": 39,
+									"w": 39
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 396,
+									"y": 253,
+									"h": 39,
+									"w": 39
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1120969094562447400,
+			"id_str": "1120969094562447360",
+			"name": "Remain United",
+			"screen_name": "remainutd",
+			"location": "United Kingdom",
+			"description": "The independent tactical voting campaign organisation founded by @thatginamiller. Remain United - as a people, as a country and as a union",
+			"url": "https://t.co/NINuHJFSpE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NINuHJFSpE",
+							"expanded_url": "https://www.remainunited.org/",
+							"display_url": "remainunited.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10683,
+			"friends_count": 2,
+			"listed_count": 55,
+			"created_at": "Wed Apr 24 08:33:53 +0000 2019",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126395998379675648/RYO0IvHn_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126395998379675648/RYO0IvHn_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1120969094562447360/1558083063",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 121,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No group should be disenfranchised in #GE2019: after tomorrow, it will not be possible to register to vote. Please contact your local council today and make sure you can vote. https://t.co/1hcfVCBvfI"
+	},
+	{
+		"created_at": "Mon Nov 25 18:47:39 +0000 2019",
+		"id": 1198969985508532200,
+		"id_str": "1199036946875633672",
+		"full_text": "We've updated https://t.co/bHd6n1fMy5 #TacticalVote site overnight.  I also  issued this statement today 'warning that talk of a #Tory landslide is premature: #tacticalVoting could wipe it out as in 2017.'  In GE2017, at this point May had 15% lead. @BorisJohnson on a 13.1% lead. https://t.co/gyhKbIqAKd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TacticalVote",
+					"indices": [
+						38,
+						51
+					]
+				},
+				{
+					"text": "Tory",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "tacticalVoting",
+					"indices": [
+						159,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BorisJohnson",
+					"name": "Boris Johnson",
+					"id": 3131144855,
+					"id_str": "3131144855",
+					"indices": [
+						250,
+						263
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bHd6n1fMy5",
+					"expanded_url": "http://Remainunited.org",
+					"display_url": "Remainunited.org",
+					"indices": [
+						14,
+						37
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1198968673236639700,
+					"id_str": "1198968673236639750",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EKOXp-kXYAYCXrM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKOXp-kXYAYCXrM.jpg",
+					"url": "https://t.co/gyhKbIqAKd",
+					"display_url": "pic.twitter.com/gyhKbIqAKd",
+					"expanded_url": "https://twitter.com/thatginamiller/status/1198969985508532225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 638,
+							"h": 854,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 70,
+									"y": 718,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 70,
+									"y": 718,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 70,
+									"y": 718,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 55,
+									"y": 571,
+									"h": 38,
+									"w": 38
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198968673236639700,
+					"id_str": "1198968673236639750",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EKOXp-kXYAYCXrM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKOXp-kXYAYCXrM.jpg",
+					"url": "https://t.co/gyhKbIqAKd",
+					"display_url": "pic.twitter.com/gyhKbIqAKd",
+					"expanded_url": "https://twitter.com/thatginamiller/status/1198969985508532225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 638,
+							"h": 854,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 70,
+									"y": 718,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 70,
+									"y": 718,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 70,
+									"y": 718,
+									"h": 48,
+									"w": 48
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 55,
+									"y": 571,
+									"h": 38,
+									"w": 38
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4105532853,
+			"id_str": "4105532853",
+			"name": "Gina Miller",
+			"screen_name": "thatginamiller",
+			"location": "England, United Kingdom",
+			"description": "Co-Founder SCM Direct, Founder Centrum Campaign Limited",
+			"url": "https://t.co/pohDhRYfRG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pohDhRYfRG",
+							"expanded_url": "http://www.scmdirect.com",
+							"display_url": "scmdirect.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 160386,
+			"friends_count": 44,
+			"listed_count": 739,
+			"created_at": "Tue Nov 03 16:01:22 +0000 2015",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675557369213026304/UE7UbZJB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675557369213026304/UE7UbZJB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4105532853/1493024496",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1457,
+		"favorite_count": 2215,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We've updated https://t.co/bHd6n1fMy5 #TacticalVote site overnight.  I also  issued this statement today 'warning that talk of a #Tory landslide is premature: #tacticalVoting could wipe it out as in 2017.'  In GE2017, at this point May had 15% lead. @BorisJohnson on a 13.1% lead. https://t.co/gyhKbIqAKd"
+	},
+	{
+		"created_at": "Mon Nov 25 18:23:00 +0000 2019",
+		"id": 1199008074369052700,
+		"id_str": "1199030743101562881",
+		"full_text": "Our Senior Adviser in Learning and Teaching @S_J_Norton argues that higher education should consider a renewed focused on careers outcomes, salaries and employability in advance of the next @AdvanceHE_chat : https://t.co/wGR5KZ07nT  #LTHEchat #AdvanceHE_chat https://t.co/mRmyXE1IrQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						233,
+						242
+					]
+				},
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						243,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "S_J_Norton",
+					"name": "Stuart Norton",
+					"id": 882854278112661500,
+					"id_str": "882854278112661504",
+					"indices": [
+						44,
+						55
+					]
+				},
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						190,
+						205
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wGR5KZ07nT",
+					"expanded_url": "http://ow.ly/24ug50xk3iN",
+					"display_url": "ow.ly/24ug50xk3iN",
+					"indices": [
+						208,
+						231
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1199008072871661600,
+					"id_str": "1199008072871661569",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/EKO7fVpXUAEb5Ah.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKO7fVpXUAEb5Ah.png",
+					"url": "https://t.co/mRmyXE1IrQ",
+					"display_url": "pic.twitter.com/mRmyXE1IrQ",
+					"expanded_url": "https://twitter.com/AdvanceHE/status/1199008074369052673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 580,
+							"h": 329,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 580,
+							"h": 329,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 580,
+							"h": 329,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199008072871661600,
+					"id_str": "1199008072871661569",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/EKO7fVpXUAEb5Ah.png",
+					"media_url_https": "https://pbs.twimg.com/media/EKO7fVpXUAEb5Ah.png",
+					"url": "https://t.co/mRmyXE1IrQ",
+					"display_url": "pic.twitter.com/mRmyXE1IrQ",
+					"expanded_url": "https://twitter.com/AdvanceHE/status/1199008074369052673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 580,
+							"h": 329,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 580,
+							"h": 329,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 580,
+							"h": 329,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 941587234465177600,
+			"id_str": "941587234465177600",
+			"name": "Advance HE",
+			"screen_name": "AdvanceHE",
+			"location": "United Kingdom",
+			"description": "We are Advance HE, and we are dedicated to helping higher education shape its future.",
+			"url": "https://t.co/nf6dzkKahl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nf6dzkKahl",
+							"expanded_url": "http://www.advance-he.ac.uk",
+							"display_url": "advance-he.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10639,
+			"friends_count": 611,
+			"listed_count": 79,
+			"created_at": "Fri Dec 15 08:34:25 +0000 2017",
+			"favourites_count": 6040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019956876946141184/5T0ysk5T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019956876946141184/5T0ysk5T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/941587234465177600/1532013869",
+			"profile_link_color": "03A1A4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our Senior Adviser in Learning and Teaching @S_J_Norton argues that higher education should consider a renewed focused on careers outcomes, salaries and employability in advance of the next @AdvanceHE_chat : https://t.co/wGR5KZ07nT  #LTHEchat #AdvanceHE_chat https://t.co/mRmyXE1IrQ"
+	},
+	{
+		"created_at": "Mon Nov 25 08:04:24 +0000 2019",
+		"id": 1198875067792404500,
+		"id_str": "1198875067792404481",
+		"full_text": "Read my Nov 25 'swan-uni-staff' Newsletter featuring “Chronology of rhino conservation in Sabah” https://t.co/7D11KCzwyb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7D11KCzwyb",
+					"expanded_url": "https://nzzl.us/EyjmenK",
+					"display_url": "nzzl.us/EyjmenK",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1553,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10864,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Nov 25 'swan-uni-staff' Newsletter featuring “Chronology of rhino conservation in Sabah” https://t.co/7D11KCzwyb"
+	},
+	{
+		"created_at": "Mon Nov 25 08:03:48 +0000 2019",
+		"id": 1198874913643339800,
+		"id_str": "1198874913643339776",
+		"full_text": "Read the Nov 25 Newsletter curated by my PLN featuring “Tim Berners-Lee unveils global plan to save the web |…” https://t.co/FXk9Q5zE2d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FXk9Q5zE2d",
+					"expanded_url": "https://nzzl.us/MhzJEPQ",
+					"display_url": "nzzl.us/MhzJEPQ",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1553,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10864,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Nov 25 Newsletter curated by my PLN featuring “Tim Berners-Lee unveils global plan to save the web |…” https://t.co/FXk9Q5zE2d"
+	},
+	{
+		"created_at": "Mon Nov 25 07:59:02 +0000 2019",
+		"id": 1198873714428919800,
+		"id_str": "1198873714428919808",
+		"full_text": "Tim Berners-Lee unveils global plan to save the web | Tim Berners-Lee - The Guardian https://t.co/NbJBsUHVFD via @nuzzel thanks @MrSimonWood",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nuzzel",
+					"name": "Nuzzel",
+					"id": 106041193,
+					"id_str": "106041193",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"screen_name": "MrSimonWood",
+					"name": "Simon Wood",
+					"id": 116497291,
+					"id_str": "116497291",
+					"indices": [
+						128,
+						140
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NbJBsUHVFD",
+					"expanded_url": "https://nzzl.us/QwQhJm7",
+					"display_url": "nzzl.us/QwQhJm7",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1553,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10864,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tim Berners-Lee unveils global plan to save the web | Tim Berners-Lee - The Guardian https://t.co/NbJBsUHVFD via @nuzzel thanks @MrSimonWood"
+	},
+	{
 		"created_at": "Sun Nov 24 08:03:15 +0000 2019",
 		"id": 1198512387504128000,
 		"id_str": "1198512387504128000",
