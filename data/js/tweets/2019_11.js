@@ -1,6 +1,9253 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 27 22:24:18 +0000 2019",
+		"id": 1199816244846833700,
+		"id_str": "1199816244846833664",
+		"full_text": "Hard-working… or working too hard? - Wonkhe https://t.co/YZJrsOxysy via @nuzzel thanks @ProfDcotton",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nuzzel",
+					"name": "Nuzzel",
+					"id": 106041193,
+					"id_str": "106041193",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"screen_name": "ProfDcotton",
+					"name": "Debby Cotton",
+					"id": 20269498,
+					"id_str": "20269498",
+					"indices": [
+						87,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YZJrsOxysy",
+					"expanded_url": "https://nzzl.us/sfAaOQT",
+					"display_url": "nzzl.us/sfAaOQT",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hard-working… or working too hard? - Wonkhe https://t.co/YZJrsOxysy via @nuzzel thanks @ProfDcotton"
+	},
+	{
+		"created_at": "Wed Nov 27 21:30:33 +0000 2019",
+		"id": 1199802714567430100,
+		"id_str": "1199802714567430151",
+		"full_text": "@WarwickLanguage When the emergence of a new QAA guidance document fails to fill one with joy, it's time to hang up one's academic gown and retire to one's allotment! #AdvanceHE_chat #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						167,
+						182
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						183,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WarwickLanguage",
+					"name": "Teresa MacKinnon",
+					"id": 81817497,
+					"id_str": "81817497",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1199792754739556400,
+		"in_reply_to_status_id_str": "1199792754739556352",
+		"in_reply_to_user_id": 81817497,
+		"in_reply_to_user_id_str": "81817497",
+		"in_reply_to_screen_name": "WarwickLanguage",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WarwickLanguage When the emergence of a new QAA guidance document fails to fill one with joy, it's time to hang up one's academic gown and retire to one's allotment! #AdvanceHE_chat #LTHEChat"
+	},
+	{
+		"created_at": "Wed Nov 27 21:05:00 +0000 2019",
+		"id": 1199796285663875000,
+		"id_str": "1199796285663875072",
+		"full_text": "The TAGS Explorer for tonight's #AdvanceHE_chat #LTHEChat on Enterprise and Entrepreneurship in Higher Education: https://t.co/qw92mhzERO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						32,
+						47
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						48,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qw92mhzERO",
+					"expanded_url": "https://hawksey.info/tagsexplorer/?key=1JKwO9k69JCOYee_cKWrB-SXHWsBWzIeHFF3F8Y01ljI&gid=400689247",
+					"display_url": "hawksey.info/tagsexplorer/?…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The TAGS Explorer for tonight's #AdvanceHE_chat #LTHEChat on Enterprise and Entrepreneurship in Higher Education: https://t.co/qw92mhzERO"
+	},
+	{
+		"created_at": "Wed Nov 27 21:00:46 +0000 2019",
+		"id": 1199795219518107600,
+		"id_str": "1199795219518107648",
+		"full_text": "@AdvanceHE_chat @wakelet So soon? #AdvanceHE_chat #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						34,
+						49
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						50,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "wakelet",
+					"name": "Wakelet",
+					"id": 169922611,
+					"id_str": "169922611",
+					"indices": [
+						16,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1199795030837219300,
+		"in_reply_to_status_id_str": "1199795030837219328",
+		"in_reply_to_user_id": 3726587775,
+		"in_reply_to_user_id_str": "3726587775",
+		"in_reply_to_screen_name": "AdvanceHE_chat",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AdvanceHE_chat @wakelet So soon? #AdvanceHE_chat #LTHEChat"
+	},
+	{
+		"created_at": "Wed Nov 27 21:00:27 +0000 2019",
+		"id": 1199795030837219300,
+		"id_str": "1199795140635836416",
+		"full_text": "Great chat as always, look out for the @wakelet tomorrow. Thanks for joining in #AdvanceHE_chat #LTHEChat https://t.co/O3SKMkVBO4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						80,
+						95
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						96,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wakelet",
+					"name": "Wakelet",
+					"id": 169922611,
+					"id_str": "169922611",
+					"indices": [
+						39,
+						47
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1199329433141809200,
+					"id_str": "1199329433141809152",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EKTfw98WkAACLA5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKTfw98WkAACLA5.jpg",
+					"url": "https://t.co/O3SKMkVBO4",
+					"display_url": "pic.twitter.com/O3SKMkVBO4",
+					"expanded_url": "https://twitter.com/AdvanceHE_chat/status/1199795030837219328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 32,
+									"y": 171,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 58,
+									"y": 302,
+									"h": 159,
+									"w": 159
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 62,
+									"y": 323,
+									"h": 170,
+									"w": 170
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 62,
+									"y": 323,
+									"h": 170,
+									"w": 170
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199329433141809200,
+					"id_str": "1199329433141809152",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EKTfw98WkAACLA5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKTfw98WkAACLA5.jpg",
+					"url": "https://t.co/O3SKMkVBO4",
+					"display_url": "pic.twitter.com/O3SKMkVBO4",
+					"expanded_url": "https://twitter.com/AdvanceHE_chat/status/1199795030837219328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 32,
+									"y": 171,
+									"h": 90,
+									"w": 90
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 58,
+									"y": 302,
+									"h": 159,
+									"w": 159
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 62,
+									"y": 323,
+									"h": 170,
+									"w": 170
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 62,
+									"y": 323,
+									"h": 170,
+									"w": 170
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3726587775,
+			"id_str": "3726587775",
+			"name": "#AdvanceHE_chat",
+			"screen_name": "AdvanceHE_chat",
+			"location": "York, England",
+			"description": "Our regular Twitter chat with #LTHEchat on teaching & learning issues in HE/FE join us to connect, share & get inspired. 8pm last Weds. of the month, term time.",
+			"url": "https://t.co/DTFZZc7wBp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DTFZZc7wBp",
+							"expanded_url": "https://www.heacademy.ac.uk/about-hea/blog/heachat",
+							"display_url": "heacademy.ac.uk/about-hea/blog…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2614,
+			"friends_count": 601,
+			"listed_count": 38,
+			"created_at": "Mon Sep 21 09:01:44 +0000 2015",
+			"favourites_count": 603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013793991844909058/TzdFQ3Si_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013793991844909058/TzdFQ3Si_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3726587775/1452177565",
+			"profile_link_color": "02A4A6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great chat as always, look out for the @wakelet tomorrow. Thanks for joining in #AdvanceHE_chat #LTHEChat https://t.co/O3SKMkVBO4"
+	},
+	{
+		"created_at": "Wed Nov 27 21:00:08 +0000 2019",
+		"id": 1199795063422955500,
+		"id_str": "1199795063422955521",
+		"full_text": "@AdvanceHE_chat A6: Value of alumni donations! #AdvanceHE_chat #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						47,
+						62
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						63,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1199792510563958800,
+		"in_reply_to_status_id_str": "1199792510563958787",
+		"in_reply_to_user_id": 3726587775,
+		"in_reply_to_user_id_str": "3726587775",
+		"in_reply_to_screen_name": "AdvanceHE_chat",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AdvanceHE_chat A6: Value of alumni donations! #AdvanceHE_chat #LTHEChat"
+	},
+	{
+		"created_at": "Wed Nov 27 20:58:14 +0000 2019",
+		"id": 1199794581665206300,
+		"id_str": "1199794581665206272",
+		"full_text": "@WarwickLanguage @LTHEchat @AdvanceHE_chat Exactly! #AdvanceHE_chat #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						52,
+						67
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						68,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WarwickLanguage",
+					"name": "Teresa MacKinnon",
+					"id": 81817497,
+					"id_str": "81817497",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						27,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1199794129250783200,
+		"in_reply_to_status_id_str": "1199794129250783232",
+		"in_reply_to_user_id": 81817497,
+		"in_reply_to_user_id_str": "81817497",
+		"in_reply_to_screen_name": "WarwickLanguage",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WarwickLanguage @LTHEchat @AdvanceHE_chat Exactly! #AdvanceHE_chat #LTHEChat"
+	},
+	{
+		"created_at": "Wed Nov 27 20:57:03 +0000 2019",
+		"id": 1199794287002767400,
+		"id_str": "1199794287002767361",
+		"full_text": "@srowett @LeeFallin @S_J_Norton @NomadWarMachine @hack_kay @kjhaxton @KathyAdvanceHE @KiuSum @suebecks Twitter likes are so nuanced! #AdvanceHE_chat #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			103,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						133,
+						148
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						149,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "srowett",
+					"name": "Steve Rowett",
+					"id": 351707332,
+					"id_str": "351707332",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"screen_name": "S_J_Norton",
+					"name": "Stuart Norton",
+					"id": 882854278112661500,
+					"id_str": "882854278112661504",
+					"indices": [
+						20,
+						31
+					]
+				},
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch is not on strike",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						32,
+						48
+					]
+				},
+				{
+					"screen_name": "hack_kay",
+					"name": "Kay Hack",
+					"id": 804753576,
+					"id_str": "804753576",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"screen_name": "kjhaxton",
+					"name": "Katherine J. Haxton",
+					"id": 34229633,
+					"id_str": "34229633",
+					"indices": [
+						59,
+						68
+					]
+				},
+				{
+					"screen_name": "KathyAdvanceHE",
+					"name": "Kathy Wright",
+					"id": 556345493,
+					"id_str": "556345493",
+					"indices": [
+						69,
+						84
+					]
+				},
+				{
+					"screen_name": "KiuSum",
+					"name": "Kiu Sum",
+					"id": 246951711,
+					"id_str": "246951711",
+					"indices": [
+						85,
+						92
+					]
+				},
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						93,
+						102
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1199793982202634200,
+		"in_reply_to_status_id_str": "1199793982202634240",
+		"in_reply_to_user_id": 351707332,
+		"in_reply_to_user_id_str": "351707332",
+		"in_reply_to_screen_name": "srowett",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@srowett @LeeFallin @S_J_Norton @NomadWarMachine @hack_kay @kjhaxton @KathyAdvanceHE @KiuSum @suebecks Twitter likes are so nuanced! #AdvanceHE_chat #LTHEChat"
+	},
+	{
+		"created_at": "Wed Nov 27 20:55:59 +0000 2019",
+		"id": 1199794019032801300,
+		"id_str": "1199794019032801281",
+		"full_text": "@srowett @LeeFallin Blame the @LTHEchat bot not me! #AdvanceHE_chat #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						52,
+						67
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						68,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "srowett",
+					"name": "Steve Rowett",
+					"id": 351707332,
+					"id_str": "351707332",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						30,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1199793775968686000,
+		"in_reply_to_status_id_str": "1199793775968686087",
+		"in_reply_to_user_id": 351707332,
+		"in_reply_to_user_id_str": "351707332",
+		"in_reply_to_screen_name": "srowett",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@srowett @LeeFallin Blame the @LTHEchat bot not me! #AdvanceHE_chat #LTHEChat"
+	},
+	{
+		"created_at": "Wed Nov 27 20:54:18 +0000 2019",
+		"id": 1199793595684999200,
+		"id_str": "1199793595684999168",
+		"full_text": "@LTHEchat @AdvanceHE_chat Surely there's room for one more wafer thin metric! #AdvanceHE_chat #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						78,
+						93
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						94,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						10,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1199793289358119000,
+		"in_reply_to_status_id_str": "1199793289358118912",
+		"in_reply_to_user_id": 2659221798,
+		"in_reply_to_user_id_str": "2659221798",
+		"in_reply_to_screen_name": "LTHEchat",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LTHEchat @AdvanceHE_chat Surely there's room for one more wafer thin metric! #AdvanceHE_chat #LTHEChat"
+	},
+	{
+		"created_at": "Wed Nov 27 20:51:44 +0000 2019",
+		"id": 1199792510563958800,
+		"id_str": "1199792949468581888",
+		"full_text": "Q6 How can we assess the impact of enterprise education?\n\n#AdvanceHE_chat #LTHEChat https://t.co/Q9yI55Erk6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						58,
+						73
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						74,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1199328959835639800,
+					"id_str": "1199328959835639810",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EKTfVavXkAI_qCJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKTfVavXkAI_qCJ.jpg",
+					"url": "https://t.co/Q9yI55Erk6",
+					"display_url": "pic.twitter.com/Q9yI55Erk6",
+					"expanded_url": "https://twitter.com/AdvanceHE_chat/status/1199792510563958787/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199328959835639800,
+					"id_str": "1199328959835639810",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/EKTfVavXkAI_qCJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKTfVavXkAI_qCJ.jpg",
+					"url": "https://t.co/Q9yI55Erk6",
+					"display_url": "pic.twitter.com/Q9yI55Erk6",
+					"expanded_url": "https://twitter.com/AdvanceHE_chat/status/1199792510563958787/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3726587775,
+			"id_str": "3726587775",
+			"name": "#AdvanceHE_chat",
+			"screen_name": "AdvanceHE_chat",
+			"location": "York, England",
+			"description": "Our regular Twitter chat with #LTHEchat on teaching & learning issues in HE/FE join us to connect, share & get inspired. 8pm last Weds. of the month, term time.",
+			"url": "https://t.co/DTFZZc7wBp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DTFZZc7wBp",
+							"expanded_url": "https://www.heacademy.ac.uk/about-hea/blog/heachat",
+							"display_url": "heacademy.ac.uk/about-hea/blog…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2614,
+			"friends_count": 601,
+			"listed_count": 38,
+			"created_at": "Mon Sep 21 09:01:44 +0000 2015",
+			"favourites_count": 603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013793991844909058/TzdFQ3Si_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013793991844909058/TzdFQ3Si_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3726587775/1452177565",
+			"profile_link_color": "02A4A6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Q6 How can we assess the impact of enterprise education?\n\n#AdvanceHE_chat #LTHEChat https://t.co/Q9yI55Erk6"
+	},
+	{
+		"created_at": "Wed Nov 27 20:51:40 +0000 2019",
+		"id": 1199792929721790500,
+		"id_str": "1199792929721790473",
+		"full_text": "@AdvanceHE_chat NCC should be 1701 - make it so!\n\n#AdvanceHE_chat #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						50,
+						65
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						66,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1199792510563958800,
+		"in_reply_to_status_id_str": "1199792510563958787",
+		"in_reply_to_user_id": 3726587775,
+		"in_reply_to_user_id_str": "3726587775",
+		"in_reply_to_screen_name": "AdvanceHE_chat",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AdvanceHE_chat NCC should be 1701 - make it so!\n\n#AdvanceHE_chat #LTHEChat"
+	},
+	{
+		"created_at": "Wed Nov 27 20:49:42 +0000 2019",
+		"id": 1199792436513513500,
+		"id_str": "1199792436513513485",
+		"full_text": "I see from Google define, there are three definitions of \"Enterprise\" [n]. Which have we been discussing? #AdvanceHE_chat #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						106,
+						121
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						122,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I see from Google define, there are three definitions of \"Enterprise\" [n]. Which have we been discussing? #AdvanceHE_chat #LTHEChat"
+	},
+	{
+		"created_at": "Wed Nov 27 20:41:59 +0000 2019",
+		"id": 1199790493846179800,
+		"id_str": "1199790493846179843",
+		"full_text": "@AdvanceHE_chat A5: so much we have to cover with so little time! #AdvanceHE_chat #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						66,
+						81
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						82,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1199789993935306800,
+		"in_reply_to_status_id_str": "1199789993935306752",
+		"in_reply_to_user_id": 3726587775,
+		"in_reply_to_user_id_str": "3726587775",
+		"in_reply_to_screen_name": "AdvanceHE_chat",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AdvanceHE_chat A5: so much we have to cover with so little time! #AdvanceHE_chat #LTHEChat"
+	},
+	{
+		"created_at": "Wed Nov 27 20:40:23 +0000 2019",
+		"id": 1199789993935306800,
+		"id_str": "1199790093529165825",
+		"full_text": "Q5 What insights or experiences can you share of social enterprise initiatives, green entrepreneurship, digital entrepreneurship and/or sustainable development?\n\n#AdvanceHE_chat #LTHEChat https://t.co/GzJtu5WRtJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						162,
+						177
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						178,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1199327634418815000,
+					"id_str": "1199327634418814976",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EKTeIRLX0AAq63U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKTeIRLX0AAq63U.jpg",
+					"url": "https://t.co/GzJtu5WRtJ",
+					"display_url": "pic.twitter.com/GzJtu5WRtJ",
+					"expanded_url": "https://twitter.com/AdvanceHE_chat/status/1199789993935306752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199327634418815000,
+					"id_str": "1199327634418814976",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EKTeIRLX0AAq63U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKTeIRLX0AAq63U.jpg",
+					"url": "https://t.co/GzJtu5WRtJ",
+					"display_url": "pic.twitter.com/GzJtu5WRtJ",
+					"expanded_url": "https://twitter.com/AdvanceHE_chat/status/1199789993935306752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3726587775,
+			"id_str": "3726587775",
+			"name": "#AdvanceHE_chat",
+			"screen_name": "AdvanceHE_chat",
+			"location": "York, England",
+			"description": "Our regular Twitter chat with #LTHEchat on teaching & learning issues in HE/FE join us to connect, share & get inspired. 8pm last Weds. of the month, term time.",
+			"url": "https://t.co/DTFZZc7wBp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DTFZZc7wBp",
+							"expanded_url": "https://www.heacademy.ac.uk/about-hea/blog/heachat",
+							"display_url": "heacademy.ac.uk/about-hea/blog…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2614,
+			"friends_count": 601,
+			"listed_count": 38,
+			"created_at": "Mon Sep 21 09:01:44 +0000 2015",
+			"favourites_count": 603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013793991844909058/TzdFQ3Si_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013793991844909058/TzdFQ3Si_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3726587775/1452177565",
+			"profile_link_color": "02A4A6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Q5 What insights or experiences can you share of social enterprise initiatives, green entrepreneurship, digital entrepreneurship and/or sustainable development?\n\n#AdvanceHE_chat #LTHEChat https://t.co/GzJtu5WRtJ"
+	},
+	{
+		"created_at": "Wed Nov 27 20:30:25 +0000 2019",
+		"id": 1199787477420138500,
+		"id_str": "1199787583364091906",
+		"full_text": "Q4 What examples can you share - or would you like to see - of extra curricular opportunities to enhance enterprise and entrepreneurship education - e.g. apprentice challenges, dragon dens with local employers etc.?\n\n#AdvanceHE_chat #LTHEChat https://t.co/LXgcNzxMke",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						217,
+						232
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						233,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1199326796166160400,
+					"id_str": "1199326796166160384",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/EKTdXecXYAAi_F0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKTdXecXYAAi_F0.jpg",
+					"url": "https://t.co/LXgcNzxMke",
+					"display_url": "pic.twitter.com/LXgcNzxMke",
+					"expanded_url": "https://twitter.com/AdvanceHE_chat/status/1199787477420138500/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 999,
+							"h": 561,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 999,
+							"h": 561,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199326796166160400,
+					"id_str": "1199326796166160384",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/EKTdXecXYAAi_F0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKTdXecXYAAi_F0.jpg",
+					"url": "https://t.co/LXgcNzxMke",
+					"display_url": "pic.twitter.com/LXgcNzxMke",
+					"expanded_url": "https://twitter.com/AdvanceHE_chat/status/1199787477420138500/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 999,
+							"h": 561,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 999,
+							"h": 561,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3726587775,
+			"id_str": "3726587775",
+			"name": "#AdvanceHE_chat",
+			"screen_name": "AdvanceHE_chat",
+			"location": "York, England",
+			"description": "Our regular Twitter chat with #LTHEchat on teaching & learning issues in HE/FE join us to connect, share & get inspired. 8pm last Weds. of the month, term time.",
+			"url": "https://t.co/DTFZZc7wBp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DTFZZc7wBp",
+							"expanded_url": "https://www.heacademy.ac.uk/about-hea/blog/heachat",
+							"display_url": "heacademy.ac.uk/about-hea/blog…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2614,
+			"friends_count": 601,
+			"listed_count": 38,
+			"created_at": "Mon Sep 21 09:01:44 +0000 2015",
+			"favourites_count": 603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013793991844909058/TzdFQ3Si_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013793991844909058/TzdFQ3Si_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3726587775/1452177565",
+			"profile_link_color": "02A4A6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Q4 What examples can you share - or would you like to see - of extra curricular opportunities to enhance enterprise and entrepreneurship education - e.g. apprentice challenges, dragon dens with local employers etc.?\n\n#AdvanceHE_chat #LTHEChat https://t.co/LXgcNzxMke"
+	},
+	{
+		"created_at": "Wed Nov 27 20:20:29 +0000 2019",
+		"id": 1199784960774688800,
+		"id_str": "1199785083856666625",
+		"full_text": "Q3 What examples can you share of developing creativity, innovation, flexibility and/or adaptability within your pedagogic approaches? \n\n#AdvanceHE_chat #LTHEChat https://t.co/sAbkgoFjuZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						137,
+						152
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						153,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1199325118079656000,
+					"id_str": "1199325118079655936",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EKTb1zFXYAAzfBr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKTb1zFXYAAzfBr.jpg",
+					"url": "https://t.co/sAbkgoFjuZ",
+					"display_url": "pic.twitter.com/sAbkgoFjuZ",
+					"expanded_url": "https://twitter.com/AdvanceHE_chat/status/1199784960774688769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199325118079656000,
+					"id_str": "1199325118079655936",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EKTb1zFXYAAzfBr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKTb1zFXYAAzfBr.jpg",
+					"url": "https://t.co/sAbkgoFjuZ",
+					"display_url": "pic.twitter.com/sAbkgoFjuZ",
+					"expanded_url": "https://twitter.com/AdvanceHE_chat/status/1199784960774688769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3726587775,
+			"id_str": "3726587775",
+			"name": "#AdvanceHE_chat",
+			"screen_name": "AdvanceHE_chat",
+			"location": "York, England",
+			"description": "Our regular Twitter chat with #LTHEchat on teaching & learning issues in HE/FE join us to connect, share & get inspired. 8pm last Weds. of the month, term time.",
+			"url": "https://t.co/DTFZZc7wBp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DTFZZc7wBp",
+							"expanded_url": "https://www.heacademy.ac.uk/about-hea/blog/heachat",
+							"display_url": "heacademy.ac.uk/about-hea/blog…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2614,
+			"friends_count": 601,
+			"listed_count": 38,
+			"created_at": "Mon Sep 21 09:01:44 +0000 2015",
+			"favourites_count": 603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013793991844909058/TzdFQ3Si_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013793991844909058/TzdFQ3Si_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3726587775/1452177565",
+			"profile_link_color": "02A4A6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Q3 What examples can you share of developing creativity, innovation, flexibility and/or adaptability within your pedagogic approaches? \n\n#AdvanceHE_chat #LTHEChat https://t.co/sAbkgoFjuZ"
+	},
+	{
+		"created_at": "Wed Nov 27 20:10:23 +0000 2019",
+		"id": 1199782444326518800,
+		"id_str": "1199782539822616576",
+		"full_text": "Q2 What examples of learning teaching and assessment strategies do you have that involve inter or transdisciplinary approaches? \n\nWhat could be done differently?\n\n#AdvanceHE_chat #LTHEChat https://t.co/sTb7x74WKr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						163,
+						178
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						179,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1199323954156114000,
+					"id_str": "1199323954156113920",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EKTayDIXkAA1hSP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKTayDIXkAA1hSP.jpg",
+					"url": "https://t.co/sTb7x74WKr",
+					"display_url": "pic.twitter.com/sTb7x74WKr",
+					"expanded_url": "https://twitter.com/AdvanceHE_chat/status/1199782444326518784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 807,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 757,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199323954156114000,
+					"id_str": "1199323954156113920",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/EKTayDIXkAA1hSP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKTayDIXkAA1hSP.jpg",
+					"url": "https://t.co/sTb7x74WKr",
+					"display_url": "pic.twitter.com/sTb7x74WKr",
+					"expanded_url": "https://twitter.com/AdvanceHE_chat/status/1199782444326518784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 807,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 757,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3726587775,
+			"id_str": "3726587775",
+			"name": "#AdvanceHE_chat",
+			"screen_name": "AdvanceHE_chat",
+			"location": "York, England",
+			"description": "Our regular Twitter chat with #LTHEchat on teaching & learning issues in HE/FE join us to connect, share & get inspired. 8pm last Weds. of the month, term time.",
+			"url": "https://t.co/DTFZZc7wBp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DTFZZc7wBp",
+							"expanded_url": "https://www.heacademy.ac.uk/about-hea/blog/heachat",
+							"display_url": "heacademy.ac.uk/about-hea/blog…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2614,
+			"friends_count": 601,
+			"listed_count": 38,
+			"created_at": "Mon Sep 21 09:01:44 +0000 2015",
+			"favourites_count": 603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013793991844909058/TzdFQ3Si_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013793991844909058/TzdFQ3Si_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3726587775/1452177565",
+			"profile_link_color": "02A4A6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Q2 What examples of learning teaching and assessment strategies do you have that involve inter or transdisciplinary approaches? \n\nWhat could be done differently?\n\n#AdvanceHE_chat #LTHEChat https://t.co/sTb7x74WKr"
+	},
+	{
+		"created_at": "Wed Nov 27 20:08:38 +0000 2019",
+		"id": 1199782100364398600,
+		"id_str": "1199782100364398594",
+		"full_text": "@suebecks @KiuSum @S_J_Norton Indeed. There have been thousands of Stamford students, but only a handful have turned out to be Zuckerbergs. #AdvanceHE_chat #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						140,
+						155
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						156,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "KiuSum",
+					"name": "Kiu Sum",
+					"id": 246951711,
+					"id_str": "246951711",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"screen_name": "S_J_Norton",
+					"name": "Stuart Norton",
+					"id": 882854278112661500,
+					"id_str": "882854278112661504",
+					"indices": [
+						18,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1199781677230383000,
+		"in_reply_to_status_id_str": "1199781677230383105",
+		"in_reply_to_user_id": 34904126,
+		"in_reply_to_user_id_str": "34904126",
+		"in_reply_to_screen_name": "suebecks",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@suebecks @KiuSum @S_J_Norton Indeed. There have been thousands of Stamford students, but only a handful have turned out to be Zuckerbergs. #AdvanceHE_chat #LTHEChat"
+	},
+	{
+		"created_at": "Wed Nov 27 20:04:00 +0000 2019",
+		"id": 1199780933852893200,
+		"id_str": "1199780933852893184",
+		"full_text": "@KiuSum @kjhaxton @srowett @SocMedHE And 14 to the \"most important Election in a generation\" #AdvanceHE_chat #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						93,
+						108
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						109,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KiuSum",
+					"name": "Kiu Sum",
+					"id": 246951711,
+					"id_str": "246951711",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "kjhaxton",
+					"name": "Katherine J. Haxton",
+					"id": 34229633,
+					"id_str": "34229633",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"screen_name": "srowett",
+					"name": "Steve Rowett",
+					"id": 351707332,
+					"id_str": "351707332",
+					"indices": [
+						18,
+						26
+					]
+				},
+				{
+					"screen_name": "SocMedHE",
+					"name": "Social Media for Learning in Higher Education",
+					"id": 3346395670,
+					"id_str": "3346395670",
+					"indices": [
+						27,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1199780163229298700,
+		"in_reply_to_status_id_str": "1199780163229298690",
+		"in_reply_to_user_id": 246951711,
+		"in_reply_to_user_id_str": "246951711",
+		"in_reply_to_screen_name": "KiuSum",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KiuSum @kjhaxton @srowett @SocMedHE And 14 to the \"most important Election in a generation\" #AdvanceHE_chat #LTHEChat"
+	},
+	{
+		"created_at": "Wed Nov 27 20:01:58 +0000 2019",
+		"id": 1199780424005902300,
+		"id_str": "1199780424005902338",
+		"full_text": "@kjhaxton A1 Yes, what Katherine said ... bit there is so much that we have to cover! #AdvanceHE_chat #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						86,
+						101
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						102,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kjhaxton",
+					"name": "Katherine J. Haxton",
+					"id": 34229633,
+					"id_str": "34229633",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1199780112767606800,
+		"in_reply_to_status_id_str": "1199780112767606784",
+		"in_reply_to_user_id": 34229633,
+		"in_reply_to_user_id_str": "34229633",
+		"in_reply_to_screen_name": "kjhaxton",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kjhaxton A1 Yes, what Katherine said ... bit there is so much that we have to cover! #AdvanceHE_chat #LTHEChat"
+	},
+	{
+		"created_at": "Wed Nov 27 20:00:22 +0000 2019",
+		"id": 1199779928595501000,
+		"id_str": "1199780021264666625",
+		"full_text": "Q1  How can we engage all students with enterprise education?\n#AdvanceHE_chat #LTHEChat https://t.co/ZId8tzT7Yi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						62,
+						77
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						78,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1199320773544022000,
+					"id_str": "1199320773544022016",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EKTX46bWkAAqBsL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKTX46bWkAAqBsL.jpg",
+					"url": "https://t.co/ZId8tzT7Yi",
+					"display_url": "pic.twitter.com/ZId8tzT7Yi",
+					"expanded_url": "https://twitter.com/AdvanceHE_chat/status/1199779928595501056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 303,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 534,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 855,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 7,
+									"y": 3,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 183,
+									"y": 3,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 138,
+									"y": 9,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 482,
+									"y": 9,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 304,
+									"y": 42,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 648,
+									"y": 42,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 54,
+									"y": 45,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 89,
+									"y": 44,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 268,
+									"y": 46,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 399,
+									"y": 47,
+									"h": 21,
+									"w": 21
+								},
+								{
+									"x": 432,
+									"y": 44,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 481,
+									"y": 46,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 612,
+									"y": 46,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 137,
+									"y": 46,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 223,
+									"y": 76,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 567,
+									"y": 76,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 89,
+									"y": 81,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 1,
+									"y": 84,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 313,
+									"y": 84,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 53,
+									"y": 85,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 398,
+									"y": 85,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 10,
+									"y": 155,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 49,
+									"y": 157,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 393,
+									"y": 157,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 92,
+									"y": 159,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 137,
+									"y": 159,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 223,
+									"y": 159,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 273,
+									"y": 159,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 616,
+									"y": 159,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 90,
+									"y": 197,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 565,
+									"y": 198,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 140,
+									"y": 200,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 483,
+									"y": 199,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 607,
+									"y": 236,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 610,
+									"y": 271,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 98,
+									"y": 271,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 443,
+									"y": 273,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 397,
+									"y": 276,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 53,
+									"y": 276,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 307,
+									"y": 2,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 351,
+									"y": 3,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 652,
+									"y": 3,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 223,
+									"y": 3,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 526,
+									"y": 3,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 566,
+									"y": 2,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 308,
+									"y": 161,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 175,
+									"y": 232,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 650,
+									"y": 233,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 13,
+									"y": 239,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 222,
+									"y": 270,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 138,
+									"y": 271,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 95,
+									"y": 112,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 4,
+									"y": 115,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 6,
+									"y": 194,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 350,
+									"y": 194,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 517,
+									"y": 229,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 565,
+									"y": 270,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 132,
+									"y": 231,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 559,
+									"y": 32,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 36,
+									"y": 125,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 377,
+									"y": 121,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 13,
+									"y": 6,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 323,
+									"y": 6,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 243,
+									"y": 16,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 850,
+									"y": 16,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 537,
+									"y": 75,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 1144,
+									"y": 75,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 95,
+									"y": 80,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 158,
+									"y": 79,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 473,
+									"y": 81,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 705,
+									"y": 83,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 763,
+									"y": 79,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 849,
+									"y": 81,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 1081,
+									"y": 81,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 242,
+									"y": 81,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 394,
+									"y": 134,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 1000,
+									"y": 135,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 158,
+									"y": 143,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 1,
+									"y": 148,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 553,
+									"y": 148,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 94,
+									"y": 150,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 703,
+									"y": 150,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 18,
+									"y": 275,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 87,
+									"y": 277,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 694,
+									"y": 277,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 163,
+									"y": 281,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 242,
+									"y": 281,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 394,
+									"y": 281,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 482,
+									"y": 281,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 1087,
+									"y": 281,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 160,
+									"y": 348,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 998,
+									"y": 350,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 248,
+									"y": 353,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 853,
+									"y": 352,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 1071,
+									"y": 416,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 1078,
+									"y": 478,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 173,
+									"y": 478,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 782,
+									"y": 482,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 700,
+									"y": 487,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 93,
+									"y": 488,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 542,
+									"y": 4,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 620,
+									"y": 6,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 1150,
+									"y": 6,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 393,
+									"y": 5,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 928,
+									"y": 6,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 999,
+									"y": 4,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 544,
+									"y": 284,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 310,
+									"y": 410,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 1148,
+									"y": 412,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 24,
+									"y": 421,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 392,
+									"y": 476,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 244,
+									"y": 478,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 168,
+									"y": 198,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 8,
+									"y": 203,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 11,
+									"y": 343,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 618,
+									"y": 343,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 912,
+									"y": 405,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 998,
+									"y": 478,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 234,
+									"y": 408,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 987,
+									"y": 58,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 64,
+									"y": 221,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 665,
+									"y": 214,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 22,
+									"y": 11,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 517,
+									"y": 11,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 390,
+									"y": 26,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 1361,
+									"y": 26,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 860,
+									"y": 120,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 1831,
+									"y": 121,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 153,
+									"y": 129,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 253,
+									"y": 127,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 757,
+									"y": 131,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 1128,
+									"y": 133,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 1222,
+									"y": 127,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 1359,
+									"y": 131,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 1730,
+									"y": 131,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 388,
+									"y": 131,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 631,
+									"y": 215,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 1601,
+									"y": 217,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 253,
+									"y": 230,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 3,
+									"y": 238,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 885,
+									"y": 238,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 151,
+									"y": 240,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 1125,
+									"y": 241,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 30,
+									"y": 440,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 140,
+									"y": 444,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 1111,
+									"y": 444,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 262,
+									"y": 451,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 388,
+									"y": 451,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 631,
+									"y": 451,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 772,
+									"y": 451,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 1740,
+									"y": 451,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 256,
+									"y": 558,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 1597,
+									"y": 560,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 397,
+									"y": 566,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 1366,
+									"y": 564,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 1715,
+									"y": 667,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 1725,
+									"y": 766,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 277,
+									"y": 766,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 1252,
+									"y": 772,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 1121,
+									"y": 780,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 150,
+									"y": 781,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 868,
+									"y": 7,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 993,
+									"y": 11,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 1841,
+									"y": 11,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 630,
+									"y": 9,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 1486,
+									"y": 11,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 1599,
+									"y": 7,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 871,
+									"y": 455,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 496,
+									"y": 656,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 1837,
+									"y": 660,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 39,
+									"y": 675,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 628,
+									"y": 763,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 391,
+									"y": 766,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 270,
+									"y": 318,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 13,
+									"y": 326,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 18,
+									"y": 549,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 990,
+									"y": 549,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 1460,
+									"y": 648,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 1597,
+									"y": 765,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 375,
+									"y": 654,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 1580,
+									"y": 93,
+									"h": 123,
+									"w": 123
+								},
+								{
+									"x": 103,
+									"y": 354,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 1065,
+									"y": 343,
+									"h": 159,
+									"w": 159
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 22,
+									"y": 11,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 517,
+									"y": 11,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 390,
+									"y": 26,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 1361,
+									"y": 26,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 860,
+									"y": 120,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 1831,
+									"y": 121,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 153,
+									"y": 129,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 253,
+									"y": 127,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 757,
+									"y": 131,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 1128,
+									"y": 133,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 1222,
+									"y": 127,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 1359,
+									"y": 131,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 1730,
+									"y": 131,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 388,
+									"y": 131,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 631,
+									"y": 215,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 1601,
+									"y": 217,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 253,
+									"y": 230,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 3,
+									"y": 238,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 885,
+									"y": 238,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 151,
+									"y": 240,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 1125,
+									"y": 241,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 30,
+									"y": 440,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 140,
+									"y": 444,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 1111,
+									"y": 444,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 262,
+									"y": 451,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 388,
+									"y": 451,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 631,
+									"y": 451,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 772,
+									"y": 451,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 1740,
+									"y": 451,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 256,
+									"y": 558,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 1597,
+									"y": 560,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 397,
+									"y": 566,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 1366,
+									"y": 564,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 1715,
+									"y": 667,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 1725,
+									"y": 766,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 277,
+									"y": 766,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 1252,
+									"y": 772,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 1121,
+									"y": 780,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 150,
+									"y": 781,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 868,
+									"y": 7,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 993,
+									"y": 11,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 1841,
+									"y": 11,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 630,
+									"y": 9,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 1486,
+									"y": 11,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 1599,
+									"y": 7,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 871,
+									"y": 455,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 496,
+									"y": 656,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 1837,
+									"y": 660,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 39,
+									"y": 675,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 628,
+									"y": 763,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 391,
+									"y": 766,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 270,
+									"y": 318,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 13,
+									"y": 326,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 18,
+									"y": 549,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 990,
+									"y": 549,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 1460,
+									"y": 648,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 1597,
+									"y": 765,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 375,
+									"y": 654,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 1580,
+									"y": 93,
+									"h": 123,
+									"w": 123
+								},
+								{
+									"x": 103,
+									"y": 354,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 1065,
+									"y": 343,
+									"h": 159,
+									"w": 159
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199320773544022000,
+					"id_str": "1199320773544022016",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/EKTX46bWkAAqBsL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKTX46bWkAAqBsL.jpg",
+					"url": "https://t.co/ZId8tzT7Yi",
+					"display_url": "pic.twitter.com/ZId8tzT7Yi",
+					"expanded_url": "https://twitter.com/AdvanceHE_chat/status/1199779928595501056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 303,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 534,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 855,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 7,
+									"y": 3,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 183,
+									"y": 3,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 138,
+									"y": 9,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 482,
+									"y": 9,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 304,
+									"y": 42,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 648,
+									"y": 42,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 54,
+									"y": 45,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 89,
+									"y": 44,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 268,
+									"y": 46,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 399,
+									"y": 47,
+									"h": 21,
+									"w": 21
+								},
+								{
+									"x": 432,
+									"y": 44,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 481,
+									"y": 46,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 612,
+									"y": 46,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 137,
+									"y": 46,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 223,
+									"y": 76,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 567,
+									"y": 76,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 89,
+									"y": 81,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 1,
+									"y": 84,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 313,
+									"y": 84,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 53,
+									"y": 85,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 398,
+									"y": 85,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 10,
+									"y": 155,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 49,
+									"y": 157,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 393,
+									"y": 157,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 92,
+									"y": 159,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 137,
+									"y": 159,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 223,
+									"y": 159,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 273,
+									"y": 159,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 616,
+									"y": 159,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 90,
+									"y": 197,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 565,
+									"y": 198,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 140,
+									"y": 200,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 483,
+									"y": 199,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 607,
+									"y": 236,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 610,
+									"y": 271,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 98,
+									"y": 271,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 443,
+									"y": 273,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 397,
+									"y": 276,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 53,
+									"y": 276,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 307,
+									"y": 2,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 351,
+									"y": 3,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 652,
+									"y": 3,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 223,
+									"y": 3,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 526,
+									"y": 3,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 566,
+									"y": 2,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 308,
+									"y": 161,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 175,
+									"y": 232,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 650,
+									"y": 233,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 13,
+									"y": 239,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 222,
+									"y": 270,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 138,
+									"y": 271,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 95,
+									"y": 112,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 4,
+									"y": 115,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 6,
+									"y": 194,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 350,
+									"y": 194,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 517,
+									"y": 229,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 565,
+									"y": 270,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 132,
+									"y": 231,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 559,
+									"y": 32,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 36,
+									"y": 125,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 377,
+									"y": 121,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 13,
+									"y": 6,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 323,
+									"y": 6,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 243,
+									"y": 16,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 850,
+									"y": 16,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 537,
+									"y": 75,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 1144,
+									"y": 75,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 95,
+									"y": 80,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 158,
+									"y": 79,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 473,
+									"y": 81,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 705,
+									"y": 83,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 763,
+									"y": 79,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 849,
+									"y": 81,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 1081,
+									"y": 81,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 242,
+									"y": 81,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 394,
+									"y": 134,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 1000,
+									"y": 135,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 158,
+									"y": 143,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 1,
+									"y": 148,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 553,
+									"y": 148,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 94,
+									"y": 150,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 703,
+									"y": 150,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 18,
+									"y": 275,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 87,
+									"y": 277,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 694,
+									"y": 277,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 163,
+									"y": 281,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 242,
+									"y": 281,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 394,
+									"y": 281,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 482,
+									"y": 281,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 1087,
+									"y": 281,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 160,
+									"y": 348,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 998,
+									"y": 350,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 248,
+									"y": 353,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 853,
+									"y": 352,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 1071,
+									"y": 416,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 1078,
+									"y": 478,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 173,
+									"y": 478,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 782,
+									"y": 482,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 700,
+									"y": 487,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 93,
+									"y": 488,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 542,
+									"y": 4,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 620,
+									"y": 6,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 1150,
+									"y": 6,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 393,
+									"y": 5,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 928,
+									"y": 6,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 999,
+									"y": 4,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 544,
+									"y": 284,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 310,
+									"y": 410,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 1148,
+									"y": 412,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 24,
+									"y": 421,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 392,
+									"y": 476,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 244,
+									"y": 478,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 168,
+									"y": 198,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 8,
+									"y": 203,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 11,
+									"y": 343,
+									"h": 52,
+									"w": 52
+								},
+								{
+									"x": 618,
+									"y": 343,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 912,
+									"y": 405,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 998,
+									"y": 478,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 234,
+									"y": 408,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 987,
+									"y": 58,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 64,
+									"y": 221,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 665,
+									"y": 214,
+									"h": 99,
+									"w": 99
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 22,
+									"y": 11,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 517,
+									"y": 11,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 390,
+									"y": 26,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 1361,
+									"y": 26,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 860,
+									"y": 120,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 1831,
+									"y": 121,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 153,
+									"y": 129,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 253,
+									"y": 127,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 757,
+									"y": 131,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 1128,
+									"y": 133,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 1222,
+									"y": 127,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 1359,
+									"y": 131,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 1730,
+									"y": 131,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 388,
+									"y": 131,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 631,
+									"y": 215,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 1601,
+									"y": 217,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 253,
+									"y": 230,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 3,
+									"y": 238,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 885,
+									"y": 238,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 151,
+									"y": 240,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 1125,
+									"y": 241,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 30,
+									"y": 440,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 140,
+									"y": 444,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 1111,
+									"y": 444,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 262,
+									"y": 451,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 388,
+									"y": 451,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 631,
+									"y": 451,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 772,
+									"y": 451,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 1740,
+									"y": 451,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 256,
+									"y": 558,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 1597,
+									"y": 560,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 397,
+									"y": 566,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 1366,
+									"y": 564,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 1715,
+									"y": 667,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 1725,
+									"y": 766,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 277,
+									"y": 766,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 1252,
+									"y": 772,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 1121,
+									"y": 780,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 150,
+									"y": 781,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 868,
+									"y": 7,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 993,
+									"y": 11,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 1841,
+									"y": 11,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 630,
+									"y": 9,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 1486,
+									"y": 11,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 1599,
+									"y": 7,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 871,
+									"y": 455,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 496,
+									"y": 656,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 1837,
+									"y": 660,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 39,
+									"y": 675,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 628,
+									"y": 763,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 391,
+									"y": 766,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 270,
+									"y": 318,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 13,
+									"y": 326,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 18,
+									"y": 549,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 990,
+									"y": 549,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 1460,
+									"y": 648,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 1597,
+									"y": 765,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 375,
+									"y": 654,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 1580,
+									"y": 93,
+									"h": 123,
+									"w": 123
+								},
+								{
+									"x": 103,
+									"y": 354,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 1065,
+									"y": 343,
+									"h": 159,
+									"w": 159
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 22,
+									"y": 11,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 517,
+									"y": 11,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 390,
+									"y": 26,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 1361,
+									"y": 26,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 860,
+									"y": 120,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 1831,
+									"y": 121,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 153,
+									"y": 129,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 253,
+									"y": 127,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 757,
+									"y": 131,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 1128,
+									"y": 133,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 1222,
+									"y": 127,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 1359,
+									"y": 131,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 1730,
+									"y": 131,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 388,
+									"y": 131,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 631,
+									"y": 215,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 1601,
+									"y": 217,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 253,
+									"y": 230,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 3,
+									"y": 238,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 885,
+									"y": 238,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 151,
+									"y": 240,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 1125,
+									"y": 241,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 30,
+									"y": 440,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 140,
+									"y": 444,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 1111,
+									"y": 444,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 262,
+									"y": 451,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 388,
+									"y": 451,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 631,
+									"y": 451,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 772,
+									"y": 451,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 1740,
+									"y": 451,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 256,
+									"y": 558,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 1597,
+									"y": 560,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 397,
+									"y": 566,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 1366,
+									"y": 564,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 1715,
+									"y": 667,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 1725,
+									"y": 766,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 277,
+									"y": 766,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 1252,
+									"y": 772,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 1121,
+									"y": 780,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 150,
+									"y": 781,
+									"h": 65,
+									"w": 65
+								},
+								{
+									"x": 868,
+									"y": 7,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 993,
+									"y": 11,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 1841,
+									"y": 11,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 630,
+									"y": 9,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 1486,
+									"y": 11,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 1599,
+									"y": 7,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 871,
+									"y": 455,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 496,
+									"y": 656,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 1837,
+									"y": 660,
+									"h": 73,
+									"w": 73
+								},
+								{
+									"x": 39,
+									"y": 675,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 628,
+									"y": 763,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 391,
+									"y": 766,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 270,
+									"y": 318,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 13,
+									"y": 326,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 18,
+									"y": 549,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 990,
+									"y": 549,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 1460,
+									"y": 648,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 1597,
+									"y": 765,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 375,
+									"y": 654,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 1580,
+									"y": 93,
+									"h": 123,
+									"w": 123
+								},
+								{
+									"x": 103,
+									"y": 354,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 1065,
+									"y": 343,
+									"h": 159,
+									"w": 159
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3726587775,
+			"id_str": "3726587775",
+			"name": "#AdvanceHE_chat",
+			"screen_name": "AdvanceHE_chat",
+			"location": "York, England",
+			"description": "Our regular Twitter chat with #LTHEchat on teaching & learning issues in HE/FE join us to connect, share & get inspired. 8pm last Weds. of the month, term time.",
+			"url": "https://t.co/DTFZZc7wBp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DTFZZc7wBp",
+							"expanded_url": "https://www.heacademy.ac.uk/about-hea/blog/heachat",
+							"display_url": "heacademy.ac.uk/about-hea/blog…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2614,
+			"friends_count": 601,
+			"listed_count": 38,
+			"created_at": "Mon Sep 21 09:01:44 +0000 2015",
+			"favourites_count": 603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013793991844909058/TzdFQ3Si_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013793991844909058/TzdFQ3Si_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3726587775/1452177565",
+			"profile_link_color": "02A4A6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Q1  How can we engage all students with enterprise education?\n#AdvanceHE_chat #LTHEChat https://t.co/ZId8tzT7Yi"
+	},
+	{
+		"created_at": "Wed Nov 27 20:00:09 +0000 2019",
+		"id": 1199779967682404400,
+		"id_str": "1199779967682404352",
+		"full_text": "@WarwickLanguage @AdvanceHE_chat Hi Teresa! #AdvanceHE_chat #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						44,
+						59
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						60,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WarwickLanguage",
+					"name": "Teresa MacKinnon",
+					"id": 81817497,
+					"id_str": "81817497",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						17,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1199779772051738600,
+		"in_reply_to_status_id_str": "1199779772051738624",
+		"in_reply_to_user_id": 81817497,
+		"in_reply_to_user_id_str": "81817497",
+		"in_reply_to_screen_name": "WarwickLanguage",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@WarwickLanguage @AdvanceHE_chat Hi Teresa! #AdvanceHE_chat #LTHEChat"
+	},
+	{
+		"created_at": "Wed Nov 27 19:59:30 +0000 2019",
+		"id": 1199779803890638800,
+		"id_str": "1199779803890638848",
+		"full_text": "@srowett @kjhaxton Wish it was Friday. Hi Katherine! #AdvanceHE_chat #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						53,
+						68
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						69,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "srowett",
+					"name": "Steve Rowett",
+					"id": 351707332,
+					"id_str": "351707332",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "kjhaxton",
+					"name": "Katherine J. Haxton",
+					"id": 34229633,
+					"id_str": "34229633",
+					"indices": [
+						9,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1199779569571704800,
+		"in_reply_to_status_id_str": "1199779569571704833",
+		"in_reply_to_user_id": 351707332,
+		"in_reply_to_user_id_str": "351707332",
+		"in_reply_to_screen_name": "srowett",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@srowett @kjhaxton Wish it was Friday. Hi Katherine! #AdvanceHE_chat #LTHEChat"
+	},
+	{
+		"created_at": "Wed Nov 27 19:58:57 +0000 2019",
+		"id": 1199779663314378800,
+		"id_str": "1199779663314378753",
+		"full_text": "@NomadWarMachine @AdvanceHE_chat Hi Sarah #AdvanceHE_chat #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						42,
+						57
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						58,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NomadWarMachine",
+					"name": "Sarah Honeychurch is not on strike",
+					"id": 558091832,
+					"id_str": "558091832",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						17,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1199779174988292000,
+		"in_reply_to_status_id_str": "1199779174988292097",
+		"in_reply_to_user_id": 558091832,
+		"in_reply_to_user_id_str": "558091832",
+		"in_reply_to_screen_name": "NomadWarMachine",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "in",
+		"text": "@NomadWarMachine @AdvanceHE_chat Hi Sarah #AdvanceHE_chat #LTHEChat"
+	},
+	{
+		"created_at": "Wed Nov 27 19:58:46 +0000 2019",
+		"id": 1199779617944547300,
+		"id_str": "1199779617944547328",
+		"full_text": "@srowett Hi Steve! #AdvanceHE_chat #lthechat",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						19,
+						34
+					]
+				},
+				{
+					"text": "lthechat",
+					"indices": [
+						35,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "srowett",
+					"name": "Steve Rowett",
+					"id": 351707332,
+					"id_str": "351707332",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1199779296040095700,
+		"in_reply_to_status_id_str": "1199779296040095745",
+		"in_reply_to_user_id": 351707332,
+		"in_reply_to_user_id_str": "351707332",
+		"in_reply_to_screen_name": "srowett",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@srowett Hi Steve! #AdvanceHE_chat #lthechat"
+	},
+	{
+		"created_at": "Wed Nov 27 19:57:31 +0000 2019",
+		"id": 1199779304009355300,
+		"id_str": "1199779304009355269",
+		"full_text": "@AdvanceHE_chat Hello everyone. Chris Jobling here from @SUEngineering at Swansea University #AdvanceHE_chat #lthechat",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						93,
+						108
+					]
+				},
+				{
+					"text": "lthechat",
+					"indices": [
+						109,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdvanceHE_chat",
+					"name": "#AdvanceHE_chat",
+					"id": 3726587775,
+					"id_str": "3726587775",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "SUEngineering",
+					"name": "Swansea Engineering",
+					"id": 154145391,
+					"id_str": "154145391",
+					"indices": [
+						56,
+						70
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1199778669377405000,
+		"in_reply_to_status_id_str": "1199778669377404928",
+		"in_reply_to_user_id": 3726587775,
+		"in_reply_to_user_id_str": "3726587775",
+		"in_reply_to_screen_name": "AdvanceHE_chat",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AdvanceHE_chat Hello everyone. Chris Jobling here from @SUEngineering at Swansea University #AdvanceHE_chat #lthechat"
+	},
+	{
+		"created_at": "Wed Nov 27 19:14:02 +0000 2019",
+		"id": 1199644510554337300,
+		"id_str": "1199768360633933824",
+		"full_text": "Nearly time to open the first door on our #NTUFestiveFellowship advent calendar. Behind each door a learning trigger/resource mapped to UKPSF. Please share and join the fun! https://t.co/LRuHokaG0P https://t.co/ZYt55aCEnl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NTUFestiveFellowship",
+					"indices": [
+						42,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LRuHokaG0P",
+					"expanded_url": "https://tinyurl.com/r7lmogy",
+					"display_url": "tinyurl.com/r7lmogy",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1199644491818393600,
+					"id_str": "1199644491818393607",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EKX-Ty-W4AcrHlB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKX-Ty-W4AcrHlB.jpg",
+					"url": "https://t.co/ZYt55aCEnl",
+					"display_url": "pic.twitter.com/ZYt55aCEnl",
+					"expanded_url": "https://twitter.com/NtuTilt/status/1199644510554337280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1020,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 339,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 598,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199644491818393600,
+					"id_str": "1199644491818393607",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EKX-Ty-W4AcrHlB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKX-Ty-W4AcrHlB.jpg",
+					"url": "https://t.co/ZYt55aCEnl",
+					"display_url": "pic.twitter.com/ZYt55aCEnl",
+					"expanded_url": "https://twitter.com/NtuTilt/status/1199644510554337280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1020,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 339,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 598,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1059747227755864000,
+			"id_str": "1059747227755864064",
+			"name": "Trent Institute for Learning and Teaching",
+			"screen_name": "NtuTilt",
+			"location": "Nottingham, England",
+			"description": "TILT is an institution-wide community of practice that recognises inspirational teaching at Nottingham Trent University #AFHEA #FHEA #SFHEA #PFHEA",
+			"url": "https://t.co/CqrJfitILM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqrJfitILM",
+							"expanded_url": "https://www.ntu.ac.uk/c/tilt",
+							"display_url": "ntu.ac.uk/c/tilt",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 711,
+			"friends_count": 916,
+			"listed_count": 3,
+			"created_at": "Tue Nov 06 10:00:03 +0000 2018",
+			"favourites_count": 3620,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1059750498163703808/EKoyKkrI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1059750498163703808/EKoyKkrI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1059747227755864064/1541512939",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 27,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nearly time to open the first door on our #NTUFestiveFellowship advent calendar. Behind each door a learning trigger/resource mapped to UKPSF. Please share and join the fun! https://t.co/LRuHokaG0P https://t.co/ZYt55aCEnl"
+	},
+	{
+		"created_at": "Wed Nov 27 17:15:02 +0000 2019",
+		"id": 1199737619166437400,
+		"id_str": "1199738414368743425",
+		"full_text": "Anders Celsius, physicist, was born #OnThisDay 1701. His thermometer set freezing at 100º and boiling at 0º https://t.co/iN0e6rRSh8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OnThisDay",
+					"indices": [
+						36,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iN0e6rRSh8",
+					"expanded_url": "https://bbc.in/2R6BSy7",
+					"display_url": "bbc.in/2R6BSy7",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720963865660506100,
+			"id_str": "720963865660506113",
+			"name": "In Our Time",
+			"screen_name": "BBCInOurTime",
+			"location": "",
+			"description": "BBC Radio 4 discussion programme presented by Melvyn Bragg. 9am (9.30pm rpt) on Thursdays, Sept-July. Account run by @simontillo (usually).",
+			"url": "https://t.co/KpLBDr6uBZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KpLBDr6uBZ",
+							"expanded_url": "http://www.bbc.co.uk/programmes/b006qykl",
+							"display_url": "bbc.co.uk/programmes/b00…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34261,
+			"friends_count": 672,
+			"listed_count": 421,
+			"created_at": "Fri Apr 15 13:15:55 +0000 2016",
+			"favourites_count": 5062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877878819247595522/hyINC-sv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877878819247595522/hyINC-sv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720963865660506113/1464865378",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Anders Celsius, physicist, was born #OnThisDay 1701. His thermometer set freezing at 100º and boiling at 0º https://t.co/iN0e6rRSh8"
+	},
+	{
+		"created_at": "Wed Nov 27 17:14:07 +0000 2019",
+		"id": 1199266541021384700,
+		"id_str": "1199738181245112320",
+		"full_text": "We are not striking at @SwanseaUni due to low ballot turnout, however I support the strikes. I teach &gt;600 students per year and have increased student satisfaction in all modules yet I am on a fixed term contract. This week's redeployment opportunities include... 1/n https://t.co/eEGZt4z6rr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SwanseaUni",
+					"name": "Swansea University",
+					"id": 62489200,
+					"id_str": "62489200",
+					"indices": [
+						23,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eEGZt4z6rr",
+					"expanded_url": "https://twitter.com/ucu/status/1199028639498723334",
+					"display_url": "twitter.com/ucu/status/119…",
+					"indices": [
+						271,
+						294
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 557072652,
+			"id_str": "557072652",
+			"name": "Will Harrison",
+			"screen_name": "DrWillHarrison",
+			"location": "UK",
+			"description": "Engineering lecturer, surfer, lurcher owner and family man (not in order of priority)",
+			"url": "http://t.co/7lyhN6CpNg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/7lyhN6CpNg",
+							"expanded_url": "http://www.materials-science.club",
+							"display_url": "materials-science.club",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251,
+			"friends_count": 325,
+			"listed_count": 15,
+			"created_at": "Wed Apr 18 16:01:56 +0000 2012",
+			"favourites_count": 442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877029369704742913/xuDz8UBU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877029369704742913/xuDz8UBU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/557072652/1417782341",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1199028639498723300,
+		"quoted_status_id_str": "1199028639498723334",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eEGZt4z6rr",
+			"expanded": "https://twitter.com/ucu/status/1199028639498723334",
+			"display": "twitter.com/ucu/status/119…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 25 18:14:39 +0000 2019",
+			"id": 1199028639498723300,
+			"id_str": "1199028639498723334",
+			"full_text": "\"I think a lot of students might complain they're missing lectures - and they have essay deadlines coming up - but if staff can improve their teaching conditions that will have an effect on us and improve our education.\"\nhttps://t.co/uqhXbSeZZ3 #UCUStrike #UCUStrikesBack",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UCUStrike",
+						"indices": [
+							245,
+							255
+						]
+					},
+					{
+						"text": "UCUStrikesBack",
+						"indices": [
+							256,
+							271
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uqhXbSeZZ3",
+						"expanded_url": "https://www.bbc.co.uk/news/uk-england-bristol-50547643",
+						"display_url": "bbc.co.uk/news/uk-englan…",
+						"indices": [
+							221,
+							244
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17724276,
+				"id_str": "17724276",
+				"name": "UCU",
+				"screen_name": "ucu",
+				"location": "UK",
+				"description": "University and College Union, UK trade union & professional association for academics, lecturers, trainers, researchers & academic-related staff in FE & HE",
+				"url": "http://t.co/NntLAKs8w7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/NntLAKs8w7",
+								"expanded_url": "http://www.ucu.org.uk",
+								"display_url": "ucu.org.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44105,
+				"friends_count": 1776,
+				"listed_count": 549,
+				"created_at": "Sat Nov 29 00:40:06 +0000 2008",
+				"favourites_count": 531,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 18011,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DDDDEE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/732621951785684992/krfceqjB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/732621951785684992/krfceqjB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17724276/1527753866",
+				"profile_link_color": "E62F8E",
+				"profile_sidebar_border_color": "E62F8E",
+				"profile_sidebar_fill_color": "FFDDEE",
+				"profile_text_color": "554466",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 168,
+			"favorite_count": 341,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are not striking at @SwanseaUni due to low ballot turnout, however I support the strikes. I teach &gt;600 students per year and have increased student satisfaction in all modules yet I am on a fixed term contract. This week's redeployment opportunities include... 1/n https://t.co/eEGZt4z6rr"
+	},
+	{
+		"created_at": "Wed Nov 27 17:11:36 +0000 2019",
+		"id": 1199737547657756700,
+		"id_str": "1199737547657756672",
+		"full_text": "@GibbonSimon @SwanseaUni @CanvasLMS @susaltteam Just signed up for my training. Looking forward to being a “pioneer” and seeing if and how  @CanvasLMS collaboration complements MS Teams and OneNote.",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GibbonSimon",
+					"name": "Simon Gibbon",
+					"id": 3074716391,
+					"id_str": "3074716391",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "SwanseaUni",
+					"name": "Swansea University",
+					"id": 62489200,
+					"id_str": "62489200",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "CanvasLMS",
+					"name": "Canvas LMS",
+					"id": 41847236,
+					"id_str": "41847236",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"screen_name": "susaltteam",
+					"name": "SUSALT",
+					"id": 2587806050,
+					"id_str": "2587806050",
+					"indices": [
+						36,
+						47
+					]
+				},
+				{
+					"screen_name": "CanvasLMS",
+					"name": "Canvas LMS",
+					"id": 41847236,
+					"id_str": "41847236",
+					"indices": [
+						140,
+						150
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1199654063467577300,
+		"in_reply_to_status_id_str": "1199654063467577346",
+		"in_reply_to_user_id": 3074716391,
+		"in_reply_to_user_id_str": "3074716391",
+		"in_reply_to_screen_name": "GibbonSimon",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GibbonSimon @SwanseaUni @CanvasLMS @susaltteam Just signed up for my training. Looking forward to being a “pioneer” and seeing if and how  @CanvasLMS collaboration complements MS Teams and OneNote."
+	},
+	{
+		"created_at": "Wed Nov 27 17:07:08 +0000 2019",
+		"id": 1199667294034677800,
+		"id_str": "1199736427392720898",
+		"full_text": "ABC Learning Design -  ‘The high-energy, hands-on curriculum development  workshop’. \n\nSALT are pleased to offer support for this methodology, please see our new web page for details:\n\nhttps://t.co/Aj0pGS13Xr\n\n@SwanseaUni #susaltcpd https://t.co/yC4f7Dq8C9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "susaltcpd",
+					"indices": [
+						222,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SwanseaUni",
+					"name": "Swansea University",
+					"id": 62489200,
+					"id_str": "62489200",
+					"indices": [
+						210,
+						221
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Aj0pGS13Xr",
+					"expanded_url": "https://salt.swan.ac.uk/abc-learning-design/",
+					"display_url": "salt.swan.ac.uk/abc-learning-d…",
+					"indices": [
+						185,
+						208
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1199667202997272600,
+					"id_str": "1199667202997272578",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/EKYS9wtWwAIH4Bg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKYS9wtWwAIH4Bg.jpg",
+					"url": "https://t.co/yC4f7Dq8C9",
+					"display_url": "pic.twitter.com/yC4f7Dq8C9",
+					"expanded_url": "https://twitter.com/susaltteam/status/1199667294034677762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 249,
+							"h": 250,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 249,
+							"h": 250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 249,
+							"h": 250,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199667202997272600,
+					"id_str": "1199667202997272578",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/EKYS9wtWwAIH4Bg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKYS9wtWwAIH4Bg.jpg",
+					"url": "https://t.co/yC4f7Dq8C9",
+					"display_url": "pic.twitter.com/yC4f7Dq8C9",
+					"expanded_url": "https://twitter.com/susaltteam/status/1199667294034677762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 249,
+							"h": 250,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 249,
+							"h": 250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 249,
+							"h": 250,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2587806050,
+			"id_str": "2587806050",
+			"name": "SUSALT",
+			"screen_name": "susaltteam",
+			"location": "",
+			"description": "Twitter account for the Swansea Academy for Learning and Teaching (SALT Team)",
+			"url": "https://t.co/BJONKjXOW7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BJONKjXOW7",
+							"expanded_url": "https://salt.swan.ac.uk/",
+							"display_url": "salt.swan.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 612,
+			"friends_count": 109,
+			"listed_count": 22,
+			"created_at": "Wed Jun 25 16:23:37 +0000 2014",
+			"favourites_count": 274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/618376385955000320/ddaWT38u_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/618376385955000320/ddaWT38u_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2587806050/1436266879",
+			"profile_link_color": "62397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ABC Learning Design -  ‘The high-energy, hands-on curriculum development  workshop’. \n\nSALT are pleased to offer support for this methodology, please see our new web page for details:\n\nhttps://t.co/Aj0pGS13Xr\n\n@SwanseaUni #susaltcpd https://t.co/yC4f7Dq8C9"
+	},
+	{
+		"created_at": "Wed Nov 27 09:33:37 +0000 2019",
+		"id": 1199622296136290300,
+		"id_str": "1199622296136290306",
+		"full_text": "Listen to my colleagues @GavinBunting and Matthew Davies on the circular economy and renewable energy https://t.co/iNb4fFb6hM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GavinBunting",
+					"name": "Gavin",
+					"id": 991186898,
+					"id_str": "991186898",
+					"indices": [
+						24,
+						37
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iNb4fFb6hM",
+					"expanded_url": "https://www.swansea.ac.uk/research/podcasts/circular-economy/",
+					"display_url": "swansea.ac.uk/research/podca…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Listen to my colleagues @GavinBunting and Matthew Davies on the circular economy and renewable energy https://t.co/iNb4fFb6hM"
+	},
+	{
+		"created_at": "Wed Nov 27 09:25:42 +0000 2019",
+		"id": 1199426799773597700,
+		"id_str": "1199620303409811457",
+		"full_text": "IET award For the top student in Electrical and Electronic Engineering at Swansea University https://t.co/6PKfFmbkgP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1199426791800234000,
+					"id_str": "1199426791800233986",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EKU4T_NW4AIXM3g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKU4T_NW4AIXM3g.jpg",
+					"url": "https://t.co/6PKfFmbkgP",
+					"display_url": "pic.twitter.com/6PKfFmbkgP",
+					"expanded_url": "https://twitter.com/IETSouthWales/status/1199426799773597698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 247,
+									"y": 159,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 125,
+									"y": 174,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 413,
+									"y": 142,
+									"h": 63,
+									"w": 63
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 744,
+									"y": 480,
+									"h": 168,
+									"w": 168
+								},
+								{
+									"x": 378,
+									"y": 526,
+									"h": 166,
+									"w": 166
+								},
+								{
+									"x": 1244,
+									"y": 428,
+									"h": 192,
+									"w": 192
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 435,
+									"y": 281,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 221,
+									"y": 308,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 728,
+									"y": 250,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 744,
+									"y": 480,
+									"h": 168,
+									"w": 168
+								},
+								{
+									"x": 378,
+									"y": 526,
+									"h": 166,
+									"w": 166
+								},
+								{
+									"x": 1244,
+									"y": 428,
+									"h": 192,
+									"w": 192
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199426791800234000,
+					"id_str": "1199426791800233986",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EKU4T_NW4AIXM3g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKU4T_NW4AIXM3g.jpg",
+					"url": "https://t.co/6PKfFmbkgP",
+					"display_url": "pic.twitter.com/6PKfFmbkgP",
+					"expanded_url": "https://twitter.com/IETSouthWales/status/1199426799773597698/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 247,
+									"y": 159,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 125,
+									"y": 174,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 413,
+									"y": 142,
+									"h": 63,
+									"w": 63
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 744,
+									"y": 480,
+									"h": 168,
+									"w": 168
+								},
+								{
+									"x": 378,
+									"y": 526,
+									"h": 166,
+									"w": 166
+								},
+								{
+									"x": 1244,
+									"y": 428,
+									"h": 192,
+									"w": 192
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 435,
+									"y": 281,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 221,
+									"y": 308,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 728,
+									"y": 250,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 744,
+									"y": 480,
+									"h": 168,
+									"w": 168
+								},
+								{
+									"x": 378,
+									"y": 526,
+									"h": 166,
+									"w": 166
+								},
+								{
+									"x": 1244,
+									"y": 428,
+									"h": 192,
+									"w": 192
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 564949827,
+			"id_str": "564949827",
+			"name": "IET South Wales",
+			"screen_name": "IETSouthWales",
+			"location": "Cardiff",
+			"description": "The South Wales local networks, technical sections and young professionals of the Institution of Engineering & Technology.",
+			"url": "http://t.co/GeyufF6anH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/GeyufF6anH",
+							"expanded_url": "http://www.theiet.org/southwales/",
+							"display_url": "theiet.org/southwales/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 666,
+			"friends_count": 477,
+			"listed_count": 10,
+			"created_at": "Fri Apr 27 19:47:18 +0000 2012",
+			"favourites_count": 118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/527447398633598980/ndj279lM_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/527447398633598980/ndj279lM_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "IET award For the top student in Electrical and Electronic Engineering at Swansea University https://t.co/6PKfFmbkgP"
+	},
+	{
+		"created_at": "Wed Nov 27 09:00:27 +0000 2019",
+		"id": 1199603766762332200,
+		"id_str": "1199613946124218369",
+		"full_text": "It's tweetchat day! \n\n#LTHEChat #AdvanceHE_chat - If you've not yet read the blog, there is still plenty of time to check it out: https://t.co/6Wv0glacxB  \n\nSee you at 20:00 GMT. https://t.co/JvZCCDzp2P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						22,
+						31
+					]
+				},
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						32,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6Wv0glacxB",
+					"expanded_url": "http://ow.ly/24ug50xk3iN",
+					"display_url": "ow.ly/24ug50xk3iN",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1199311987588698000,
+					"id_str": "1199311987588698112",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EKTP5gMXkAAec0n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKTP5gMXkAAec0n.jpg",
+					"url": "https://t.co/JvZCCDzp2P",
+					"display_url": "pic.twitter.com/JvZCCDzp2P",
+					"expanded_url": "https://twitter.com/AdvanceHE_chat/status/1199603766762332165/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 318,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 543,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199311987588698000,
+					"id_str": "1199311987588698112",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EKTP5gMXkAAec0n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKTP5gMXkAAec0n.jpg",
+					"url": "https://t.co/JvZCCDzp2P",
+					"display_url": "pic.twitter.com/JvZCCDzp2P",
+					"expanded_url": "https://twitter.com/AdvanceHE_chat/status/1199603766762332165/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 318,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 180,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 543,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3726587775,
+			"id_str": "3726587775",
+			"name": "#AdvanceHE_chat",
+			"screen_name": "AdvanceHE_chat",
+			"location": "York, England",
+			"description": "Our regular Twitter chat with #LTHEchat on teaching & learning issues in HE/FE join us to connect, share & get inspired. 8pm last Weds. of the month, term time.",
+			"url": "https://t.co/DTFZZc7wBp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DTFZZc7wBp",
+							"expanded_url": "https://www.heacademy.ac.uk/about-hea/blog/heachat",
+							"display_url": "heacademy.ac.uk/about-hea/blog…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2614,
+			"friends_count": 601,
+			"listed_count": 38,
+			"created_at": "Mon Sep 21 09:01:44 +0000 2015",
+			"favourites_count": 603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013793991844909058/TzdFQ3Si_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013793991844909058/TzdFQ3Si_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3726587775/1452177565",
+			"profile_link_color": "02A4A6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's tweetchat day! \n\n#LTHEChat #AdvanceHE_chat - If you've not yet read the blog, there is still plenty of time to check it out: https://t.co/6Wv0glacxB  \n\nSee you at 20:00 GMT. https://t.co/JvZCCDzp2P"
+	},
+	{
+		"created_at": "Wed Nov 27 08:06:26 +0000 2019",
+		"id": 1199600355560038400,
+		"id_str": "1199600355560038400",
+		"full_text": "Pointless emails: they're not just irritating - they have a massive carbon footprint | Email - The Guardian https://t.co/6XfACe46cW via @nuzzel",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nuzzel",
+					"name": "Nuzzel",
+					"id": 106041193,
+					"id_str": "106041193",
+					"indices": [
+						136,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6XfACe46cW",
+					"expanded_url": "https://nzzl.us/o039mFj",
+					"display_url": "nzzl.us/o039mFj",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pointless emails: they're not just irritating - they have a massive carbon footprint | Email - The Guardian https://t.co/6XfACe46cW via @nuzzel"
+	},
+	{
+		"created_at": "Wed Nov 27 08:04:20 +0000 2019",
+		"id": 1199599824603095000,
+		"id_str": "1199599824603095040",
+		"full_text": "Staff need digital skills to give students the best digital experience - Wonkhe https://t.co/2KFASXHWjJ via @nuzzel thanks @mattlingard",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nuzzel",
+					"name": "Nuzzel",
+					"id": 106041193,
+					"id_str": "106041193",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"screen_name": "mattlingard",
+					"name": "Matt Lingard",
+					"id": 14434363,
+					"id_str": "14434363",
+					"indices": [
+						123,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2KFASXHWjJ",
+					"expanded_url": "https://nzzl.us/KWFAWRs",
+					"display_url": "nzzl.us/KWFAWRs",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Staff need digital skills to give students the best digital experience - Wonkhe https://t.co/2KFASXHWjJ via @nuzzel thanks @mattlingard"
+	},
+	{
+		"created_at": "Wed Nov 27 08:03:23 +0000 2019",
+		"id": 1199599586723192800,
+		"id_str": "1199599586723192832",
+		"full_text": "Read the Nov 27 Newsletter curated by my PLN featuring “Register to vote” https://t.co/zVi27XAtUU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zVi27XAtUU",
+					"expanded_url": "https://nzzl.us/yglZ53b",
+					"display_url": "nzzl.us/yglZ53b",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1555,
+			"friends_count": 1203,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Nov 27 Newsletter curated by my PLN featuring “Register to vote” https://t.co/zVi27XAtUU"
+	},
+	{
 		"created_at": "Tue Nov 26 17:42:22 +0000 2019",
 		"id": 1199382906357133300,
 		"id_str": "1199382906357133312",
