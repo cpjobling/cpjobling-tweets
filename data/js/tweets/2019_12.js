@@ -1,6 +1,2554 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 16:47:32 +0000 2019",
+		"id": 1205529697184026600,
+		"id_str": "1205529697184026624",
+		"full_text": "@LTHEchat @drnsheridan @belld17 Welcome aboard!",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "drnsheridan",
+					"name": "Nathalie Sheridan 🇪🇺🌞🏴󠁧󠁢󠁳󠁣󠁴󠁿🇩🇪",
+					"id": 60389169,
+					"id_str": "60389169",
+					"indices": [
+						10,
+						22
+					]
+				},
+				{
+					"screen_name": "belld17",
+					"name": "Dawne",
+					"id": 1274404952,
+					"id_str": "1274404952",
+					"indices": [
+						23,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1205518196566048800,
+		"in_reply_to_status_id_str": "1205518196566048769",
+		"in_reply_to_user_id": 2659221798,
+		"in_reply_to_user_id_str": "2659221798",
+		"in_reply_to_screen_name": "LTHEchat",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1557,
+			"friends_count": 1201,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LTHEchat @drnsheridan @belld17 Welcome aboard!"
+	},
+	{
+		"created_at": "Fri Dec 13 13:06:44 +0000 2019",
+		"id": 1205474133871595500,
+		"id_str": "1205474133871595520",
+		"full_text": "Simon Jenkins: “a ministry of toads...the most underpowered cabinet in living memory.”  https://t.co/V9KZBFfqKM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V9KZBFfqKM",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2019/dec/13/boris-johnson-majority-social-liberal-softer-brexit?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1557,
+			"friends_count": 1201,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Simon Jenkins: “a ministry of toads...the most underpowered cabinet in living memory.”  https://t.co/V9KZBFfqKM"
+	},
+	{
+		"created_at": "Fri Dec 13 12:55:17 +0000 2019",
+		"id": 1205464580308250600,
+		"id_str": "1205471252435099649",
+		"full_text": "When the left seeks heretics not converts, it deserves to lose. \"“F*** off and join the Tories”, a favourite response of the Corbyn faithful to all criticism, proved very effective indeed,\" says my colleague @greenmiranda. Bernie Bros should take note. https://t.co/SVBXiZGALM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greenmiranda",
+					"name": "Miranda Green",
+					"id": 146366133,
+					"id_str": "146366133",
+					"indices": [
+						208,
+						221
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SVBXiZGALM",
+					"expanded_url": "https://www.ft.com/content/24532aa4-1d88-11ea-97df-cc63de1d73f4",
+					"display_url": "ft.com/content/24532a…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 398271367,
+			"id_str": "398271367",
+			"name": "Edward Luce",
+			"screen_name": "EdwardGLuce",
+			"location": "Washington DC",
+			"description": "Associate Editor, Financial Times, US-based writer/columnist. Former DC & India bureau chief. Author of The Retreat of Western Liberalism. Tweets are personal.",
+			"url": "https://t.co/177fJYUUBM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/177fJYUUBM",
+							"expanded_url": "http://www.ft.com",
+							"display_url": "ft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64368,
+			"friends_count": 1311,
+			"listed_count": 1209,
+			"created_at": "Tue Oct 25 20:37:23 +0000 2011",
+			"favourites_count": 4769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1029382183452987394/lMk4HWRE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029382183452987394/lMk4HWRE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/398271367/1495984929",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 234,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When the left seeks heretics not converts, it deserves to lose. \"“F*** off and join the Tories”, a favourite response of the Corbyn faithful to all criticism, proved very effective indeed,\" says my colleague @greenmiranda. Bernie Bros should take note. https://t.co/SVBXiZGALM"
+	},
+	{
+		"created_at": "Fri Dec 13 12:34:12 +0000 2019",
+		"id": 1205444242027483100,
+		"id_str": "1205465946162376704",
+		"full_text": "Morning, friends. On this bleak day, make sure that you spend time with like-minded friends and family. Draw solace and strength from one another 💗\n\nReach out in particular to European friends in the UK, and to UK friends in the EU - we must all stick together now \n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿🇬🇧🇪🇺",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 861240170091249700,
+			"id_str": "861240170091249664",
+			"name": "SwanseaForEurope#FBPE 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+			"screen_name": "Swansea4Europe",
+			"location": "Swansea, Wales",
+			"description": "Campaigning against Brexit and for a #PeoplesVote. #VoteTactically in #GE2019! RT not endorsement. #FBPE",
+			"url": "https://t.co/vgZUxK5uvQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vgZUxK5uvQ",
+							"expanded_url": "http://tactical.vote/compare",
+							"display_url": "tactical.vote/compare",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4399,
+			"friends_count": 4842,
+			"listed_count": 25,
+			"created_at": "Sun May 07 15:23:52 +0000 2017",
+			"favourites_count": 9799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102212004364861441/uOZIEHTf_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102212004364861441/uOZIEHTf_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/861240170091249664/1572720550",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 52,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Morning, friends. On this bleak day, make sure that you spend time with like-minded friends and family. Draw solace and strength from one another 💗\n\nReach out in particular to European friends in the UK, and to UK friends in the EU - we must all stick together now \n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿🇬🇧🇪🇺"
+	},
+	{
+		"created_at": "Fri Dec 13 12:06:43 +0000 2019",
+		"id": 1205459028672962600,
+		"id_str": "1205459028672962560",
+		"full_text": "https://t.co/t0ZHTnsbdf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205458992857788400,
+					"id_str": "1205458992857788416",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ELqmkTSWsAAhZ4z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELqmkTSWsAAhZ4z.jpg",
+					"url": "https://t.co/t0ZHTnsbdf",
+					"display_url": "pic.twitter.com/t0ZHTnsbdf",
+					"expanded_url": "https://twitter.com/cpjobling/status/1205459028672962560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 865,
+							"h": 1130,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 865,
+							"h": 1130,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 708,
+									"y": 443,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 566,
+									"y": 876,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 8,
+									"y": 196,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 326,
+									"y": 776,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 214,
+									"y": 483,
+									"h": 269,
+									"w": 269
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 708,
+									"y": 443,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 566,
+									"y": 876,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 8,
+									"y": 196,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 326,
+									"y": 776,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 214,
+									"y": 483,
+									"h": 269,
+									"w": 269
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 426,
+									"y": 266,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 340,
+									"y": 527,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 4,
+									"y": 118,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 196,
+									"y": 467,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 128,
+									"y": 290,
+									"h": 162,
+									"w": 162
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 708,
+									"y": 443,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 566,
+									"y": 876,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 8,
+									"y": 196,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 326,
+									"y": 776,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 214,
+									"y": 483,
+									"h": 269,
+									"w": 269
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205458992857788400,
+					"id_str": "1205458992857788416",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/ELqmkTSWsAAhZ4z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELqmkTSWsAAhZ4z.jpg",
+					"url": "https://t.co/t0ZHTnsbdf",
+					"display_url": "pic.twitter.com/t0ZHTnsbdf",
+					"expanded_url": "https://twitter.com/cpjobling/status/1205459028672962560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 865,
+							"h": 1130,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 865,
+							"h": 1130,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 708,
+									"y": 443,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 566,
+									"y": 876,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 8,
+									"y": 196,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 326,
+									"y": 776,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 214,
+									"y": 483,
+									"h": 269,
+									"w": 269
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 708,
+									"y": 443,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 566,
+									"y": 876,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 8,
+									"y": 196,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 326,
+									"y": 776,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 214,
+									"y": 483,
+									"h": 269,
+									"w": 269
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 426,
+									"y": 266,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 340,
+									"y": 527,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 4,
+									"y": 118,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 196,
+									"y": 467,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 128,
+									"y": 290,
+									"h": 162,
+									"w": 162
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 708,
+									"y": 443,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 566,
+									"y": 876,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 8,
+									"y": 196,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 326,
+									"y": 776,
+									"h": 120,
+									"w": 120
+								},
+								{
+									"x": 214,
+									"y": 483,
+									"h": 269,
+									"w": 269
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1557,
+			"friends_count": 1201,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/t0ZHTnsbdf"
+	},
+	{
+		"created_at": "Fri Dec 13 11:50:05 +0000 2019",
+		"id": 1205070858450022400,
+		"id_str": "1205454840958242817",
+		"full_text": "@cpjobling We get knocked down... https://t.co/HWmJXHJnL8",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cpjobling",
+					"name": "Chris Jobling",
+					"id": 4229341,
+					"id_str": "4229341",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HWmJXHJnL8",
+					"expanded_url": "https://youtu.be/KCkmIyC6v00",
+					"display_url": "youtu.be/KCkmIyC6v00",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1205068047997972500,
+		"in_reply_to_status_id_str": "1205068047997972480",
+		"in_reply_to_user_id": 4229341,
+		"in_reply_to_user_id_str": "4229341",
+		"in_reply_to_screen_name": "cpjobling",
+		"user": {
+			"id": 236802458,
+			"id_str": "236802458",
+			"name": "Sandra Sinfield",
+			"screen_name": "Danceswithcloud",
+			"location": "London, Essex, Kent",
+			"description": "Education Developer tweets #studychat & #loveLD. For creativity as emancipatory practice, drawing & animation for learning & SecondLife as learning space.",
+			"url": "https://t.co/2btCkpjrSi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2btCkpjrSi",
+							"expanded_url": "https://becomingeducational.wordpress.com/",
+							"display_url": "becomingeducational.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1415,
+			"friends_count": 1851,
+			"listed_count": 66,
+			"created_at": "Tue Jan 11 12:06:17 +0000 2011",
+			"favourites_count": 10869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213598693/Sandra_and_Lesley_by_sea_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213598693/Sandra_and_Lesley_by_sea_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236802458/1355492798",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@cpjobling We get knocked down... https://t.co/HWmJXHJnL8"
+	},
+	{
+		"created_at": "Fri Dec 13 11:47:46 +0000 2019",
+		"id": 1205454258369372200,
+		"id_str": "1205454258369372160",
+		"full_text": "Who'd have thought that my first blog post in a while would have been this one: https://t.co/b03RsVYThS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b03RsVYThS",
+					"expanded_url": "https://blog.cpjobling.net/uncategorized/time-to-turn-off-the-lights/",
+					"display_url": "blog.cpjobling.net/uncategorized/…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1557,
+			"friends_count": 1201,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who'd have thought that my first blog post in a while would have been this one: https://t.co/b03RsVYThS"
+	},
+	{
+		"created_at": "Fri Dec 13 11:45:11 +0000 2019",
+		"id": 1205421129386676200,
+		"id_str": "1205453610907250694",
+		"full_text": "If you see a friend, neighbour, colleage who’s an EU27 citizen - say hello. Ask if they’re ok.\n\nDitto any Brits in EU27.\n\nThe last three years have been unimaginable for them and they now face even greater fear and anxiety about their futures. \n\nThey deserved better than this.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 45360352,
+			"id_str": "45360352",
+			"name": "Seb Dance MEP 🌹🇪🇺",
+			"screen_name": "SebDance",
+			"location": "London/ Brussels 🇪🇺",
+			"description": "Labour/ @Coopparty MEP for London. Dep Leader @LabMEPs. Vice-Chair @ep_environment. Patron @LGBTLabour. VP @LabourCID. @theprogressives He/ Him 🇬🇧🇪🇺🏳️‍🌈",
+			"url": "https://t.co/MFjREX4zyf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MFjREX4zyf",
+							"expanded_url": "http://www.sebdance.co.uk",
+							"display_url": "sebdance.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63470,
+			"friends_count": 5654,
+			"listed_count": 743,
+			"created_at": "Sun Jun 07 15:44:59 +0000 2009",
+			"favourites_count": 14653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762557647786745856/KDr4IAkz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762557647786745856/KDr4IAkz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/45360352/1486736571",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2280,
+		"favorite_count": 8012,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If you see a friend, neighbour, colleage who’s an EU27 citizen - say hello. Ask if they’re ok.\n\nDitto any Brits in EU27.\n\nThe last three years have been unimaginable for them and they now face even greater fear and anxiety about their futures. \n\nThey deserved better than this."
+	},
+	{
+		"created_at": "Fri Dec 13 09:57:12 +0000 2019",
+		"id": 1205426436066160600,
+		"id_str": "1205426436066160640",
+		"full_text": "Since June 2016, we've been talking about retiring to Germany. \n\nI hoped England would come to its senses before it was too late.\n\nNow, today, Friday 13th 2019, I can safely say that that's going to be happening sooner rather than later.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1557,
+			"friends_count": 1201,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Since June 2016, we've been talking about retiring to Germany. \n\nI hoped England would come to its senses before it was too late.\n\nNow, today, Friday 13th 2019, I can safely say that that's going to be happening sooner rather than later."
+	},
+	{
+		"created_at": "Fri Dec 13 09:45:44 +0000 2019",
+		"id": 1205423549365805000,
+		"id_str": "1205423549365805056",
+		"full_text": "@sheilmcn Finally some good news. Thank you Sheila and team #altc",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						60,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sheilmcn",
+					"name": "Sheila MacNeill",
+					"id": 4013641,
+					"id_str": "4013641",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1205421462259196000,
+		"in_reply_to_status_id_str": "1205421462259195905",
+		"in_reply_to_user_id": 4013641,
+		"in_reply_to_user_id_str": "4013641",
+		"in_reply_to_screen_name": "sheilmcn",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1557,
+			"friends_count": 1201,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sheilmcn Finally some good news. Thank you Sheila and team #altc"
+	},
+	{
+		"created_at": "Fri Dec 13 09:44:14 +0000 2019",
+		"id": 1205408923076964400,
+		"id_str": "1205423172335669248",
+		"full_text": "This is as close as it gets to democracy in this country. I am sorry if you are young. I am sorry if you are you are European. \nIf you are young, European or Scottish I advise getting out. \nI am in no mood to fightback. I give up.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240186025,
+			"id_str": "240186025",
+			"name": "Simon Lancaster",
+			"screen_name": "S_J_Lancaster",
+			"location": "Norwich or not",
+			"description": "He / him. Exiled European, Professor of Chemistry Education, National Teaching Fellow. Dreams #getbrexitundone",
+			"url": "https://t.co/bvNjUECd3O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bvNjUECd3O",
+							"expanded_url": "http://www.uea.ac.uk/che/people/faculty/lancasters",
+							"display_url": "uea.ac.uk/che/people/fac…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7699,
+			"friends_count": 6067,
+			"listed_count": 245,
+			"created_at": "Wed Jan 19 10:32:36 +0000 2011",
+			"favourites_count": 7858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 48843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000053679902/d95b82c56b64d2ec493fe9be630663fb_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000053679902/d95b82c56b64d2ec493fe9be630663fb_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240186025/1372342264",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 45,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "This is as close as it gets to democracy in this country. I am sorry if you are young. I am sorry if you are you are European. \nIf you are young, European or Scottish I advise getting out. \nI am in no mood to fightback. I give up."
+	},
+	{
+		"created_at": "Fri Dec 13 08:29:50 +0000 2019",
+		"id": 1205404449461678000,
+		"id_str": "1205404449461678080",
+		"full_text": "@sheilmcn NI too!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sheilmcn",
+					"name": "Sheila MacNeill",
+					"id": 4013641,
+					"id_str": "4013641",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1205386132453830700,
+		"in_reply_to_status_id_str": "1205386132453830657",
+		"in_reply_to_user_id": 4013641,
+		"in_reply_to_user_id_str": "4013641",
+		"in_reply_to_screen_name": "sheilmcn",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1557,
+			"friends_count": 1201,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sheilmcn NI too!"
+	},
+	{
+		"created_at": "Fri Dec 13 08:29:09 +0000 2019",
+		"id": 1205404278103392300,
+		"id_str": "1205404278103392258",
+		"full_text": "@kjhaxton Quite fancy moving north myself!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kjhaxton",
+					"name": "Katherine J. Haxton",
+					"id": 34229633,
+					"id_str": "34229633",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1205247891759083500,
+		"in_reply_to_status_id_str": "1205247891759083522",
+		"in_reply_to_user_id": 34229633,
+		"in_reply_to_user_id_str": "34229633",
+		"in_reply_to_screen_name": "kjhaxton",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1557,
+			"friends_count": 1201,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kjhaxton Quite fancy moving north myself!"
+	},
+	{
+		"created_at": "Fri Dec 13 08:28:16 +0000 2019",
+		"id": 1205247891759083500,
+		"id_str": "1205404053276114944",
+		"full_text": "So any academic jobs going in Scotland? #exitpoll #timetogohome",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "exitpoll",
+					"indices": [
+						40,
+						49
+					]
+				},
+				{
+					"text": "timetogohome",
+					"indices": [
+						50,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34229633,
+			"id_str": "34229633",
+			"name": "Katherine J. Haxton",
+			"screen_name": "kjhaxton",
+			"location": "UK",
+			"description": "Chemistry Education Researcher. Generally interstitial. I don't always agree with things I RT. low tolerance for thoughtlessness. she/her. normally grumpy.",
+			"url": "https://t.co/jIwE7id4UD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jIwE7id4UD",
+							"expanded_url": "http://www.kjhaxton.co.uk",
+							"display_url": "kjhaxton.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2428,
+			"friends_count": 1602,
+			"listed_count": 135,
+			"created_at": "Wed Apr 22 09:27:23 +0000 2009",
+			"favourites_count": 16979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "587480",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1190288061881561088/OYt1uF_S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190288061881561088/OYt1uF_S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34229633/1563097455",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 33,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "So any academic jobs going in Scotland? #exitpoll #timetogohome"
+	},
+	{
+		"created_at": "Fri Dec 13 08:27:46 +0000 2019",
+		"id": 1205119494412230700,
+		"id_str": "1205403929149923330",
+		"full_text": "I was horrified when a colleague emailed saying they might miss a meeting today because of this.... and then the news just keeps getting worse. \nMy thoughts are with everyone involved x\nhttps://t.co/HPhk317kC2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HPhk317kC2",
+					"expanded_url": "https://www.bbc.co.uk/news/uk-wales-50759983",
+					"display_url": "bbc.co.uk/news/uk-wales-…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2821289133,
+			"id_str": "2821289133",
+			"name": "Dr Elizabeth Evans",
+			"screen_name": "E_E_Evans",
+			"location": "the X-ray lab",
+			"description": "Teaching Tutor, Geologist. \nUses X-ray CT to study volcanic ash. \nSometime geologist poet. \nEnjoys sci comm. \nInterested in pedagogy. All views my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 341,
+			"friends_count": 436,
+			"listed_count": 16,
+			"created_at": "Fri Oct 10 16:31:49 +0000 2014",
+			"favourites_count": 7139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/526107503462199296/Mv5yEVpZ_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/526107503462199296/Mv5yEVpZ_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2821289133/1412961842",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I was horrified when a colleague emailed saying they might miss a meeting today because of this.... and then the news just keeps getting worse. \nMy thoughts are with everyone involved x\nhttps://t.co/HPhk317kC2"
+	},
+	{
+		"created_at": "Fri Dec 13 08:27:30 +0000 2019",
+		"id": 1205370720567668700,
+		"id_str": "1205403859931344896",
+		"full_text": "Woke up to a nightmare...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34362372,
+			"id_str": "34362372",
+			"name": "Chrissi Nerantzi 🇬🇷🇪🇺🐝🇬🇧",
+			"screen_name": "chrissinerantzi",
+			"location": "United Kingdom",
+			"description": "NTF, PFHEA, SFSEDA, CMALT, #go_gn alumni, ideas: @tlcwebinars @openfdol Greenhouse @byod4l @lthechat @fos4l #creativeHE #MAKEatGROW, picture book writer&crafter",
+			"url": "https://t.co/5tgD2H2gzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5tgD2H2gzC",
+							"expanded_url": "https://chrissinerantzi.wordpress.com/",
+							"display_url": "chrissinerantzi.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3737,
+			"friends_count": 2642,
+			"listed_count": 224,
+			"created_at": "Wed Apr 22 19:02:04 +0000 2009",
+			"favourites_count": 15881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/885916403093647361/edF1tgAb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/885916403093647361/edF1tgAb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34362372/1398468414",
+			"profile_link_color": "C0C4DB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Woke up to a nightmare..."
+	},
+	{
+		"created_at": "Fri Dec 13 08:26:43 +0000 2019",
+		"id": 1205403665634332700,
+		"id_str": "1205403665634332672",
+		"full_text": "WTF? https://t.co/zMBpw3Ycq1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205403657975541800,
+					"id_str": "1205403657975541766",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELp0PYyWsAY0o6h.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELp0PYyWsAY0o6h.jpg",
+					"url": "https://t.co/zMBpw3Ycq1",
+					"display_url": "pic.twitter.com/zMBpw3Ycq1",
+					"expanded_url": "https://twitter.com/cpjobling/status/1205403665634332672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 484,
+							"h": 332,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 332,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 484,
+							"h": 332,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205403657975541800,
+					"id_str": "1205403657975541766",
+					"indices": [
+						5,
+						28
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELp0PYyWsAY0o6h.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELp0PYyWsAY0o6h.jpg",
+					"url": "https://t.co/zMBpw3Ycq1",
+					"display_url": "pic.twitter.com/zMBpw3Ycq1",
+					"expanded_url": "https://twitter.com/cpjobling/status/1205403665634332672/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 484,
+							"h": 332,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 332,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 484,
+							"h": 332,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							121,
+							83
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ELp0PYyWsAY0o6h.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1557,
+			"friends_count": 1201,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "WTF? https://t.co/zMBpw3Ycq1"
+	},
+	{
+		"created_at": "Fri Dec 13 08:22:26 +0000 2019",
+		"id": 1205395118347473000,
+		"id_str": "1205402587031318528",
+		"full_text": "Just checking out the election results (gif shows white cat knocking various things off a table w/captions including 'fuck this, fuck that, fuck this thing in particular') https://t.co/rQf3Vj24Yv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205395100098056200,
+					"id_str": "1205395100098056193",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELpsdQNXUAEUlMx.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELpsdQNXUAEUlMx.jpg",
+					"url": "https://t.co/rQf3Vj24Yv",
+					"display_url": "pic.twitter.com/rQf3Vj24Yv",
+					"expanded_url": "https://twitter.com/EmmaKEdDev/status/1205395118347472896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 260,
+							"h": 230,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 260,
+							"h": 230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 260,
+							"h": 230,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205395100098056200,
+					"id_str": "1205395100098056193",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELpsdQNXUAEUlMx.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELpsdQNXUAEUlMx.jpg",
+					"url": "https://t.co/rQf3Vj24Yv",
+					"display_url": "pic.twitter.com/rQf3Vj24Yv",
+					"expanded_url": "https://twitter.com/EmmaKEdDev/status/1205395118347472896/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 260,
+							"h": 230,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 260,
+							"h": 230,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 260,
+							"h": 230,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							26,
+							23
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ELpsdQNXUAEUlMx.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 88682676,
+			"id_str": "88682676",
+			"name": "Dr Emma Kennedy",
+			"screen_name": "EmmaKEdDev",
+			"location": "London, England",
+			"description": "Educational Development, learning & teaching in HE. SFHEA. PhD, 2014: London Lord Mayors' Shows 1614-19. Views my own. Swears. She/her. (Banner: @robin__craig)",
+			"url": "https://t.co/88cvFoABmp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/88cvFoABmp",
+							"expanded_url": "http://highereducationalist.wordpress.com",
+							"display_url": "highereducationalist.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4501,
+			"friends_count": 3596,
+			"listed_count": 85,
+			"created_at": "Mon Nov 09 15:05:25 +0000 2009",
+			"favourites_count": 25991,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1179685281332649985/PeuV_kEA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179685281332649985/PeuV_kEA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/88682676/1574693971",
+			"profile_link_color": "19811F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just checking out the election results (gif shows white cat knocking various things off a table w/captions including 'fuck this, fuck that, fuck this thing in particular') https://t.co/rQf3Vj24Yv"
+	},
+	{
+		"created_at": "Fri Dec 13 08:04:20 +0000 2019",
+		"id": 1205398029760630800,
+		"id_str": "1205398029760630789",
+		"full_text": "Read the Dec 13 Newsletter curated by my PLN featuring “UK news push alerts skew negative on Labour and…” https://t.co/gXM1VeOBsG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gXM1VeOBsG",
+					"expanded_url": "https://nzzl.us/M8QpCmz",
+					"display_url": "nzzl.us/M8QpCmz",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1557,
+			"friends_count": 1201,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Dec 13 Newsletter curated by my PLN featuring “UK news push alerts skew negative on Labour and…” https://t.co/gXM1VeOBsG"
+	},
+	{
 		"created_at": "Fri Dec 13 00:48:25 +0000 2019",
 		"id": 1205288329429864400,
 		"id_str": "1205288329429864448",
