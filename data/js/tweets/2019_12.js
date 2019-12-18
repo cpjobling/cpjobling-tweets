@@ -1,6 +1,403 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 17 08:30:12 +0000 2019",
+		"id": 1206722137433759700,
+		"id_str": "1206854090384392192",
+		"full_text": "#LTHEchat 162: 'Playful Learning Technologies'; with Katie Piatt @katiepiatt facilitated by Rachelle O'Brien @rachelleebrien https://t.co/Tw2E9KuLKv https://t.co/fXSXdkgcTt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "katiepiatt",
+					"name": "Katie Piatt",
+					"id": 14253309,
+					"id_str": "14253309",
+					"indices": [
+						65,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Tw2E9KuLKv",
+					"expanded_url": "http://lthechat.com/2019/12/17/lthechat-162-playful-learning-technologies-with-katie-piatt-katiepiatt-facilitated-by-rachelle-obrien-rachelleebrien/",
+					"display_url": "lthechat.com/2019/12/17/lth…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1206722135982563300,
+					"id_str": "1206722135982563328",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EL8jY6HXYAAI9oW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL8jY6HXYAAI9oW.jpg",
+					"url": "https://t.co/fXSXdkgcTt",
+					"display_url": "pic.twitter.com/fXSXdkgcTt",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1206722137433759753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 51,
+									"y": 63,
+									"h": 286,
+									"w": 286
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 51,
+									"y": 63,
+									"h": 286,
+									"w": 286
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 51,
+									"y": 63,
+									"h": 286,
+									"w": 286
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 51,
+									"y": 63,
+									"h": 286,
+									"w": 286
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1206722135982563300,
+					"id_str": "1206722135982563328",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EL8jY6HXYAAI9oW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EL8jY6HXYAAI9oW.jpg",
+					"url": "https://t.co/fXSXdkgcTt",
+					"display_url": "pic.twitter.com/fXSXdkgcTt",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1206722137433759753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 51,
+									"y": 63,
+									"h": 286,
+									"w": 286
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 51,
+									"y": 63,
+									"h": 286,
+									"w": 286
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 51,
+									"y": 63,
+									"h": 286,
+									"w": 286
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 51,
+									"y": 63,
+									"h": 286,
+									"w": 286
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6636,
+			"friends_count": 3148,
+			"listed_count": 149,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 3196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LTHEchat 162: 'Playful Learning Technologies'; with Katie Piatt @katiepiatt facilitated by Rachelle O'Brien @rachelleebrien https://t.co/Tw2E9KuLKv https://t.co/fXSXdkgcTt"
+	},
+	{
+		"created_at": "Tue Dec 17 08:04:35 +0000 2019",
+		"id": 1206847644137611300,
+		"id_str": "1206847644137611264",
+		"full_text": "Read my Dec 17 'swan-uni-staff' Newsletter featuring “Fall in rape convictions 'due to justice system at…” https://t.co/CT5sorVHEp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CT5sorVHEp",
+					"expanded_url": "https://nzzl.us/M6GblU9",
+					"display_url": "nzzl.us/M6GblU9",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1557,
+			"friends_count": 1202,
+			"listed_count": 125,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Dec 17 'swan-uni-staff' Newsletter featuring “Fall in rape convictions 'due to justice system at…” https://t.co/CT5sorVHEp"
+	},
+	{
 		"created_at": "Mon Dec 16 10:33:04 +0000 2019",
 		"id": 1206522626597884000,
 		"id_str": "1206522626597883904",
