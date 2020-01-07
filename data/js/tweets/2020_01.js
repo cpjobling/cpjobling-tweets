@@ -1,6 +1,419 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 06 18:55:46 +0000 2020",
+		"id": 1213754579881537500,
+		"id_str": "1214259279882080261",
+		"full_text": "Make your teaching sparkle in 2020. \n\nFind out how to make (and keep) a digital education resolution at our New Year Lecture w @sheilmcn on 8 Jan. \n\nhttps://t.co/vrEwYQJphr #InspiringLearning #LTAresolutions https://t.co/9exRHkuzzO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InspiringLearning",
+					"indices": [
+						173,
+						191
+					]
+				},
+				{
+					"text": "LTAresolutions",
+					"indices": [
+						192,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sheilmcn",
+					"name": "Sheila MacNeill",
+					"id": 4013641,
+					"id_str": "4013641",
+					"indices": [
+						127,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vrEwYQJphr",
+					"expanded_url": "http://www.lta.hw.ac.uk/events",
+					"display_url": "lta.hw.ac.uk/events",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1213754577046122500,
+					"id_str": "1213754577046122497",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/ENgfW2lWsAEvov9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENgfW2lWsAEvov9.jpg",
+					"url": "https://t.co/9exRHkuzzO",
+					"display_url": "pic.twitter.com/9exRHkuzzO",
+					"expanded_url": "https://twitter.com/LTA_HWU/status/1213754579881537537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213754577046122500,
+					"id_str": "1213754577046122497",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/ENgfW2lWsAEvov9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENgfW2lWsAEvov9.jpg",
+					"url": "https://t.co/9exRHkuzzO",
+					"display_url": "pic.twitter.com/9exRHkuzzO",
+					"expanded_url": "https://twitter.com/LTA_HWU/status/1213754579881537537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1213754577234923500,
+					"id_str": "1213754577234923521",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/ENgfW3SXkAE2PyR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENgfW3SXkAE2PyR.jpg",
+					"url": "https://t.co/9exRHkuzzO",
+					"display_url": "pic.twitter.com/9exRHkuzzO",
+					"expanded_url": "https://twitter.com/LTA_HWU/status/1213754579881537537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1083,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 260,
+									"y": 7,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 260,
+									"y": 7,
+									"h": 166,
+									"w": 166
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 162,
+									"y": 4,
+									"h": 103,
+									"w": 103
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 92,
+									"y": 2,
+									"h": 58,
+									"w": 58
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1154336330446442500,
+			"id_str": "1154336330446442496",
+			"name": "HWU Learning & Teaching Academy",
+			"screen_name": "LTA_HWU",
+			"location": "",
+			"description": "The Twitter home of @HeriotWattUni's Learning & Teaching Academy.  Follow us to hear about upcoming events and to join the discussion about #InspiringLearning.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 219,
+			"friends_count": 102,
+			"listed_count": 1,
+			"created_at": "Thu Jul 25 10:23:22 +0000 2019",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154342573772812289/z1royXjE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154342573772812289/z1royXjE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1154336330446442496/1564151758",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Make your teaching sparkle in 2020. \n\nFind out how to make (and keep) a digital education resolution at our New Year Lecture w @sheilmcn on 8 Jan. \n\nhttps://t.co/vrEwYQJphr #InspiringLearning #LTAresolutions https://t.co/9exRHkuzzO"
+	},
+	{
+		"created_at": "Mon Jan 06 08:04:14 +0000 2020",
+		"id": 1214095315101536300,
+		"id_str": "1214095315101536256",
+		"full_text": "Read the Jan 6 Newsletter curated by my PLN featuring “Fresh Cambridge Analytica leak 'shows global…” https://t.co/b5DW9BZDt8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b5DW9BZDt8",
+					"expanded_url": "https://nzzl.us/gRIrkgs",
+					"display_url": "nzzl.us/gRIrkgs",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1559,
+			"friends_count": 1204,
+			"listed_count": 125,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Jan 6 Newsletter curated by my PLN featuring “Fresh Cambridge Analytica leak 'shows global…” https://t.co/b5DW9BZDt8"
+	},
+	{
 		"created_at": "Sun Jan 05 08:03:09 +0000 2020",
 		"id": 1213732654551580700,
 		"id_str": "1213732654551580672",
