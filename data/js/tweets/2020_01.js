@@ -1,6 +1,804 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 14 18:26:45 +0000 2020",
+		"id": 1216820985631998000,
+		"id_str": "1217151079282102273",
+		"full_text": "This is my first #LTHEchat... I'm really excited about the opportunity to share ideas with you all! And if any other experienced LTHEchatters (?) have a top tip for me please let me know... https://t.co/TNxwCAvgAR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						17,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TNxwCAvgAR",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1216652484669771777",
+					"display_url": "twitter.com/LTHEchat/statu…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4453546894,
+			"id_str": "4453546894",
+			"name": "Iain Cross",
+			"screen_name": "iain_d_cross",
+			"location": "Richmond, London",
+			"description": "Associate Dean for Learning and Teaching, Centre for Teaching Excellence and Student Success at St Mary's University, Twickenham. Personal tweets.",
+			"url": "https://t.co/TUnXEkY66p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TUnXEkY66p",
+							"expanded_url": "http://www.stmarys.ac.uk",
+							"display_url": "stmarys.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168,
+			"friends_count": 311,
+			"listed_count": 2,
+			"created_at": "Fri Dec 11 23:46:31 +0000 2015",
+			"favourites_count": 228,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675758381399982080/OgplUEha_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675758381399982080/OgplUEha_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4453546894/1449948127",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1216652484669771800,
+		"quoted_status_id_str": "1216652484669771777",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TNxwCAvgAR",
+			"expanded": "https://twitter.com/LTHEchat/status/1216652484669771777",
+			"display": "twitter.com/LTHEchat/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 13 09:25:31 +0000 2020",
+			"id": 1216652484669771800,
+			"id_str": "1216652484669771777",
+			"full_text": "Join us for this week’s #LTHEchat which will explore ‘Curriculum Frameworks in Higher Education’ with @AdamL50 \n and @iain_d_cross Wednesday 8-9pm. Read the blog post at https://t.co/qeoLIgmLRs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				193
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTHEchat",
+						"indices": [
+							24,
+							33
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AdamL50",
+						"name": "Dr Adam Longcroft",
+						"id": 774156669701935100,
+						"id_str": "774156669701935104",
+						"indices": [
+							102,
+							110
+						]
+					},
+					{
+						"screen_name": "iain_d_cross",
+						"name": "Iain Cross",
+						"id": 4453546894,
+						"id_str": "4453546894",
+						"indices": [
+							117,
+							130
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qeoLIgmLRs",
+						"expanded_url": "http://lthechat.com",
+						"display_url": "lthechat.com",
+						"indices": [
+							170,
+							193
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2659221798,
+				"id_str": "2659221798",
+				"name": "LTHE Tweetchat",
+				"screen_name": "LTHEchat",
+				"location": "",
+				"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+				"url": "https://t.co/IprE39BVnA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IprE39BVnA",
+								"expanded_url": "http://lthechat.com",
+								"display_url": "lthechat.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6669,
+				"friends_count": 3147,
+				"listed_count": 151,
+				"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+				"favourites_count": 3207,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8154,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+				"profile_link_color": "7ECAE6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is my first #LTHEchat... I'm really excited about the opportunity to share ideas with you all! And if any other experienced LTHEchatters (?) have a top tip for me please let me know... https://t.co/TNxwCAvgAR"
+	},
+	{
+		"created_at": "Tue Jan 14 18:26:16 +0000 2020",
+		"id": 1216853578758881300,
+		"id_str": "1217150959316602881",
+		"full_text": "University of Sunderland has developed an Integrated Curriculum Design Framework which includes principles of Universal Design for Learning (UDL).https://t.co/CK3vC9Xrl8 https://t.co/ZqxluupGcs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CK3vC9Xrl8",
+					"expanded_url": "https://my.sunderland.ac.uk/download/attachments/104855931/UoS%20Curriculum%20Model%20i-design%20v1.1.pdf?version=2&modificationDate=1553701788000&api=v2",
+					"display_url": "my.sunderland.ac.uk/download/attac…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1216853573973180400,
+					"id_str": "1216853573973180421",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EOMh4NxWAAU6LHx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOMh4NxWAAU6LHx.jpg",
+					"url": "https://t.co/ZqxluupGcs",
+					"display_url": "pic.twitter.com/ZqxluupGcs",
+					"expanded_url": "https://twitter.com/AdamL50/status/1216853578758881280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216853573973180400,
+					"id_str": "1216853573973180421",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EOMh4NxWAAU6LHx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOMh4NxWAAU6LHx.jpg",
+					"url": "https://t.co/ZqxluupGcs",
+					"display_url": "pic.twitter.com/ZqxluupGcs",
+					"expanded_url": "https://twitter.com/AdamL50/status/1216853578758881280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 774156669701935100,
+			"id_str": "774156669701935104",
+			"name": "Dr Adam Longcroft",
+			"screen_name": "AdamL50",
+			"location": "St Mary’s University, Twickenham",
+			"description": "Adam Longcroft is Dean of Learning and Teaching at St Mary’s University, Twickenham. All views expressed are my own and not those of the University.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 848,
+			"friends_count": 1511,
+			"listed_count": 12,
+			"created_at": "Fri Sep 09 08:05:08 +0000 2016",
+			"favourites_count": 1323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1178922725294972928/6ulLyXaE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178922725294972928/6ulLyXaE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/774156669701935104/1569912057",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "University of Sunderland has developed an Integrated Curriculum Design Framework which includes principles of Universal Design for Learning (UDL).https://t.co/CK3vC9Xrl8 https://t.co/ZqxluupGcs"
+	},
+	{
+		"created_at": "Tue Jan 14 17:39:54 +0000 2020",
+		"id": 1216804607445225500,
+		"id_str": "1217139287982006272",
+		"full_text": "🎉 2020 marks our centenary year! \n\nThroughout this year, we'll be celebrating our legacy and looking ahead to our future. \n\n👉 https://t.co/ANoXQ0I0GG \n\n#Swansea2020 https://t.co/i79qFMgpkt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Swansea2020",
+					"indices": [
+						152,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ANoXQ0I0GG",
+					"expanded_url": "http://bit.ly/SUCentenary",
+					"display_url": "bit.ly/SUCentenary",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1216764647216418800,
+					"id_str": "1216764647216418816",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1216764647216418816/img/BANbpT76dWEcU9SF.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1216764647216418816/img/BANbpT76dWEcU9SF.jpg",
+					"url": "https://t.co/i79qFMgpkt",
+					"display_url": "pic.twitter.com/i79qFMgpkt",
+					"expanded_url": "https://twitter.com/SwanseaUni/status/1216804607445225472/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216764647216418800,
+					"id_str": "1216764647216418816",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1216764647216418816/img/BANbpT76dWEcU9SF.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1216764647216418816/img/BANbpT76dWEcU9SF.jpg",
+					"url": "https://t.co/i79qFMgpkt",
+					"display_url": "pic.twitter.com/i79qFMgpkt",
+					"expanded_url": "https://twitter.com/SwanseaUni/status/1216804607445225472/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 79000,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1216764647216418816/vid/480x270/0QUFsU97SvedRskg.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1216764647216418816/pl/mGOcrailShN1noYg.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1216764647216418816/vid/1280x720/LWZKtKl-xBVGxDc_.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1216764647216418816/vid/640x360/K2qJKCWhUVb3F7l3.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 62489200,
+			"id_str": "62489200",
+			"name": "Swansea University",
+			"screen_name": "SwanseaUni",
+			"location": "Swansea, UK",
+			"description": "Making waves since 1920 • UK top 30 university • World-class research • Superb student experience • Two glorious beachfront campuses • #SwanseaUni •",
+			"url": "https://t.co/INy59Adp5Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/INy59Adp5Y",
+							"expanded_url": "https://www.swansea.ac.uk",
+							"display_url": "swansea.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46821,
+			"friends_count": 2145,
+			"listed_count": 470,
+			"created_at": "Mon Aug 03 10:58:42 +0000 2009",
+			"favourites_count": 13414,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101424889657987072/C_HpcBg0_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101424889657987072/C_HpcBg0_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/62489200/1566560309",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 95,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎉 2020 marks our centenary year! \n\nThroughout this year, we'll be celebrating our legacy and looking ahead to our future. \n\n👉 https://t.co/ANoXQ0I0GG \n\n#Swansea2020 https://t.co/i79qFMgpkt"
+	},
+	{
+		"created_at": "Tue Jan 14 08:03:46 +0000 2020",
+		"id": 1216994298358648800,
+		"id_str": "1216994298358648832",
+		"full_text": "Read my Jan 14 'swan-uni-staff' Newsletter featuring “Commuting and wellbeing: a critical overview of the…” https://t.co/2qkhIhBEm0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2qkhIhBEm0",
+					"expanded_url": "https://nzzl.us/v5Fw11Q",
+					"display_url": "nzzl.us/v5Fw11Q",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1562,
+			"friends_count": 1206,
+			"listed_count": 125,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Jan 14 'swan-uni-staff' Newsletter featuring “Commuting and wellbeing: a critical overview of the…” https://t.co/2qkhIhBEm0"
+	},
+	{
 		"created_at": "Mon Jan 13 08:03:49 +0000 2020",
 		"id": 1216631926230044700,
 		"id_str": "1216631926230044672",
