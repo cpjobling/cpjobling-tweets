@@ -1,6 +1,1801 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 24 17:11:23 +0000 2020",
+		"id": 1220738773937545200,
+		"id_str": "1220755990943092736",
+		"full_text": "We do very much appreciate all the expertise and support our assessors and mentors give to the SAR programme.  \n\nWe know its great CPD/CPL for you too in reviewing applications.\n\n#susalthea https://t.co/Z6yj6YZd7M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "susalthea",
+					"indices": [
+						179,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z6yj6YZd7M",
+					"expanded_url": "https://twitter.com/LJ_Rees/status/1220737541973970944",
+					"display_url": "twitter.com/LJ_Rees/status…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2587806050,
+			"id_str": "2587806050",
+			"name": "SUSALT",
+			"screen_name": "susaltteam",
+			"location": "",
+			"description": "Twitter account for the Swansea Academy for Learning and Teaching (SALT Team)",
+			"url": "https://t.co/BJONKjXOW7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BJONKjXOW7",
+							"expanded_url": "https://salt.swan.ac.uk/",
+							"display_url": "salt.swan.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 614,
+			"friends_count": 109,
+			"listed_count": 22,
+			"created_at": "Wed Jun 25 16:23:37 +0000 2014",
+			"favourites_count": 274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/618376385955000320/ddaWT38u_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/618376385955000320/ddaWT38u_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2587806050/1436266879",
+			"profile_link_color": "62397B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1220737541973971000,
+		"quoted_status_id_str": "1220737541973970944",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z6yj6YZd7M",
+			"expanded": "https://twitter.com/LJ_Rees/status/1220737541973970944",
+			"display": "twitter.com/LJ_Rees/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 24 15:58:04 +0000 2020",
+			"id": 1220737541973971000,
+			"id_str": "1220737541973970944",
+			"full_text": "Mentoring and Assessing #HEAFellowship applicants/applications is often an activity that is under-recognised. \n\nWe strove to address that today with caffeine &amp; cakes.  Great chat, networking and CPD!\n\nIf you couldn't attend today, watch your mail.\n@philippaprice https://t.co/cnIUqbe9aT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HEAFellowship",
+						"indices": [
+							24,
+							38
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "philippaprice",
+						"name": "Philippa",
+						"id": 154578054,
+						"id_str": "154578054",
+						"indices": [
+							252,
+							266
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1220737033028673500,
+						"id_str": "1220737033028673539",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/EPDt3SHWoAMxH9K.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPDt3SHWoAMxH9K.jpg",
+						"url": "https://t.co/cnIUqbe9aT",
+						"display_url": "pic.twitter.com/cnIUqbe9aT",
+						"expanded_url": "https://twitter.com/LJ_Rees/status/1220737541973970944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1220737033028673500,
+						"id_str": "1220737033028673539",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/EPDt3SHWoAMxH9K.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPDt3SHWoAMxH9K.jpg",
+						"url": "https://t.co/cnIUqbe9aT",
+						"display_url": "pic.twitter.com/cnIUqbe9aT",
+						"expanded_url": "https://twitter.com/LJ_Rees/status/1220737541973970944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 1220737033024548900,
+						"id_str": "1220737033024548865",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/EPDt3SGXsAEwgI8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPDt3SGXsAEwgI8.jpg",
+						"url": "https://t.co/cnIUqbe9aT",
+						"display_url": "pic.twitter.com/cnIUqbe9aT",
+						"expanded_url": "https://twitter.com/LJ_Rees/status/1220737541973970944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 1220737033032872000,
+						"id_str": "1220737033032871937",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/EPDt3SIWsAE8IkR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPDt3SIWsAE8IkR.jpg",
+						"url": "https://t.co/cnIUqbe9aT",
+						"display_url": "pic.twitter.com/cnIUqbe9aT",
+						"expanded_url": "https://twitter.com/LJ_Rees/status/1220737541973970944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 718,
+										"y": 340,
+										"h": 84,
+										"w": 84
+									},
+									{
+										"x": 942,
+										"y": 221,
+										"h": 140,
+										"w": 140
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 2490,
+										"y": 1182,
+										"h": 292,
+										"w": 292
+									},
+									{
+										"x": 3266,
+										"y": 767,
+										"h": 487,
+										"w": 487
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1225,
+										"y": 581,
+										"h": 143,
+										"w": 143
+									},
+									{
+										"x": 1607,
+										"y": 377,
+										"h": 239,
+										"w": 239
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 407,
+										"y": 193,
+										"h": 47,
+										"w": 47
+									},
+									{
+										"x": 533,
+										"y": 125,
+										"h": 79,
+										"w": 79
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1220737033066381300,
+						"id_str": "1220737033066381312",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/EPDt3SQWAAAXRNj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPDt3SQWAAAXRNj.jpg",
+						"url": "https://t.co/cnIUqbe9aT",
+						"display_url": "pic.twitter.com/cnIUqbe9aT",
+						"expanded_url": "https://twitter.com/LJ_Rees/status/1220737541973970944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 272,
+										"y": 576,
+										"h": 203,
+										"w": 203
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 44,
+										"y": 94,
+										"h": 33,
+										"w": 33
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 78,
+										"y": 166,
+										"h": 58,
+										"w": 58
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 133,
+										"y": 283,
+										"h": 99,
+										"w": 99
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 723537068178190300,
+				"id_str": "723537068178190336",
+				"name": "Louise Rees",
+				"screen_name": "LJ_Rees",
+				"location": "Wales, United Kingdom",
+				"description": "Senior Academic Developer. FHEA; COLF. Promoting excellent teaching & #CPD in all its forms, #HEAFellowship, #UKPSF, #RIGS, #coachingHE, #susalthea, #FFWF",
+				"url": "https://t.co/v5ci3Nr9Ha",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/v5ci3Nr9Ha",
+								"expanded_url": "https://salt.swan.ac.uk",
+								"display_url": "salt.swan.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 467,
+				"friends_count": 307,
+				"listed_count": 20,
+				"created_at": "Fri Apr 22 15:40:54 +0000 2016",
+				"favourites_count": 1792,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2492,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1118500649073876994/NZSXfhv8_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118500649073876994/NZSXfhv8_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/723537068178190336/1505547219",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We do very much appreciate all the expertise and support our assessors and mentors give to the SAR programme.  \n\nWe know its great CPD/CPL for you too in reviewing applications.\n\n#susalthea https://t.co/Z6yj6YZd7M"
+	},
+	{
+		"created_at": "Fri Jan 24 17:07:23 +0000 2020",
+		"id": 1220353833857056800,
+		"id_str": "1220754985257984033",
+		"full_text": "As often as I say, “start by trusting students,” educational institutions also need to start by trusting teachers.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11702102,
+			"id_str": "11702102",
+			"name": "Jesse Stommel",
+			"screen_name": "Jessifer",
+			"location": "Washington, DC",
+			"description": "Irascibly optimistic. Education, critical digital pedagogy, documentary film. One of Hazel’s dads. Founder @hybridped @digpedlab. Author https://t.co/R92CXp9X00",
+			"url": "https://t.co/c8xuFSGzJr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c8xuFSGzJr",
+							"expanded_url": "http://www.jessestommel.com",
+							"display_url": "jessestommel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/R92CXp9X00",
+							"expanded_url": "http://urgencyofteachers.com",
+							"display_url": "urgencyofteachers.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 25746,
+			"friends_count": 7726,
+			"listed_count": 964,
+			"created_at": "Mon Dec 31 23:47:46 +0000 2007",
+			"favourites_count": 60336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43864,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191742596219113472/Pe9EC9Ne_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191742596219113472/Pe9EC9Ne_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11702102/1495459386",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 348,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "As often as I say, “start by trusting students,” educational institutions also need to start by trusting teachers."
+	},
+	{
+		"created_at": "Fri Jan 24 17:06:45 +0000 2020",
+		"id": 1220733403882041300,
+		"id_str": "1220754824528121856",
+		"full_text": "@Swansea2020 @cpjobling @LTHEchat Judging from their Wikipedia entries, Florence Mockeridge and Mary Williams were both terrific role models for their students…\n\nhttps://t.co/dJKvoYPqR6\nhttps://t.co/0t2Q7kA2wQ\n\n#Swansea2020",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Swansea2020",
+					"indices": [
+						211,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Swansea2020",
+					"name": "SwanseaUni Centenary",
+					"id": 793796225292243000,
+					"id_str": "793796225292242944",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "cpjobling",
+					"name": "Chris Jobling",
+					"id": 4229341,
+					"id_str": "4229341",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						24,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dJKvoYPqR6",
+					"expanded_url": "https://en.m.wikipedia.org/wiki/Florence_Annie_Mockeridge",
+					"display_url": "en.m.wikipedia.org/wiki/Florence_…",
+					"indices": [
+						162,
+						185
+					]
+				},
+				{
+					"url": "https://t.co/0t2Q7kA2wQ",
+					"expanded_url": "https://en.m.wikipedia.org/wiki/Mary_Williams_(professor)",
+					"display_url": "en.m.wikipedia.org/wiki/Mary_Will…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1220442950653698000,
+		"in_reply_to_status_id_str": "1220442950653698061",
+		"in_reply_to_user_id": 793796225292243000,
+		"in_reply_to_user_id_str": "793796225292242944",
+		"in_reply_to_screen_name": "Swansea2020",
+		"user": {
+			"id": 48292696,
+			"id_str": "48292696",
+			"name": "🇪🇺 Simon Rae … Have ✏️ will ✍️",
+			"screen_name": "simonrae",
+			"location": "Milton Keynes",
+			"description": "retired Lecturer in Professional Development now doing cartoons doodles and drawings for pleasure… also holder of a #LTHEchat Golden Tweeter Award",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 997,
+			"friends_count": 870,
+			"listed_count": 61,
+			"created_at": "Thu Jun 18 08:46:23 +0000 2009",
+			"favourites_count": 3685,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDF0E7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/616003602117750785/qKNwKfJN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/616003602117750785/qKNwKfJN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48292696/1484765473",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "072430",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Swansea2020 @cpjobling @LTHEchat Judging from their Wikipedia entries, Florence Mockeridge and Mary Williams were both terrific role models for their students…\n\nhttps://t.co/dJKvoYPqR6\nhttps://t.co/0t2Q7kA2wQ\n\n#Swansea2020"
+	},
+	{
+		"created_at": "Fri Jan 24 11:15:28 +0000 2020",
+		"id": 1220440801127342000,
+		"id_str": "1220666422667501568",
+		"full_text": "@Swansea2020 @cpjobling @LTHEchat OK, sorry to hog your attention…\n\nbut for those 8 women students, how many women members of teaching staff were there? And if not in 1920, when was the first woman appointed to the teaching staff?\n\nHas there been any follow-up on how those 8 got on?\n\n#Swansea2020",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			297
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Swansea2020",
+					"indices": [
+						285,
+						297
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Swansea2020",
+					"name": "SwanseaUni Centenary",
+					"id": 793796225292243000,
+					"id_str": "793796225292242944",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "cpjobling",
+					"name": "Chris Jobling",
+					"id": 4229341,
+					"id_str": "4229341",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						24,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1220385428940959700,
+		"in_reply_to_status_id_str": "1220385428940959746",
+		"in_reply_to_user_id": 793796225292243000,
+		"in_reply_to_user_id_str": "793796225292242944",
+		"in_reply_to_screen_name": "Swansea2020",
+		"user": {
+			"id": 48292696,
+			"id_str": "48292696",
+			"name": "🇪🇺 Simon Rae … Have ✏️ will ✍️",
+			"screen_name": "simonrae",
+			"location": "Milton Keynes",
+			"description": "retired Lecturer in Professional Development now doing cartoons doodles and drawings for pleasure… also holder of a #LTHEchat Golden Tweeter Award",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 997,
+			"friends_count": 870,
+			"listed_count": 61,
+			"created_at": "Thu Jun 18 08:46:23 +0000 2009",
+			"favourites_count": 3685,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDF0E7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/616003602117750785/qKNwKfJN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/616003602117750785/qKNwKfJN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48292696/1484765473",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "072430",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@Swansea2020 @cpjobling @LTHEchat OK, sorry to hog your attention…\n\nbut for those 8 women students, how many women members of teaching staff were there? And if not in 1920, when was the first woman appointed to the teaching staff?\n\nHas there been any follow-up on how those 8 got on?\n\n#Swansea2020"
+	},
+	{
+		"created_at": "Fri Jan 24 10:46:04 +0000 2020",
+		"id": 1220659024158449700,
+		"id_str": "1220659024158449664",
+		"full_text": "Pretty sure that most Academics share that view while spending hundreds of man hours reflecting on and worrying about the results! https://t.co/uTL78jLJ3s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uTL78jLJ3s",
+					"expanded_url": "https://twitter.com/profsallybrown/status/1220301479065608193",
+					"display_url": "twitter.com/profsallybrown…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1564,
+			"friends_count": 1208,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1220301479065608200,
+		"quoted_status_id_str": "1220301479065608193",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uTL78jLJ3s",
+			"expanded": "https://twitter.com/profsallybrown/status/1220301479065608193",
+			"display": "twitter.com/profsallybrown…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 23 11:05:19 +0000 2020",
+			"id": 1220301479065608200,
+			"id_str": "1220301479065608193",
+			"full_text": "Scary headline for me today from @AdvanceHE student governors event small group discussions “Students don’t give a sh!t about NSS, or TEF for that matter”!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				155
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AdvanceHE",
+						"name": "Advance HE",
+						"id": 941587234465177600,
+						"id_str": "941587234465177600",
+						"indices": [
+							33,
+							43
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1561332966,
+				"id_str": "1561332966",
+				"name": "Sally Brown",
+				"screen_name": "ProfSallyBrown",
+				"location": "",
+				"description": "I am a UK-based Independent consultant and visiting professor with expertise in teaching,learning and assesment at HE level",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4816,
+				"friends_count": 1188,
+				"listed_count": 99,
+				"created_at": "Mon Jul 01 20:01:00 +0000 2013",
+				"favourites_count": 24126,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 27186,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/969244225689833473/_S2XNjmi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/969244225689833473/_S2XNjmi_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 58,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pretty sure that most Academics share that view while spending hundreds of man hours reflecting on and worrying about the results! https://t.co/uTL78jLJ3s"
+	},
+	{
+		"created_at": "Fri Jan 24 10:42:59 +0000 2020",
+		"id": 1220658249155981300,
+		"id_str": "1220658249155981312",
+		"full_text": "Discovered via the Remaics Podcast: https://t.co/epmy11SWFt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/epmy11SWFt",
+					"expanded_url": "https://blogs.lse.ac.uk/brexit/",
+					"display_url": "blogs.lse.ac.uk/brexit/",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1564,
+			"friends_count": 1208,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Discovered via the Remaics Podcast: https://t.co/epmy11SWFt"
+	},
+	{
+		"created_at": "Fri Jan 24 10:36:52 +0000 2020",
+		"id": 1220656706948157400,
+		"id_str": "1220656706948157440",
+		"full_text": "@Swansea2020 @simonrae @LTHEchat Fascinating stuff. Can’t wait for the book! #swansea2020 #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "swansea2020",
+					"indices": [
+						77,
+						89
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						90,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Swansea2020",
+					"name": "SwanseaUni Centenary",
+					"id": 793796225292243000,
+					"id_str": "793796225292242944",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "simonrae",
+					"name": "🇪🇺 Simon Rae … Have ✏️ will ✍️",
+					"id": 48292696,
+					"id_str": "48292696",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						23,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1220442950653698000,
+		"in_reply_to_status_id_str": "1220442950653698061",
+		"in_reply_to_user_id": 793796225292243000,
+		"in_reply_to_user_id_str": "793796225292242944",
+		"in_reply_to_screen_name": "Swansea2020",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1564,
+			"friends_count": 1208,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Swansea2020 @simonrae @LTHEchat Fascinating stuff. Can’t wait for the book! #swansea2020 #LTHEChat"
+	},
+	{
+		"created_at": "Fri Jan 24 10:31:25 +0000 2020",
+		"id": 1220655337264558000,
+		"id_str": "1220655337264558083",
+		"full_text": "@Swansea2020 @simonrae @LTHEchat Thanks both. I need to update my blog post on @swansea2020 and Twitter: https://t.co/QyaKopoDRC #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						129,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Swansea2020",
+					"name": "SwanseaUni Centenary",
+					"id": 793796225292243000,
+					"id_str": "793796225292242944",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "simonrae",
+					"name": "🇪🇺 Simon Rae … Have ✏️ will ✍️",
+					"id": 48292696,
+					"id_str": "48292696",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"screen_name": "Swansea2020",
+					"name": "SwanseaUni Centenary",
+					"id": 793796225292243000,
+					"id_str": "793796225292242944",
+					"indices": [
+						79,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QyaKopoDRC",
+					"expanded_url": "https://blog.cpjobling.net/swansea-2020/swansea-2020-and-twitter/",
+					"display_url": "blog.cpjobling.net/swansea-2020/s…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1220442950653698000,
+		"in_reply_to_status_id_str": "1220442950653698061",
+		"in_reply_to_user_id": 793796225292243000,
+		"in_reply_to_user_id_str": "793796225292242944",
+		"in_reply_to_screen_name": "Swansea2020",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1564,
+			"friends_count": 1208,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Swansea2020 @simonrae @LTHEchat Thanks both. I need to update my blog post on @swansea2020 and Twitter: https://t.co/QyaKopoDRC #LTHEChat"
+	},
+	{
+		"created_at": "Fri Jan 24 10:26:57 +0000 2020",
+		"id": 1220442950653698000,
+		"id_str": "1220654214063513600",
+		"full_text": "@simonrae @cpjobling @LTHEchat I haven't got exact numbers and details to hand but two of the professors from those very first years were women - Florence Mockeridge (Botany) and Mary Williams (French). Unusual for the time but something Swansea has a good record on!",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "simonrae",
+					"name": "🇪🇺 Simon Rae … Have ✏️ will ✍️",
+					"id": 48292696,
+					"id_str": "48292696",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "cpjobling",
+					"name": "Chris Jobling",
+					"id": 4229341,
+					"id_str": "4229341",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						21,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1220440801127342000,
+		"in_reply_to_status_id_str": "1220440801127342084",
+		"in_reply_to_user_id": 48292696,
+		"in_reply_to_user_id_str": "48292696",
+		"in_reply_to_screen_name": "simonrae",
+		"user": {
+			"id": 793796225292243000,
+			"id_str": "793796225292242944",
+			"name": "SwanseaUni Centenary",
+			"screen_name": "Swansea2020",
+			"location": "Swansea, Wales",
+			"description": "Twitter feed for the research on Swansea University's first 100 years, building up to its 2020 centenary. Updated and maintained by @SamBlaxland",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 469,
+			"friends_count": 210,
+			"listed_count": 2,
+			"created_at": "Wed Nov 02 12:45:42 +0000 2016",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/793806511411724288/duFZ-Hv2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/793806511411724288/duFZ-Hv2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/793796225292242944/1478093098",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@simonrae @cpjobling @LTHEchat I haven't got exact numbers and details to hand but two of the professors from those very first years were women - Florence Mockeridge (Botany) and Mary Williams (French). Unusual for the time but something Swansea has a good record on!"
+	},
+	{
+		"created_at": "Fri Jan 24 08:03:17 +0000 2020",
+		"id": 1220618055853772800,
+		"id_str": "1220618055853772801",
+		"full_text": "Read my Jan 24 'swan-uni-staff' Newsletter featuring “#LTHEchat 164: Engaging students with mixed media portfolios” https://t.co/iOgEyV65ca",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						54,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iOgEyV65ca",
+					"expanded_url": "https://nzzl.us/bkh1oi3",
+					"display_url": "nzzl.us/bkh1oi3",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1564,
+			"friends_count": 1208,
+			"listed_count": 126,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 10984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Jan 24 'swan-uni-staff' Newsletter featuring “#LTHEchat 164: Engaging students with mixed media portfolios” https://t.co/iOgEyV65ca"
+	},
+	{
 		"created_at": "Thu Jan 23 18:01:11 +0000 2020",
 		"id": 1220385428940959700,
 		"id_str": "1220406134626013184",
