@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 26 18:32:35 +0000 2020",
+		"id": 1232247132503056400,
+		"id_str": "1232735224133509121",
+		"full_text": "'Teaching in a Digital Age'\nGood looking book…\nOpen access…\nUseful list of webinars to support the reading…\nFull bibliography…\n\nWhat's not to like?\n\n👩‍🏫👨‍🏫👨🏽‍🏫👩🏿‍🏫👩🏼‍🏫👨🏼‍🏫\n\n#LTHEchat @drtonybates https://t.co/5zDnr6frto",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						173,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drtonybates",
+					"name": "Tony Bates",
+					"id": 19812150,
+					"id_str": "19812150",
+					"indices": [
+						183,
+						195
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5zDnr6frto",
+					"expanded_url": "https://twitter.com/drtonybates/status/1232085349356068864",
+					"display_url": "twitter.com/drtonybates/st…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48292696,
+			"id_str": "48292696",
+			"name": "🇪🇺 Simon Rae … Have ✏️ will ✍️",
+			"screen_name": "simonrae",
+			"location": "Milton Keynes",
+			"description": "retired Lecturer in Professional Development now doing cartoons doodles and drawings for pleasure… also holder of a #LTHEchat Golden Tweeter Award",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1006,
+			"friends_count": 884,
+			"listed_count": 61,
+			"created_at": "Thu Jun 18 08:46:23 +0000 2009",
+			"favourites_count": 3729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDF0E7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/616003602117750785/qKNwKfJN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/616003602117750785/qKNwKfJN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48292696/1484765473",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "072430",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1232085349356068900,
+		"quoted_status_id_str": "1232085349356068864",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5zDnr6frto",
+			"expanded": "https://twitter.com/drtonybates/status/1232085349356068864",
+			"display": "twitter.com/drtonybates/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 24 23:30:12 +0000 2020",
+			"id": 1232085349356068900,
+			"id_str": "1232085349356068864",
+			"full_text": "Interested in five new webinars based on 'Teaching in a Digital Age'? https://t.co/dEZIpJd5ef\n If so, see https://t.co/raUl5XArjP for details",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				141
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dEZIpJd5ef",
+						"expanded_url": "https://pressbooks.bccampus.ca/teachinginadigitalagev2/",
+						"display_url": "pressbooks.bccampus.ca/teachinginadig…",
+						"indices": [
+							70,
+							93
+						]
+					},
+					{
+						"url": "https://t.co/raUl5XArjP",
+						"expanded_url": "http://wp.me/pi2SZ-33H",
+						"display_url": "wp.me/pi2SZ-33H",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19812150,
+				"id_str": "19812150",
+				"name": "Tony Bates",
+				"screen_name": "drtonybates",
+				"location": "",
+				"description": "Consultant in online learning in higher education with over 25 years experience and over 40 institutional clients",
+				"url": "http://t.co/39cypSYVT5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/39cypSYVT5",
+								"expanded_url": "http://tonybates.ca",
+								"display_url": "tonybates.ca",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5483,
+				"friends_count": 27,
+				"listed_count": 359,
+				"created_at": "Sat Jan 31 11:30:17 +0000 2009",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1457,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2563456751/wicaixr93w2lri2wsarw_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2563456751/wicaixr93w2lri2wsarw_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Teaching in a Digital Age'\nGood looking book…\nOpen access…\nUseful list of webinars to support the reading…\nFull bibliography…\n\nWhat's not to like?\n\n👩‍🏫👨‍🏫👨🏽‍🏫👩🏿‍🏫👩🏼‍🏫👨🏼‍🏫\n\n#LTHEchat @drtonybates https://t.co/5zDnr6frto"
+	},
+	{
 		"created_at": "Wed Feb 19 20:11:03 +0000 2020",
 		"id": 1230223025200619500,
 		"id_str": "1230223289865449474",
