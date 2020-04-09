@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 08 22:15:43 +0000 2020",
+		"id": 1247901080442134500,
+		"id_str": "1248011669281722368",
+		"full_text": "🚨This webinar is aimed at existing @MicrosoftTeams users who want to maximise effectiveness and efficiency when using it and other linked apps in @Office365. #altc #LTHEchat #Planner #PowerAutomate #Forms #OneNote 🚨  \n\nhttps://t.co/FPo59nmpmZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						164,
+						173
+					]
+				},
+				{
+					"text": "Planner",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "PowerAutomate",
+					"indices": [
+						183,
+						197
+					]
+				},
+				{
+					"text": "Forms",
+					"indices": [
+						198,
+						204
+					]
+				},
+				{
+					"text": "OneNote",
+					"indices": [
+						205,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MicrosoftTeams",
+					"name": "Microsoft Teams",
+					"id": 817461289081409500,
+					"id_str": "817461289081409536",
+					"indices": [
+						35,
+						50
+					]
+				},
+				{
+					"screen_name": "Office365",
+					"name": "Office 365",
+					"id": 137365854,
+					"id_str": "137365854",
+					"indices": [
+						146,
+						156
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FPo59nmpmZ",
+					"expanded_url": "https://lancaster-uk.libcal.com/calendar/digital-skills-training/teams-webinar",
+					"display_url": "lancaster-uk.libcal.com/calendar/digit…",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147510846,
+			"id_str": "147510846",
+			"name": "LU Digital Education",
+			"screen_name": "LUDigiEdu",
+			"location": "Lancaster, England",
+			"description": "Sharing good practice to all @LancasterUni #academics & across #HigherEd on technology-enhanced learning (#TEL) & #teaching.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 233,
+			"listed_count": 21,
+			"created_at": "Mon May 24 09:42:29 +0000 2010",
+			"favourites_count": 829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582467213191417856/hbk131Tc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582467213191417856/hbk131Tc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147510846/1493984547",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚨This webinar is aimed at existing @MicrosoftTeams users who want to maximise effectiveness and efficiency when using it and other linked apps in @Office365. #altc #LTHEchat #Planner #PowerAutomate #Forms #OneNote 🚨  \n\nhttps://t.co/FPo59nmpmZ"
+	},
+	{
+		"created_at": "Wed Apr 08 14:58:08 +0000 2020",
+		"id": 1247901382989844500,
+		"id_str": "1247901547637272579",
+		"full_text": "Ready for our virtual open day. https://t.co/qey2Q0HUr9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247901375947632600,
+					"id_str": "1247901375947632640",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EVFvsJQUcAA6kAe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVFvsJQUcAA6kAe.jpg",
+					"url": "https://t.co/qey2Q0HUr9",
+					"display_url": "pic.twitter.com/qey2Q0HUr9",
+					"expanded_url": "https://twitter.com/SwanseaEEE/status/1247901382989844483/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247901375947632600,
+					"id_str": "1247901375947632640",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/EVFvsJQUcAA6kAe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVFvsJQUcAA6kAe.jpg",
+					"url": "https://t.co/qey2Q0HUr9",
+					"display_url": "pic.twitter.com/qey2Q0HUr9",
+					"expanded_url": "https://twitter.com/SwanseaEEE/status/1247901382989844483/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 912778733345497100,
+			"id_str": "912778733345497088",
+			"name": "Swansea Uni EEE",
+			"screen_name": "SwanseaEEE",
+			"location": "Swansea, Wales",
+			"description": "Electronic and Electrical Engineering at Swansea University",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62,
+			"friends_count": 27,
+			"listed_count": 0,
+			"created_at": "Tue Sep 26 20:39:43 +0000 2017",
+			"favourites_count": 148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/912784290454413313/VrG1ptTX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/912784290454413313/VrG1ptTX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/912778733345497088/1506459872",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9e3f460086001",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9e3f460086001.json",
+			"place_type": "poi",
+			"name": "Brynmill Park",
+			"full_name": "Brynmill Park",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-3.9726713482374123,
+							51.615239959638856
+						],
+						[
+							-3.9726713482374123,
+							51.615239959638856
+						],
+						[
+							-3.9726713482374123,
+							51.615239959638856
+						],
+						[
+							-3.9726713482374123,
+							51.615239959638856
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ready for our virtual open day. https://t.co/qey2Q0HUr9"
+	},
+	{
+		"created_at": "Wed Apr 08 07:05:25 +0000 2020",
+		"id": 1247782583896662000,
+		"id_str": "1247782583896662016",
+		"full_text": "Read my Apr 8 'swan-uni-staff' Newsletter featuring “Hepi poll: most university students want exams to continue…” https://t.co/xQSLd58Gpr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xQSLd58Gpr",
+					"expanded_url": "https://nzzl.us/RN0pJLA",
+					"display_url": "nzzl.us/RN0pJLA",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1573,
+			"friends_count": 1210,
+			"listed_count": 125,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Apr 8 'swan-uni-staff' Newsletter featuring “Hepi poll: most university students want exams to continue…” https://t.co/xQSLd58Gpr"
+	},
+	{
 		"created_at": "Tue Apr 07 07:04:35 +0000 2020",
 		"id": 1247419987016536000,
 		"id_str": "1247419987016536064",
