@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 07:25:19 +0000 2020",
+		"id": 1250475007937065000,
+		"id_str": "1250686696141787136",
+		"full_text": "Here is video 14 about feedback practices in e-learning: https://t.co/8o0v5GnFgb\n\nThis is the Vimeo album with all the videos: https://t.co/f2nmy9Sd0d\n\nTake care 🤗\n#edchat #LTHECHAT #ukedchat #EdChatEU @aussieEDchat #LearnLAP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edchat",
+					"indices": [
+						164,
+						171
+					]
+				},
+				{
+					"text": "LTHECHAT",
+					"indices": [
+						172,
+						181
+					]
+				},
+				{
+					"text": "ukedchat",
+					"indices": [
+						182,
+						191
+					]
+				},
+				{
+					"text": "EdChatEU",
+					"indices": [
+						192,
+						201
+					]
+				},
+				{
+					"text": "LearnLAP",
+					"indices": [
+						216,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aussieEDchat",
+					"name": "#aussieED",
+					"id": 2541012558,
+					"id_str": "2541012558",
+					"indices": [
+						202,
+						215
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8o0v5GnFgb",
+					"expanded_url": "http://vimeo.com/408054242",
+					"display_url": "vimeo.com/408054242",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/f2nmy9Sd0d",
+					"expanded_url": "http://vimeo.com/showcase/6967044",
+					"display_url": "vimeo.com/showcase/69670…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1227561574635843600,
+			"id_str": "1227561574635843584",
+			"name": "Virna",
+			"screen_name": "VirnaRossi",
+			"location": "London",
+			"description": "Learn to thrive. For life. Educational Developer. Interested in life, my awesome kids, learning design, advancing creative education, assessment as learning.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 414,
+			"friends_count": 542,
+			"listed_count": 5,
+			"created_at": "Wed Feb 12 11:54:31 +0000 2020",
+			"favourites_count": 5497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227561732949913601/DU85eqdQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227561732949913601/DU85eqdQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1227561574635843584/1584151206",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here is video 14 about feedback practices in e-learning: https://t.co/8o0v5GnFgb\n\nThis is the Vimeo album with all the videos: https://t.co/f2nmy9Sd0d\n\nTake care 🤗\n#edchat #LTHECHAT #ukedchat #EdChatEU @aussieEDchat #LearnLAP"
+	},
+	{
+		"created_at": "Thu Apr 16 07:04:27 +0000 2020",
+		"id": 1250681442994212900,
+		"id_str": "1250681442994212870",
+		"full_text": "Read my Apr 16 'swan-uni-staff' Newsletter featuring “The woman who discovered the first coronavirus” https://t.co/LAnSzBzkxr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LAnSzBzkxr",
+					"expanded_url": "https://nzzl.us/4B1rH6q",
+					"display_url": "nzzl.us/4B1rH6q",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1573,
+			"friends_count": 1210,
+			"listed_count": 125,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Apr 16 'swan-uni-staff' Newsletter featuring “The woman who discovered the first coronavirus” https://t.co/LAnSzBzkxr"
+	},
+	{
 		"created_at": "Wed Apr 15 07:05:22 +0000 2020",
 		"id": 1250319288797253600,
 		"id_str": "1250319288797253634",
