@@ -1,6 +1,642 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 26 10:32:32 +0000 2020",
+		"id": 1254357690287079400,
+		"id_str": "1254357690287079424",
+		"full_text": "Contact apps won’t end lockdown but the might kill off democracy - John Naughton @guardian: https://t.co/kDJdNlKQkg https://t.co/kDJdNlKQkg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						81,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kDJdNlKQkg",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2020/apr/25/contact-apps-wont-end-lockdown-but-they-might-kill-off-democracy",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/kDJdNlKQkg",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2020/apr/25/contact-apps-wont-end-lockdown-but-they-might-kill-off-democracy",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1572,
+			"friends_count": 1208,
+			"listed_count": 125,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Contact apps won’t end lockdown but the might kill off democracy - John Naughton @guardian: https://t.co/kDJdNlKQkg https://t.co/kDJdNlKQkg"
+	},
+	{
+		"created_at": "Sun Apr 26 10:00:18 +0000 2020",
+		"id": 1254306161693798400,
+		"id_str": "1254349575093129218",
+		"full_text": "No campus lectures: UK universities' struggle to move online in @guardian\nwith quotes from @mweller\n@thinksitthrough &amp; @NeilMorrisLeeds #altc https://t.co/U9ihD85IoT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "altc",
+					"indices": [
+						140,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						64,
+						73
+					]
+				},
+				{
+					"screen_name": "mweller",
+					"name": "Martin Weller",
+					"id": 7127162,
+					"id_str": "7127162",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"screen_name": "thinksitthrough",
+					"name": "Diana Laurillard",
+					"id": 29703406,
+					"id_str": "29703406",
+					"indices": [
+						100,
+						116
+					]
+				},
+				{
+					"screen_name": "NeilMorrisLeeds",
+					"name": "Neil Morris",
+					"id": 152589244,
+					"id_str": "152589244",
+					"indices": [
+						123,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/U9ihD85IoT",
+					"expanded_url": "https://www.theguardian.com/education/2020/apr/25/degrees-of-separation-can-universities-adapt-in-the-rush-to-online-learning",
+					"display_url": "theguardian.com/education/2020…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14434363,
+			"id_str": "14434363",
+			"name": "Matt Lingard",
+			"screen_name": "mattlingard",
+			"location": "London",
+			"description": "Digital Learning Director @LCCLondon (@UAL) | #altc | Co-Chair @A_L_T Conference 2020 | @ManCity @drfc_official fan",
+			"url": "https://t.co/FZXFQHOejk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FZXFQHOejk",
+							"expanded_url": "http://mattlingard.com",
+							"display_url": "mattlingard.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3908,
+			"friends_count": 1514,
+			"listed_count": 235,
+			"created_at": "Fri Apr 18 15:45:08 +0000 2008",
+			"favourites_count": 1846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027202215616884736/-bzfVyXr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027202215616884736/-bzfVyXr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14434363/1550091586",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 29,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No campus lectures: UK universities' struggle to move online in @guardian\nwith quotes from @mweller\n@thinksitthrough &amp; @NeilMorrisLeeds #altc https://t.co/U9ihD85IoT"
+	},
+	{
+		"created_at": "Sun Apr 26 09:59:45 +0000 2020",
+		"id": 1254121188919517200,
+		"id_str": "1254349439608684544",
+		"full_text": "Featuring brief words from @NeilMorrisLeeds @thinksitthrough &amp; myself amongst others https://t.co/9kNdM57UHi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NeilMorrisLeeds",
+					"name": "Neil Morris",
+					"id": 152589244,
+					"id_str": "152589244",
+					"indices": [
+						27,
+						43
+					]
+				},
+				{
+					"screen_name": "thinksitthrough",
+					"name": "Diana Laurillard",
+					"id": 29703406,
+					"id_str": "29703406",
+					"indices": [
+						44,
+						60
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9kNdM57UHi",
+					"expanded_url": "https://twitter.com/david_batty/status/1254057931198382083",
+					"display_url": "twitter.com/david_batty/st…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7127162,
+			"id_str": "7127162",
+			"name": "Martin Weller",
+			"screen_name": "mweller",
+			"location": "Tongwynlais, Cardiff",
+			"description": "Open University, @IETatOU Prof, Director of @oer_hub, President of @A_L_T.   Book: 25 Years of Ed Tech https://t.co/QMKIpt7Pqx",
+			"url": "https://t.co/REishgGy8a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/REishgGy8a",
+							"expanded_url": "http://edtechie.net",
+							"display_url": "edtechie.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/QMKIpt7Pqx",
+							"expanded_url": "https://www.aupress.ca/books/120290-25-years-of-ed-tech/",
+							"display_url": "aupress.ca/books/120290-2…",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10690,
+			"friends_count": 1811,
+			"listed_count": 733,
+			"created_at": "Thu Jun 28 09:14:11 +0000 2007",
+			"favourites_count": 6941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198930977675984896/STArUuIz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198930977675984896/STArUuIz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7127162/1582792969",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1254057931198382000,
+		"quoted_status_id_str": "1254057931198382083",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9kNdM57UHi",
+			"expanded": "https://twitter.com/david_batty/status/1254057931198382083",
+			"display": "twitter.com/david_batty/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 25 14:41:24 +0000 2020",
+			"id": 1254057931198382000,
+			"id_str": "1254057931198382083",
+			"full_text": "UK universities need to spend hundreds of millions of pounds to deliver degrees online. https://t.co/7aibUp9JrL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7aibUp9JrL",
+						"expanded_url": "https://www.theguardian.com/education/2020/apr/25/degrees-of-separation-can-universities-adapt-in-the-rush-to-online-learning?CMP=Share_iOSApp_Other",
+						"display_url": "theguardian.com/education/2020…",
+						"indices": [
+							88,
+							111
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15567071,
+				"id_str": "15567071",
+				"name": "David Batty",
+				"screen_name": "David_Batty",
+				"location": "London",
+				"description": "Senior reporter for @guardian; visiting lecturer at @cityjournalism & @UniWestminster; freelance editorial trainer.",
+				"url": "https://t.co/RYURicscMs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RYURicscMs",
+								"expanded_url": "http://www.theguardian.com/profile/davidbatty",
+								"display_url": "theguardian.com/profile/davidb…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4268,
+				"friends_count": 1902,
+				"listed_count": 189,
+				"created_at": "Wed Jul 23 17:00:03 +0000 2008",
+				"favourites_count": 5017,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 56763,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/774597743675408385/S6HGbEv__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/774597743675408385/S6HGbEv__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15567071/1353370403",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Featuring brief words from @NeilMorrisLeeds @thinksitthrough &amp; myself amongst others https://t.co/9kNdM57UHi"
+	},
+	{
+		"created_at": "Sun Apr 26 07:04:49 +0000 2020",
+		"id": 1254305414969163800,
+		"id_str": "1254305414969163776",
+		"full_text": "Read my Apr 26 'swan-uni-staff' Newsletter featuring “COVID-19 and the basics of democratic governance - The…” https://t.co/t4JNBWCPY0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t4JNBWCPY0",
+					"expanded_url": "https://nzzl.us/PoCixwW",
+					"display_url": "nzzl.us/PoCixwW",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1572,
+			"friends_count": 1208,
+			"listed_count": 125,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Apr 26 'swan-uni-staff' Newsletter featuring “COVID-19 and the basics of democratic governance - The…” https://t.co/t4JNBWCPY0"
+	},
+	{
 		"created_at": "Sat Apr 25 07:04:27 +0000 2020",
 		"id": 1253942937081319400,
 		"id_str": "1253942937081319424",
