@@ -1,6 +1,537 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 18 10:36:43 +0000 2020",
+		"id": 1262331274942963700,
+		"id_str": "1262331274942963720",
+		"full_text": "Watching Brian Mathers (⁦@visualthinkery⁩) and trying the face and penguin: https://t.co/ONpNVtPPNS with Sketches Pro, a thumb and iPhone https://t.co/1a0wt51EJx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "visualthinkery",
+					"name": "Visual Thinkery",
+					"id": 4872005950,
+					"id_str": "4872005950",
+					"indices": [
+						25,
+						40
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ONpNVtPPNS",
+					"expanded_url": "https://register.gotowebinar.com/register/2555664552200391948",
+					"display_url": "register.gotowebinar.com/register/25556…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1262331263798648800,
+					"id_str": "1262331263798648832",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EYSzmKeWoAA_28q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYSzmKeWoAA_28q.jpg",
+					"url": "https://t.co/1a0wt51EJx",
+					"display_url": "pic.twitter.com/1a0wt51EJx",
+					"expanded_url": "https://twitter.com/cpjobling/status/1262331274942963720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 348,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 613,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262331263798648800,
+					"id_str": "1262331263798648832",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EYSzmKeWoAA_28q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYSzmKeWoAA_28q.jpg",
+					"url": "https://t.co/1a0wt51EJx",
+					"display_url": "pic.twitter.com/1a0wt51EJx",
+					"expanded_url": "https://twitter.com/cpjobling/status/1262331274942963720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 348,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 613,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1576,
+			"friends_count": 1211,
+			"listed_count": 123,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Watching Brian Mathers (⁦@visualthinkery⁩) and trying the face and penguin: https://t.co/ONpNVtPPNS with Sketches Pro, a thumb and iPhone https://t.co/1a0wt51EJx"
+	},
+	{
+		"created_at": "Mon May 18 09:45:13 +0000 2020",
+		"id": 1261794946153054200,
+		"id_str": "1262318312517754880",
+		"full_text": "If you’ve never taught online before and never learnt online, if you think contact hours are just time spent f2f with students, if you think that you need to be distant and aloof from students, if you think that developing independent learners is posting some materials that...1/",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 859745605505175600,
+			"id_str": "859745605505175552",
+			"name": "Neil Mosley",
+			"screen_name": "neilmosley5",
+			"location": "Cardiff, Wales",
+			"description": "Digital learning designer, strategist & producer | Cardiff University | Previously Imperial College | Instructional Design | UX. Own views",
+			"url": "https://t.co/NpoQidXy3g",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NpoQidXy3g",
+							"expanded_url": "https://www.linkedin.com/in/neil-mosley-34a93890/",
+							"display_url": "linkedin.com/in/neil-mosley…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2816,
+			"friends_count": 5001,
+			"listed_count": 34,
+			"created_at": "Wed May 03 12:25:00 +0000 2017",
+			"favourites_count": 8675,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/859762487184560128/M6vfWwHo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/859762487184560128/M6vfWwHo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/859745605505175552/1540851994",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 119,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If you’ve never taught online before and never learnt online, if you think contact hours are just time spent f2f with students, if you think that you need to be distant and aloof from students, if you think that developing independent learners is posting some materials that...1/"
+	},
+	{
+		"created_at": "Mon May 18 07:44:36 +0000 2020",
+		"id": 1261914388308648000,
+		"id_str": "1262287958012502016",
+		"full_text": "Join us for this week's #LTHEChat - The future of effective assessment: more than just a paperless prospect? With guest hosts @ProfSallyBrown and Steffen Skovfoged @Unisteff Wednesday 8-9pm. Read the blogpost... https://t.co/CbLK0HDufT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						24,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						126,
+						141
+					]
+				},
+				{
+					"screen_name": "Unisteff",
+					"name": "Steffen Skovfoged",
+					"id": 864426428,
+					"id_str": "864426428",
+					"indices": [
+						164,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CbLK0HDufT",
+					"expanded_url": "http://lthechat.com/2020/05/17/lthechat-177-the-future-of-effective-assessment-more-than-just-a-paperless-prospect-with-guest-hosts-profsallybrown-and-steffen-skovfoged/",
+					"display_url": "lthechat.com/2020/05/17/lth…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7393,
+			"friends_count": 3329,
+			"listed_count": 154,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 3594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us for this week's #LTHEChat - The future of effective assessment: more than just a paperless prospect? With guest hosts @ProfSallyBrown and Steffen Skovfoged @Unisteff Wednesday 8-9pm. Read the blogpost... https://t.co/CbLK0HDufT"
+	},
+	{
+		"created_at": "Mon May 18 07:04:49 +0000 2020",
+		"id": 1262277950164140000,
+		"id_str": "1262277950164140033",
+		"full_text": "Read the May 18 Newsletter curated by my PLN featuring “Universities' move online 'must be done the right way” https://t.co/MqSlaXjz9V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MqSlaXjz9V",
+					"expanded_url": "https://nzzl.us/cvA2okN",
+					"display_url": "nzzl.us/cvA2okN",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1576,
+			"friends_count": 1211,
+			"listed_count": 123,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045593322012770304/sZ0LVya0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the May 18 Newsletter curated by my PLN featuring “Universities' move online 'must be done the right way” https://t.co/MqSlaXjz9V"
+	},
+	{
 		"created_at": "Sun May 17 07:04:36 +0000 2020",
 		"id": 1261915505402753000,
 		"id_str": "1261915505402753025",
