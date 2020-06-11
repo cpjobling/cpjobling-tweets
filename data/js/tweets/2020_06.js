@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 10 07:13:50 +0000 2020",
+		"id": 1270366444405096400,
+		"id_str": "1270615138983464960",
+		"full_text": "I'm having a few days off, so here's an early #TheWeekInTory\n\nDon't worry. They've been busy.\n\n1. The govt said “we will work around the clock to ensure nobody goes hungry as a result of this crisis”\n\n2. Four days later the govt ended free meals for the poorest 1.3m children",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheWeekInTory",
+					"indices": [
+						46,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 498753368,
+			"id_str": "498753368",
+			"name": "Russ",
+			"screen_name": "RussInCheshire",
+			"location": "Cheshire",
+			"description": "Designer, coder, analyst, painter, wazzock. Feminist, centre-left, Remainer. Working class Manc in Cheshire, who does #TheWeekInTory",
+			"url": "https://t.co/pRDoZ6wtCc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pRDoZ6wtCc",
+							"expanded_url": "https://russincheshire.wordpress.com/",
+							"display_url": "russincheshire.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55622,
+			"friends_count": 1271,
+			"listed_count": 172,
+			"created_at": "Tue Feb 21 11:34:20 +0000 2012",
+			"favourites_count": 16629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "961C0C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270812331275169799/-yTwaEco_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270812331275169799/-yTwaEco_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/498753368/1587419692",
+			"profile_link_color": "961C0C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9560,
+		"favorite_count": 16547,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I'm having a few days off, so here's an early #TheWeekInTory\n\nDon't worry. They've been busy.\n\n1. The govt said “we will work around the clock to ensure nobody goes hungry as a result of this crisis”\n\n2. Four days later the govt ended free meals for the poorest 1.3m children"
+	},
+	{
+		"created_at": "Wed Jun 10 07:04:37 +0000 2020",
+		"id": 1270612820145643500,
+		"id_str": "1270612820145643521",
+		"full_text": "Read the Jun 10 Newsletter curated by my PLN featuring “Coronavirus: Will UK universities open in September?” https://t.co/VZKAhxW0C7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VZKAhxW0C7",
+					"expanded_url": "https://nzzl.us/qCcXEHf",
+					"display_url": "nzzl.us/qCcXEHf",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1582,
+			"friends_count": 1212,
+			"listed_count": 123,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Jun 10 Newsletter curated by my PLN featuring “Coronavirus: Will UK universities open in September?” https://t.co/VZKAhxW0C7"
+	},
+	{
 		"created_at": "Tue Jun 09 07:04:50 +0000 2020",
 		"id": 1270250484713037800,
 		"id_str": "1270250484713037824",
