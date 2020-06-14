@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 13 13:25:56 +0000 2020",
+		"id": 1271434069243580400,
+		"id_str": "1271795942241566720",
+		"full_text": "Today we virtually joined together for part 1 of our Centenary celebrations!\n\nProf Huw Summers spoke about our first 50 years and many of our long standing colleagues inc. previous HoCs shared stories about their time @SwanseaUni.\n\nWe hope to see you all in person for part 2! https://t.co/Y3szIHgszO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SwanseaUni",
+					"name": "Swansea University",
+					"id": 62489200,
+					"id_str": "62489200",
+					"indices": [
+						218,
+						229
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1271431028993863700,
+					"id_str": "1271431028993863680",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EaUHyNeWsAANU__.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaUHyNeWsAANU__.jpg",
+					"url": "https://t.co/Y3szIHgszO",
+					"display_url": "pic.twitter.com/Y3szIHgszO",
+					"expanded_url": "https://twitter.com/SUEngineering/status/1271434069243580417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271431028993863700,
+					"id_str": "1271431028993863680",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EaUHyNeWsAANU__.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaUHyNeWsAANU__.jpg",
+					"url": "https://t.co/Y3szIHgszO",
+					"display_url": "pic.twitter.com/Y3szIHgszO",
+					"expanded_url": "https://twitter.com/SUEngineering/status/1271434069243580417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1271431225979424800,
+					"id_str": "1271431225979424769",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EaUH9rTX0AE9doj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaUH9rTX0AE9doj.jpg",
+					"url": "https://t.co/Y3szIHgszO",
+					"display_url": "pic.twitter.com/Y3szIHgszO",
+					"expanded_url": "https://twitter.com/SUEngineering/status/1271434069243580417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1988,
+							"h": 1146,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 392,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 692,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1271431333697532000,
+					"id_str": "1271431333697531907",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EaUID8lXsAMfuV_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaUID8lXsAMfuV_.jpg",
+					"url": "https://t.co/Y3szIHgszO",
+					"display_url": "pic.twitter.com/Y3szIHgszO",
+					"expanded_url": "https://twitter.com/SUEngineering/status/1271434069243580417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 395,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 697,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2024,
+							"h": 1176,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154145391,
+			"id_str": "154145391",
+			"name": "Swansea Engineering",
+			"screen_name": "SUEngineering",
+			"location": "Swansea University",
+			"description": "Multi-disciplinary engineering department at @SwanseaUni. Follow to find out about our pioneering research and undergraduate/postgraduate opportunities!",
+			"url": "https://t.co/Nua3pWlrwM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Nua3pWlrwM",
+							"expanded_url": "https://bit.ly/Covid19-ENG",
+							"display_url": "bit.ly/Covid19-ENG",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4060,
+			"friends_count": 1018,
+			"listed_count": 66,
+			"created_at": "Thu Jun 10 14:01:55 +0000 2010",
+			"favourites_count": 3707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877844628908724224/95wzwHBO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877844628908724224/95wzwHBO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154145391/1566212623",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today we virtually joined together for part 1 of our Centenary celebrations!\n\nProf Huw Summers spoke about our first 50 years and many of our long standing colleagues inc. previous HoCs shared stories about their time @SwanseaUni.\n\nWe hope to see you all in person for part 2! https://t.co/Y3szIHgszO"
+	},
+	{
+		"created_at": "Sat Jun 13 07:04:52 +0000 2020",
+		"id": 1271700045193269200,
+		"id_str": "1271700045193269248",
+		"full_text": "Read my Jun 13 'swan-uni-staff' Newsletter featuring “The Child Feeding Guide: A digital health intervention…” https://t.co/t0fyGFu5km",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t0fyGFu5km",
+					"expanded_url": "https://nzzl.us/oQW60ov",
+					"display_url": "nzzl.us/oQW60ov",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 1212,
+			"listed_count": 123,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Jun 13 'swan-uni-staff' Newsletter featuring “The Child Feeding Guide: A digital health intervention…” https://t.co/t0fyGFu5km"
+	},
+	{
 		"created_at": "Fri Jun 12 07:05:17 +0000 2020",
 		"id": 1271337762491371500,
 		"id_str": "1271337762491371521",
