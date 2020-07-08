@@ -1,6 +1,528 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 07 13:59:58 +0000 2020",
+		"id": 1280350423040225300,
+		"id_str": "1280501818112593925",
+		"full_text": "Ok, here's a summary of student impressions of hyflex (generally positive) and why that might not matter for the fall (lack  of agency). https://t.co/IcWTsxe8mi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IcWTsxe8mi",
+					"expanded_url": "https://www.youtube.com/watch?v=3qTmY3fxT70",
+					"display_url": "youtube.com/watch?v=3qTmY3…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1912681,
+			"id_str": "1912681",
+			"name": "Mike Caulfield",
+			"screen_name": "holden",
+			"location": "Portland, OR (he/him)",
+			"description": "Radically rethinking how online information literacy is taught for WSU Vancouver and partnering national organizations. Recent project with NWP: https://t.co/iRmNTgESXN",
+			"url": "https://t.co/ty2GJPfEz8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ty2GJPfEz8",
+							"expanded_url": "http://hapgood.us",
+							"display_url": "hapgood.us",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iRmNTgESXN",
+							"expanded_url": "http://infodemic.blog",
+							"display_url": "infodemic.blog",
+							"indices": [
+								145,
+								168
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9149,
+			"friends_count": 1262,
+			"listed_count": 482,
+			"created_at": "Thu Mar 22 17:38:27 +0000 2007",
+			"favourites_count": 18642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202287659378298881/06HiPOTe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202287659378298881/06HiPOTe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1912681/1591907414",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ok, here's a summary of student impressions of hyflex (generally positive) and why that might not matter for the fall (lack  of agency). https://t.co/IcWTsxe8mi"
+	},
+	{
+		"created_at": "Tue Jul 07 13:59:52 +0000 2020",
+		"id": 1280350604997476400,
+		"id_str": "1280501794213429248",
+		"full_text": "Here's the final drawing https://t.co/iKmaJDc7FY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1280350587494609000,
+					"id_str": "1280350587494608897",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EcS4E2OUMAEHynY.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcS4E2OUMAEHynY.png",
+					"url": "https://t.co/iKmaJDc7FY",
+					"display_url": "pic.twitter.com/iKmaJDc7FY",
+					"expanded_url": "https://twitter.com/holden/status/1280350604997476353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 876,
+							"h": 656,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 876,
+							"h": 656,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280350587494609000,
+					"id_str": "1280350587494608897",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EcS4E2OUMAEHynY.png",
+					"media_url_https": "https://pbs.twimg.com/media/EcS4E2OUMAEHynY.png",
+					"url": "https://t.co/iKmaJDc7FY",
+					"display_url": "pic.twitter.com/iKmaJDc7FY",
+					"expanded_url": "https://twitter.com/holden/status/1280350604997476353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 876,
+							"h": 656,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 876,
+							"h": 656,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1280350423040225300,
+		"in_reply_to_status_id_str": "1280350423040225284",
+		"in_reply_to_user_id": 1912681,
+		"in_reply_to_user_id_str": "1912681",
+		"in_reply_to_screen_name": "holden",
+		"user": {
+			"id": 1912681,
+			"id_str": "1912681",
+			"name": "Mike Caulfield",
+			"screen_name": "holden",
+			"location": "Portland, OR (he/him)",
+			"description": "Radically rethinking how online information literacy is taught for WSU Vancouver and partnering national organizations. Recent project with NWP: https://t.co/iRmNTgESXN",
+			"url": "https://t.co/ty2GJPfEz8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ty2GJPfEz8",
+							"expanded_url": "http://hapgood.us",
+							"display_url": "hapgood.us",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iRmNTgESXN",
+							"expanded_url": "http://infodemic.blog",
+							"display_url": "infodemic.blog",
+							"indices": [
+								145,
+								168
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9149,
+			"friends_count": 1262,
+			"listed_count": 482,
+			"created_at": "Thu Mar 22 17:38:27 +0000 2007",
+			"favourites_count": 18642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202287659378298881/06HiPOTe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202287659378298881/06HiPOTe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1912681/1591907414",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's the final drawing https://t.co/iKmaJDc7FY"
+	},
+	{
+		"created_at": "Tue Jul 07 13:59:50 +0000 2020",
+		"id": 1280339288207396900,
+		"id_str": "1280501783853510658",
+		"full_text": "OK, I did a What is HyFlex video. I don't think that you want to adopt a straight hyflex model for the fall, but it's worth knowing what the term means if people are going to throw it around. https://t.co/siJD9O6swx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/siJD9O6swx",
+					"expanded_url": "https://www.youtube.com/watch?v=ynT_4wg9j9E",
+					"display_url": "youtube.com/watch?v=ynT_4w…",
+					"indices": [
+						192,
+						215
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1912681,
+			"id_str": "1912681",
+			"name": "Mike Caulfield",
+			"screen_name": "holden",
+			"location": "Portland, OR (he/him)",
+			"description": "Radically rethinking how online information literacy is taught for WSU Vancouver and partnering national organizations. Recent project with NWP: https://t.co/iRmNTgESXN",
+			"url": "https://t.co/ty2GJPfEz8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ty2GJPfEz8",
+							"expanded_url": "http://hapgood.us",
+							"display_url": "hapgood.us",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iRmNTgESXN",
+							"expanded_url": "http://infodemic.blog",
+							"display_url": "infodemic.blog",
+							"indices": [
+								145,
+								168
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9149,
+			"friends_count": 1262,
+			"listed_count": 482,
+			"created_at": "Thu Mar 22 17:38:27 +0000 2007",
+			"favourites_count": 18642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202287659378298881/06HiPOTe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202287659378298881/06HiPOTe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1912681/1591907414",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OK, I did a What is HyFlex video. I don't think that you want to adopt a straight hyflex model for the fall, but it's worth knowing what the term means if people are going to throw it around. https://t.co/siJD9O6swx"
+	},
+	{
+		"created_at": "Tue Jul 07 07:04:46 +0000 2020",
+		"id": 1280397327447011300,
+		"id_str": "1280397327447011328",
+		"full_text": "Read the Jul 7 Newsletter curated by my PLN featuring “SEVP modifies temporary exemptions for nonimmigrant…” https://t.co/l4KEw6MNyk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l4KEw6MNyk",
+					"expanded_url": "https://nzzl.us/8en3W4c",
+					"display_url": "nzzl.us/8en3W4c",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1586,
+			"friends_count": 1213,
+			"listed_count": 123,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Jul 7 Newsletter curated by my PLN featuring “SEVP modifies temporary exemptions for nonimmigrant…” https://t.co/l4KEw6MNyk"
+	},
+	{
 		"created_at": "Mon Jul 06 19:41:47 +0000 2020",
 		"id": 1280225451911372800,
 		"id_str": "1280225451911372802",
