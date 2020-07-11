@@ -1,6 +1,449 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 10 07:34:46 +0000 2020",
+		"id": 1281223618240958500,
+		"id_str": "1281492044242915329",
+		"full_text": "There will be a chance to explore the findings of this report through a tweetchat on 16th July  15:30-17:30 BST #AdvanceHE_chat https://t.co/0rwxTmJNWG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHE_chat",
+					"indices": [
+						112,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0rwxTmJNWG",
+					"expanded_url": "https://twitter.com/AdvanceHE/status/1281181371399053312",
+					"display_url": "twitter.com/AdvanceHE/stat…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3726587775,
+			"id_str": "3726587775",
+			"name": "#AdvanceHE_chat",
+			"screen_name": "AdvanceHE_chat",
+			"location": "York, England",
+			"description": "Our regular Twitter chat with #LTHEchat on teaching & learning issues in HE/FE join us to connect, share & get inspired. 8pm last Weds. of the month, term time.",
+			"url": "https://t.co/DTFZZc7wBp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DTFZZc7wBp",
+							"expanded_url": "https://www.heacademy.ac.uk/about-hea/blog/heachat",
+							"display_url": "heacademy.ac.uk/about-hea/blog…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3152,
+			"friends_count": 602,
+			"listed_count": 41,
+			"created_at": "Mon Sep 21 09:01:44 +0000 2015",
+			"favourites_count": 688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1013793991844909058/TzdFQ3Si_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1013793991844909058/TzdFQ3Si_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3726587775/1581418202",
+			"profile_link_color": "02A4A6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1281181371399053300,
+		"quoted_status_id_str": "1281181371399053312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0rwxTmJNWG",
+			"expanded": "https://twitter.com/AdvanceHE/status/1281181371399053312",
+			"display": "twitter.com/AdvanceHE/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 09 11:00:16 +0000 2020",
+			"id": 1281181371399053300,
+			"id_str": "1281181371399053312",
+			"full_text": "Today we launch the sixth and final report from our Socially Distanced Campuses and Education Project 'Higher Education Leadership in a Pandemic Age – from crisis to connected campus', introduced by @LEAD_Doug: https://t.co/Mb4gQahgVd #HigherEd #SocialDistancing #Leadership https://t.co/pqmmheVP21",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HigherEd",
+						"indices": [
+							235,
+							244
+						]
+					},
+					{
+						"text": "SocialDistancing",
+						"indices": [
+							245,
+							262
+						]
+					},
+					{
+						"text": "Leadership",
+						"indices": [
+							263,
+							274
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LEAD_Doug",
+						"name": "Doug Parkin",
+						"id": 1160003557,
+						"id_str": "1160003557",
+						"indices": [
+							199,
+							209
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Mb4gQahgVd",
+						"expanded_url": "http://ow.ly/3R3p50AtJwT",
+						"display_url": "ow.ly/3R3p50AtJwT",
+						"indices": [
+							211,
+							234
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1281181370019205000,
+						"id_str": "1281181370019205126",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/EcerqwTX0AY3WZL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcerqwTX0AY3WZL.jpg",
+						"url": "https://t.co/pqmmheVP21",
+						"display_url": "pic.twitter.com/pqmmheVP21",
+						"expanded_url": "https://twitter.com/AdvanceHE/status/1281181371399053312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 580,
+								"h": 330,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 580,
+								"h": 330,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 580,
+								"h": 330,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1281181370019205000,
+						"id_str": "1281181370019205126",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/EcerqwTX0AY3WZL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcerqwTX0AY3WZL.jpg",
+						"url": "https://t.co/pqmmheVP21",
+						"display_url": "pic.twitter.com/pqmmheVP21",
+						"expanded_url": "https://twitter.com/AdvanceHE/status/1281181371399053312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 580,
+								"h": 330,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 580,
+								"h": 330,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 580,
+								"h": 330,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 941587234465177600,
+				"id_str": "941587234465177600",
+				"name": "Advance HE",
+				"screen_name": "AdvanceHE",
+				"location": "United Kingdom",
+				"description": "We are Advance HE, and we are dedicated to helping higher education shape its future.",
+				"url": "https://t.co/nf6dzkKahl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nf6dzkKahl",
+								"expanded_url": "http://www.advance-he.ac.uk",
+								"display_url": "advance-he.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13372,
+				"friends_count": 626,
+				"listed_count": 101,
+				"created_at": "Fri Dec 15 08:34:25 +0000 2017",
+				"favourites_count": 8186,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5557,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1019956876946141184/5T0ysk5T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019956876946141184/5T0ysk5T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/941587234465177600/1588085734",
+				"profile_link_color": "03A1A4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There will be a chance to explore the findings of this report through a tweetchat on 16th July  15:30-17:30 BST #AdvanceHE_chat https://t.co/0rwxTmJNWG"
+	},
+	{
+		"created_at": "Fri Jul 10 07:05:04 +0000 2020",
+		"id": 1281484566260338700,
+		"id_str": "1281484566260338688",
+		"full_text": "Read the Jul 10 Newsletter curated by my PLN featuring “Notes on SALT Conference 2020” https://t.co/A3VCqS4T5Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A3VCqS4T5Q",
+					"expanded_url": "https://nzzl.us/QkeQsU2",
+					"display_url": "nzzl.us/QkeQsU2",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1584,
+			"friends_count": 1213,
+			"listed_count": 123,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Jul 10 Newsletter curated by my PLN featuring “Notes on SALT Conference 2020” https://t.co/A3VCqS4T5Q"
+	},
+	{
 		"created_at": "Thu Jul 09 09:00:20 +0000 2020",
 		"id": 1281151186394120200,
 		"id_str": "1281151186394120193",
