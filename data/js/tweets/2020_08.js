@@ -1,6 +1,1869 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 19 18:37:47 +0000 2020",
+		"id": 1296154408934350800,
+		"id_str": "1296154408934350848",
+		"full_text": "Johnson vowed to strengthen parliament. Yet he and Cummings are silencing it | Martin Kettle https://t.co/8K4877emaj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8K4877emaj",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2020/aug/19/johnson-parliament-cummings-britain-democracy",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1581,
+			"friends_count": 1212,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Johnson vowed to strengthen parliament. Yet he and Cummings are silencing it | Martin Kettle https://t.co/8K4877emaj"
+	},
+	{
+		"created_at": "Wed Aug 19 08:11:55 +0000 2020",
+		"id": 1294917345404747800,
+		"id_str": "1295996906099875840",
+		"full_text": "This is truly scary! If you trust algorithms with individuals’ results - don’t! And don’t employ people who do! https://t.co/5EuwDLVzRc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5EuwDLVzRc",
+					"expanded_url": "https://amp.theguardian.com/education/2020/aug/14/do-the-maths-why-englands-a-level-grading-system-is-unfair",
+					"display_url": "amp.theguardian.com/education/2020…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1350065268,
+			"id_str": "1350065268",
+			"name": "Phil Race",
+			"screen_name": "RacePhil",
+			"location": "Newcastle Upon Tyne, England",
+			"description": "Writer and keynoter on assessment, feedback, teaching and learning in tertiary education, e.g.'Making Learning Happen' & 'Lecturer's Toolkit'. NTF, PFHEA",
+			"url": "https://t.co/4KgQ6vybwe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4KgQ6vybwe",
+							"expanded_url": "http://phil-race.co.uk",
+							"display_url": "phil-race.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8856,
+			"friends_count": 8748,
+			"listed_count": 144,
+			"created_at": "Sat Apr 13 19:50:29 +0000 2013",
+			"favourites_count": 16290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000609415725/19672c718d9873a6c2faba1242b6562d_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000609415725/19672c718d9873a6c2faba1242b6562d_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1350065268/1460222436",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 33,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is truly scary! If you trust algorithms with individuals’ results - don’t! And don’t employ people who do! https://t.co/5EuwDLVzRc"
+	},
+	{
+		"created_at": "Wed Aug 19 08:10:39 +0000 2020",
+		"id": 1295996588964352000,
+		"id_str": "1295996588964352001",
+		"full_text": "@tamsynprotheroe Which podcasts? I’m rather obsessed with Newscast, Remainiacs and The Bunker!",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tamsynprotheroe",
+					"name": "Tamsyn Protheroe",
+					"id": 152723019,
+					"id_str": "152723019",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1295056287512895500,
+		"in_reply_to_status_id_str": "1295056287512895489",
+		"in_reply_to_user_id": 152723019,
+		"in_reply_to_user_id_str": "152723019",
+		"in_reply_to_screen_name": "tamsynprotheroe",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1581,
+			"friends_count": 1212,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tamsynprotheroe Which podcasts? I’m rather obsessed with Newscast, Remainiacs and The Bunker!"
+	},
+	{
+		"created_at": "Wed Aug 19 08:08:33 +0000 2020",
+		"id": 1295379675376746500,
+		"id_str": "1295996059399979009",
+		"full_text": "Admissions officers: 4pm on a Monday is an entirely responsible time to open a bottle.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12219232,
+			"id_str": "12219232",
+			"name": "David Kernohan",
+			"screen_name": "dkernohan",
+			"location": "Dursley, England",
+			"description": "Associate editor/data person @Wonkhe. \n\"Boldly incomprehensible\"\n\nOccasional detours into open education and yacht rock. Some political content.",
+			"url": "https://t.co/t4yXduFlpo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t4yXduFlpo",
+							"expanded_url": "http://followersoftheapocalyp.se",
+							"display_url": "followersoftheapocalyp.se",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6552,
+			"friends_count": 2307,
+			"listed_count": 328,
+			"created_at": "Mon Jan 14 15:05:54 +0000 2008",
+			"favourites_count": 8359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216363550148571142/MK3ZB5h-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216363550148571142/MK3ZB5h-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12219232/1554198155",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "B5B5B5",
+			"profile_sidebar_fill_color": "B8B8B8",
+			"profile_text_color": "5C5C5C",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 168,
+		"favorite_count": 1549,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Admissions officers: 4pm on a Monday is an entirely responsible time to open a bottle."
+	},
+	{
+		"created_at": "Wed Aug 19 08:08:10 +0000 2020",
+		"id": 1295388527216275500,
+		"id_str": "1295995961362325504",
+		"full_text": "Narrator: The cap is off. https://t.co/4HgzLWtkmX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4HgzLWtkmX",
+					"expanded_url": "https://twitter.com/dkernohan/status/1295375577004867584",
+					"display_url": "twitter.com/dkernohan/stat…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12219232,
+			"id_str": "12219232",
+			"name": "David Kernohan",
+			"screen_name": "dkernohan",
+			"location": "Dursley, England",
+			"description": "Associate editor/data person @Wonkhe. \n\"Boldly incomprehensible\"\n\nOccasional detours into open education and yacht rock. Some political content.",
+			"url": "https://t.co/t4yXduFlpo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t4yXduFlpo",
+							"expanded_url": "http://followersoftheapocalyp.se",
+							"display_url": "followersoftheapocalyp.se",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6552,
+			"friends_count": 2307,
+			"listed_count": 328,
+			"created_at": "Mon Jan 14 15:05:54 +0000 2008",
+			"favourites_count": 8359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216363550148571142/MK3ZB5h-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216363550148571142/MK3ZB5h-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12219232/1554198155",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "B5B5B5",
+			"profile_sidebar_fill_color": "B8B8B8",
+			"profile_text_color": "5C5C5C",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1295375577004867600,
+		"quoted_status_id_str": "1295375577004867584",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4HgzLWtkmX",
+			"expanded": "https://twitter.com/dkernohan/status/1295375577004867584",
+			"display": "twitter.com/dkernohan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 17 15:02:59 +0000 2020",
+			"id": 1295375577004867600,
+			"id_str": "1295375577004867584",
+			"full_text": "NOW. Does the cap stay on, and what legal remedies will be available for students who now hold grades that meet a conditional offer but their course is full?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 12219232,
+				"id_str": "12219232",
+				"name": "David Kernohan",
+				"screen_name": "dkernohan",
+				"location": "Dursley, England",
+				"description": "Associate editor/data person @Wonkhe. \n\"Boldly incomprehensible\"\n\nOccasional detours into open education and yacht rock. Some political content.",
+				"url": "https://t.co/t4yXduFlpo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/t4yXduFlpo",
+								"expanded_url": "http://followersoftheapocalyp.se",
+								"display_url": "followersoftheapocalyp.se",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6552,
+				"friends_count": 2307,
+				"listed_count": 328,
+				"created_at": "Mon Jan 14 15:05:54 +0000 2008",
+				"favourites_count": 8359,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 61411,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1216363550148571142/MK3ZB5h-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216363550148571142/MK3ZB5h-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/12219232/1554198155",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "B5B5B5",
+				"profile_sidebar_fill_color": "B8B8B8",
+				"profile_text_color": "5C5C5C",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 109,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Narrator: The cap is off. https://t.co/4HgzLWtkmX"
+	},
+	{
+		"created_at": "Wed Aug 19 08:06:42 +0000 2020",
+		"id": 1295381933799755800,
+		"id_str": "1295995595002466304",
+		"full_text": "I wonder if DfE are genuinely going to leave universities to clear up the mess with no support?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12219232,
+			"id_str": "12219232",
+			"name": "David Kernohan",
+			"screen_name": "dkernohan",
+			"location": "Dursley, England",
+			"description": "Associate editor/data person @Wonkhe. \n\"Boldly incomprehensible\"\n\nOccasional detours into open education and yacht rock. Some political content.",
+			"url": "https://t.co/t4yXduFlpo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t4yXduFlpo",
+							"expanded_url": "http://followersoftheapocalyp.se",
+							"display_url": "followersoftheapocalyp.se",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6552,
+			"friends_count": 2307,
+			"listed_count": 328,
+			"created_at": "Mon Jan 14 15:05:54 +0000 2008",
+			"favourites_count": 8359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216363550148571142/MK3ZB5h-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216363550148571142/MK3ZB5h-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12219232/1554198155",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "B5B5B5",
+			"profile_sidebar_fill_color": "B8B8B8",
+			"profile_text_color": "5C5C5C",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 161,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I wonder if DfE are genuinely going to leave universities to clear up the mess with no support?"
+	},
+	{
+		"created_at": "Wed Aug 19 08:06:28 +0000 2020",
+		"id": 1295632588405723100,
+		"id_str": "1295995533669150721",
+		"full_text": "Different universities are right for different people. Don't assume Russell Group automatically makes a course or your future any better. Look to the specifics, the people &amp; support.I turned down two RG offers for @SwanseaUni 20 years ago &amp; never looked back - was right for me 👏 https://t.co/aZjhlNza3I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SwanseaUni",
+					"name": "Swansea University",
+					"id": 62489200,
+					"id_str": "62489200",
+					"indices": [
+						218,
+						229
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aZjhlNza3I",
+					"expanded_url": "https://twitter.com/markgarratt100/status/1295588956164313088",
+					"display_url": "twitter.com/markgarratt100…",
+					"indices": [
+						288,
+						311
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2217401528,
+			"id_str": "2217401528",
+			"name": "Prof Amy Brown 🕷🤱🐘",
+			"screen_name": "Prof_AmyBrown",
+			"location": "Swansea, UK",
+			"description": "Swansea Uni; Human milk; Mothers; Unseemly; Incorrigible; Geekily accessible; Girly swot; Disruptor; Dislikes sealions; Natalie's elephant; Evil maybe",
+			"url": "https://t.co/zgFrrusitF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zgFrrusitF",
+							"expanded_url": "http://www.pinterandmartin.com/amy-brown",
+							"display_url": "pinterandmartin.com/amy-brown",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10468,
+			"friends_count": 3988,
+			"listed_count": 126,
+			"created_at": "Wed Nov 27 08:18:03 +0000 2013",
+			"favourites_count": 37512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1020383000440311809/dk80Dxo5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020383000440311809/dk80Dxo5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2217401528/1485380558",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1295588956164313000,
+		"quoted_status_id_str": "1295588956164313088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aZjhlNza3I",
+			"expanded": "https://twitter.com/markgarratt100/status/1295588956164313088",
+			"display": "twitter.com/markgarratt100…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 18 05:10:52 +0000 2020",
+			"id": 1295588956164313000,
+			"id_str": "1295588956164313088",
+			"full_text": "Rhian it’s because of the commitment, support and flexibility of staff like you which means a large percentage of these students will remain with their decision to study @SwanseaUni ive seen the feedback from lots of parents about how impressed they are with us, so don’t despair https://t.co/C3qaIwYzSC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SwanseaUni",
+						"name": "Swansea University",
+						"id": 62489200,
+						"id_str": "62489200",
+						"indices": [
+							170,
+							181
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/C3qaIwYzSC",
+						"expanded_url": "https://twitter.com/rhianmeara/status/1295421332939841539",
+						"display_url": "twitter.com/rhianmeara/sta…",
+						"indices": [
+							280,
+							303
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 85930564,
+				"id_str": "85930564",
+				"name": "Mark S Garratt",
+				"screen_name": "markgarratt100",
+				"location": "Swansea",
+				"description": "Marketing Dir Swansea University Board Member @bradfordlitfest Bradford UNESCO City of Film and @leedscitycoll Vice Chair Universities Marketing Forum @bcfc fan",
+				"url": "https://t.co/OBTDAMZDRV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OBTDAMZDRV",
+								"expanded_url": "http://markgarratt1.home.blog",
+								"display_url": "markgarratt1.home.blog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2248,
+				"friends_count": 1459,
+				"listed_count": 78,
+				"created_at": "Wed Oct 28 22:32:51 +0000 2009",
+				"favourites_count": 17719,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29141,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1269669618714587136/o5lPon4d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269669618714587136/o5lPon4d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/85930564/1591719238",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1295421332939841500,
+			"quoted_status_id_str": "1295421332939841539",
+			"quoted_status_permalink": {
+				"url": "https://t.co/C3qaIwYzSC",
+				"expanded": "https://twitter.com/rhianmeara/status/1295421332939841539",
+				"display": "twitter.com/rhianmeara/sta…"
+			},
+			"retweet_count": 2,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 16,
+		"favorite_count": 67,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Different universities are right for different people. Don't assume Russell Group automatically makes a course or your future any better. Look to the specifics, the people &amp; support.I turned down two RG offers for @SwanseaUni 20 years ago &amp; never looked back - was right for me 👏 https://t.co/aZjhlNza3I"
+	},
+	{
+		"created_at": "Wed Aug 19 08:06:05 +0000 2020",
+		"id": 1295470410700554200,
+		"id_str": "1295995436134813696",
+		"full_text": "Absolute state of that U of Bristol Med School story. Telegraph should be ashamed of itself https://t.co/hZMq5id2Lx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hZMq5id2Lx",
+					"expanded_url": "https://twitter.com/hendopolis/status/1295462963927801861",
+					"display_url": "twitter.com/hendopolis/sta…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12219232,
+			"id_str": "12219232",
+			"name": "David Kernohan",
+			"screen_name": "dkernohan",
+			"location": "Dursley, England",
+			"description": "Associate editor/data person @Wonkhe. \n\"Boldly incomprehensible\"\n\nOccasional detours into open education and yacht rock. Some political content.",
+			"url": "https://t.co/t4yXduFlpo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t4yXduFlpo",
+							"expanded_url": "http://followersoftheapocalyp.se",
+							"display_url": "followersoftheapocalyp.se",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6552,
+			"friends_count": 2307,
+			"listed_count": 328,
+			"created_at": "Mon Jan 14 15:05:54 +0000 2008",
+			"favourites_count": 8359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216363550148571142/MK3ZB5h-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216363550148571142/MK3ZB5h-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12219232/1554198155",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "B5B5B5",
+			"profile_sidebar_fill_color": "B8B8B8",
+			"profile_text_color": "5C5C5C",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "4c33a3069bfd6bb4",
+			"url": "https://api.twitter.com/1.1/geo/id/4c33a3069bfd6bb4.json",
+			"place_type": "city",
+			"name": "Dursley",
+			"full_name": "Dursley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-2.3840564,
+							51.6722878
+						],
+						[
+							-2.3378152,
+							51.6722878
+						],
+						[
+							-2.3378152,
+							51.7177138
+						],
+						[
+							-2.3840564,
+							51.7177138
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1295462963927801900,
+		"quoted_status_id_str": "1295462963927801861",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hZMq5id2Lx",
+			"expanded": "https://twitter.com/hendopolis/status/1295462963927801861",
+			"display": "twitter.com/hendopolis/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 17 20:50:13 +0000 2020",
+			"id": 1295462963927801900,
+			"id_str": "1295462963927801861",
+			"full_text": "TELEGRAPH: ⁦@GavinWilliamson⁩ shifts blame on to exam watchdog #TomorrowsPapersToday https://t.co/yFw2B1seT5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				84
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TomorrowsPapersToday",
+						"indices": [
+							63,
+							84
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GavinWilliamson",
+						"name": "Gavin Williamson",
+						"id": 368314502,
+						"id_str": "368314502",
+						"indices": [
+							12,
+							28
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1295462957443362800,
+						"id_str": "1295462957443362816",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/EfposjYWsAADK0N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfposjYWsAADK0N.jpg",
+						"url": "https://t.co/yFw2B1seT5",
+						"display_url": "pic.twitter.com/yFw2B1seT5",
+						"expanded_url": "https://twitter.com/hendopolis/status/1295462963927801861/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 414,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1246,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 730,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1295462957443362800,
+						"id_str": "1295462957443362816",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/EfposjYWsAADK0N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EfposjYWsAADK0N.jpg",
+						"url": "https://t.co/yFw2B1seT5",
+						"display_url": "pic.twitter.com/yFw2B1seT5",
+						"expanded_url": "https://twitter.com/hendopolis/status/1295462963927801861/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 414,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1246,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 730,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16692859,
+				"id_str": "16692859",
+				"name": "Neil Henderson",
+				"screen_name": "hendopolis",
+				"location": "Maine Rd",
+				"description": "BBC Newsdesk and Planning editor. #tomorrowspaperstoday sometimes #MCFC & International Creme Brulee inspector. Not an offical BBC account.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 87795,
+				"friends_count": 7310,
+				"listed_count": 1419,
+				"created_at": "Sat Oct 11 03:59:16 +0000 2008",
+				"favourites_count": 23195,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 63564,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/522146754473762816/5NJVM3Y4_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/522146754473762816/5NJVM3Y4_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16692859/1586552098",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCD",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 31,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Absolute state of that U of Bristol Med School story. Telegraph should be ashamed of itself https://t.co/hZMq5id2Lx"
+	},
+	{
+		"created_at": "Wed Aug 19 08:04:56 +0000 2020",
+		"id": 1295730932335378400,
+		"id_str": "1295995150523666432",
+		"full_text": "OfS on A levels. Universities should \"do all they can\", apparently. https://t.co/Bud2Wi0c88",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1295730919068901400,
+					"id_str": "1295730919068901378",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EftcZ-OXoAIam-s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EftcZ-OXoAIam-s.jpg",
+					"url": "https://t.co/Bud2Wi0c88",
+					"display_url": "pic.twitter.com/Bud2Wi0c88",
+					"expanded_url": "https://twitter.com/dkernohan/status/1295730932335378434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 248,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1210,
+							"h": 442,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 438,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295730919068901400,
+					"id_str": "1295730919068901378",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EftcZ-OXoAIam-s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EftcZ-OXoAIam-s.jpg",
+					"url": "https://t.co/Bud2Wi0c88",
+					"display_url": "pic.twitter.com/Bud2Wi0c88",
+					"expanded_url": "https://twitter.com/dkernohan/status/1295730932335378434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 248,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1210,
+							"h": 442,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 438,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12219232,
+			"id_str": "12219232",
+			"name": "David Kernohan",
+			"screen_name": "dkernohan",
+			"location": "Dursley, England",
+			"description": "Associate editor/data person @Wonkhe. \n\"Boldly incomprehensible\"\n\nOccasional detours into open education and yacht rock. Some political content.",
+			"url": "https://t.co/t4yXduFlpo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t4yXduFlpo",
+							"expanded_url": "http://followersoftheapocalyp.se",
+							"display_url": "followersoftheapocalyp.se",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6552,
+			"friends_count": 2307,
+			"listed_count": 328,
+			"created_at": "Mon Jan 14 15:05:54 +0000 2008",
+			"favourites_count": 8359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216363550148571142/MK3ZB5h-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216363550148571142/MK3ZB5h-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12219232/1554198155",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "B5B5B5",
+			"profile_sidebar_fill_color": "B8B8B8",
+			"profile_text_color": "5C5C5C",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OfS on A levels. Universities should \"do all they can\", apparently. https://t.co/Bud2Wi0c88"
+	},
+	{
+		"created_at": "Wed Aug 19 08:04:24 +0000 2020",
+		"id": 1295813810217943000,
+		"id_str": "1295995012346531841",
+		"full_text": "In and amongst the chaos in HE right now, it is wonderful to know that this superb resource is available for educators to share good practice. This is wonderful, thank you to all the curators. I am will look to submit something if I can 😊 https://t.co/bYQUsPFsXT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bYQUsPFsXT",
+					"expanded_url": "https://twitter.com/NTRepository/status/1289342626878169088",
+					"display_url": "twitter.com/NTRepository/s…",
+					"indices": [
+						239,
+						262
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 234744939,
+			"id_str": "234744939",
+			"name": "Dr Linda K. Kaye (On leave)",
+			"screen_name": "LindaKKaye",
+			"location": "United Kingdom",
+			"description": "The CyberDoctor! Psychology of gaming & online behaviour. Founding member & Chair of @BPSCyberpsych | TEDx speaker| Educator | Scientist | SciCom | She/her",
+			"url": "https://t.co/wV2WNcCRNs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wV2WNcCRNs",
+							"expanded_url": "http://lindakkaye.wix.com/dr-linda-kaye",
+							"display_url": "lindakkaye.wix.com/dr-linda-kaye",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6096,
+			"friends_count": 5396,
+			"listed_count": 142,
+			"created_at": "Thu Jan 06 13:19:44 +0000 2011",
+			"favourites_count": 62395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1286363323550883840/0t4Y6OPR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1286363323550883840/0t4Y6OPR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/234744939/1541780534",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1289342626878169000,
+		"quoted_status_id_str": "1289342626878169088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bYQUsPFsXT",
+			"expanded": "https://twitter.com/NTRepository/status/1289342626878169088",
+			"display": "twitter.com/NTRepository/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 31 23:30:11 +0000 2020",
+			"id": 1289342626878169000,
+			"id_str": "1289342626878169088",
+			"full_text": "Learning from each other to continue to improve what we do. A space to make your teaching resources &amp; pedagogical research discoverable, shareable and citable. Please visit: https://t.co/1A090uqziI to read our welcome guide. https://t.co/Z1n8wFn3A0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				228
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1A090uqziI",
+						"expanded_url": "https://figshare.edgehill.ac.uk/articles/presentation/NTR_-_Welcome_pdf/12673016",
+						"display_url": "figshare.edgehill.ac.uk/articles/prese…",
+						"indices": [
+							178,
+							201
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1289341573277327400,
+						"id_str": "1289341573277327361",
+						"indices": [
+							229,
+							252
+						],
+						"media_url": "http://pbs.twimg.com/media/EeSpVGVWoAE9EhM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EeSpVGVWoAE9EhM.jpg",
+						"url": "https://t.co/Z1n8wFn3A0",
+						"display_url": "pic.twitter.com/Z1n8wFn3A0",
+						"expanded_url": "https://twitter.com/NTRepository/status/1289342626878169088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 656,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 656,
+								"h": 382,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 656,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1289341573277327400,
+						"id_str": "1289341573277327361",
+						"indices": [
+							229,
+							252
+						],
+						"media_url": "http://pbs.twimg.com/media/EeSpVGVWoAE9EhM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EeSpVGVWoAE9EhM.jpg",
+						"url": "https://t.co/Z1n8wFn3A0",
+						"display_url": "pic.twitter.com/Z1n8wFn3A0",
+						"expanded_url": "https://twitter.com/NTRepository/status/1289342626878169088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 656,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 656,
+								"h": 382,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 656,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1269949194292297700,
+				"id_str": "1269949194292297728",
+				"name": "The National Teaching Repository",
+				"screen_name": "NTRepository",
+				"location": "",
+				"description": "Learning from each other to continue to improve what we do. A space to make your teaching resources & pedagogical research discoverable, shareable and citable.",
+				"url": "https://t.co/PH1wrQNGEe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PH1wrQNGEe",
+								"expanded_url": "https://figshare.edgehill.ac.uk/The_National_Teaching_Repository",
+								"display_url": "figshare.edgehill.ac.uk/The_National_T…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 165,
+				"friends_count": 135,
+				"listed_count": 1,
+				"created_at": "Mon Jun 08 11:07:46 +0000 2020",
+				"favourites_count": 64,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 58,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1270497708810395649/wf2v3Utn_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270497708810395649/wf2v3Utn_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1269949194292297728/1591745244",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 26,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In and amongst the chaos in HE right now, it is wonderful to know that this superb resource is available for educators to share good practice. This is wonderful, thank you to all the curators. I am will look to submit something if I can 😊 https://t.co/bYQUsPFsXT"
+	},
+	{
+		"created_at": "Wed Aug 19 07:04:48 +0000 2020",
+		"id": 1295980017600659500,
+		"id_str": "1295980017600659456",
+		"full_text": "Read my Aug 19 'swan-uni-staff' Newsletter featuring “Vanessa Feltz - 18/08/2020 - BBC Sounds” https://t.co/ocxQ05b2wt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ocxQ05b2wt",
+					"expanded_url": "https://nzzl.us/xgexe5U",
+					"display_url": "nzzl.us/xgexe5U",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1581,
+			"friends_count": 1212,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Aug 19 'swan-uni-staff' Newsletter featuring “Vanessa Feltz - 18/08/2020 - BBC Sounds” https://t.co/ocxQ05b2wt"
+	},
+	{
 		"created_at": "Tue Aug 18 07:05:05 +0000 2020",
 		"id": 1295617699230425000,
 		"id_str": "1295617699230425088",
