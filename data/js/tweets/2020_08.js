@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 30 11:21:08 +0000 2020",
+		"id": 1299801912674574300,
+		"id_str": "1300030789757874178",
+		"full_text": "If it wasn't in such bad taste, I would actually propose a sweepstake for how many weeks it is from start of term to campuses having to close https://t.co/perSh5sYDe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1299801904428572700,
+					"id_str": "1299801904428572672",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EgnS8gfXYAABQIc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EgnS8gfXYAABQIc.jpg",
+					"url": "https://t.co/perSh5sYDe",
+					"display_url": "pic.twitter.com/perSh5sYDe",
+					"expanded_url": "https://twitter.com/LindaKKaye/status/1299801912674574336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 220,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 220,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 220,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1299801904428572700,
+					"id_str": "1299801904428572672",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EgnS8gfXYAABQIc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EgnS8gfXYAABQIc.jpg",
+					"url": "https://t.co/perSh5sYDe",
+					"display_url": "pic.twitter.com/perSh5sYDe",
+					"expanded_url": "https://twitter.com/LindaKKaye/status/1299801912674574336/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 220,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 220,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 220,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							110
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EgnS8gfXYAABQIc.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 234744939,
+			"id_str": "234744939",
+			"name": "Dr Linda K. Kaye",
+			"screen_name": "LindaKKaye",
+			"location": "United Kingdom",
+			"description": "The CyberDoctor! Psychology of gaming & online behaviour. Founding member & Chair of @BPSCyberpsych | TEDx speaker| Educator | Scientist | SciCom | She/her",
+			"url": "https://t.co/wV2WNcCRNs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wV2WNcCRNs",
+							"expanded_url": "http://lindakkaye.wix.com/dr-linda-kaye",
+							"display_url": "lindakkaye.wix.com/dr-linda-kaye",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6124,
+			"friends_count": 5410,
+			"listed_count": 141,
+			"created_at": "Thu Jan 06 13:19:44 +0000 2011",
+			"favourites_count": 63403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1286363323550883840/0t4Y6OPR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1286363323550883840/0t4Y6OPR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/234744939/1541780534",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "5ED4DC",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 44,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If it wasn't in such bad taste, I would actually propose a sweepstake for how many weeks it is from start of term to campuses having to close https://t.co/perSh5sYDe"
+	},
+	{
+		"created_at": "Sun Aug 30 07:04:25 +0000 2020",
+		"id": 1299966186059333600,
+		"id_str": "1299966186059333633",
+		"full_text": "Read my Aug 30 'swan-uni-staff' Newsletter featuring “Covid warning as a million students set for uni return” https://t.co/LDFcwJQB8w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LDFcwJQB8w",
+					"expanded_url": "https://nzzl.us/yfUHJSL",
+					"display_url": "nzzl.us/yfUHJSL",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1585,
+			"friends_count": 1212,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20636,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Aug 30 'swan-uni-staff' Newsletter featuring “Covid warning as a million students set for uni return” https://t.co/LDFcwJQB8w"
+	},
+	{
 		"created_at": "Sat Aug 29 07:05:13 +0000 2020",
 		"id": 1299603998715113500,
 		"id_str": "1299603998715113473",
