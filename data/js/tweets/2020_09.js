@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 06 15:55:34 +0000 2020",
+		"id": 1301479015241461800,
+		"id_str": "1302636570680451072",
+		"full_text": "A collection of high quality media resources originally created for The University of Edinburgh's MOOCs and free short online courses.  Available under #CreativeCommons license for sharing, reuse and remixing. https://t.co/sOjqa6QYu2 Fill your boots.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CreativeCommons",
+					"indices": [
+						152,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sOjqa6QYu2",
+					"expanded_url": "https://media.ed.ac.uk/channel/Open+Media+Bank/",
+					"display_url": "media.ed.ac.uk/channel/Open+M…",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2382712322,
+			"id_str": "2382712322",
+			"name": "Melissa",
+			"screen_name": "HoneybHighton",
+			"location": "University of Edinburgh/Oxford",
+			"description": "Edtech blogger, IT Director, maven and occasional keynote. Interested in all things digital in higher education. Tweet people the way you want to be tweeted.",
+			"url": "https://t.co/ZkIRHSRTNv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZkIRHSRTNv",
+							"expanded_url": "http://thinking.is.ed.ac.uk/melissa/",
+							"display_url": "thinking.is.ed.ac.uk/melissa/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2147,
+			"friends_count": 1097,
+			"listed_count": 143,
+			"created_at": "Mon Mar 10 21:36:05 +0000 2014",
+			"favourites_count": 1598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1142797011147776001/4yX5oI1D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142797011147776001/4yX5oI1D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2382712322/1474024963",
+			"profile_link_color": "B3B300",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 74,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A collection of high quality media resources originally created for The University of Edinburgh's MOOCs and free short online courses.  Available under #CreativeCommons license for sharing, reuse and remixing. https://t.co/sOjqa6QYu2 Fill your boots."
+	},
+	{
+		"created_at": "Sun Sep 06 07:04:11 +0000 2020",
+		"id": 1302502841848864800,
+		"id_str": "1302502841848864769",
+		"full_text": "Read the Sep 6 Newsletter curated by my PLN featuring “#LTHEchat New kids on the block!” https://t.co/inG9md2oGw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						55,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/inG9md2oGw",
+					"expanded_url": "https://nzzl.us/2vVsvJW",
+					"display_url": "nzzl.us/2vVsvJW",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1584,
+			"friends_count": 1213,
+			"listed_count": 121,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Sep 6 Newsletter curated by my PLN featuring “#LTHEchat New kids on the block!” https://t.co/inG9md2oGw"
+	},
+	{
 		"created_at": "Sat Sep 05 11:41:51 +0000 2020",
 		"id": 1302210329309524000,
 		"id_str": "1302210329309523968",
