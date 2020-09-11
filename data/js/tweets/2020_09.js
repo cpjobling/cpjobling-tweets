@@ -1,6 +1,1601 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 10 07:52:33 +0000 2020",
+		"id": 1303684434537914400,
+		"id_str": "1303964566150418439",
+		"full_text": "I've been thinking about ways to make implicit expectations explicit for incoming first-year students when teaching in an online environment. It's a first draft, but this is where I am at the moment. https://t.co/cXvhEsBJ7d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1303683940130095000,
+					"id_str": "1303683940130095104",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EhedoubWAAAaRk1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhedoubWAAAaRk1.jpg",
+					"url": "https://t.co/cXvhEsBJ7d",
+					"display_url": "pic.twitter.com/cXvhEsBJ7d",
+					"expanded_url": "https://twitter.com/ElizabethM_Ward/status/1303684434537914370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1040,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303683940130095000,
+					"id_str": "1303683940130095104",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EhedoubWAAAaRk1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhedoubWAAAaRk1.jpg",
+					"url": "https://t.co/cXvhEsBJ7d",
+					"display_url": "pic.twitter.com/cXvhEsBJ7d",
+					"expanded_url": "https://twitter.com/ElizabethM_Ward/status/1303684434537914370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1040,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1040,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 471,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1071217603379634200,
+			"id_str": "1071217603379634176",
+			"name": "Elizabeth Ward",
+			"screen_name": "ElizabethM_Ward",
+			"location": "@kingsgerman",
+			"description": "Lecturer in German Film. Film historian. Researches DEFA, film festivals and cultural memory. Often to be found in archives, cinemas and second-hand bookshops",
+			"url": "https://t.co/D8stgZnisP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D8stgZnisP",
+							"expanded_url": "https://www.berghahnbooks.com/title/WardEast",
+							"display_url": "berghahnbooks.com/title/WardEast",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 556,
+			"friends_count": 491,
+			"listed_count": 3,
+			"created_at": "Sat Dec 08 01:39:13 +0000 2018",
+			"favourites_count": 9034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085330126416564225/SNsGtvoR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085330126416564225/SNsGtvoR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1071217603379634176/1580438228",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 395,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I've been thinking about ways to make implicit expectations explicit for incoming first-year students when teaching in an online environment. It's a first draft, but this is where I am at the moment. https://t.co/cXvhEsBJ7d"
+	},
+	{
+		"created_at": "Thu Sep 10 07:19:35 +0000 2020",
+		"id": 1302999322380972000,
+		"id_str": "1303956270622429184",
+		"full_text": "Pastoral Care in the digital classroom. I've been thinking a lot about how we support the learning community, and how we develop/deploy pastoral activities into the online space. I did some whiteboarding earlier and thought I'd share some thoughts and ideas I've had [thread]",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 405910853,
+			"id_str": "405910853",
+			"name": "Dr Chris Headleand",
+			"screen_name": "ChrisHeadleand",
+			"location": "Lincoln, England",
+			"description": "Computer Scientist and Director of Teaching and Learning; VR Researcher; Interested in learning communities; Student Engagement evangelist! #SFHEA Dad",
+			"url": "https://t.co/HA0WAkZJl7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HA0WAkZJl7",
+							"expanded_url": "https://chrisheadleand.com/",
+							"display_url": "chrisheadleand.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3614,
+			"friends_count": 1229,
+			"listed_count": 61,
+			"created_at": "Sun Nov 06 00:10:12 +0000 2011",
+			"favourites_count": 16139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1295457286828306437/7hUsCRav_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1295457286828306437/7hUsCRav_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/405910853/1445964281",
+			"profile_link_color": "445F74",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 106,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Pastoral Care in the digital classroom. I've been thinking a lot about how we support the learning community, and how we develop/deploy pastoral activities into the online space. I did some whiteboarding earlier and thought I'd share some thoughts and ideas I've had [thread]"
+	},
+	{
+		"created_at": "Thu Sep 10 07:19:28 +0000 2020",
+		"id": 1302927167219794000,
+		"id_str": "1303956240784031744",
+		"full_text": "Just had a really useful brainstorming session on my whiteboard about socially distanced pastoral care - had a few ideas. Would this be useful for anyone else if I put it into a tweet thread?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 405910853,
+			"id_str": "405910853",
+			"name": "Dr Chris Headleand",
+			"screen_name": "ChrisHeadleand",
+			"location": "Lincoln, England",
+			"description": "Computer Scientist and Director of Teaching and Learning; VR Researcher; Interested in learning communities; Student Engagement evangelist! #SFHEA Dad",
+			"url": "https://t.co/HA0WAkZJl7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HA0WAkZJl7",
+							"expanded_url": "https://chrisheadleand.com/",
+							"display_url": "chrisheadleand.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3614,
+			"friends_count": 1229,
+			"listed_count": 61,
+			"created_at": "Sun Nov 06 00:10:12 +0000 2011",
+			"favourites_count": 16139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1295457286828306437/7hUsCRav_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1295457286828306437/7hUsCRav_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/405910853/1445964281",
+			"profile_link_color": "445F74",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 110,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Just had a really useful brainstorming session on my whiteboard about socially distanced pastoral care - had a few ideas. Would this be useful for anyone else if I put it into a tweet thread?"
+	},
+	{
+		"created_at": "Thu Sep 10 07:04:29 +0000 2020",
+		"id": 1303952469605724200,
+		"id_str": "1303952469605724162",
+		"full_text": "Read the Sep 10 Newsletter curated by my PLN featuring “The first weeks may be critical for the 2020 cohort” https://t.co/AEUuEKBqzr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AEUuEKBqzr",
+					"expanded_url": "https://nzzl.us/M7APIcD",
+					"display_url": "nzzl.us/M7APIcD",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1586,
+			"friends_count": 1214,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Sep 10 Newsletter curated by my PLN featuring “The first weeks may be critical for the 2020 cohort” https://t.co/AEUuEKBqzr"
+	},
+	{
+		"created_at": "Thu Sep 10 07:04:29 +0000 2020",
+		"id": 1303952468343230500,
+		"id_str": "1303952468343230465",
+		"full_text": "Read my Sep 10 'swan-uni-staff' Newsletter featuring “The first weeks may be critical for the 2020 cohort” https://t.co/dkUiRTPMaO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dkUiRTPMaO",
+					"expanded_url": "https://nzzl.us/9kYG2Zb",
+					"display_url": "nzzl.us/9kYG2Zb",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1586,
+			"friends_count": 1214,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Sep 10 'swan-uni-staff' Newsletter featuring “The first weeks may be critical for the 2020 cohort” https://t.co/dkUiRTPMaO"
+	},
+	{
+		"created_at": "Thu Sep 10 07:01:43 +0000 2020",
+		"id": 1303951771837046800,
+		"id_str": "1303951771837046785",
+		"full_text": "@UniWalesPress @Swansea_Alumni @Swansea2020 @histassoc_swan @CREWswanuni @SwanUniArchives @SamBlaxland @SwanseaUni @SwanseaHistory @CovertoCoverUK @GriffinBooksUK Just bought: Swansea University: Campus and Community in a Post-War World, 1945 - 2020 https://t.co/cPaTOwrBNC",
+		"truncated": false,
+		"display_text_range": [
+			163,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UniWalesPress",
+					"name": "Uni of Wales Press",
+					"id": 2436839490,
+					"id_str": "2436839490",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Swansea_Alumni",
+					"name": "Swansea Uni Alumni",
+					"id": 112460981,
+					"id_str": "112460981",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "Swansea2020",
+					"name": "SwanseaUni Centenary",
+					"id": 793796225292243000,
+					"id_str": "793796225292242944",
+					"indices": [
+						31,
+						43
+					]
+				},
+				{
+					"screen_name": "histassoc_swan",
+					"name": "HistAssoc: Swansea",
+					"id": 3437896911,
+					"id_str": "3437896911",
+					"indices": [
+						44,
+						59
+					]
+				},
+				{
+					"screen_name": "CREWswanuni",
+					"name": "CREW Swansea Uni",
+					"id": 915881350640652300,
+					"id_str": "915881350640652288",
+					"indices": [
+						60,
+						72
+					]
+				},
+				{
+					"screen_name": "SwanUniArchives",
+					"name": "RB Archives",
+					"id": 3131115070,
+					"id_str": "3131115070",
+					"indices": [
+						73,
+						89
+					]
+				},
+				{
+					"screen_name": "SamBlaxland",
+					"name": "Sam Blaxland",
+					"id": 1958456982,
+					"id_str": "1958456982",
+					"indices": [
+						90,
+						102
+					]
+				},
+				{
+					"screen_name": "SwanseaUni",
+					"name": "Swansea University",
+					"id": 62489200,
+					"id_str": "62489200",
+					"indices": [
+						103,
+						114
+					]
+				},
+				{
+					"screen_name": "SwanseaHistory",
+					"name": "Swansea History",
+					"id": 250146482,
+					"id_str": "250146482",
+					"indices": [
+						115,
+						130
+					]
+				},
+				{
+					"screen_name": "CovertoCoverUK",
+					"name": "Cover to Cover",
+					"id": 459190866,
+					"id_str": "459190866",
+					"indices": [
+						131,
+						146
+					]
+				},
+				{
+					"screen_name": "GriffinBooksUK",
+					"name": "Griffin Books 📚 🌈",
+					"id": 2678087628,
+					"id_str": "2678087628",
+					"indices": [
+						147,
+						162
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cPaTOwrBNC",
+					"expanded_url": "https://www.amazon.co.uk/dp/1786836068/ref=cm_sw_r_cp_api_i_g8CwFbP8YJM5B",
+					"display_url": "amazon.co.uk/dp/1786836068/…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1303692350997303300,
+		"in_reply_to_status_id_str": "1303692350997303296",
+		"in_reply_to_user_id": 2436839490,
+		"in_reply_to_user_id_str": "2436839490",
+		"in_reply_to_screen_name": "UniWalesPress",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1586,
+			"friends_count": 1214,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@UniWalesPress @Swansea_Alumni @Swansea2020 @histassoc_swan @CREWswanuni @SwanUniArchives @SamBlaxland @SwanseaUni @SwanseaHistory @CovertoCoverUK @GriffinBooksUK Just bought: Swansea University: Campus and Community in a Post-War World, 1945 - 2020 https://t.co/cPaTOwrBNC"
+	},
+	{
+		"created_at": "Thu Sep 10 06:59:02 +0000 2020",
+		"id": 1303692350997303300,
+		"id_str": "1303951096847753218",
+		"full_text": "‘Deeply researched and elegantly written, this book is essential reading for alumni, staff and students at Swansea. And it deserves a wider readership.' Purchase a copy of Swansea University: Campus and Community in a Post-War World, 1945–2020 from your local bookshop #Swansea https://t.co/goEvKxZ85C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Swansea",
+					"indices": [
+						269,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1303684351260065800,
+					"id_str": "1303684351260065796",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EheeAqAXgAQCfcZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EheeAqAXgAQCfcZ.jpg",
+					"url": "https://t.co/goEvKxZ85C",
+					"display_url": "pic.twitter.com/goEvKxZ85C",
+					"expanded_url": "https://twitter.com/UniWalesPress/status/1303692350997303296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 818,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 767,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303684351260065800,
+					"id_str": "1303684351260065796",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EheeAqAXgAQCfcZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EheeAqAXgAQCfcZ.jpg",
+					"url": "https://t.co/goEvKxZ85C",
+					"display_url": "pic.twitter.com/goEvKxZ85C",
+					"expanded_url": "https://twitter.com/UniWalesPress/status/1303692350997303296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 818,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 767,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2436839490,
+			"id_str": "2436839490",
+			"name": "Uni of Wales Press",
+			"screen_name": "UniWalesPress",
+			"location": "Cardiff, Wales",
+			"description": "Independent, not-for-profit academic publisher based in Cardiff. Cymraeg: @GwasgPrifCymru",
+			"url": "http://t.co/R6xfZQqy5u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/R6xfZQqy5u",
+							"expanded_url": "http://www.uwp.co.uk",
+							"display_url": "uwp.co.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2116,
+			"friends_count": 1257,
+			"listed_count": 56,
+			"created_at": "Thu Apr 10 10:46:45 +0000 2014",
+			"favourites_count": 1889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/800643698459549696/nsCgF9ov_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/800643698459549696/nsCgF9ov_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2436839490/1576839963",
+			"profile_link_color": "008080",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Deeply researched and elegantly written, this book is essential reading for alumni, staff and students at Swansea. And it deserves a wider readership.' Purchase a copy of Swansea University: Campus and Community in a Post-War World, 1945–2020 from your local bookshop #Swansea https://t.co/goEvKxZ85C"
+	},
+	{
+		"created_at": "Thu Sep 10 06:53:41 +0000 2020",
+		"id": 1302869218862477300,
+		"id_str": "1303949750115467264",
+		"full_text": "NEW on Wonkhe: Sally Brown shares how to use the first weeks of term to support the new cohort into an uncertain year.  https://t.co/IQ08cI5X6R https://t.co/dQAM1m3vFY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IQ08cI5X6R",
+					"expanded_url": "https://buff.ly/2Zcmd3t",
+					"display_url": "buff.ly/2Zcmd3t",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1302869216958218200,
+					"id_str": "1302869216958218243",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EhS4pmGWAAMos5q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhS4pmGWAAMos5q.jpg",
+					"url": "https://t.co/dQAM1m3vFY",
+					"display_url": "pic.twitter.com/dQAM1m3vFY",
+					"expanded_url": "https://twitter.com/Wonkhe/status/1302869218862477317/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302869216958218200,
+					"id_str": "1302869216958218243",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EhS4pmGWAAMos5q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhS4pmGWAAMos5q.jpg",
+					"url": "https://t.co/dQAM1m3vFY",
+					"display_url": "pic.twitter.com/dQAM1m3vFY",
+					"expanded_url": "https://twitter.com/Wonkhe/status/1302869218862477317/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245499504,
+			"id_str": "245499504",
+			"name": "Wonkhe",
+			"screen_name": "Wonkhe",
+			"location": "UK",
+			"description": "Home of the UK higher education debate. Founder & Editor in Chief: @markmleach",
+			"url": "https://t.co/AAcTiW7qPe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AAcTiW7qPe",
+							"expanded_url": "http://wonkhe.com",
+							"display_url": "wonkhe.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34710,
+			"friends_count": 15011,
+			"listed_count": 662,
+			"created_at": "Mon Jan 31 20:54:22 +0000 2011",
+			"favourites_count": 8199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213358797038739456/P4RT8ilj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213358797038739456/P4RT8ilj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245499504/1596465151",
+			"profile_link_color": "282746",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW on Wonkhe: Sally Brown shares how to use the first weeks of term to support the new cohort into an uncertain year.  https://t.co/IQ08cI5X6R https://t.co/dQAM1m3vFY"
+	},
+	{
+		"created_at": "Thu Sep 10 06:49:57 +0000 2020",
+		"id": 1303946322064572400,
+		"id_str": "1303948810381598720",
+		"full_text": "NEW on Wonkhe: The government has published its guidance for universities in England on reopening campuses. Jim Dickinson wonders if it's too little too late. @jim_dickinson https://t.co/ZB4DrLAvID https://t.co/SyLz59RPnV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jim_dickinson",
+					"name": "Jim Dickinson",
+					"id": 6100082,
+					"id_str": "6100082",
+					"indices": [
+						159,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZB4DrLAvID",
+					"expanded_url": "https://buff.ly/2Fi1e8a",
+					"display_url": "buff.ly/2Fi1e8a",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1303946319657136000,
+					"id_str": "1303946319657136128",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EhiMROVXcAAMBPQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhiMROVXcAAMBPQ.jpg",
+					"url": "https://t.co/SyLz59RPnV",
+					"display_url": "pic.twitter.com/SyLz59RPnV",
+					"expanded_url": "https://twitter.com/Wonkhe/status/1303946322064572416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303946319657136000,
+					"id_str": "1303946319657136128",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EhiMROVXcAAMBPQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhiMROVXcAAMBPQ.jpg",
+					"url": "https://t.co/SyLz59RPnV",
+					"display_url": "pic.twitter.com/SyLz59RPnV",
+					"expanded_url": "https://twitter.com/Wonkhe/status/1303946322064572416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245499504,
+			"id_str": "245499504",
+			"name": "Wonkhe",
+			"screen_name": "Wonkhe",
+			"location": "UK",
+			"description": "Home of the UK higher education debate. Founder & Editor in Chief: @markmleach",
+			"url": "https://t.co/AAcTiW7qPe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AAcTiW7qPe",
+							"expanded_url": "http://wonkhe.com",
+							"display_url": "wonkhe.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34710,
+			"friends_count": 15011,
+			"listed_count": 662,
+			"created_at": "Mon Jan 31 20:54:22 +0000 2011",
+			"favourites_count": 8199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213358797038739456/P4RT8ilj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213358797038739456/P4RT8ilj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245499504/1596465151",
+			"profile_link_color": "282746",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW on Wonkhe: The government has published its guidance for universities in England on reopening campuses. Jim Dickinson wonders if it's too little too late. @jim_dickinson https://t.co/ZB4DrLAvID https://t.co/SyLz59RPnV"
+	},
+	{
+		"created_at": "Thu Sep 10 06:47:33 +0000 2020",
+		"id": 1303948207500734500,
+		"id_str": "1303948207500734464",
+		"full_text": "@LJ_Rees @LTHEchat Do you fancy joining the team Louise? Great CPD! #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						68,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LJ_Rees",
+					"name": "Louise Rees",
+					"id": 723537068178190300,
+					"id_str": "723537068178190336",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						9,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1303884089250984000,
+		"in_reply_to_status_id_str": "1303884089250983942",
+		"in_reply_to_user_id": 723537068178190300,
+		"in_reply_to_user_id_str": "723537068178190336",
+		"in_reply_to_screen_name": "LJ_Rees",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1586,
+			"friends_count": 1214,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LJ_Rees @LTHEchat Do you fancy joining the team Louise? Great CPD! #LTHEchat"
+	},
+	{
+		"created_at": "Thu Sep 10 06:45:46 +0000 2020",
+		"id": 1303720163649486800,
+		"id_str": "1303947759012192256",
+		"full_text": "Putting content online is one thing. \nTeaching an online course is another.\nMany still confuse the two concepts. \nThe resource is not the course.\n#Highered #ActiveBlendedLearning #ABL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Highered",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"text": "ActiveBlendedLearning",
+					"indices": [
+						156,
+						178
+					]
+				},
+				{
+					"text": "ABL",
+					"indices": [
+						179,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17308664,
+			"id_str": "17308664",
+			"name": "Alejandro Armellini",
+			"screen_name": "alejandroa",
+			"location": "Leicestershire & Portsmouth",
+			"description": "Professor and Dean of Digital & Distributed Learning.  University of Portsmouth. PFHEA, FRSA. Own views.",
+			"url": "https://t.co/LTlZLqegn6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LTlZLqegn6",
+							"expanded_url": "https://alejandroarmellini.wordpress.com/",
+							"display_url": "alejandroarmellini.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1997,
+			"friends_count": 844,
+			"listed_count": 82,
+			"created_at": "Tue Nov 11 12:26:42 +0000 2008",
+			"favourites_count": 751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/745599342074011648/h-FcMAu4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/745599342074011648/h-FcMAu4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17308664/1420405813",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 103,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Putting content online is one thing. \nTeaching an online course is another.\nMany still confuse the two concepts. \nThe resource is not the course.\n#Highered #ActiveBlendedLearning #ABL"
+	},
+	{
 		"created_at": "Wed Sep 09 21:58:51 +0000 2020",
 		"id": 1303664931485745200,
 		"id_str": "1303815157110505477",
@@ -2818,7 +4413,7 @@ Grailbird.data.tweets_2020_09 =
 			"user_mentions": [
 				{
 					"screen_name": "hintondm",
-					"name": "Danielle M Hinton 👩🏻‍🏫👩🏻‍💻🌍",
+					"name": "Danielle M Hinton 👩🏻🏫👩🏻💻🌍",
 					"id": 36370231,
 					"id_str": "36370231",
 					"indices": [
@@ -4332,7 +5927,7 @@ Grailbird.data.tweets_2020_09 =
 				"name": "Suzanne Faulkner 👻📱🛴",
 				"screen_name": "SFaulknerPandO",
 				"location": "Largs, Scotland",
-				"description": "Teaching Fellow Prosthetics&Orthotics @UniStrathclyde,passionate about digital engagement📲 🎓,sprint triathlete 🏊🏻‍♀️🚴‍♀️ 🏃‍♀️Lego Serious Play facilitator",
+				"description": "Teaching Fellow Prosthetics&Orthotics @UniStrathclyde,passionate about digital engagement📲 🎓,sprint triathlete 🏊🏻♀️🚴♀️ 🏃♀️Lego Serious Play facilitator",
 				"url": "https://t.co/BXMTBgSRHk",
 				"entities": {
 					"url": {
