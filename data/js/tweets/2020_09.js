@@ -1,6 +1,478 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 12 10:10:55 +0000 2020",
+		"id": 1304138879390318600,
+		"id_str": "1304724162196451330",
+		"full_text": "Taking annual leave as an academic is just volunteering to do the same amount of work in less time.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48022095,
+			"id_str": "48022095",
+			"name": "Dr Helen Dexter",
+			"screen_name": "DrHDexter",
+			"location": "",
+			"description": "Associate Professor of International Politics, feminist, pacifist, mum, knackered.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2211,
+			"friends_count": 4326,
+			"listed_count": 28,
+			"created_at": "Wed Jun 17 16:39:23 +0000 2009",
+			"favourites_count": 15513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4983,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197958253675761667/aNxSrCti_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197958253675761667/aNxSrCti_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48022095/1443863475",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 1094,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Taking annual leave as an academic is just volunteering to do the same amount of work in less time."
+	},
+	{
+		"created_at": "Sat Sep 12 10:07:54 +0000 2020",
+		"id": 1304628758738096000,
+		"id_str": "1304723404604534784",
+		"full_text": "These tools are invasive, unethical, and in complete opposition to the culture of care that an educational institution should look provide at any time, least of all during a pandemic. https://t.co/gO4ukLFbrS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gO4ukLFbrS",
+					"expanded_url": "https://twitter.com/isabellaaeden/status/1304423824872689664",
+					"display_url": "twitter.com/isabellaaeden/…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 175313912,
+			"id_str": "175313912",
+			"name": "Jo Stroud",
+			"screen_name": "JoStroud",
+			"location": "London",
+			"description": "Head of Online Learning, University College London and @UCLDigiEd. Likes open ed, CPD, and global health. UCL IoE alum. She/her.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1005,
+			"friends_count": 1075,
+			"listed_count": 22,
+			"created_at": "Fri Aug 06 07:35:22 +0000 2010",
+			"favourites_count": 5299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "04393B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762967031633371136/RpYeXRQb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762967031633371136/RpYeXRQb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/175313912/1544129365",
+			"profile_link_color": "009298",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1304423824872689700,
+		"quoted_status_id_str": "1304423824872689664",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gO4ukLFbrS",
+			"expanded": "https://twitter.com/isabellaaeden/status/1304423824872689664",
+			"display": "twitter.com/isabellaaeden/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 11 14:17:29 +0000 2020",
+			"id": 1304423824872689700,
+			"id_str": "1304423824872689664",
+			"full_text": "@LegendAriee16 I literally dropped a class for this https://t.co/1K2um72tTO",
+			"truncated": false,
+			"display_text_range": [
+				15,
+				51
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LegendAriee16",
+						"name": "Arielle G 𓂀",
+						"id": 1107016529143582700,
+						"id_str": "1107016529143582720",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1304423804974833700,
+						"id_str": "1304423804974833666",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/Eho-ihwWoAIfPLb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eho-ihwWoAIfPLb.jpg",
+						"url": "https://t.co/1K2um72tTO",
+						"display_url": "pic.twitter.com/1K2um72tTO",
+						"expanded_url": "https://twitter.com/isabellaaeden/status/1304423824872689664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1304423804974833700,
+						"id_str": "1304423804974833666",
+						"indices": [
+							52,
+							75
+						],
+						"media_url": "http://pbs.twimg.com/media/Eho-ihwWoAIfPLb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eho-ihwWoAIfPLb.jpg",
+						"url": "https://t.co/1K2um72tTO",
+						"display_url": "pic.twitter.com/1K2um72tTO",
+						"expanded_url": "https://twitter.com/isabellaaeden/status/1304423824872689664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1304098649186742300,
+			"in_reply_to_status_id_str": "1304098649186742273",
+			"in_reply_to_user_id": 1107016529143582700,
+			"in_reply_to_user_id_str": "1107016529143582720",
+			"in_reply_to_screen_name": "LegendAriee16",
+			"user": {
+				"id": 3658514957,
+				"id_str": "3658514957",
+				"name": "♡ 𝓑𝓮𝓵𝓵𝓪 ♡",
+				"screen_name": "isabellaaeden",
+				"location": "yeehaw",
+				"description": "🌸20 | boriqueña 🤍🇵🇷 | UNT 🌱s.velezisabella@gmail.com",
+				"url": "https://t.co/9rFLl8r4BJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9rFLl8r4BJ",
+								"expanded_url": "http://instagram.com/bellewooods",
+								"display_url": "instagram.com/bellewooods",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6868,
+				"friends_count": 1603,
+				"listed_count": 8,
+				"created_at": "Tue Sep 15 00:45:27 +0000 2015",
+				"favourites_count": 103358,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 44407,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1292867372819386370/l4i2MP_V_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292867372819386370/l4i2MP_V_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3658514957/1581393606",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1627,
+			"favorite_count": 16806,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 43,
+		"favorite_count": 159,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These tools are invasive, unethical, and in complete opposition to the culture of care that an educational institution should look provide at any time, least of all during a pandemic. https://t.co/gO4ukLFbrS"
+	},
+	{
+		"created_at": "Sat Sep 12 07:04:58 +0000 2020",
+		"id": 1304677366824931300,
+		"id_str": "1304677366824931328",
+		"full_text": "Read my Sep 12 'swan-uni-staff' Newsletter featuring “Johnson was given warnings on effect of Irish protocol” https://t.co/5ia6KZsop1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5ia6KZsop1",
+					"expanded_url": "https://nzzl.us/XMPJ7PH",
+					"display_url": "nzzl.us/XMPJ7PH",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1586,
+			"friends_count": 1214,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Sep 12 'swan-uni-staff' Newsletter featuring “Johnson was given warnings on effect of Irish protocol” https://t.co/5ia6KZsop1"
+	},
+	{
 		"created_at": "Fri Sep 11 07:04:44 +0000 2020",
 		"id": 1304314919924437000,
 		"id_str": "1304314919924436999",
