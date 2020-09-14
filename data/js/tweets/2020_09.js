@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 13 12:46:41 +0000 2020",
+		"id": 1304770029192347600,
+		"id_str": "1305125751289769984",
+		"full_text": "Join @andypitchford68 (@clt_bath) and myself (@UoB_HEFi) this Wednesday 8pm BST for the next powerful #LTHEchat #HigherEducation discussion - Lifting the Mask: Creating a Connected #Campus in #SociallyDistanced Times https://t.co/xFTyNDVAas https://t.co/dOZbIzQw8v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						102,
+						111
+					]
+				},
+				{
+					"text": "HigherEducation",
+					"indices": [
+						112,
+						128
+					]
+				},
+				{
+					"text": "Campus",
+					"indices": [
+						181,
+						188
+					]
+				},
+				{
+					"text": "SociallyDistanced",
+					"indices": [
+						192,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andypitchford68",
+					"name": "Andy Pitchford",
+					"id": 823787368515858400,
+					"id_str": "823787368515858432",
+					"indices": [
+						5,
+						21
+					]
+				},
+				{
+					"screen_name": "clt_bath",
+					"name": "CLT",
+					"id": 898564955187933200,
+					"id_str": "898564955187933184",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"screen_name": "UoB_HEFi",
+					"name": "UoB HEFi",
+					"id": 723168671560925200,
+					"id_str": "723168671560925188",
+					"indices": [
+						46,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xFTyNDVAas",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1304767369584300032",
+					"display_url": "twitter.com/LTHEchat/statu…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1304770025220436000,
+					"id_str": "1304770025220435976",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/Eht5bMrXcAgU2yi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eht5bMrXcAgU2yi.jpg",
+					"url": "https://t.co/dOZbIzQw8v",
+					"display_url": "pic.twitter.com/dOZbIzQw8v",
+					"expanded_url": "https://twitter.com/hintondm/status/1304770029192347648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304770025220436000,
+					"id_str": "1304770025220435976",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/Eht5bMrXcAgU2yi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eht5bMrXcAgU2yi.jpg",
+					"url": "https://t.co/dOZbIzQw8v",
+					"display_url": "pic.twitter.com/dOZbIzQw8v",
+					"expanded_url": "https://twitter.com/hintondm/status/1304770029192347648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36370231,
+			"id_str": "36370231",
+			"name": "Danielle M Hinton 👩🏻‍🏫👩🏻‍💻🌍",
+			"screen_name": "hintondm",
+			"location": "Work: Birmingham",
+			"description": "@unibirmingham Educational Developer #SFHEA @UoB_HEFi #hellobrum. Leads @uobITSL & teaches on @UoB_PGCHE, ❤️#learningdesign #LegoSeriousPlay facilitator",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1127,
+			"friends_count": 1000,
+			"listed_count": 57,
+			"created_at": "Wed Apr 29 14:31:05 +0000 2009",
+			"favourites_count": 7840,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262042349393326080/28oBRhfN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262042349393326080/28oBRhfN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36370231/1588709486",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1304767369584300000,
+		"quoted_status_id_str": "1304767369584300032",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xFTyNDVAas",
+			"expanded": "https://twitter.com/LTHEchat/status/1304767369584300032",
+			"display": "twitter.com/LTHEchat/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 12 13:02:36 +0000 2020",
+			"id": 1304767369584300000,
+			"id_str": "1304767369584300032",
+			"full_text": "#LTHEchat182: Lifting the Mask: creating a connected campus in socially distanced times Guest host Danielle Hinton (SFHEA) and Dr Andy Pitchford https://t.co/4mk2OgMKeF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				168
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTHEchat182",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4mk2OgMKeF",
+						"expanded_url": "http://lthechat.com/2020/09/12/lthechat182-lifting-the-mask-creating-a-connected-campus-in-socially-distanced-times-guest-host-danielle-hinton-sfhea-and-dr-andy-pitchford/",
+						"display_url": "lthechat.com/2020/09/12/lth…",
+						"indices": [
+							145,
+							168
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2659221798,
+				"id_str": "2659221798",
+				"name": "LTHE Tweetchat",
+				"screen_name": "LTHEchat",
+				"location": "",
+				"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+				"url": "https://t.co/IprE39BVnA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IprE39BVnA",
+								"expanded_url": "http://lthechat.com",
+								"display_url": "lthechat.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7734,
+				"friends_count": 3321,
+				"listed_count": 157,
+				"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+				"favourites_count": 3733,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8866,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+				"profile_link_color": "7ECAE6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join @andypitchford68 (@clt_bath) and myself (@UoB_HEFi) this Wednesday 8pm BST for the next powerful #LTHEchat #HigherEducation discussion - Lifting the Mask: Creating a Connected #Campus in #SociallyDistanced Times https://t.co/xFTyNDVAas https://t.co/dOZbIzQw8v"
+	},
+	{
+		"created_at": "Sun Sep 13 07:04:48 +0000 2020",
+		"id": 1305039711229091800,
+		"id_str": "1305039711229091840",
+		"full_text": "Read my Sep 13 'swan-uni-staff' Newsletter featuring “Programme” https://t.co/6fTfJmivp5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6fTfJmivp5",
+					"expanded_url": "https://nzzl.us/y3UJ0m0",
+					"display_url": "nzzl.us/y3UJ0m0",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1586,
+			"friends_count": 1214,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Sep 13 'swan-uni-staff' Newsletter featuring “Programme” https://t.co/6fTfJmivp5"
+	},
+	{
 		"created_at": "Sat Sep 12 10:10:55 +0000 2020",
 		"id": 1304138879390318600,
 		"id_str": "1304724162196451330",
