@@ -1,6 +1,668 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 18 12:43:18 +0000 2020",
+		"id": 1306914585832837000,
+		"id_str": "1306936835894128640",
+		"full_text": "Nice …\n\nloved the Metaphorical History of VLEs from Sharks to Limpets by Tom Farrelly, Eamon Costello &amp; Enda Donlon\n\n@JIME_journal @OpenUniversity @LTHEchat #OpenAccess\n\nCould add more… \n\nalthough any suggesting ‘Free &amp; Easy’ would probably not accord with people’s experience… https://t.co/glOR2Qd7MH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			285
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OpenAccess",
+					"indices": [
+						161,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JIME_journal",
+					"name": "JIME editorial team",
+					"id": 3058899046,
+					"id_str": "3058899046",
+					"indices": [
+						121,
+						134
+					]
+				},
+				{
+					"screen_name": "OpenUniversity",
+					"name": "The Open University",
+					"id": 14049061,
+					"id_str": "14049061",
+					"indices": [
+						135,
+						150
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						151,
+						160
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/glOR2Qd7MH",
+					"expanded_url": "https://twitter.com/jime_journal/status/1306591560885125123",
+					"display_url": "twitter.com/jime_journal/s…",
+					"indices": [
+						286,
+						309
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48292696,
+			"id_str": "48292696",
+			"name": "🇪🇺 Simon Rae … Have ✏️ will ✍️",
+			"screen_name": "simonrae",
+			"location": "Milton Keynes",
+			"description": "retired Lecturer in Professional Development now doing cartoons doodles and drawings for pleasure… also holder of a #LTHEchat Golden Tweeter Award",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1019,
+			"friends_count": 904,
+			"listed_count": 60,
+			"created_at": "Thu Jun 18 08:46:23 +0000 2009",
+			"favourites_count": 4022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9715,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDF0E7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/616003602117750785/qKNwKfJN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/616003602117750785/qKNwKfJN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48292696/1484765473",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "072430",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1306591560885125000,
+		"quoted_status_id_str": "1306591560885125123",
+		"quoted_status_permalink": {
+			"url": "https://t.co/glOR2Qd7MH",
+			"expanded": "https://twitter.com/jime_journal/status/1306591560885125123",
+			"display": "twitter.com/jime_journal/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 17 13:51:18 +0000 2020",
+			"id": 1306591560885125000,
+			"id_str": "1306591560885125123",
+			"full_text": "OUT NOW:\nOur Special Collection on 'History of Educational Technology' 👇\n\nhttps://t.co/HMU6B7TxXP \n\nEnjoy! 😃\n\n#OpenAccess\n#EdTech https://t.co/ueeldFyy1p",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				129
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OpenAccess",
+						"indices": [
+							110,
+							121
+						]
+					},
+					{
+						"text": "EdTech",
+						"indices": [
+							122,
+							129
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HMU6B7TxXP",
+						"expanded_url": "https://jime.open.ac.uk/collections/special/history-of-educational-technology/",
+						"display_url": "jime.open.ac.uk/collections/sp…",
+						"indices": [
+							74,
+							97
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1306591460389650400,
+						"id_str": "1306591460389650436",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/EiHyArcVgAQ7Ie0.png",
+						"media_url_https": "https://pbs.twimg.com/media/EiHyArcVgAQ7Ie0.png",
+						"url": "https://t.co/ueeldFyy1p",
+						"display_url": "pic.twitter.com/ueeldFyy1p",
+						"expanded_url": "https://twitter.com/JIME_journal/status/1306591560885125123/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 291,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 738,
+								"h": 316,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 738,
+								"h": 316,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1306591460389650400,
+						"id_str": "1306591460389650436",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/EiHyArcVgAQ7Ie0.png",
+						"media_url_https": "https://pbs.twimg.com/media/EiHyArcVgAQ7Ie0.png",
+						"url": "https://t.co/ueeldFyy1p",
+						"display_url": "pic.twitter.com/ueeldFyy1p",
+						"expanded_url": "https://twitter.com/JIME_journal/status/1306591560885125123/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 291,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 738,
+								"h": 316,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 738,
+								"h": 316,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3058899046,
+				"id_str": "3058899046",
+				"name": "JIME editorial team",
+				"screen_name": "JIME_journal",
+				"location": "",
+				"description": "JIME is a peer reviewed #OpenAccess online journal in #EducationalTechnology. Focus: implications & use of digital media in education.Tweets mostly @martinaemke",
+				"url": "http://t.co/zhX7JESrWZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/zhX7JESrWZ",
+								"expanded_url": "http://jime.open.ac.uk/",
+								"display_url": "jime.open.ac.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 589,
+				"friends_count": 522,
+				"listed_count": 24,
+				"created_at": "Tue Feb 24 12:53:12 +0000 2015",
+				"favourites_count": 98,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 464,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/570205430928789504/ECLi9Qao_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/570205430928789504/ECLi9Qao_normal.png",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nice …\n\nloved the Metaphorical History of VLEs from Sharks to Limpets by Tom Farrelly, Eamon Costello &amp; Enda Donlon\n\n@JIME_journal @OpenUniversity @LTHEchat #OpenAccess\n\nCould add more… \n\nalthough any suggesting ‘Free &amp; Easy’ would probably not accord with people’s experience… https://t.co/glOR2Qd7MH"
+	},
+	{
+		"created_at": "Fri Sep 18 12:40:49 +0000 2020",
+		"id": 1306931080101007400,
+		"id_str": "1306936212901507073",
+		"full_text": "HOW DO YOU MAKE ZOOM BREAKOUT GROUPS LESS BORING? Share your tips here and I’ll credit you in an openly licensed presentation I’ll record and share back next week! Please reply and retweet. Let’s crowdsource some fun ideas to help each other get through the rest of the semester!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2182862052,
+			"id_str": "2182862052",
+			"name": "Robin DeRosa",
+			"screen_name": "actualham",
+			"location": "New Hampshire, USA",
+			"description": "Director, @PSUOpenCoLab; Interdisciplinary Prof; #OpenPed #OER #OA; public university/community college missions; grateful to BLM protesters",
+			"url": "https://t.co/SeO0KU15y5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SeO0KU15y5",
+							"expanded_url": "http://robinderosa.net",
+							"display_url": "robinderosa.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10110,
+			"friends_count": 1831,
+			"listed_count": 435,
+			"created_at": "Fri Nov 08 20:13:27 +0000 2013",
+			"favourites_count": 60290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030A09",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267788284429766657/4EcitBz7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267788284429766657/4EcitBz7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2182862052/1591099257",
+			"profile_link_color": "C94410",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 344,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "HOW DO YOU MAKE ZOOM BREAKOUT GROUPS LESS BORING? Share your tips here and I’ll credit you in an openly licensed presentation I’ll record and share back next week! Please reply and retweet. Let’s crowdsource some fun ideas to help each other get through the rest of the semester!"
+	},
+	{
+		"created_at": "Fri Sep 18 12:39:51 +0000 2020",
+		"id": 1306893650866176000,
+		"id_str": "1306935967664701443",
+		"full_text": "@Jessifer Also, we can combine both by recognising that the knowledge is not in the published paper, it's in the whole supporting ecosystem. I've started advising students to look for related videos or blog reviews when reading academic work. See here for an example https://t.co/NOmOgLxWLB",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			290
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jessifer",
+					"name": "Jesse Stommel",
+					"id": 11702102,
+					"id_str": "11702102",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NOmOgLxWLB",
+					"expanded_url": "https://altc.alt.ac.uk/blog/2020/07/6-papers-on-education-to-read-this-summer-to-prepare-for-blended-teaching-and-learning-ideas-for-a-journal-club",
+					"display_url": "altc.alt.ac.uk/blog/2020/07/6…",
+					"indices": [
+						267,
+						290
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1306743321713401900,
+		"in_reply_to_status_id_str": "1306743321713401856",
+		"in_reply_to_user_id": 11702102,
+		"in_reply_to_user_id_str": "11702102",
+		"in_reply_to_screen_name": "Jessifer",
+		"user": {
+			"id": 29427973,
+			"id_str": "29427973",
+			"name": "Dominik Lukes",
+			"screen_name": "techczech",
+			"location": "UK",
+			"description": "Open Education Practitioner. education and technology specialist, linguist, feminist, enemy of prescriptivism, metaphor hacker, podcaster, web builder, Czech.",
+			"url": "http://t.co/VHMxUuwj6B",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VHMxUuwj6B",
+							"expanded_url": "http://techczech.net",
+							"display_url": "techczech.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1371,
+			"friends_count": 685,
+			"listed_count": 182,
+			"created_at": "Tue Apr 07 11:19:59 +0000 2009",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C9C7C7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/465039588902187008/ANP1HdSp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/465039588902187008/ANP1HdSp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29427973/1399708920",
+			"profile_link_color": "3B121F",
+			"profile_sidebar_border_color": "BF8E11",
+			"profile_sidebar_fill_color": "D9D9D9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Jessifer Also, we can combine both by recognising that the knowledge is not in the published paper, it's in the whole supporting ecosystem. I've started advising students to look for related videos or blog reviews when reading academic work. See here for an example https://t.co/NOmOgLxWLB"
+	},
+	{
+		"created_at": "Fri Sep 18 07:05:13 +0000 2020",
+		"id": 1306851756605874200,
+		"id_str": "1306851756605874176",
+		"full_text": "Read my Sep 18 'swan-uni-staff' Newsletter featuring “#LTHEchat182 Lifting the Mask: creating a connected…” https://t.co/dfK3D00A7o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat182",
+					"indices": [
+						54,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dfK3D00A7o",
+					"expanded_url": "https://nzzl.us/38RolBc",
+					"display_url": "nzzl.us/38RolBc",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1586,
+			"friends_count": 1217,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20802,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Sep 18 'swan-uni-staff' Newsletter featuring “#LTHEchat182 Lifting the Mask: creating a connected…” https://t.co/dfK3D00A7o"
+	},
+	{
 		"created_at": "Thu Sep 17 16:17:15 +0000 2020",
 		"id": 1306628290325762000,
 		"id_str": "1306628290325762048",
