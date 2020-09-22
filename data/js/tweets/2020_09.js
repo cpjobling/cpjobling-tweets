@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 21 07:10:16 +0000 2020",
+		"id": 1307051609030045700,
+		"id_str": "1307940192150585345",
+		"full_text": "NEW! \"Introduction to #MicrosoftTeams\"\n\nWe've just launched a one-stop shop on the MEC for all of your Teams EDU needs, including: \n\n📽 Short videos\n🌳 Training\n🗺 Click through guides\n📝Blog\n🆘 Support\n➕ Lots more\n\nLink: https://t.co/Z0rGOi6qqr\n\n#edtech #MIEExpert #MicrosoftEDU https://t.co/G5Oe9JVpfp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MicrosoftTeams",
+					"indices": [
+						22,
+						37
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						242,
+						249
+					]
+				},
+				{
+					"text": "MIEExpert",
+					"indices": [
+						250,
+						260
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						261,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z0rGOi6qqr",
+					"expanded_url": "https://aka.ms/TeamsPP",
+					"display_url": "aka.ms/TeamsPP",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1307051171685773300,
+					"id_str": "1307051171685773319",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/EiOUHZeWsAcQ-Ko.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiOUHZeWsAcQ-Ko.jpg",
+					"url": "https://t.co/G5Oe9JVpfp",
+					"display_url": "pic.twitter.com/G5Oe9JVpfp",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1307051609030045697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1810,
+							"h": 817,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 307,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 542,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1307051171685773300,
+					"id_str": "1307051171685773319",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/EiOUHZeWsAcQ-Ko.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiOUHZeWsAcQ-Ko.jpg",
+					"url": "https://t.co/G5Oe9JVpfp",
+					"display_url": "pic.twitter.com/G5Oe9JVpfp",
+					"expanded_url": "https://twitter.com/mtholfsen/status/1307051609030045697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1810,
+							"h": 817,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 307,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 542,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27673327,
+			"id_str": "27673327",
+			"name": "Mike Tholfsen",
+			"screen_name": "mtholfsen",
+			"location": "Redmond, WA",
+			"description": "Product Manager on the #MicrosoftEDU team, building #OneNote, Class Notebooks, #ImmersiveReader and @MicrosoftTeams @OneNoteEDU #edtech #DistanceLearning",
+			"url": "https://t.co/OFxyvy6Cxo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OFxyvy6Cxo",
+							"expanded_url": "https://www.youtube.com/miketholfsen",
+							"display_url": "youtube.com/miketholfsen",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32660,
+			"friends_count": 3848,
+			"listed_count": 886,
+			"created_at": "Mon Mar 30 16:27:51 +0000 2009",
+			"favourites_count": 110263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 40438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715882163283988481/4vljH58f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27673327/1593797123",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 118,
+		"favorite_count": 167,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW! \"Introduction to #MicrosoftTeams\"\n\nWe've just launched a one-stop shop on the MEC for all of your Teams EDU needs, including: \n\n📽 Short videos\n🌳 Training\n🗺 Click through guides\n📝Blog\n🆘 Support\n➕ Lots more\n\nLink: https://t.co/Z0rGOi6qqr\n\n#edtech #MIEExpert #MicrosoftEDU https://t.co/G5Oe9JVpfp"
+	},
+	{
+		"created_at": "Mon Sep 21 07:04:36 +0000 2020",
+		"id": 1307938763717390300,
+		"id_str": "1307938763717390336",
+		"full_text": "Read the Sep 21 Newsletter curated by my PLN featuring “#LTHEchat183: Make of it what you will: Experiencing…” https://t.co/bZ4GWDVm4u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat183",
+					"indices": [
+						56,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bZ4GWDVm4u",
+					"expanded_url": "https://nzzl.us/hf2ItQZ",
+					"display_url": "nzzl.us/hf2ItQZ",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1586,
+			"friends_count": 1217,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Sep 21 Newsletter curated by my PLN featuring “#LTHEchat183: Make of it what you will: Experiencing…” https://t.co/bZ4GWDVm4u"
+	},
+	{
 		"created_at": "Sun Sep 20 07:05:05 +0000 2020",
 		"id": 1307576498690445300,
 		"id_str": "1307576498690445315",
