@@ -1,6 +1,2032 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 27 09:13:15 +0000 2020",
+		"id": 1309935525785145300,
+		"id_str": "1310145466450014208",
+		"full_text": "Lecturers *don’t* control University policy and decisions.\n\nLecturers *do* continue to work intensively to plan and deliver remote interactive sessions, and to continue to offer extensive 1:1 support for all students whilst also dealing with the stresses of the pandemic.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1284734388,
+			"id_str": "1284734388",
+			"name": "Dr Katie Paddock",
+			"screen_name": "KatiePaddockPhD",
+			"location": "",
+			"description": "Lecturer in Educational Psychology at Manchester Metropolitan University @MMUEdPsych | President of Manchester W.I. | Views my own",
+			"url": "https://t.co/A6ewyiuvCm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A6ewyiuvCm",
+							"expanded_url": "https://www.researchgate.net/profile/Katie_Paddock2?ev=hdr_xprf",
+							"display_url": "researchgate.net/profile/Katie_…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1071,
+			"friends_count": 1685,
+			"listed_count": 26,
+			"created_at": "Thu Mar 21 01:27:15 +0000 2013",
+			"favourites_count": 5590,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1304470950260486144/qf7xXXbC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1304470950260486144/qf7xXXbC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1284734388/1571248596",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 383,
+		"favorite_count": 2072,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Lecturers *don’t* control University policy and decisions.\n\nLecturers *do* continue to work intensively to plan and deliver remote interactive sessions, and to continue to offer extensive 1:1 support for all students whilst also dealing with the stresses of the pandemic."
+	},
+	{
+		"created_at": "Sun Sep 27 08:59:05 +0000 2020",
+		"id": 1310141901954257000,
+		"id_str": "1310141901954256896",
+		"full_text": "Swansea too unfortunately. Students and staff have to travel from lockdown with a travel ban to get to work in the neighbouring local authority now. And we worked so hard to make on campus teaching viable! https://t.co/BjafH1iJos",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BjafH1iJos",
+					"expanded_url": "https://twitter.com/mweller/status/1310117832844357632",
+					"display_url": "twitter.com/mweller/status…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris \"Drowning not Waving\" Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1587,
+			"friends_count": 1216,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1310117832844357600,
+		"quoted_status_id_str": "1310117832844357632",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BjafH1iJos",
+			"expanded": "https://twitter.com/mweller/status/1310117832844357632",
+			"display": "twitter.com/mweller/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 27 07:23:26 +0000 2020",
+			"id": 1310117832844357600,
+			"id_str": "1310117832844357632",
+			"full_text": "Happy “Cardiff goes into lockdown” Day",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				38
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7127162,
+				"id_str": "7127162",
+				"name": "Martin Weller",
+				"screen_name": "mweller",
+				"location": "Tongwynlais, Cardiff",
+				"description": "Open University, @IETatOU Prof, Director of @oer_hub & @GOGN_OER. Likes dogs, beer, vinyl, ice hockey.\nBook: 25 Years of Ed Tech https://t.co/t7NnUoX0gx…",
+				"url": "https://t.co/EFx8elxHcs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/EFx8elxHcs",
+								"expanded_url": "http://blog.edtechie.net/",
+								"display_url": "blog.edtechie.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/t7NnUoX0gx",
+								"expanded_url": "http://aupress.ca/books/120290-2",
+								"display_url": "aupress.ca/books/120290-2",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 11104,
+				"friends_count": 1845,
+				"listed_count": 722,
+				"created_at": "Thu Jun 28 09:14:11 +0000 2007",
+				"favourites_count": 7675,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 42806,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1198930977675984896/STArUuIz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198930977675984896/STArUuIz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7127162/1582792969",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Swansea too unfortunately. Students and staff have to travel from lockdown with a travel ban to get to work in the neighbouring local authority now. And we worked so hard to make on campus teaching viable! https://t.co/BjafH1iJos"
+	},
+	{
+		"created_at": "Sun Sep 27 08:56:16 +0000 2020",
+		"id": 1310141191896346600,
+		"id_str": "1310141191896346624",
+		"full_text": "It’s grim! I might follow @S_J_Lancaster and switch Twitter and the news off. Might have to pause the politics podcasts too. Thank god for #Fortunately",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Fortunately",
+					"indices": [
+						139,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "S_J_Lancaster",
+					"name": "Simon Lancaster",
+					"id": 240186025,
+					"id_str": "240186025",
+					"indices": [
+						26,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris \"Drowning not Waving\" Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1587,
+			"friends_count": 1216,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "It’s grim! I might follow @S_J_Lancaster and switch Twitter and the news off. Might have to pause the politics podcasts too. Thank god for #Fortunately"
+	},
+	{
+		"created_at": "Sun Sep 27 08:54:03 +0000 2020",
+		"id": 1309857608887660500,
+		"id_str": "1310140636381827073",
+		"full_text": "Johnson should learn from Sturgeon and treat the public as a partner, not a problem https://t.co/DnnnuKGDio",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DnnnuKGDio",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2020/sep/25/johnson-sturgeon-public-compliance?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4013641,
+			"id_str": "4013641",
+			"name": "Sheila MacNeill",
+			"screen_name": "sheilmcn",
+			"location": "Scotland ",
+			"description": "Independent digital learning consultant, open educator, expert in online learning development, writer, keynote speaker, artist.",
+			"url": "https://t.co/vZo2t9v0Mz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vZo2t9v0Mz",
+							"expanded_url": "https://howsheilaseesit.net/",
+							"display_url": "howsheilaseesit.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5286,
+			"friends_count": 3140,
+			"listed_count": 378,
+			"created_at": "Tue Apr 10 10:55:00 +0000 2007",
+			"favourites_count": 7280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184408151057195008/ZFNQUpZF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184408151057195008/ZFNQUpZF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4013641/1569331524",
+			"profile_link_color": "7DB300",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Johnson should learn from Sturgeon and treat the public as a partner, not a problem https://t.co/DnnnuKGDio"
+	},
+	{
+		"created_at": "Sun Sep 27 08:51:15 +0000 2020",
+		"id": 1309804389239062500,
+		"id_str": "1310139931147350016",
+		"full_text": "We understand that this is a worrying time for many, so \nhere's an update from our Registrar and Chief Operating Officer @andrewrhodesuni on how we’re working to keep our local community safe. \n\nTo contact the community liaison team: \n\n📧 community.campuslife@swansea.ac.uk https://t.co/Yh1kSitF5U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andrewrhodesuni",
+					"name": "Andrew Rhodes",
+					"id": 799673252582785000,
+					"id_str": "799673252582785024",
+					"indices": [
+						121,
+						137
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1309804346721403000,
+					"id_str": "1309804346721402880",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1309804346721402880/pu/img/Vi4c7QV2znFh8iOc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1309804346721402880/pu/img/Vi4c7QV2znFh8iOc.jpg",
+					"url": "https://t.co/Yh1kSitF5U",
+					"display_url": "pic.twitter.com/Yh1kSitF5U",
+					"expanded_url": "https://twitter.com/SwanseaUni/status/1309804389239062529/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1309804346721403000,
+					"id_str": "1309804346721402880",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1309804346721402880/pu/img/Vi4c7QV2znFh8iOc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1309804346721402880/pu/img/Vi4c7QV2znFh8iOc.jpg",
+					"url": "https://t.co/Yh1kSitF5U",
+					"display_url": "pic.twitter.com/Yh1kSitF5U",
+					"expanded_url": "https://twitter.com/SwanseaUni/status/1309804389239062529/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 73040,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1309804346721402880/pu/pl/X8SY6dhbkQ_-J0k0.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1309804346721402880/pu/vid/640x360/uVKYj_93u4bYKaLq.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1309804346721402880/pu/vid/1280x720/9ksd6DXdu0atS2h5.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1309804346721402880/pu/vid/480x270/RQ2f9ReKxKzersS7.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 62489200,
+			"id_str": "62489200",
+			"name": "Swansea University",
+			"screen_name": "SwanseaUni",
+			"location": "Swansea, UK",
+			"description": "Making waves since 1920 • UK top 25 university • World-class research • Superb student experience • Two glorious beachfront campuses • #SwanseaUni •",
+			"url": "https://t.co/INy59Adp5Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/INy59Adp5Y",
+							"expanded_url": "https://www.swansea.ac.uk",
+							"display_url": "swansea.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49505,
+			"friends_count": 2200,
+			"listed_count": 470,
+			"created_at": "Mon Aug 03 10:58:42 +0000 2009",
+			"favourites_count": 14522,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268099343803965442/ib8D1NjO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268099343803965442/ib8D1NjO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/62489200/1599822008",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 39,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We understand that this is a worrying time for many, so \nhere's an update from our Registrar and Chief Operating Officer @andrewrhodesuni on how we’re working to keep our local community safe. \n\nTo contact the community liaison team: \n\n📧 community.campuslife@swansea.ac.uk https://t.co/Yh1kSitF5U"
+	},
+	{
+		"created_at": "Sun Sep 27 08:50:14 +0000 2020",
+		"id": 1310139673554149400,
+		"id_str": "1310139673554149381",
+		"full_text": "@S_J_Lancaster Take care Simon.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "S_J_Lancaster",
+					"name": "Simon Lancaster",
+					"id": 240186025,
+					"id_str": "240186025",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1309945760482570200,
+		"in_reply_to_status_id_str": "1309945760482570242",
+		"in_reply_to_user_id": 240186025,
+		"in_reply_to_user_id_str": "240186025",
+		"in_reply_to_screen_name": "S_J_Lancaster",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris \"Drowning not Waving\" Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1587,
+			"friends_count": 1216,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@S_J_Lancaster Take care Simon."
+	},
+	{
+		"created_at": "Sun Sep 27 08:49:42 +0000 2020",
+		"id": 1310115113815494700,
+		"id_str": "1310139541219676161",
+		"full_text": "Funny isn't it how effectively privatising universities to ensure they are forced to operate in a competitive marketplace to survive and then refusing any support during a pandemic makes them operate like businesses which have to make money...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 905737194270326800,
+			"id_str": "905737194270326784",
+			"name": "Phil Maull",
+			"screen_name": "PhilGMaull",
+			"location": "Swansea, Wales",
+			"description": "Head of Academic Quality Services, Swansea University.  Passionate about curriculum and assessment design for enhancing the student experience. Views are my own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 231,
+			"friends_count": 309,
+			"listed_count": 0,
+			"created_at": "Thu Sep 07 10:19:09 +0000 2017",
+			"favourites_count": 4273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905742677521694720/K7ggH-72_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905742677521694720/K7ggH-72_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Funny isn't it how effectively privatising universities to ensure they are forced to operate in a competitive marketplace to survive and then refusing any support during a pandemic makes them operate like businesses which have to make money..."
+	},
+	{
+		"created_at": "Sun Sep 27 08:49:26 +0000 2020",
+		"id": 1309183378000937000,
+		"id_str": "1310139475259985920",
+		"full_text": "With First Past the Post, it is rational for governments to plow public resources into a handful of marginal constituencies to help them win the next election.\n\nIt's no coincidence that the only democracy in Europe with First Past the Post also has the worst regional inequality. https://t.co/6gOsiTPbUY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1309183375752732700,
+					"id_str": "1309183375752732673",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EisnWAmWoAEX88x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EisnWAmWoAEX88x.jpg",
+					"url": "https://t.co/6gOsiTPbUY",
+					"display_url": "pic.twitter.com/6gOsiTPbUY",
+					"expanded_url": "https://twitter.com/MakeVotesMatter/status/1309183378000936962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 840,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1434,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1309183375752732700,
+					"id_str": "1309183375752732673",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EisnWAmWoAEX88x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EisnWAmWoAEX88x.jpg",
+					"url": "https://t.co/6gOsiTPbUY",
+					"display_url": "pic.twitter.com/6gOsiTPbUY",
+					"expanded_url": "https://twitter.com/MakeVotesMatter/status/1309183378000936962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 840,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1434,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3245179401,
+			"id_str": "3245179401",
+			"name": "Make Votes Matter",
+			"screen_name": "MakeVotesMatter",
+			"location": "United Kingdom",
+			"description": "The movement for Proportional Representation.\nSign the petition for PR: https://t.co/OtvxDolpoE\n#ChangeTheVotingSystem",
+			"url": "https://t.co/mVMQzWU2mM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mVMQzWU2mM",
+							"expanded_url": "http://www.makevotesmatter.org.uk",
+							"display_url": "makevotesmatter.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OtvxDolpoE",
+							"expanded_url": "http://ow.ly/R3Zd50zIYVg",
+							"display_url": "ow.ly/R3Zd50zIYVg",
+							"indices": [
+								72,
+								95
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 56685,
+			"friends_count": 51513,
+			"listed_count": 318,
+			"created_at": "Sun May 10 18:56:30 +0000 2015",
+			"favourites_count": 26378,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/684097967331110913/ryyaUIFN_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/684097967331110913/ryyaUIFN_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3245179401/1598263873",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 351,
+		"favorite_count": 541,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With First Past the Post, it is rational for governments to plow public resources into a handful of marginal constituencies to help them win the next election.\n\nIt's no coincidence that the only democracy in Europe with First Past the Post also has the worst regional inequality. https://t.co/6gOsiTPbUY"
+	},
+	{
+		"created_at": "Sun Sep 27 08:48:32 +0000 2020",
+		"id": 1310112281288728600,
+		"id_str": "1310139247668736000",
+		"full_text": "It’s unfortunate that having blocked most of #AcademicTwitter after claiming lecturers had long summer holidays and didn’t work hard, Lord Adonis has not been able to learn about the heroic, Herculean effort everyone has made to protect students &amp; deliver great, digital teaching. https://t.co/wyMOuMzOzT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AcademicTwitter",
+					"indices": [
+						45,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1310112277664804900,
+					"id_str": "1310112277664804865",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei50LN4WsAELRAy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei50LN4WsAELRAy.jpg",
+					"url": "https://t.co/wyMOuMzOzT",
+					"display_url": "pic.twitter.com/wyMOuMzOzT",
+					"expanded_url": "https://twitter.com/Phil_Baty/status/1310112281288728588/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 223,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 271,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 271,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310112277664804900,
+					"id_str": "1310112277664804865",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei50LN4WsAELRAy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei50LN4WsAELRAy.jpg",
+					"url": "https://t.co/wyMOuMzOzT",
+					"display_url": "pic.twitter.com/wyMOuMzOzT",
+					"expanded_url": "https://twitter.com/Phil_Baty/status/1310112281288728588/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 223,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 271,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 271,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 354880191,
+			"id_str": "354880191",
+			"name": "Phil Baty",
+			"screen_name": "Phil_Baty",
+			"location": "London",
+			"description": "Chief Knowledge Officer at Times Higher Education (THE) - home of @timeshighered @THEworldsummits @THEworldunirank @timeshigherjobs & @theuniadvice",
+			"url": "https://t.co/SHlBxmu5aC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SHlBxmu5aC",
+							"expanded_url": "http://www.timeshighereducation.com",
+							"display_url": "timeshighereducation.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27934,
+			"friends_count": 2931,
+			"listed_count": 803,
+			"created_at": "Sun Aug 14 13:18:44 +0000 2011",
+			"favourites_count": 14705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 42634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1294321589102825472/TI8478Nk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1294321589102825472/TI8478Nk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/354880191/1599826392",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 345,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s unfortunate that having blocked most of #AcademicTwitter after claiming lecturers had long summer holidays and didn’t work hard, Lord Adonis has not been able to learn about the heroic, Herculean effort everyone has made to protect students &amp; deliver great, digital teaching. https://t.co/wyMOuMzOzT"
+	},
+	{
+		"created_at": "Sun Sep 27 08:48:10 +0000 2020",
+		"id": 1309909959719739400,
+		"id_str": "1310139155117150208",
+		"full_text": "If you are not getting full tuition from your University, you should not pay full fees.\n\nIf however, your University has worked it’s butt off to provide online lectures, resources, virtual labs, and social activities, please embrace it. https://t.co/U0tEFZFJFQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U0tEFZFJFQ",
+					"expanded_url": "https://twitter.com/andrew_adonis/status/1309807493300842496",
+					"display_url": "twitter.com/andrew_adonis/…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1577798052,
+			"id_str": "1577798052",
+			"name": "Tracey Bailey",
+			"screen_name": "DrTABailey",
+			"location": "Milton Keynes",
+			"description": "Academic Practice Lead at Cranfield University; SFHEA; FSEDA; Primary school governor. Molecular Biologist in a former life. Love MK! Views my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 688,
+			"friends_count": 376,
+			"listed_count": 34,
+			"created_at": "Mon Jul 08 14:34:01 +0000 2013",
+			"favourites_count": 28259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1181296914437791744/z5sR7kUf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181296914437791744/z5sR7kUf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1577798052/1570371440",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1309807493300842500,
+		"quoted_status_id_str": "1309807493300842496",
+		"quoted_status_permalink": {
+			"url": "https://t.co/U0tEFZFJFQ",
+			"expanded": "https://twitter.com/andrew_adonis/status/1309807493300842496",
+			"display": "twitter.com/andrew_adonis/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 26 10:50:16 +0000 2020",
+			"id": 1309807493300842500,
+			"id_str": "1309807493300842496",
+			"full_text": "I don’t think students should have to pay £9,000 this year if they are not receiving full tuition",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 420366322,
+				"id_str": "420366322",
+				"name": "Andrew Adonis",
+				"screen_name": "Andrew_Adonis",
+				"location": "",
+				"description": "New book: ‘Ernest Bevin: Labour’s Churchill’ ‘The most Remainery Remainer that there is’ (Charles Moore) 🏳️‍🌈",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 136304,
+				"friends_count": 517,
+				"listed_count": 1130,
+				"created_at": "Thu Nov 24 14:46:03 +0000 2011",
+				"favourites_count": 4949,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 39781,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EEEEEE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1274981850327519235/3aGGhV8J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274981850327519235/3aGGhV8J_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/420366322/1570124483",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "9E291C",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1079,
+			"favorite_count": 8590,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 36,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you are not getting full tuition from your University, you should not pay full fees.\n\nIf however, your University has worked it’s butt off to provide online lectures, resources, virtual labs, and social activities, please embrace it. https://t.co/U0tEFZFJFQ"
+	},
+	{
+		"created_at": "Sun Sep 27 08:46:29 +0000 2020",
+		"id": 1309738959598170000,
+		"id_str": "1310138730376822784",
+		"full_text": "It's been a very difficult week in the UK University sector. I've been so impressed with how well our students are handling things, but please do reach out if you're struggling with mental health issues - it's a very normal response to your situation and nobody will judge you.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40857078,
+			"id_str": "40857078",
+			"name": "matthew wall",
+			"screen_name": "wallmt",
+			"location": "Swansea.",
+			"description": "Associate Professor of politics at Swansea University, views expressed are strictly personal.",
+			"url": "https://t.co/zxbei8Uzen",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zxbei8Uzen",
+							"expanded_url": "http://drmatthewwall.com",
+							"display_url": "drmatthewwall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1115,
+			"friends_count": 1879,
+			"listed_count": 29,
+			"created_at": "Mon May 18 11:40:49 +0000 2009",
+			"favourites_count": 3204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865177111027367936/MMcXabcW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865177111027367936/MMcXabcW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40857078/1378983091",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1f36c2b60fbc98ac",
+			"url": "https://api.twitter.com/1.1/geo/id/1f36c2b60fbc98ac.json",
+			"place_type": "city",
+			"name": "Swansea",
+			"full_name": "Swansea, Wales",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.029331,
+							51.5987484
+						],
+						[
+							-3.8621388,
+							51.5987484
+						],
+						[
+							-3.8621388,
+							51.68983
+						],
+						[
+							-4.029331,
+							51.68983
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 33,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "It's been a very difficult week in the UK University sector. I've been so impressed with how well our students are handling things, but please do reach out if you're struggling with mental health issues - it's a very normal response to your situation and nobody will judge you."
+	},
+	{
+		"created_at": "Sun Sep 27 08:46:14 +0000 2020",
+		"id": 1309961759336337400,
+		"id_str": "1310138669932584960",
+		"full_text": "I have really had enough of this. University staff are working incredibly hard, often from home and with limited support and improvised technology, to try and create engaging, effective online teaching materials. Many of us will be both recording our lectures to allow... https://t.co/RnnW2Fe3os",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RnnW2Fe3os",
+					"expanded_url": "https://twitter.com/Andrew_Adonis/status/1309807493300842496",
+					"display_url": "twitter.com/Andrew_Adonis/…",
+					"indices": [
+						272,
+						295
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910621028212203500,
+			"id_str": "910621028212203521",
+			"name": "Prof Rachel Oliver 🐯",
+			"screen_name": "ProfRachelGaN",
+			"location": "At my desk or on my sofa",
+			"description": "Tweeting about the wonders of gallium nitride, the joy of microscopes and a dream of equity in science. (She/her).",
+			"url": "https://t.co/O3ZCWPKXcl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O3ZCWPKXcl",
+							"expanded_url": "https://www.gan.msm.cam.ac.uk/directory/oliver",
+							"display_url": "gan.msm.cam.ac.uk/directory/oliv…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5222,
+			"friends_count": 1252,
+			"listed_count": 46,
+			"created_at": "Wed Sep 20 21:45:46 +0000 2017",
+			"favourites_count": 28523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288558563560914947/CVDyw1ZR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288558563560914947/CVDyw1ZR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910621028212203521/1599809981",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1309807493300842500,
+		"quoted_status_id_str": "1309807493300842496",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RnnW2Fe3os",
+			"expanded": "https://twitter.com/Andrew_Adonis/status/1309807493300842496",
+			"display": "twitter.com/Andrew_Adonis/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 26 10:50:16 +0000 2020",
+			"id": 1309807493300842500,
+			"id_str": "1309807493300842496",
+			"full_text": "I don’t think students should have to pay £9,000 this year if they are not receiving full tuition",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 420366322,
+				"id_str": "420366322",
+				"name": "Andrew Adonis",
+				"screen_name": "Andrew_Adonis",
+				"location": "",
+				"description": "New book: ‘Ernest Bevin: Labour’s Churchill’ ‘The most Remainery Remainer that there is’ (Charles Moore) 🏳️‍🌈",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 136304,
+				"friends_count": 517,
+				"listed_count": 1130,
+				"created_at": "Thu Nov 24 14:46:03 +0000 2011",
+				"favourites_count": 4949,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 39781,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EEEEEE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1274981850327519235/3aGGhV8J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274981850327519235/3aGGhV8J_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/420366322/1570124483",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "9E291C",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1079,
+			"favorite_count": 8590,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 623,
+		"favorite_count": 3197,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have really had enough of this. University staff are working incredibly hard, often from home and with limited support and improvised technology, to try and create engaging, effective online teaching materials. Many of us will be both recording our lectures to allow... https://t.co/RnnW2Fe3os"
+	},
+	{
+		"created_at": "Sun Sep 27 08:45:58 +0000 2020",
+		"id": 1310138601083199500,
+		"id_str": "1310138601083199489",
+		"full_text": "@ProfRachelGaN What does @Andrew_Adonis even mean by “full tuition”?",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfRachelGaN",
+					"name": "Prof Rachel Oliver 🐯",
+					"id": 910621028212203500,
+					"id_str": "910621028212203521",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Andrew_Adonis",
+					"name": "Andrew Adonis",
+					"id": 420366322,
+					"id_str": "420366322",
+					"indices": [
+						25,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1309961759336337400,
+		"in_reply_to_status_id_str": "1309961759336337411",
+		"in_reply_to_user_id": 910621028212203500,
+		"in_reply_to_user_id_str": "910621028212203521",
+		"in_reply_to_screen_name": "ProfRachelGaN",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris \"Drowning not Waving\" Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1587,
+			"friends_count": 1216,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ProfRachelGaN What does @Andrew_Adonis even mean by “full tuition”?"
+	},
+	{
+		"created_at": "Sun Sep 27 07:05:15 +0000 2020",
+		"id": 1310113255390675000,
+		"id_str": "1310113255390674944",
+		"full_text": "Read my Sep 27 'swan-uni-staff' Newsletter featuring “NHS Covid app does not log test results from hospitals or…” https://t.co/vLDDK8186P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vLDDK8186P",
+					"expanded_url": "https://nzzl.us/OBMZbhq",
+					"display_url": "nzzl.us/OBMZbhq",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris \"Drowning not Waving\" Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1587,
+			"friends_count": 1216,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11514,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Sep 27 'swan-uni-staff' Newsletter featuring “NHS Covid app does not log test results from hospitals or…” https://t.co/vLDDK8186P"
+	},
+	{
 		"created_at": "Sat Sep 26 08:48:54 +0000 2020",
 		"id": 1309509695460331500,
 		"id_str": "1309776952392323072",
