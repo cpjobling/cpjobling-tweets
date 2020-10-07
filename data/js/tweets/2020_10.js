@@ -1,6 +1,1614 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 17:26:51 +0000 2020",
+		"id": 1313531176368431000,
+		"id_str": "1313531176368431106",
+		"full_text": "Give Yourself the 5 Minutes You Lost During COVID https://t.co/spAqFiwiRB via @bali_maha",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bali_Maha",
+					"name": "ℳąhą Bąℓi, PhD مها بالي 🌵",
+					"id": 1535273520,
+					"id_str": "1535273520",
+					"indices": [
+						78,
+						88
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/spAqFiwiRB",
+					"expanded_url": "https://blog.mahabali.me/just-for-fun/give-yourself-the-5-minutes-you-lost-during-covid/",
+					"display_url": "blog.mahabali.me/just-for-fun/g…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris \"Drowning not Waving\" Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1591,
+			"friends_count": 1215,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Give Yourself the 5 Minutes You Lost During COVID https://t.co/spAqFiwiRB via @bali_maha"
+	},
+	{
+		"created_at": "Tue Oct 06 17:18:41 +0000 2020",
+		"id": 1312079958571970600,
+		"id_str": "1313529120794513408",
+		"full_text": "Awful news for Northumbria and Newcastle - but can we stop blaming Universities (and students)&gt;  The Govt narrative as been so inconsistent as to be incomprehensible and the behaviours they have modelled (Cummings etc) makes their guidance a nonsense.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3250741,
+			"id_str": "3250741",
+			"name": "Lawrie",
+			"screen_name": "Lawrie",
+			"location": "Europe. #HopenotHate",
+			"description": "I like to think I take the Dark Side with me wherever I go. Veteran, Remain, he/him, #BlackLivesMatter",
+			"url": "https://t.co/VXCS80ZddW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VXCS80ZddW",
+							"expanded_url": "http://lawriephipps.co.uk",
+							"display_url": "lawriephipps.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3434,
+			"friends_count": 1321,
+			"listed_count": 164,
+			"created_at": "Mon Apr 02 21:08:17 +0000 2007",
+			"favourites_count": 7159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1304079358068502530/NCgxIYV6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1304079358068502530/NCgxIYV6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3250741/1496472460",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Awful news for Northumbria and Newcastle - but can we stop blaming Universities (and students)&gt;  The Govt narrative as been so inconsistent as to be incomprehensible and the behaviours they have modelled (Cummings etc) makes their guidance a nonsense."
+	},
+	{
+		"created_at": "Tue Oct 06 17:17:04 +0000 2020",
+		"id": 1313065039696461800,
+		"id_str": "1313528714731421696",
+		"full_text": "This is absolutely exemplary reporting from Sheffield. https://t.co/4utMBZQKzN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4utMBZQKzN",
+					"expanded_url": "https://twitter.com/SimonRushton8/status/1313062975301877760",
+					"display_url": "twitter.com/SimonRushton8/…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12219232,
+			"id_str": "12219232",
+			"name": "David Kernohan",
+			"screen_name": "dkernohan",
+			"location": "Dursley, England",
+			"description": "Associate editor/data person @Wonkhe. Publish your damn Covid case data.",
+			"url": "https://t.co/t4yXduFlpo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t4yXduFlpo",
+							"expanded_url": "http://followersoftheapocalyp.se",
+							"display_url": "followersoftheapocalyp.se",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6716,
+			"friends_count": 2315,
+			"listed_count": 331,
+			"created_at": "Mon Jan 14 15:05:54 +0000 2008",
+			"favourites_count": 8829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216363550148571142/MK3ZB5h-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216363550148571142/MK3ZB5h-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12219232/1554198155",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "B5B5B5",
+			"profile_sidebar_fill_color": "B8B8B8",
+			"profile_text_color": "5C5C5C",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1313062975301877800,
+		"quoted_status_id_str": "1313062975301877760",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4utMBZQKzN",
+			"expanded": "https://twitter.com/SimonRushton8/status/1313062975301877760",
+			"display": "twitter.com/SimonRushton8/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 05 10:26:23 +0000 2020",
+			"id": 1313062975301877800,
+			"id_str": "1313062975301877760",
+			"full_text": "University of Sheffield COVID update. \n\nCumulative cases (from 26/9/20): \nStudents: 474 \nStaff: 5\n\n7-day rolling average:\nStudents: 67.7\nStaff: 0.7\n\nhttps://t.co/VTBGyPtJFX https://t.co/xpMdrPEE52",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				172
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VTBGyPtJFX",
+						"expanded_url": "https://www.sheffield.ac.uk/autumn-term-2020/covid-19-statistics",
+						"display_url": "sheffield.ac.uk/autumn-term-20…",
+						"indices": [
+							149,
+							172
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1313062787896217600,
+						"id_str": "1313062787896217600",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/EjjvphBWkAAku2c.png",
+						"media_url_https": "https://pbs.twimg.com/media/EjjvphBWkAAku2c.png",
+						"url": "https://t.co/xpMdrPEE52",
+						"display_url": "pic.twitter.com/xpMdrPEE52",
+						"expanded_url": "https://twitter.com/SimonRushton8/status/1313062975301877760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1129,
+								"h": 323,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1129,
+								"h": 323,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 195,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1313062787896217600,
+						"id_str": "1313062787896217600",
+						"indices": [
+							173,
+							196
+						],
+						"media_url": "http://pbs.twimg.com/media/EjjvphBWkAAku2c.png",
+						"media_url_https": "https://pbs.twimg.com/media/EjjvphBWkAAku2c.png",
+						"url": "https://t.co/xpMdrPEE52",
+						"display_url": "pic.twitter.com/xpMdrPEE52",
+						"expanded_url": "https://twitter.com/SimonRushton8/status/1313062975301877760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1129,
+								"h": 323,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1129,
+								"h": 323,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 195,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 970993182161932300,
+				"id_str": "970993182161932288",
+				"name": "Simon Rushton",
+				"screen_name": "SimonRushton8",
+				"location": "Sheffield, England",
+				"description": "Global health politics/policy, higher education politics, various other things that catch my attention. Views my own, except those I pinched from other people",
+				"url": "https://t.co/GJcc6nQPxX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GJcc6nQPxX",
+								"expanded_url": "https://www.sheffield.ac.uk/politics/people/academic-staff/simon-rushton",
+								"display_url": "sheffield.ac.uk/politics/peopl…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1044,
+				"friends_count": 572,
+				"listed_count": 7,
+				"created_at": "Tue Mar 06 12:03:09 +0000 2018",
+				"favourites_count": 3065,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1052,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/970993595393232897/s_IVX8eX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/970993595393232897/s_IVX8eX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/970993182161932288/1591024193",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 34,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is absolutely exemplary reporting from Sheffield. https://t.co/4utMBZQKzN"
+	},
+	{
+		"created_at": "Tue Oct 06 17:14:40 +0000 2020",
+		"id": 1313368017691181000,
+		"id_str": "1313528111473008646",
+		"full_text": "Fascinating read, this one. https://t.co/WuP93gaAT4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WuP93gaAT4",
+					"expanded_url": "https://twitter.com/Wonkhe/status/1313367141698207744",
+					"display_url": "twitter.com/Wonkhe/status/…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12219232,
+			"id_str": "12219232",
+			"name": "David Kernohan",
+			"screen_name": "dkernohan",
+			"location": "Dursley, England",
+			"description": "Associate editor/data person @Wonkhe. Publish your damn Covid case data.",
+			"url": "https://t.co/t4yXduFlpo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t4yXduFlpo",
+							"expanded_url": "http://followersoftheapocalyp.se",
+							"display_url": "followersoftheapocalyp.se",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6716,
+			"friends_count": 2315,
+			"listed_count": 331,
+			"created_at": "Mon Jan 14 15:05:54 +0000 2008",
+			"favourites_count": 8829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216363550148571142/MK3ZB5h-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216363550148571142/MK3ZB5h-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12219232/1554198155",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "B5B5B5",
+			"profile_sidebar_fill_color": "B8B8B8",
+			"profile_text_color": "5C5C5C",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1313367141698207700,
+		"quoted_status_id_str": "1313367141698207744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WuP93gaAT4",
+			"expanded": "https://twitter.com/Wonkhe/status/1313367141698207744",
+			"display": "twitter.com/Wonkhe/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 06 06:35:02 +0000 2020",
+			"id": 1313367141698207700,
+			"id_str": "1313367141698207744",
+			"full_text": "NEW on Wonkhe: Drawing on a series of narratives from academic staff, researcher Hilary Collins traces the impact of the Covid-19 pandemic on the practice and experience of teaching.  @collinshilary63 https://t.co/rsTCj60Zlg https://t.co/xe2TvdVHXy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				224
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "collinshilary63",
+						"name": "Hilary Collins",
+						"id": 730751434258546700,
+						"id_str": "730751434258546688",
+						"indices": [
+							184,
+							200
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/rsTCj60Zlg",
+						"expanded_url": "https://buff.ly/3niJ1ZD",
+						"display_url": "buff.ly/3niJ1ZD",
+						"indices": [
+							201,
+							224
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1313367139823349800,
+						"id_str": "1313367139823349762",
+						"indices": [
+							225,
+							248
+						],
+						"media_url": "http://pbs.twimg.com/media/EjoEdITXcAIs_R5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjoEdITXcAIs_R5.jpg",
+						"url": "https://t.co/xe2TvdVHXy",
+						"display_url": "pic.twitter.com/xe2TvdVHXy",
+						"expanded_url": "https://twitter.com/Wonkhe/status/1313367141698207744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1313367139823349800,
+						"id_str": "1313367139823349762",
+						"indices": [
+							225,
+							248
+						],
+						"media_url": "http://pbs.twimg.com/media/EjoEdITXcAIs_R5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjoEdITXcAIs_R5.jpg",
+						"url": "https://t.co/xe2TvdVHXy",
+						"display_url": "pic.twitter.com/xe2TvdVHXy",
+						"expanded_url": "https://twitter.com/Wonkhe/status/1313367141698207744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 245499504,
+				"id_str": "245499504",
+				"name": "Wonkhe",
+				"screen_name": "Wonkhe",
+				"location": "UK",
+				"description": "Home of the UK higher education debate. Founder & Editor in Chief: @markmleach",
+				"url": "https://t.co/AAcTiW7qPe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AAcTiW7qPe",
+								"expanded_url": "http://wonkhe.com",
+								"display_url": "wonkhe.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 35037,
+				"friends_count": 14996,
+				"listed_count": 670,
+				"created_at": "Mon Jan 31 20:54:22 +0000 2011",
+				"favourites_count": 8201,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 29584,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1213358797038739456/P4RT8ilj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213358797038739456/P4RT8ilj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/245499504/1596465151",
+				"profile_link_color": "282746",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fascinating read, this one. https://t.co/WuP93gaAT4"
+	},
+	{
+		"created_at": "Tue Oct 06 17:13:58 +0000 2020",
+		"id": 1313527934855110700,
+		"id_str": "1313527934855110656",
+		"full_text": "@DrBenEvans To make an online session as engaging as possible there’s much more preparation to do up front. Just providing polls and break out rooms adds significantly to the load. Not sure anyone mentioned this during the summer.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrBenEvans",
+					"name": "Dr Ben Evans",
+					"id": 808324,
+					"id_str": "808324",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1312029203265716200,
+		"in_reply_to_status_id_str": "1312029203265716224",
+		"in_reply_to_user_id": 808324,
+		"in_reply_to_user_id_str": "808324",
+		"in_reply_to_screen_name": "DrBenEvans",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris \"Drowning not Waving\" Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1591,
+			"friends_count": 1215,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrBenEvans To make an online session as engaging as possible there’s much more preparation to do up front. Just providing polls and break out rooms adds significantly to the load. Not sure anyone mentioned this during the summer."
+	},
+	{
+		"created_at": "Tue Oct 06 17:07:43 +0000 2020",
+		"id": 1312029203265716200,
+		"id_str": "1313526360820912128",
+		"full_text": "Anyone else discovering that lecturing online is a biz-zillion times more draining than doing it in person?? All the energy output but limited adrenaline rush or real time positive feedback vibes in return...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 808324,
+			"id_str": "808324",
+			"name": "Dr Ben Evans",
+			"screen_name": "DrBenEvans",
+			"location": "Swansea, South Wales",
+			"description": "Associate Professor in Aerospace Engineering and Aero Engineer on the BLOODHOUND SSC Land Speed Record project..... based at Swansea University.",
+			"url": "https://t.co/Kp43rIqCYb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Kp43rIqCYb",
+							"expanded_url": "http://www.swansea.ac.uk/staff/engineering/b.j.evans/",
+							"display_url": "swansea.ac.uk/staff/engineer…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3163,
+			"friends_count": 845,
+			"listed_count": 73,
+			"created_at": "Sat Mar 03 12:36:47 +0000 2007",
+			"favourites_count": 2819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189097870995144704/3rJFKoie_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189097870995144704/3rJFKoie_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/808324/1557735944",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 55,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Anyone else discovering that lecturing online is a biz-zillion times more draining than doing it in person?? All the energy output but limited adrenaline rush or real time positive feedback vibes in return..."
+	},
+	{
+		"created_at": "Tue Oct 06 07:43:35 +0000 2020",
+		"id": 1313181879567253500,
+		"id_str": "1313384392665059330",
+		"full_text": "Still #AcademicTwitter #EdTech #altc #HigherEd #ukedchat  folks to fill out my short survey before 5pm Friday. @suebecks @chrissinerantzi @PeterBryantHE @EmmaKEdDev @David_Baume @DrGrobby @RacePhil @ProfSallyBrown @it_se @ChrisHeadleand @cpjobling pls retweet. 🙏 #COVID19 https://t.co/OkRjBN5zLN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AcademicTwitter",
+					"indices": [
+						6,
+						22
+					]
+				},
+				{
+					"text": "EdTech",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"text": "altc",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"text": "HigherEd",
+					"indices": [
+						37,
+						46
+					]
+				},
+				{
+					"text": "ukedchat",
+					"indices": [
+						47,
+						56
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						263,
+						271
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suebecks",
+					"name": "Sue Beckingham 🎓 💻 💡",
+					"id": 34904126,
+					"id_str": "34904126",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"screen_name": "chrissinerantzi",
+					"name": "Chrissi Nerantzi 🇬🇷🇪🇺🐝🇬🇧",
+					"id": 34362372,
+					"id_str": "34362372",
+					"indices": [
+						121,
+						137
+					]
+				},
+				{
+					"screen_name": "PeterBryantHE",
+					"name": "Peter Bryant",
+					"id": 617985395,
+					"id_str": "617985395",
+					"indices": [
+						138,
+						152
+					]
+				},
+				{
+					"screen_name": "EmmaKEdDev",
+					"name": "Dr Emma Kennedy",
+					"id": 88682676,
+					"id_str": "88682676",
+					"indices": [
+						153,
+						164
+					]
+				},
+				{
+					"screen_name": "David_Baume",
+					"name": "David Baume",
+					"id": 78412260,
+					"id_str": "78412260",
+					"indices": [
+						165,
+						177
+					]
+				},
+				{
+					"screen_name": "DrGrobby",
+					"name": "Dr Matthew J. Williamson 🏳️‍🌈🎼🚴🏻‍♂️",
+					"id": 17063350,
+					"id_str": "17063350",
+					"indices": [
+						178,
+						187
+					]
+				},
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						188,
+						197
+					]
+				},
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						198,
+						213
+					]
+				},
+				{
+					"screen_name": "it_se",
+					"name": "Dr Michelle Morgan (ItSE)",
+					"id": 457510440,
+					"id_str": "457510440",
+					"indices": [
+						214,
+						220
+					]
+				},
+				{
+					"screen_name": "ChrisHeadleand",
+					"name": "Dr Chris Headleand",
+					"id": 405910853,
+					"id_str": "405910853",
+					"indices": [
+						221,
+						236
+					]
+				},
+				{
+					"screen_name": "cpjobling",
+					"name": "Chris \"Drowning not Waving\" Jobling",
+					"id": 4229341,
+					"id_str": "4229341",
+					"indices": [
+						237,
+						247
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OkRjBN5zLN",
+					"expanded_url": "https://twitter.com/santanuvasant/status/1311946175428399105",
+					"display_url": "twitter.com/santanuvasant/…",
+					"indices": [
+						272,
+						295
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23588538,
+			"id_str": "23588538",
+			"name": "Santanu Vasant",
+			"screen_name": "santanuvasant",
+			"location": "London",
+			"description": "Head @UEL_CELT | UCL IoE MA, Ex-Brunel, Imperial, City, ICT Teach, #SFHEA Reviewer RLT @A_L_T | @Seda_UK_ Mag Editor. My views #learningspaces #makeEDUbetter",
+			"url": "https://t.co/tpdRMC7GF9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tpdRMC7GF9",
+							"expanded_url": "http://about.me/santanuvasant",
+							"display_url": "about.me/santanuvasant",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1560,
+			"friends_count": 883,
+			"listed_count": 151,
+			"created_at": "Tue Mar 10 13:05:31 +0000 2009",
+			"favourites_count": 5538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1077865576721076224/J44EV5tZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077865576721076224/J44EV5tZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23588538/1514966184",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1311946175428399000,
+		"quoted_status_id_str": "1311946175428399105",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OkRjBN5zLN",
+			"expanded": "https://twitter.com/santanuvasant/status/1311946175428399105",
+			"display": "twitter.com/santanuvasant/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 02 08:28:37 +0000 2020",
+			"id": 1311946175428399000,
+			"id_str": "1311946175428399105",
+			"full_text": "Calling all #HigherEd folks, @brianadamdan and I are excited to be launching a podcast pilot at the end of October, we'd like a few minutes of your time for topics: https://t.co/FLht66Hfc9 Thank you! please retweet! 🙏(cc @emilythemac) #AcademicTwitter https://t.co/zxg3PoTW7Z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				251
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HigherEd",
+						"indices": [
+							12,
+							21
+						]
+					},
+					{
+						"text": "AcademicTwitter",
+						"indices": [
+							235,
+							251
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "brianadamdan",
+						"name": "Brian Hipkin",
+						"id": 182953177,
+						"id_str": "182953177",
+						"indices": [
+							29,
+							42
+						]
+					},
+					{
+						"screen_name": "emilythemac",
+						"name": "Em McIntosh",
+						"id": 2363629665,
+						"id_str": "2363629665",
+						"indices": [
+							221,
+							233
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FLht66Hfc9",
+						"expanded_url": "https://forms.gle/fvy7t4fAqekjXimq8",
+						"display_url": "forms.gle/fvy7t4fAqekjXi…",
+						"indices": [
+							165,
+							188
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1311946084676182000,
+						"id_str": "1311946084676182016",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/media/EjT4A1WWoAAKbqI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjT4A1WWoAAKbqI.jpg",
+						"url": "https://t.co/zxg3PoTW7Z",
+						"display_url": "pic.twitter.com/zxg3PoTW7Z",
+						"expanded_url": "https://twitter.com/santanuvasant/status/1311946175428399105/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 451,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 637,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 637,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1311946084676182000,
+						"id_str": "1311946084676182016",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/media/EjT4A1WWoAAKbqI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjT4A1WWoAAKbqI.jpg",
+						"url": "https://t.co/zxg3PoTW7Z",
+						"display_url": "pic.twitter.com/zxg3PoTW7Z",
+						"expanded_url": "https://twitter.com/santanuvasant/status/1311946175428399105/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 451,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 637,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 637,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23588538,
+				"id_str": "23588538",
+				"name": "Santanu Vasant",
+				"screen_name": "santanuvasant",
+				"location": "London",
+				"description": "Head @UEL_CELT | UCL IoE MA, Ex-Brunel, Imperial, City, ICT Teach, #SFHEA Reviewer RLT @A_L_T | @Seda_UK_ Mag Editor. My views #learningspaces #makeEDUbetter",
+				"url": "https://t.co/tpdRMC7GF9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/tpdRMC7GF9",
+								"expanded_url": "http://about.me/santanuvasant",
+								"display_url": "about.me/santanuvasant",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1560,
+				"friends_count": 883,
+				"listed_count": 151,
+				"created_at": "Tue Mar 10 13:05:31 +0000 2009",
+				"favourites_count": 5538,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14669,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1077865576721076224/J44EV5tZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1077865576721076224/J44EV5tZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23588538/1514966184",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Still #AcademicTwitter #EdTech #altc #HigherEd #ukedchat  folks to fill out my short survey before 5pm Friday. @suebecks @chrissinerantzi @PeterBryantHE @EmmaKEdDev @David_Baume @DrGrobby @RacePhil @ProfSallyBrown @it_se @ChrisHeadleand @cpjobling pls retweet. 🙏 #COVID19 https://t.co/OkRjBN5zLN"
+	},
+	{
+		"created_at": "Tue Oct 06 07:04:53 +0000 2020",
+		"id": 1313374654891991000,
+		"id_str": "1313374654891991040",
+		"full_text": "Read my Oct 6 'swan-uni-staff' Newsletter featuring “3D X-Rays 'Unravel' Ancient Mummified Kitten And Gout…” https://t.co/kV9I5EOQzk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kV9I5EOQzk",
+					"expanded_url": "https://nzzl.us/j44WTAz",
+					"display_url": "nzzl.us/j44WTAz",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris \"Drowning not Waving\" Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1591,
+			"friends_count": 1215,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Oct 6 'swan-uni-staff' Newsletter featuring “3D X-Rays 'Unravel' Ancient Mummified Kitten And Gout…” https://t.co/kV9I5EOQzk"
+	},
+	{
 		"created_at": "Mon Oct 05 09:41:42 +0000 2020",
 		"id": 1313051728527454200,
 		"id_str": "1313051728527454209",
