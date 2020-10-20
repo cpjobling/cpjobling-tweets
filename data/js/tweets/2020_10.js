@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 19 08:44:33 +0000 2020",
+		"id": 1318101683356971000,
+		"id_str": "1318110778705301504",
+		"full_text": "Stack ’em up, zoom ’em down https://t.co/EatWz15Tkc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EatWz15Tkc",
+					"expanded_url": "https://howsheilaseesit.net/elearning/stack-em-up-zoom-em-down/",
+					"display_url": "howsheilaseesit.net/elearning/stac…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4013641,
+			"id_str": "4013641",
+			"name": "Sheila MacNeill",
+			"screen_name": "sheilmcn",
+			"location": "Scotland ",
+			"description": "Independent digital learning consultant, open educator, expert in online learning development, writer, keynote speaker, artist.",
+			"url": "https://t.co/vZo2t9v0Mz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vZo2t9v0Mz",
+							"expanded_url": "https://howsheilaseesit.net/",
+							"display_url": "howsheilaseesit.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5319,
+			"friends_count": 3151,
+			"listed_count": 380,
+			"created_at": "Tue Apr 10 10:55:00 +0000 2007",
+			"favourites_count": 7364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 50273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184408151057195008/ZFNQUpZF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184408151057195008/ZFNQUpZF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4013641/1569331524",
+			"profile_link_color": "7DB300",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Stack ’em up, zoom ’em down https://t.co/EatWz15Tkc"
+	},
+	{
+		"created_at": "Mon Oct 19 08:40:14 +0000 2020",
+		"id": 1317784440882475000,
+		"id_str": "1318109690774126592",
+		"full_text": "Looking forward to 20 hours of conversations about #academicintegrity and #contractcheating taking place on YouTube on Wednesday (or from Tuesday evening if you're in North American time zones). Join the discussion at https://t.co/FJyOuROu7d #excelwithintegrity #myownwork",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "academicintegrity",
+					"indices": [
+						51,
+						69
+					]
+				},
+				{
+					"text": "contractcheating",
+					"indices": [
+						74,
+						91
+					]
+				},
+				{
+					"text": "excelwithintegrity",
+					"indices": [
+						242,
+						261
+					]
+				},
+				{
+					"text": "myownwork",
+					"indices": [
+						262,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FJyOuROu7d",
+					"expanded_url": "https://www.youtube.com/channel/UCvtCD2gu5hB1Kgp5iJuZ6Wg",
+					"display_url": "youtube.com/channel/UCvtCD…",
+					"indices": [
+						218,
+						241
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 58439890,
+			"id_str": "58439890",
+			"name": "Thomas Lancaster",
+			"screen_name": "DrLancaster",
+			"location": "Birmingham, UK",
+			"description": "Experienced Computer Science academic and edtech enthusiast. Researcher and speaker on contract cheating, plagiarism and academic integrity.",
+			"url": "https://t.co/ylOd1B6SEr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ylOd1B6SEr",
+							"expanded_url": "http://thomaslancaster.co.uk",
+							"display_url": "thomaslancaster.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1291,
+			"friends_count": 378,
+			"listed_count": 0,
+			"created_at": "Mon Jul 20 10:15:57 +0000 2009",
+			"favourites_count": 984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16450,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075192569368363009/eR8dmDw__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075192569368363009/eR8dmDw__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/58439890/1466111793",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking forward to 20 hours of conversations about #academicintegrity and #contractcheating taking place on YouTube on Wednesday (or from Tuesday evening if you're in North American time zones). Join the discussion at https://t.co/FJyOuROu7d #excelwithintegrity #myownwork"
+	},
+	{
+		"created_at": "Mon Oct 19 07:04:48 +0000 2020",
+		"id": 1318085673371472000,
+		"id_str": "1318085673371471872",
+		"full_text": "Read my Oct 19 'swan-uni-staff' Newsletter featuring “Proteome constraints reveal targets for improving…” https://t.co/OabWLd3nkE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OabWLd3nkE",
+					"expanded_url": "https://nzzl.us/bkB31HL",
+					"display_url": "nzzl.us/bkB31HL",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris \"Drowning not Waving\" Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1596,
+			"friends_count": 1215,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11570,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Oct 19 'swan-uni-staff' Newsletter featuring “Proteome constraints reveal targets for improving…” https://t.co/OabWLd3nkE"
+	},
+	{
 		"created_at": "Sun Oct 18 07:05:09 +0000 2020",
 		"id": 1317723374722973700,
 		"id_str": "1317723374722973698",
