@@ -1,6 +1,500 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 22 12:22:32 +0000 2020",
+		"id": 1319252797905342500,
+		"id_str": "1319252797905342464",
+		"full_text": "It's very interesting to reflect on my response to this when thinking about what we are expecting of our students.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1319252032998563800,
+		"in_reply_to_status_id_str": "1319252032998563841",
+		"in_reply_to_user_id": 4229341,
+		"in_reply_to_user_id_str": "4229341",
+		"in_reply_to_screen_name": "cpjobling",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris \"Don't Put Me in a Breakout Room\" Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1595,
+			"friends_count": 1215,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "It's very interesting to reflect on my response to this when thinking about what we are expecting of our students."
+	},
+	{
+		"created_at": "Thu Oct 22 12:21:46 +0000 2020",
+		"id": 1319252604459929600,
+		"id_str": "1319252604459929605",
+		"full_text": "I've just bailed from an otherwise very interesting meeting on academic integrity to avoid being put into a breakout room in Zoom.\n\nIn the olden days one had to be introduced.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1319252032998563800,
+		"in_reply_to_status_id_str": "1319252032998563841",
+		"in_reply_to_user_id": 4229341,
+		"in_reply_to_user_id_str": "4229341",
+		"in_reply_to_screen_name": "cpjobling",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris \"Don't Put Me in a Breakout Room\" Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1595,
+			"friends_count": 1215,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I've just bailed from an otherwise very interesting meeting on academic integrity to avoid being put into a breakout room in Zoom.\n\nIn the olden days one had to be introduced."
+	},
+	{
+		"created_at": "Thu Oct 22 12:19:29 +0000 2020",
+		"id": 1319252032998563800,
+		"id_str": "1319252032998563841",
+		"full_text": "\"Breakout rooms in online meetings should be optional to meeting participants.\"\n\nDIscuss!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris \"Don't Put Me in a Breakout Room\" Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1595,
+			"friends_count": 1215,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "\"Breakout rooms in online meetings should be optional to meeting participants.\"\n\nDIscuss!"
+	},
+	{
+		"created_at": "Thu Oct 22 07:31:38 +0000 2020",
+		"id": 1319179589839704000,
+		"id_str": "1319179589839704069",
+		"full_text": "Feeling guilty that I've been AWOL from #LTHEChat in October!\n\nI have seen and recorded the questions, but I have had no answers.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						40,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris \"Don't Put Me in a Breakout Room\" Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1595,
+			"friends_count": 1215,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Feeling guilty that I've been AWOL from #LTHEChat in October!\n\nI have seen and recorded the questions, but I have had no answers."
+	},
+	{
+		"created_at": "Thu Oct 22 07:04:53 +0000 2020",
+		"id": 1319172859206520800,
+		"id_str": "1319172859206520832",
+		"full_text": "Read my Oct 22 'swan-uni-staff' Newsletter featuring “ZOYC Online - Biomaterials” https://t.co/Sbz0mFzCQi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Sbz0mFzCQi",
+					"expanded_url": "https://nzzl.us/L7KGXa3",
+					"display_url": "nzzl.us/L7KGXa3",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris \"Don't Put Me in a Breakout Room\" Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1595,
+			"friends_count": 1215,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Oct 22 'swan-uni-staff' Newsletter featuring “ZOYC Online - Biomaterials” https://t.co/Sbz0mFzCQi"
+	},
+	{
 		"created_at": "Wed Oct 21 07:57:13 +0000 2020",
 		"id": 1318823643288404000,
 		"id_str": "1318823643288403968",
