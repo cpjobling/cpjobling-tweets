@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 28 09:17:29 +0000 2020",
+		"id": 1321380555842297900,
+		"id_str": "1321380555842297856",
+		"full_text": "@KiuSum @LeeFallin @EdBurritoPod I have to listen to the back catalogue now! \n\nSo much to do, so little time! #EdBurritoPod https://t.co/oLL2wDmowl",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EdBurritoPod",
+					"indices": [
+						110,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KiuSum",
+					"name": "Kiu Sum",
+					"id": 246951711,
+					"id_str": "246951711",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "LeeFallin",
+					"name": "Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						8,
+						18
+					]
+				},
+				{
+					"screen_name": "EdBurritoPod",
+					"name": "The Education Burrito🌯",
+					"id": 1301944632901873700,
+					"id_str": "1301944632901873665",
+					"indices": [
+						19,
+						32
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321380352531845000,
+					"id_str": "1321380352531845122",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/ElZ8bf3XUAICinW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElZ8bf3XUAICinW.jpg",
+					"url": "https://t.co/oLL2wDmowl",
+					"display_url": "pic.twitter.com/oLL2wDmowl",
+					"expanded_url": "https://twitter.com/cpjobling/status/1321380555842297856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321380352531845000,
+					"id_str": "1321380352531845122",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/ElZ8bf3XUAICinW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElZ8bf3XUAICinW.jpg",
+					"url": "https://t.co/oLL2wDmowl",
+					"display_url": "pic.twitter.com/oLL2wDmowl",
+					"expanded_url": "https://twitter.com/cpjobling/status/1321380555842297856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1321101326760267800,
+		"in_reply_to_status_id_str": "1321101326760267776",
+		"in_reply_to_user_id": 246951711,
+		"in_reply_to_user_id_str": "246951711",
+		"in_reply_to_screen_name": "KiuSum",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris \"Don't Put Me in a Breakout Room\" Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1593,
+			"friends_count": 1215,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@KiuSum @LeeFallin @EdBurritoPod I have to listen to the back catalogue now! \n\nSo much to do, so little time! #EdBurritoPod https://t.co/oLL2wDmowl"
+	},
+	{
+		"created_at": "Wed Oct 28 08:06:28 +0000 2020",
+		"id": 1321362685058076700,
+		"id_str": "1321362685058076672",
+		"full_text": "Read the Oct 28 Newsletter curated by my PLN featuring “ITN Productions Industry News announce new programme in…” https://t.co/bY036Oq6Xl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bY036Oq6Xl",
+					"expanded_url": "https://nzzl.us/lK0AxvG",
+					"display_url": "nzzl.us/lK0AxvG",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris \"Don't Put Me in a Breakout Room\" Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1593,
+			"friends_count": 1215,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read the Oct 28 Newsletter curated by my PLN featuring “ITN Productions Industry News announce new programme in…” https://t.co/bY036Oq6Xl"
+	},
+	{
 		"created_at": "Tue Oct 27 08:06:14 +0000 2020",
 		"id": 1321000237058662400,
 		"id_str": "1321000237058662400",
@@ -216,7 +535,7 @@ Grailbird.data.tweets_2020_10 =
 		"created_at": "Tue Oct 27 07:33:25 +0000 2020",
 		"id": 1320991980197994500,
 		"id_str": "1320991980197994497",
-		"full_text": "Lovely to be taken back to the Brynmore Jones Library with ⁦@LeeFallin⁩ and ⁦@KiuSum⁩ on the ⁦@EdBurritoPod⁩-cast https://t.co/itv9PA9ren",
+		"full_text": "Lovely to be taken back to the Brynmore Jones Library with @LeeFallin and @KiuSum on the @EdBurritoPod-cast https://t.co/itv9PA9ren",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -347,7 +666,7 @@ Grailbird.data.tweets_2020_10 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Lovely to be taken back to the Brynmore Jones Library with ⁦@LeeFallin⁩ and ⁦@KiuSum⁩ on the ⁦@EdBurritoPod⁩-cast https://t.co/itv9PA9ren"
+		"text": "Lovely to be taken back to the Brynmore Jones Library with @LeeFallin and @KiuSum on the @EdBurritoPod-cast https://t.co/itv9PA9ren"
 	},
 	{
 		"created_at": "Mon Oct 26 08:05:39 +0000 2020",
