@@ -1,6 +1,637 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 09 09:20:24 +0000 2020",
+		"id": 1325722307239829500,
+		"id_str": "1325729946866749442",
+		"full_text": "NEW on Wonkhe: University communities are risking mass burnout, says Simone Buitendijk  https://t.co/XrCEqGa22N https://t.co/JOfXyxpMk4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XrCEqGa22N",
+					"expanded_url": "https://buff.ly/3mZyhOO",
+					"display_url": "buff.ly/3mZyhOO",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1325722305134272500,
+					"id_str": "1325722305134272512",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXpaZxXIAAJpbM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmXpaZxXIAAJpbM.jpg",
+					"url": "https://t.co/JOfXyxpMk4",
+					"display_url": "pic.twitter.com/JOfXyxpMk4",
+					"expanded_url": "https://twitter.com/Wonkhe/status/1325722307239829504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325722305134272500,
+					"id_str": "1325722305134272512",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXpaZxXIAAJpbM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmXpaZxXIAAJpbM.jpg",
+					"url": "https://t.co/JOfXyxpMk4",
+					"display_url": "pic.twitter.com/JOfXyxpMk4",
+					"expanded_url": "https://twitter.com/Wonkhe/status/1325722307239829504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 245499504,
+			"id_str": "245499504",
+			"name": "Wonkhe",
+			"screen_name": "Wonkhe",
+			"location": "UK",
+			"description": "Home of the UK higher education debate. Founder & Editor in Chief: @markmleach",
+			"url": "https://t.co/AAcTiW7qPe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AAcTiW7qPe",
+							"expanded_url": "http://wonkhe.com",
+							"display_url": "wonkhe.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35372,
+			"friends_count": 14983,
+			"listed_count": 678,
+			"created_at": "Mon Jan 31 20:54:22 +0000 2011",
+			"favourites_count": 8208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29989,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213358797038739456/P4RT8ilj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213358797038739456/P4RT8ilj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/245499504/1596465151",
+			"profile_link_color": "282746",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW on Wonkhe: University communities are risking mass burnout, says Simone Buitendijk  https://t.co/XrCEqGa22N https://t.co/JOfXyxpMk4"
+	},
+	{
+		"created_at": "Mon Nov 09 09:15:18 +0000 2020",
+		"id": 1325724814053552000,
+		"id_str": "1325728660234629120",
+		"full_text": "Want to learn how to handle problems involving matrices? The first of our two workshops is happening tomorrow!\n\nFind out more and sign up here: https://t.co/ds4TLtK1mr\n\n#swanseauniversity #swanseauni #academiclife https://t.co/U6rWPORbq9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "swanseauniversity",
+					"indices": [
+						169,
+						187
+					]
+				},
+				{
+					"text": "swanseauni",
+					"indices": [
+						188,
+						199
+					]
+				},
+				{
+					"text": "academiclife",
+					"indices": [
+						200,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ds4TLtK1mr",
+					"expanded_url": "https://myuni.swansea.ac.uk/academic-success/courses-and-workshops/linear-algebra-workshops/",
+					"display_url": "myuni.swansea.ac.uk/academic-succe…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1320732478831808500,
+					"id_str": "1320732478831808512",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/ElQvMSQXUAA0gvQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElQvMSQXUAA0gvQ.jpg",
+					"url": "https://t.co/U6rWPORbq9",
+					"display_url": "pic.twitter.com/U6rWPORbq9",
+					"expanded_url": "https://twitter.com/CAS_Swansea/status/1325724814053552129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1320732478831808500,
+					"id_str": "1320732478831808512",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/ElQvMSQXUAA0gvQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElQvMSQXUAA0gvQ.jpg",
+					"url": "https://t.co/U6rWPORbq9",
+					"display_url": "pic.twitter.com/U6rWPORbq9",
+					"expanded_url": "https://twitter.com/CAS_Swansea/status/1325724814053552129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1156813429,
+			"id_str": "1156813429",
+			"name": "The Centre for Academic Success",
+			"screen_name": "CAS_Swansea",
+			"location": "Swansea University",
+			"description": "The Centre for Academic Success at Swansea University. Here to help you achieve your academic potential. https://t.co/WgeFt9nNIn",
+			"url": "https://t.co/PJMsiusCE3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJMsiusCE3",
+							"expanded_url": "https://myuni.swan.ac.uk/myuni-academic-study-services/cas/asp/",
+							"display_url": "myuni.swan.ac.uk/myuni-academic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WgeFt9nNIn",
+							"expanded_url": "https://myuni.swan.ac.uk/academic-success",
+							"display_url": "myuni.swan.ac.uk/academic-succe…",
+							"indices": [
+								105,
+								128
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1131,
+			"friends_count": 1026,
+			"listed_count": 8,
+			"created_at": "Thu Feb 07 11:00:41 +0000 2013",
+			"favourites_count": 234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039074166518018049/9aUzTu1l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039074166518018049/9aUzTu1l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1156813429/1537197752",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Want to learn how to handle problems involving matrices? The first of our two workshops is happening tomorrow!\n\nFind out more and sign up here: https://t.co/ds4TLtK1mr\n\n#swanseauniversity #swanseauni #academiclife https://t.co/U6rWPORbq9"
+	},
+	{
+		"created_at": "Mon Nov 09 08:40:01 +0000 2020",
+		"id": 1325382712383955000,
+		"id_str": "1325719782457569280",
+		"full_text": "#LTHEchat190: The role of a systems approach in successfully supporting learning, students and staff with host Prof Colin Turner @ProfCTurner https://t.co/7PK0wK2wAz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat190",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfCTurner",
+					"name": "Professor Colin Turner",
+					"id": 20500058,
+					"id_str": "20500058",
+					"indices": [
+						129,
+						141
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7PK0wK2wAz",
+					"expanded_url": "http://lthechat.com/2020/11/08/lthechat190-the-role-of-a-systems-approach-in-successfully-supporting-learning-students-and-staff-with-host-prof-colin-turner-profcturner/",
+					"display_url": "lthechat.com/2020/11/08/lth…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7971,
+			"friends_count": 3315,
+			"listed_count": 158,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 4154,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LTHEchat190: The role of a systems approach in successfully supporting learning, students and staff with host Prof Colin Turner @ProfCTurner https://t.co/7PK0wK2wAz"
+	},
+	{
+		"created_at": "Mon Nov 09 08:04:50 +0000 2020",
+		"id": 1325710930139881500,
+		"id_str": "1325710930139881472",
+		"full_text": "Read my Nov 9 'swan-uni-staff' Newsletter featuring “Gower sinkhole: Road opens after repairs” https://t.co/QckBQIeUPM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QckBQIeUPM",
+					"expanded_url": "https://nzzl.us/BpNm1iF",
+					"display_url": "nzzl.us/BpNm1iF",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris \"very tired” Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Regular at #LTHEchat and #BYOD4L. Volunteer and Member of @theiet. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1597,
+			"friends_count": 1220,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read my Nov 9 'swan-uni-staff' Newsletter featuring “Gower sinkhole: Road opens after repairs” https://t.co/QckBQIeUPM"
+	},
+	{
 		"created_at": "Sun Nov 08 08:44:57 +0000 2020",
 		"id": 1325358634260451300,
 		"id_str": "1325358634260451329",
