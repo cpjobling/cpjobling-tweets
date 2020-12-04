@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 03 09:10:57 +0000 2020",
+		"id": 1334258665080107000,
+		"id_str": "1334424878020255745",
+		"full_text": "@KiuSum This popped up on my Twitter feed just after tonight’s  #LTHEchat. \nhttps://t.co/0EeF8q4scR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						64,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KiuSum",
+					"name": "Kiu Sum",
+					"id": 246951711,
+					"id_str": "246951711",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0EeF8q4scR",
+					"expanded_url": "https://www.timeshighereducation.com/news/canadian-faculty-describe-despair-online-teaching",
+					"display_url": "timeshighereducation.com/news/canadian-…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 246951711,
+		"in_reply_to_user_id_str": "246951711",
+		"in_reply_to_screen_name": "KiuSum",
+		"user": {
+			"id": 580216725,
+			"id_str": "580216725",
+			"name": "Paul Kleiman",
+			"screen_name": "DrPaulKleiman",
+			"location": "Work tweets @CielEducation",
+			"description": "The world turned upside down. Isolated fragments at the edge of educational, creative, cultural and political chaos.",
+			"url": "https://t.co/IZOxbPyShI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IZOxbPyShI",
+							"expanded_url": "http://stumblingwithconfidence.wordpress.com",
+							"display_url": "stumblingwithconfidence.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1466,
+			"friends_count": 937,
+			"listed_count": 52,
+			"created_at": "Mon May 14 18:49:56 +0000 2012",
+			"favourites_count": 17802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317104459625922561/qPwpzDRU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317104459625922561/qPwpzDRU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/580216725/1602891958",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@KiuSum This popped up on my Twitter feed just after tonight’s  #LTHEchat. \nhttps://t.co/0EeF8q4scR"
+	},
+	{
 		"created_at": "Wed Dec 02 21:19:10 +0000 2020",
 		"id": 1334245750633615400,
 		"id_str": "1334245750633615360",
