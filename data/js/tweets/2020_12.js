@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 06 09:47:10 +0000 2020",
+		"id": 1335487700611313700,
+		"id_str": "1335521155806060544",
+		"full_text": "#LTHEchat193 Challenges with online assessments in the COVID learning environment with host Dr Carina Ginty @carinaginty https://t.co/YmJQs97NC3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat193",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "carinaginty",
+					"name": "Dr Carina Ginty",
+					"id": 202595924,
+					"id_str": "202595924",
+					"indices": [
+						108,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YmJQs97NC3",
+					"expanded_url": "http://lthechat.com/2020/12/06/lthechat193-challenges-with-online-assessments-in-the-covid-learning-environment-with-host-dr-carina-ginty-carinaginty/",
+					"display_url": "lthechat.com/2020/12/06/lth…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8100,
+			"friends_count": 3314,
+			"listed_count": 159,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 4220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LTHEchat193 Challenges with online assessments in the COVID learning environment with host Dr Carina Ginty @carinaginty https://t.co/YmJQs97NC3"
+	},
+	{
 		"created_at": "Fri Dec 04 12:02:15 +0000 2020",
 		"id": 1334830371784028200,
 		"id_str": "1334830371784028161",
@@ -620,7 +745,7 @@ Grailbird.data.tweets_2020_12 =
 			"user": {
 				"id": 36370231,
 				"id_str": "36370231",
-				"name": "Danielle M Hinton 👩🏻‍🏫👩🏻‍💻🌍",
+				"name": "Danielle M Hinton 👩🏻🏫👩🏻💻🌍",
 				"screen_name": "hintondm",
 				"location": "Work: Birmingham",
 				"description": "#SFHEA & MSc Int. Dev. \n@unibirmingham Educational Developer @UoB_HEFi \nLeads @uobITSL & teaches on @UoB_PGCHE, #LegoSeriousPlay facilitator \n❤️#learningdesign",
