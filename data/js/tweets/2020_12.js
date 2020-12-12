@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 11 11:24:09 +0000 2020",
+		"id": 1337333972548915200,
+		"id_str": "1337357499297632256",
+		"full_text": "It’s the last day of term! We hope you all have a great Christmas break, and look forward to seeing you next term.\n\n#swanseauni #swanseauniversity https://t.co/lix68zLPCN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "swanseauni",
+					"indices": [
+						116,
+						127
+					]
+				},
+				{
+					"text": "swanseauniversity",
+					"indices": [
+						128,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337333919168000000,
+					"id_str": "1337333919168000000",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo8qHS4W8AAEvXr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo8qHS4W8AAEvXr.jpg",
+					"url": "https://t.co/lix68zLPCN",
+					"display_url": "pic.twitter.com/lix68zLPCN",
+					"expanded_url": "https://twitter.com/CAS_Swansea/status/1337333972548915200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337333919168000000,
+					"id_str": "1337333919168000000",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo8qHS4W8AAEvXr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo8qHS4W8AAEvXr.jpg",
+					"url": "https://t.co/lix68zLPCN",
+					"display_url": "pic.twitter.com/lix68zLPCN",
+					"expanded_url": "https://twitter.com/CAS_Swansea/status/1337333972548915200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1156813429,
+			"id_str": "1156813429",
+			"name": "The Centre for Academic Success",
+			"screen_name": "CAS_Swansea",
+			"location": "Swansea University",
+			"description": "The Centre for Academic Success at Swansea University. Here to help you achieve your academic potential. https://t.co/WgeFt9nNIn",
+			"url": "https://t.co/PJMsiusCE3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJMsiusCE3",
+							"expanded_url": "https://myuni.swan.ac.uk/myuni-academic-study-services/cas/asp/",
+							"display_url": "myuni.swan.ac.uk/myuni-academic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WgeFt9nNIn",
+							"expanded_url": "https://myuni.swan.ac.uk/academic-success",
+							"display_url": "myuni.swan.ac.uk/academic-succe…",
+							"indices": [
+								105,
+								128
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1138,
+			"friends_count": 1024,
+			"listed_count": 9,
+			"created_at": "Thu Feb 07 11:00:41 +0000 2013",
+			"favourites_count": 234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039074166518018049/9aUzTu1l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039074166518018049/9aUzTu1l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1156813429/1537197752",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s the last day of term! We hope you all have a great Christmas break, and look forward to seeing you next term.\n\n#swanseauni #swanseauniversity https://t.co/lix68zLPCN"
+	},
+	{
 		"created_at": "Thu Dec 10 09:50:10 +0000 2020",
 		"id": 1336971461110755300,
 		"id_str": "1336971461110755335",
