@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 14 07:59:47 +0000 2020",
+		"id": 1338038492757160000,
+		"id_str": "1338393232137461760",
+		"full_text": "Join the #LTHEchat194 Wednesday 8pm GMT for an epic #GiftExchange: “Just as nice to give as receive” with Guest hosts Dr Kate Cuthbert @cuthbert_kate Dr Safia Barikzai @SafiaBarikzai and Dr Dawne Irving-Bell @belld17 https://t.co/jcHn3IoUDJ https://t.co/VJw9cg51Lt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat194",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"text": "GiftExchange",
+					"indices": [
+						52,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cuthbert_kate",
+					"name": "Dr Kate Cuthbert",
+					"id": 3813217876,
+					"id_str": "3813217876",
+					"indices": [
+						135,
+						149
+					]
+				},
+				{
+					"screen_name": "SafiaBarikzai",
+					"name": "Dr Safia Barikzai 💙",
+					"id": 2175945061,
+					"id_str": "2175945061",
+					"indices": [
+						168,
+						182
+					]
+				},
+				{
+					"screen_name": "belld17",
+					"name": "Dawne",
+					"id": 1274404952,
+					"id_str": "1274404952",
+					"indices": [
+						208,
+						216
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jcHn3IoUDJ",
+					"expanded_url": "https://lthechat.com/2020/12/13/lthechat194-just-as-nice-to-give-as-receive-with-guest-hosts-dr-kate-cuthbert-cuthbert_kate-dr-safia-barikzai-safiabarikzai-and-dr-dawne-irving-bell-belld17/amp/",
+					"display_url": "lthechat.com/2020/12/13/lth…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338038464118395000,
+					"id_str": "1338038464118394880",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1338038464118394880/pu/img/w6uI1ZwrnfvPwDkP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1338038464118394880/pu/img/w6uI1ZwrnfvPwDkP.jpg",
+					"url": "https://t.co/VJw9cg51Lt",
+					"display_url": "pic.twitter.com/VJw9cg51Lt",
+					"expanded_url": "https://twitter.com/hintondm/status/1338038492757159937/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 626,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 626,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338038464118395000,
+					"id_str": "1338038464118394880",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1338038464118394880/pu/img/w6uI1ZwrnfvPwDkP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1338038464118394880/pu/img/w6uI1ZwrnfvPwDkP.jpg",
+					"url": "https://t.co/VJw9cg51Lt",
+					"display_url": "pic.twitter.com/VJw9cg51Lt",
+					"expanded_url": "https://twitter.com/hintondm/status/1338038492757159937/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 626,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 626,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							600,
+							313
+						],
+						"duration_millis": 5240,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1338038464118394880/pu/pl/uXaoiGN_XWs1t6tC.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1338038464118394880/pu/vid/690x360/MwV39r1btYnzotGK.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1338038464118394880/pu/vid/516x270/DmQlTjXma5WEcxPY.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1338038464118394880/pu/vid/1200x626/jXR6Gi0sQ2vDrKKy.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36370231,
+			"id_str": "36370231",
+			"name": "Danielle M Hinton 👩🏻‍🏫👩🏻‍💻🌍",
+			"screen_name": "hintondm",
+			"location": "Work: Birmingham",
+			"description": "#SFHEA & MSc Int. Dev. @unibirmingham Educational Developer @UoB_HEFi Leads @uobITSL & teaches on @UoB_PGCHE, #LegoSeriousPlay facilitator ❤️#learningdesign",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1291,
+			"friends_count": 1081,
+			"listed_count": 60,
+			"created_at": "Wed Apr 29 14:31:05 +0000 2009",
+			"favourites_count": 8909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1327221742096572421/1OyzkkT5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1327221742096572421/1OyzkkT5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36370231/1607608960",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join the #LTHEchat194 Wednesday 8pm GMT for an epic #GiftExchange: “Just as nice to give as receive” with Guest hosts Dr Kate Cuthbert @cuthbert_kate Dr Safia Barikzai @SafiaBarikzai and Dr Dawne Irving-Bell @belld17 https://t.co/jcHn3IoUDJ https://t.co/VJw9cg51Lt"
+	},
+	{
 		"created_at": "Fri Dec 11 11:24:09 +0000 2020",
 		"id": 1337333972548915200,
 		"id_str": "1337357499297632256",
