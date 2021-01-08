@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 07 10:17:27 +0000 2021",
+		"id": 1347125185497989000,
+		"id_str": "1347125185497989125",
+		"full_text": "A must listen! https://t.co/mNmGtUnp5F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mNmGtUnp5F",
+					"expanded_url": "https://twitter.com/YearsEd/status/1347105950679891968",
+					"display_url": "twitter.com/YearsEd/status…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1600,
+			"friends_count": 1228,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270415818589974529/fvhDHM3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1347105950679892000,
+		"quoted_status_id_str": "1347105950679891968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mNmGtUnp5F",
+			"expanded": "https://twitter.com/YearsEd/status/1347105950679891968",
+			"display": "twitter.com/YearsEd/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 07 09:01:01 +0000 2021",
+			"id": 1347105950679892000,
+			"id_str": "1347105950679891968",
+			"full_text": "★ Just published a new episode of 25 Years of Ed Tech: Between the Chapters #9 resistance &amp; care for the LMS with @OnlineCrsLady, @brennacgray &amp; @carolak. Listen: https://t.co/6lSPPDcJP1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				194
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OnlineCrsLady",
+						"name": "Dr. Laura Gibbs",
+						"id": 7044082,
+						"id_str": "7044082",
+						"indices": [
+							118,
+							132
+						]
+					},
+					{
+						"screen_name": "brennacgray",
+						"name": "Brenna Clarke Gray",
+						"id": 14109848,
+						"id_str": "14109848",
+						"indices": [
+							134,
+							146
+						]
+					},
+					{
+						"screen_name": "carolak",
+						"name": "✿Caroline Kühn H✿",
+						"id": 19557144,
+						"id_str": "19557144",
+						"indices": [
+							153,
+							161
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/6lSPPDcJP1",
+						"expanded_url": "https://share.transistor.fm/s/de9a2bd9",
+						"display_url": "share.transistor.fm/s/de9a2bd9",
+						"indices": [
+							171,
+							194
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://transistor.fm\" rel=\"nofollow\">Transistor.fm</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1312472054130602000,
+				"id_str": "1312472054130601984",
+				"name": "25 Years Of Ed Tech: The Audio Version",
+				"screen_name": "YearsEd",
+				"location": "",
+				"description": "Twitter account for the serialized audio version of Martin Weller's 25 Years of Ed Tech book & bonus podcast Between the Chapters Tweets by @edtechfactotum",
+				"url": "https://t.co/BPiRsGtHe9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BPiRsGtHe9",
+								"expanded_url": "http://25years.opened.ca",
+								"display_url": "25years.opened.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 123,
+				"friends_count": 0,
+				"listed_count": 0,
+				"created_at": "Sat Oct 03 19:18:25 +0000 2020",
+				"favourites_count": 69,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 59,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1312472262159687683/y_t45Ol-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312472262159687683/y_t45Ol-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1312472054130601984/1601752908",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A must listen! https://t.co/mNmGtUnp5F"
+	},
+	{
 		"created_at": "Wed Jan 06 15:52:22 +0000 2021",
 		"id": 1346847084092260400,
 		"id_str": "1346847084092260353",
