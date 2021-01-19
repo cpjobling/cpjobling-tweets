@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 18 14:18:06 +0000 2021",
+		"id": 1351165299068907500,
+		"id_str": "1351172014917222412",
+		"full_text": "That was a great intro to the work of #ResilientProgLeaders.  \n\nThanks @Martha_Caddell and Sam Ellis and to participants.\n\nLooking forward to Webinar #2!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ResilientProgLeaders",
+					"indices": [
+						38,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Martha_Caddell",
+					"name": "Martha Caddell",
+					"id": 400832201,
+					"id_str": "400832201",
+					"indices": [
+						71,
+						86
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 723537068178190300,
+			"id_str": "723537068178190336",
+			"name": "Louise Rees",
+			"screen_name": "LJ_Rees",
+			"location": "Wales, United Kingdom",
+			"description": "Senior Academic Developer. FHEA; COLF. Promoting excellent teaching & #CPD in all its forms, #HEAFellowship, #UKPSF, #RIGS, #coachingHE, #susalthea. Views own.",
+			"url": "https://t.co/v5ci3Nr9Ha",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v5ci3Nr9Ha",
+							"expanded_url": "https://salt.swan.ac.uk",
+							"display_url": "salt.swan.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 523,
+			"friends_count": 333,
+			"listed_count": 19,
+			"created_at": "Fri Apr 22 15:40:54 +0000 2016",
+			"favourites_count": 2483,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118500649073876994/NZSXfhv8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118500649073876994/NZSXfhv8_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/723537068178190336/1505547219",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "That was a great intro to the work of #ResilientProgLeaders.  \n\nThanks @Martha_Caddell and Sam Ellis and to participants.\n\nLooking forward to Webinar #2!"
+	},
+	{
 		"created_at": "Sun Jan 17 10:08:29 +0000 2021",
 		"id": 1350746807949783000,
 		"id_str": "1350746807949783041",
