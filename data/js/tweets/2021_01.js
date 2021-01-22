@@ -1,6 +1,411 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 21 18:17:06 +0000 2021",
+		"id": 1352219072633729000,
+		"id_str": "1352319323386343427",
+		"full_text": "Thanks again to everyone who came along and joined in last night for the #LTHEChat We thoroughly enjoyed it all. Here's a TAGS visualisation https://t.co/UCvMFxEAta @Lenandlar @koutropoulos",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						73,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Lenandlar",
+					"name": "Lenandlar Singh",
+					"id": 23781321,
+					"id_str": "23781321",
+					"indices": [
+						165,
+						175
+					]
+				},
+				{
+					"screen_name": "koutropoulos",
+					"name": "koutropoulos",
+					"id": 17907414,
+					"id_str": "17907414",
+					"indices": [
+						176,
+						189
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UCvMFxEAta",
+					"expanded_url": "https://hawksey.info/tagsexplorer/?key=1_ENuSgf8CMigka_kcDkoVrRrERQGrlK4-RqQBq5N824&gid=400689247",
+					"display_url": "hawksey.info/tagsexplorer/?…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 558091832,
+			"id_str": "558091832",
+			"name": "Sarah Honeychurch",
+			"screen_name": "NomadWarMachine",
+			"location": "",
+			"description": "Remixer, knitter, ukes. Teaching Fellow @UofGAsbs @UofGlasgow; #jisc50social  https://t.co/FaYghV5n1R #clmooc #ds106 #YouYesYet #LTHEchat #ALTC",
+			"url": "https://t.co/nA2gSqPgC8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nA2gSqPgC8",
+							"expanded_url": "http://about.me/sarahhoneychurch",
+							"display_url": "about.me/sarahhoneychur…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FaYghV5n1R",
+							"expanded_url": "http://bit.ly/1Le3tna",
+							"display_url": "bit.ly/1Le3tna",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2696,
+			"friends_count": 2400,
+			"listed_count": 113,
+			"created_at": "Thu Apr 19 21:58:27 +0000 2012",
+			"favourites_count": 30114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1047122314276614144/XdsZ7BKr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047122314276614144/XdsZ7BKr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/558091832/1581343433",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks again to everyone who came along and joined in last night for the #LTHEChat We thoroughly enjoyed it all. Here's a TAGS visualisation https://t.co/UCvMFxEAta @Lenandlar @koutropoulos"
+	},
+	{
+		"created_at": "Thu Jan 21 12:35:21 +0000 2021",
+		"id": 1351986413324132400,
+		"id_str": "1352233322349428741",
+		"full_text": "@LTHEchat A2 Thoroughly recommend the Louis-Etienne Dubois podcast about slow teaching and being online. So important to establish (or re-establish) a genuine sense of community, sociability, intimacy, etc. https://t.co/CqQ2Zfq4kd\n\n#lthechat",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lthechat",
+					"indices": [
+						232,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CqQ2Zfq4kd",
+					"expanded_url": "https://soundcloud.com/user-305224768-967971769/slow-teaching-with-dr-louis-etienne-dubois",
+					"display_url": "soundcloud.com/user-305224768…",
+					"indices": [
+						207,
+						230
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1351985347928854500,
+		"in_reply_to_status_id_str": "1351985347928854528",
+		"in_reply_to_user_id": 2659221798,
+		"in_reply_to_user_id_str": "2659221798",
+		"in_reply_to_screen_name": "LTHEchat",
+		"user": {
+			"id": 580216725,
+			"id_str": "580216725",
+			"name": "Paul Kleiman",
+			"screen_name": "DrPaulKleiman",
+			"location": "Work tweets @CielEducation",
+			"description": "The world turned upside down. Isolated fragments at the edge of educational, creative, cultural and political chaos.",
+			"url": "https://t.co/IZOxbPyShI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IZOxbPyShI",
+							"expanded_url": "http://stumblingwithconfidence.wordpress.com",
+							"display_url": "stumblingwithconfidence.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1478,
+			"friends_count": 945,
+			"listed_count": 51,
+			"created_at": "Mon May 14 18:49:56 +0000 2012",
+			"favourites_count": 18511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1317104459625922561/qPwpzDRU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1317104459625922561/qPwpzDRU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/580216725/1602891958",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@LTHEchat A2 Thoroughly recommend the Louis-Etienne Dubois podcast about slow teaching and being online. So important to establish (or re-establish) a genuine sense of community, sociability, intimacy, etc. https://t.co/CqQ2Zfq4kd\n\n#lthechat"
+	},
+	{
+		"created_at": "Thu Jan 21 09:37:49 +0000 2021",
+		"id": 1352180597280678000,
+		"id_str": "1352188644312936449",
+		"full_text": "Bring Your Own Device For Learning (pt.2) #BYOD4L https://t.co/9nVWZlg3kl via @hopkinsdavid",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BYOD4L",
+					"indices": [
+						42,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hopkinsdavid",
+					"name": "David Hopkins",
+					"id": 19582633,
+					"id_str": "19582633",
+					"indices": [
+						78,
+						91
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9nVWZlg3kl",
+					"expanded_url": "https://shar.es/aojHsu",
+					"display_url": "shar.es/aojHsu",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 34904126,
+			"id_str": "34904126",
+			"name": "Sue Beckingham 🎓 💻 💡",
+			"screen_name": "suebecks",
+			"location": "Sheffield",
+			"description": "National Teaching Fellow|Principal Lecturer|SFHEA @sheffhallamuni Social Media Researcher JSML Editor #TEDxSpeaker @LTHEchat https://t.co/rmz7tfxkQY",
+			"url": "https://t.co/7tyEm1Um8g",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7tyEm1Um8g",
+							"expanded_url": "http://www.linkedin.com/in/suebeckingham",
+							"display_url": "linkedin.com/in/suebeckingh…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rmz7tfxkQY",
+							"expanded_url": "http://socialmediaforlearning.com/",
+							"display_url": "socialmediaforlearning.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 12403,
+			"friends_count": 10733,
+			"listed_count": 829,
+			"created_at": "Fri Apr 24 11:40:31 +0000 2009",
+			"favourites_count": 28019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "080808",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1169988780637528064/ZfOi1CD8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169988780637528064/ZfOi1CD8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/34904126/1348772653",
+			"profile_link_color": "DE1637",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A5A7A8",
+			"profile_text_color": "0A0000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bring Your Own Device For Learning (pt.2) #BYOD4L https://t.co/9nVWZlg3kl via @hopkinsdavid"
+	},
+	{
 		"created_at": "Wed Jan 20 21:11:17 +0000 2021",
 		"id": 1352000773127860200,
 		"id_str": "1352000773127860224",
@@ -3240,7 +3645,7 @@ Grailbird.data.tweets_2021_01 =
 				},
 				{
 					"screen_name": "hintondm",
-					"name": "Danielle M Hinton 👩🏻‍🏫🇦🇺🦘",
+					"name": "Danielle M Hinton 👩🏻🏫🇦🇺🦘",
 					"id": 36370231,
 					"id_str": "36370231",
 					"indices": [
@@ -4781,7 +5186,7 @@ Grailbird.data.tweets_2021_01 =
 			"user_mentions": [
 				{
 					"screen_name": "hintondm",
-					"name": "Danielle M Hinton 👩🏻‍🏫🇦🇺🦘",
+					"name": "Danielle M Hinton 👩🏻🏫🇦🇺🦘",
 					"id": 36370231,
 					"id_str": "36370231",
 					"indices": [
@@ -4905,7 +5310,7 @@ Grailbird.data.tweets_2021_01 =
 			"user_mentions": [
 				{
 					"screen_name": "hintondm",
-					"name": "Danielle M Hinton 👩🏻‍🏫🇦🇺🦘",
+					"name": "Danielle M Hinton 👩🏻🏫🇦🇺🦘",
 					"id": 36370231,
 					"id_str": "36370231",
 					"indices": [
@@ -5029,7 +5434,7 @@ Grailbird.data.tweets_2021_01 =
 			"user_mentions": [
 				{
 					"screen_name": "hintondm",
-					"name": "Danielle M Hinton 👩🏻‍🏫🇦🇺🦘",
+					"name": "Danielle M Hinton 👩🏻🏫🇦🇺🦘",
 					"id": 36370231,
 					"id_str": "36370231",
 					"indices": [
@@ -5415,7 +5820,7 @@ Grailbird.data.tweets_2021_01 =
 		"user": {
 			"id": 36370231,
 			"id_str": "36370231",
-			"name": "Danielle M Hinton 👩🏻‍🏫🇦🇺🦘",
+			"name": "Danielle M Hinton 👩🏻🏫🇦🇺🦘",
 			"screen_name": "hintondm",
 			"location": "Work: Birmingham",
 			"description": "#SFHEA & MSc Int. Dev. @unibirmingham Educational Developer @UoB_HEFi Leads @uobITSL & teaches on @UoB_PGCHE, #LegoSeriousPlay facilitator ❤️#learningdesign",
