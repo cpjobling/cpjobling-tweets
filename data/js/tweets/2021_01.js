@@ -1,6 +1,422 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 29 07:51:49 +0000 2021",
+		"id": 1354733421118021600,
+		"id_str": "1355061068159197185",
+		"full_text": "@SwantonSketches Enjoyed sketching at today’s #ResilientProgLeads session with @jennywahwah @THEMEStweets https://t.co/Et26XswVjQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ResilientProgLeads",
+					"indices": [
+						46,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SwantonSketches",
+					"name": "Swanton Sketches",
+					"id": 1286623895693545500,
+					"id_str": "1286623895693545472",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "jennywahwah",
+					"name": "💙Dr Jen L L. PFHEA NTF💙",
+					"id": 562138516,
+					"id_str": "562138516",
+					"indices": [
+						79,
+						91
+					]
+				},
+				{
+					"screen_name": "THEMEStweets",
+					"name": "Enhancement Themes",
+					"id": 404723021,
+					"id_str": "404723021",
+					"indices": [
+						92,
+						105
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1354733415862587400,
+					"id_str": "1354733415862587399",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/Esz63THXUAcAmay.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Esz63THXUAcAmay.jpg",
+					"url": "https://t.co/Et26XswVjQ",
+					"display_url": "pic.twitter.com/Et26XswVjQ",
+					"expanded_url": "https://twitter.com/Katrina_Swanton/status/1354733421118021634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 838,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1430,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354733415862587400,
+					"id_str": "1354733415862587399",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/Esz63THXUAcAmay.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Esz63THXUAcAmay.jpg",
+					"url": "https://t.co/Et26XswVjQ",
+					"display_url": "pic.twitter.com/Et26XswVjQ",
+					"expanded_url": "https://twitter.com/Katrina_Swanton/status/1354733421118021634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 475,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 838,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1430,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1286623895693545500,
+		"in_reply_to_user_id_str": "1286623895693545472",
+		"in_reply_to_screen_name": "SwantonSketches",
+		"user": {
+			"id": 1269769771,
+			"id_str": "1269769771",
+			"name": "Katrina Swanton 🇪🇺",
+			"screen_name": "Katrina_Swanton",
+			"location": "",
+			"description": "HE Manager & SFHEA @EdinburghNapier. Tweet about HE, Quality in LTA, HE Professional Support. Views are my own. Visual work mainly on @swantonsketches (she/her)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1024,
+			"friends_count": 1335,
+			"listed_count": 19,
+			"created_at": "Fri Mar 15 13:44:31 +0000 2013",
+			"favourites_count": 6505,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2636,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285280221529333760/OS18QX6a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285280221529333760/OS18QX6a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1269769771/1598721928",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SwantonSketches Enjoyed sketching at today’s #ResilientProgLeads session with @jennywahwah @THEMEStweets https://t.co/Et26XswVjQ"
+	},
+	{
+		"created_at": "Fri Jan 29 07:50:12 +0000 2021",
+		"id": 1354852689956515800,
+		"id_str": "1355060663157186562",
+		"full_text": "Want to learn the habits of a successful student? Come on our Study Hacks course next week!\n\nFind out more and sign up here: https://t.co/5q4T5zQIqo\n\n#swanseauniversity #swanseauni #academiclife https://t.co/TDyzhuzV2P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "swanseauniversity",
+					"indices": [
+						150,
+						168
+					]
+				},
+				{
+					"text": "swanseauni",
+					"indices": [
+						169,
+						180
+					]
+				},
+				{
+					"text": "academiclife",
+					"indices": [
+						181,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5q4T5zQIqo",
+					"expanded_url": "https://myuni.swansea.ac.uk/academic-success/courses-and-workshops/study-hacks/",
+					"display_url": "myuni.swansea.ac.uk/academic-succe…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1354852663444308000,
+					"id_str": "1354852663444307975",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Es1nUa-XAAceylg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Es1nUa-XAAceylg.jpg",
+					"url": "https://t.co/TDyzhuzV2P",
+					"display_url": "pic.twitter.com/TDyzhuzV2P",
+					"expanded_url": "https://twitter.com/CAS_Swansea/status/1354852689956515844/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354852663444308000,
+					"id_str": "1354852663444307975",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Es1nUa-XAAceylg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Es1nUa-XAAceylg.jpg",
+					"url": "https://t.co/TDyzhuzV2P",
+					"display_url": "pic.twitter.com/TDyzhuzV2P",
+					"expanded_url": "https://twitter.com/CAS_Swansea/status/1354852689956515844/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1156813429,
+			"id_str": "1156813429",
+			"name": "The Centre for Academic Success",
+			"screen_name": "CAS_Swansea",
+			"location": "Swansea University",
+			"description": "The Centre for Academic Success at Swansea University. Here to help you achieve your academic potential. https://t.co/WgeFt9nNIn",
+			"url": "https://t.co/PJMsiusCE3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PJMsiusCE3",
+							"expanded_url": "https://myuni.swan.ac.uk/myuni-academic-study-services/cas/asp/",
+							"display_url": "myuni.swan.ac.uk/myuni-academic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WgeFt9nNIn",
+							"expanded_url": "https://myuni.swan.ac.uk/academic-success",
+							"display_url": "myuni.swan.ac.uk/academic-succe…",
+							"indices": [
+								105,
+								128
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1148,
+			"friends_count": 1023,
+			"listed_count": 9,
+			"created_at": "Thu Feb 07 11:00:41 +0000 2013",
+			"favourites_count": 236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1039074166518018049/9aUzTu1l_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039074166518018049/9aUzTu1l_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1156813429/1537197752",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Want to learn the habits of a successful student? Come on our Study Hacks course next week!\n\nFind out more and sign up here: https://t.co/5q4T5zQIqo\n\n#swanseauniversity #swanseauni #academiclife https://t.co/TDyzhuzV2P"
+	},
+	{
 		"created_at": "Wed Jan 27 11:46:59 +0000 2021",
 		"id": 1354319981064945700,
 		"id_str": "1354395475567378433",
