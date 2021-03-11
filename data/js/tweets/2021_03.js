@@ -1,6 +1,1108 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 10 21:38:53 +0000 2021",
+		"id": 1369755925939167200,
+		"id_str": "1369764720505466886",
+		"full_text": "There are only a finite number of input types in HTML. That in the end is the limiting factor. And that’s why all VLEs LMSs and Assessment platforms all end up being small variations on a limited theme. \n\n#LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						205,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 806525141509402600,
+			"id_str": "806525141509402625",
+			"name": "SU LTEC",
+			"screen_name": "sultec4",
+			"location": "Swansea, Wales",
+			"description": "The Learning and Teaching Enhancement Centre is in the College of Engineering, Swansea University.",
+			"url": "https://t.co/QRpjAasVD8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QRpjAasVD8",
+							"expanded_url": "http://www.swansea.ac.uk/engineering/ltec/",
+							"display_url": "swansea.ac.uk/engineering/lt…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 205,
+			"friends_count": 101,
+			"listed_count": 9,
+			"created_at": "Wed Dec 07 15:45:53 +0000 2016",
+			"favourites_count": 268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/806527675825266688/tc0-6uKw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/806527675825266688/tc0-6uKw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/806525141509402625/1481126200",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "There are only a finite number of input types in HTML. That in the end is the limiting factor. And that’s why all VLEs LMSs and Assessment platforms all end up being small variations on a limited theme. \n\n#LTHEChat"
+	},
+	{
+		"created_at": "Wed Mar 10 20:56:55 +0000 2021",
+		"id": 1369260718248374300,
+		"id_str": "1369754163224121344",
+		"full_text": "Student feedback on teaching matters, but systemic prejudice could be skewing evaluations. Qualitative feedback is fab, but quantitative student evaluations shouldn't be influencing probation/ promotion. I've seen excellent academics become victims of this and it has to stop ✋ https://t.co/SpdogO9lJf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SpdogO9lJf",
+					"expanded_url": "https://twitter.com/troyheff/status/1369167150745673728",
+					"display_url": "twitter.com/troyheff/statu…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1724921312,
+			"id_str": "1724921312",
+			"name": "Patricia Xavier",
+			"screen_name": "_PXavier",
+			"location": "Swansea, Wales",
+			"description": "Engineer/ Educator. Trying to humanise #engineeringeducation through pedagogy that acknowledges individual lived experiences AND technical skill development",
+			"url": "https://t.co/jq0pqOKiMD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jq0pqOKiMD",
+							"expanded_url": "https://www.swansea.ac.uk/staff/engineering/xavier-p/",
+							"display_url": "swansea.ac.uk/staff/engineer…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 199,
+			"friends_count": 356,
+			"listed_count": 7,
+			"created_at": "Tue Sep 03 09:14:09 +0000 2013",
+			"favourites_count": 323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/501294130903781376/rtMXq9hS_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/501294130903781376/rtMXq9hS_normal.jpeg",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1369167150745673700,
+		"quoted_status_id_str": "1369167150745673728",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SpdogO9lJf",
+			"expanded": "https://twitter.com/troyheff/status/1369167150745673728",
+			"display": "twitter.com/troyheff/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 09 06:04:21 +0000 2021",
+			"id": 1369167150745673700,
+			"id_str": "1369167150745673728",
+			"full_text": "NOW PUBLISHED: Sexism, racism, prejudice, and bias: a literature review of research surrounding student evaluations of courses and teaching.\n\nSETs influence academic careers, but they disadvantage women and marginalised groups. We need to talk about this.\n\nhttps://t.co/BpuK6BsnsP https://t.co/aijeLBA1XO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BpuK6BsnsP",
+						"expanded_url": "https://www.tandfonline.com/eprint/KG5W2MSQKM7J4JRTVMKS/full?target=10.1080/02602938.2021.1888075",
+						"display_url": "tandfonline.com/eprint/KG5W2MS…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1369125721025564700,
+						"id_str": "1369125721025564673",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/EwAclt6UUAEInti.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EwAclt6UUAEInti.jpg",
+						"url": "https://t.co/aijeLBA1XO",
+						"display_url": "pic.twitter.com/aijeLBA1XO",
+						"expanded_url": "https://twitter.com/troyheff/status/1369167150745673728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1398,
+								"h": 810,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 695,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 394,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1369125721025564700,
+						"id_str": "1369125721025564673",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/EwAclt6UUAEInti.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EwAclt6UUAEInti.jpg",
+						"url": "https://t.co/aijeLBA1XO",
+						"display_url": "pic.twitter.com/aijeLBA1XO",
+						"expanded_url": "https://twitter.com/troyheff/status/1369167150745673728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1398,
+								"h": 810,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 695,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 394,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31691187,
+				"id_str": "31691187",
+				"name": "Troy Heffernan",
+				"screen_name": "troyheff",
+				"location": "Melbourne, Victoria",
+				"description": "Lecturer @latrobe. Blind. Disability advocate. Passionate about universities and equity for academics and students. He/him. ResearchGate https://t.co/OszlnnK798",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/OszlnnK798",
+								"expanded_url": "http://tinyurl.com/yxacyt5o",
+								"display_url": "tinyurl.com/yxacyt5o",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6202,
+				"friends_count": 5992,
+				"listed_count": 86,
+				"created_at": "Thu Apr 16 08:12:20 +0000 2009",
+				"favourites_count": 17969,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3962,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1244109681405997057/lzt5DLwU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244109681405997057/lzt5DLwU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31691187/1574574106",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 913,
+			"favorite_count": 2153,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Student feedback on teaching matters, but systemic prejudice could be skewing evaluations. Qualitative feedback is fab, but quantitative student evaluations shouldn't be influencing probation/ promotion. I've seen excellent academics become victims of this and it has to stop ✋ https://t.co/SpdogO9lJf"
+	},
+	{
+		"created_at": "Wed Mar 10 20:51:31 +0000 2021",
+		"id": 1369752801862115300,
+		"id_str": "1369752801862115332",
+		"full_text": "@sultec4 @LTHEchat Damned auto correction “ungrading” is what I meant. #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						71,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sultec4",
+					"name": "SU LTEC",
+					"id": 806525141509402600,
+					"id_str": "806525141509402625",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						9,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1369752045692018700,
+		"in_reply_to_status_id_str": "1369752045692018693",
+		"in_reply_to_user_id": 806525141509402600,
+		"in_reply_to_user_id_str": "806525141509402625",
+		"in_reply_to_screen_name": "sultec4",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris \"All Alone\" Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1602,
+			"friends_count": 1233,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21629,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357091836683292672/n1y0kEa6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357091836683292672/n1y0kEa6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sultec4 @LTHEchat Damned auto correction “ungrading” is what I meant. #LTHEChat"
+	},
+	{
+		"created_at": "Wed Mar 10 20:43:58 +0000 2021",
+		"id": 1369750902177992700,
+		"id_str": "1369750902177992716",
+		"full_text": "@srowett What about the whole internet? A classic which was published before WWW became popular. https://t.co/UyE8L6hvQj",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "srowett",
+					"name": "Steve Rowett",
+					"id": 351707332,
+					"id_str": "351707332",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UyE8L6hvQj",
+					"expanded_url": "https://www.amazon.co.uk/Whole-Internet-Users-Guide-Catalog/dp/1565920635",
+					"display_url": "amazon.co.uk/Whole-Internet…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1369749744076087300,
+		"in_reply_to_status_id_str": "1369749744076087298",
+		"in_reply_to_user_id": 351707332,
+		"in_reply_to_user_id_str": "351707332",
+		"in_reply_to_screen_name": "srowett",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris \"All Alone\" Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1602,
+			"friends_count": 1233,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21629,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357091836683292672/n1y0kEa6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357091836683292672/n1y0kEa6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@srowett What about the whole internet? A classic which was published before WWW became popular. https://t.co/UyE8L6hvQj"
+	},
+	{
+		"created_at": "Wed Mar 10 20:28:08 +0000 2021",
+		"id": 1369746919728234500,
+		"id_str": "1369746919728234499",
+		"full_text": "@RacePhil And beloved by our political leaders.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RacePhil",
+					"name": "Phil Race",
+					"id": 1350065268,
+					"id_str": "1350065268",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1369746620145938400,
+		"in_reply_to_status_id_str": "1369746620145938445",
+		"in_reply_to_user_id": 1350065268,
+		"in_reply_to_user_id_str": "1350065268",
+		"in_reply_to_screen_name": "RacePhil",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris \"All Alone\" Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1602,
+			"friends_count": 1233,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21629,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357091836683292672/n1y0kEa6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357091836683292672/n1y0kEa6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RacePhil And beloved by our political leaders."
+	},
+	{
+		"created_at": "Wed Mar 10 20:15:56 +0000 2021",
+		"id": 1369743849057304600,
+		"id_str": "1369743849057304577",
+		"full_text": "A gentle reminder that exams are not authentic assessments. At least as I understand the term. https://t.co/emfWGpAyYm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/emfWGpAyYm",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1369732567319126021",
+					"display_url": "twitter.com/LTHEchat/statu…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris \"All Alone\" Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1602,
+			"friends_count": 1233,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 11947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21629,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357091836683292672/n1y0kEa6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357091836683292672/n1y0kEa6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1369732567319126000,
+		"quoted_status_id_str": "1369732567319126021",
+		"quoted_status_permalink": {
+			"url": "https://t.co/emfWGpAyYm",
+			"expanded": "https://twitter.com/LTHEchat/status/1369732567319126021",
+			"display": "twitter.com/LTHEchat/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 10 19:31:07 +0000 2021",
+			"id": 1369732567319126000,
+			"id_str": "1369732567319126021",
+			"full_text": "A gentle reminder to our valued community that our chat tonight is (as always) focused on our pedagogical views on online assessment as educators. The blog and the questions for this evening both reflect this. #LTHEchat",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				219
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTHEchat",
+						"indices": [
+							210,
+							219
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2659221798,
+				"id_str": "2659221798",
+				"name": "LTHE Tweetchat",
+				"screen_name": "LTHEchat",
+				"location": "",
+				"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+				"url": "https://t.co/IprE39BVnA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IprE39BVnA",
+								"expanded_url": "http://lthechat.com",
+								"display_url": "lthechat.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8397,
+				"friends_count": 3302,
+				"listed_count": 162,
+				"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+				"favourites_count": 4332,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9493,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+				"profile_link_color": "7ECAE6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A gentle reminder that exams are not authentic assessments. At least as I understand the term. https://t.co/emfWGpAyYm"
+	},
+	{
+		"created_at": "Wed Mar 10 18:57:43 +0000 2021",
+		"id": 1369707538950807600,
+		"id_str": "1369724164836311048",
+		"full_text": "@kjhaxton @cpjobling @LTHEchat #lthechat https://t.co/iwFTk635Vx",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lthechat",
+					"indices": [
+						31,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kjhaxton",
+					"name": "Dr Katherine J. Haxton",
+					"id": 2436668288,
+					"id_str": "2436668288",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "cpjobling",
+					"name": "Chris \"All Alone\" Jobling",
+					"id": 4229341,
+					"id_str": "4229341",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						21,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iwFTk635Vx",
+					"expanded_url": "https://www.theverge.com/2020/4/29/21232777/examity-remote-test-proctoring-online-class-education",
+					"display_url": "theverge.com/2020/4/29/2123…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1369705234713485300,
+		"in_reply_to_status_id_str": "1369705234713485319",
+		"in_reply_to_user_id": 2436668288,
+		"in_reply_to_user_id_str": "2436668288",
+		"in_reply_to_screen_name": "kjhaxton",
+		"user": {
+			"id": 580216725,
+			"id_str": "580216725",
+			"name": "Paul Kleiman",
+			"screen_name": "DrPaulKleiman",
+			"location": "Work tweets @CielEducation",
+			"description": "The world turned upside down. Isolated fragments at the edge of educational, creative, cultural and political chaos.",
+			"url": "https://t.co/IZOxbPyShI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IZOxbPyShI",
+							"expanded_url": "http://stumblingwithconfidence.wordpress.com",
+							"display_url": "stumblingwithconfidence.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1503,
+			"friends_count": 955,
+			"listed_count": 51,
+			"created_at": "Mon May 14 18:49:56 +0000 2012",
+			"favourites_count": 19306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354725709512638466/SvEB0SmC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354725709512638466/SvEB0SmC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/580216725/1611827067",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@kjhaxton @cpjobling @LTHEchat #lthechat https://t.co/iwFTk635Vx"
+	},
+	{
 		"created_at": "Sat Mar 06 09:47:09 +0000 2021",
 		"id": 1368136058362290200,
 		"id_str": "1368136058362290177",
