@@ -1,6 +1,1053 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Fri Mar 19 14:19:12 +0000 2021",
+		"id": 1372915563622764500,
+		"id_str": "1372915563622764550",
+		"full_text": "@HelenMD Am I on your list Helen?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HelenMD",
+					"name": "Helen Davies",
+					"id": 19060236,
+					"id_str": "19060236",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1372568972877561900,
+		"in_reply_to_status_id_str": "1372568972877561860",
+		"in_reply_to_user_id": 19060236,
+		"in_reply_to_user_id_str": "19060236",
+		"in_reply_to_screen_name": "HelenMD",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1606,
+			"friends_count": 1234,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1372300138622939139/cmBPLgFP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372300138622939139/cmBPLgFP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1f36c2b60fbc98ac",
+			"url": "https://api.twitter.com/1.1/geo/id/1f36c2b60fbc98ac.json",
+			"place_type": "city",
+			"name": "Swansea",
+			"full_name": "Swansea, Wales",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.029331,
+							51.5987484
+						],
+						[
+							-3.8621388,
+							51.5987484
+						],
+						[
+							-3.8621388,
+							51.68983
+						],
+						[
+							-4.029331,
+							51.68983
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@HelenMD Am I on your list Helen?"
+	},
+	{
+		"created_at": "Fri Mar 19 14:11:38 +0000 2021",
+		"id": 1372835542589653000,
+		"id_str": "1372913658167185410",
+		"full_text": "...the token thank you was probably a bit unfair. \n\nOne thing I've struggled with since I was a post doc on a fixed term contract is feeling valued and appreciated by colleagues - but not the institute - or at least not the systems the institute uses to express value",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1372831266639380500,
+		"in_reply_to_status_id_str": "1372831266639380486",
+		"in_reply_to_user_id": 17810974,
+		"in_reply_to_user_id_str": "17810974",
+		"in_reply_to_screen_name": "DrSeanWalton",
+		"user": {
+			"id": 17810974,
+			"id_str": "17810974",
+			"name": "Sean Walton",
+			"screen_name": "DrSeanWalton",
+			"location": "Bridgend, Wales, UK",
+			"description": "Computer Science Lecturer at Swansea University,\n@BAFTACymru nominated indie game designer and one half of @pillbugint | Tweets my own. | He/Him |",
+			"url": "https://t.co/ArBnkjlEHm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ArBnkjlEHm",
+							"expanded_url": "https://www.swansea.ac.uk/staff/science/compsci/walton-s-p/",
+							"display_url": "swansea.ac.uk/staff/science/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 985,
+			"friends_count": 606,
+			"listed_count": 59,
+			"created_at": "Tue Dec 02 16:26:57 +0000 2008",
+			"favourites_count": 10161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7D8487",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318528782429544450/8boEGIAm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318528782429544450/8boEGIAm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17810974/1497803080",
+			"profile_link_color": "568A37",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "66F2AC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "...the token thank you was probably a bit unfair. \n\nOne thing I've struggled with since I was a post doc on a fixed term contract is feeling valued and appreciated by colleagues - but not the institute - or at least not the systems the institute uses to express value"
+	},
+	{
+		"created_at": "Fri Mar 19 14:11:27 +0000 2021",
+		"id": 1372831266639380500,
+		"id_str": "1372913610951917568",
+		"full_text": "...and depending on the day of the week, I'm either okay with this or furiously bitter and jaded.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1372831265502679000,
+		"in_reply_to_status_id_str": "1372831265502679040",
+		"in_reply_to_user_id": 17810974,
+		"in_reply_to_user_id_str": "17810974",
+		"in_reply_to_screen_name": "DrSeanWalton",
+		"user": {
+			"id": 17810974,
+			"id_str": "17810974",
+			"name": "Sean Walton",
+			"screen_name": "DrSeanWalton",
+			"location": "Bridgend, Wales, UK",
+			"description": "Computer Science Lecturer at Swansea University,\n@BAFTACymru nominated indie game designer and one half of @pillbugint | Tweets my own. | He/Him |",
+			"url": "https://t.co/ArBnkjlEHm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ArBnkjlEHm",
+							"expanded_url": "https://www.swansea.ac.uk/staff/science/compsci/walton-s-p/",
+							"display_url": "swansea.ac.uk/staff/science/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 985,
+			"friends_count": 606,
+			"listed_count": 59,
+			"created_at": "Tue Dec 02 16:26:57 +0000 2008",
+			"favourites_count": 10161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7D8487",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318528782429544450/8boEGIAm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318528782429544450/8boEGIAm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17810974/1497803080",
+			"profile_link_color": "568A37",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "66F2AC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "...and depending on the day of the week, I'm either okay with this or furiously bitter and jaded."
+	},
+	{
+		"created_at": "Fri Mar 19 14:11:21 +0000 2021",
+		"id": 1372831265502679000,
+		"id_str": "1372913588298518532",
+		"full_text": "the past few months (maybe years) has been a constant reminder that the most important and (actually) impactful work I do is the most likely to get a token thank-you at the start of a staff meeting and the least likely to support a promotion application.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17810974,
+			"id_str": "17810974",
+			"name": "Sean Walton",
+			"screen_name": "DrSeanWalton",
+			"location": "Bridgend, Wales, UK",
+			"description": "Computer Science Lecturer at Swansea University,\n@BAFTACymru nominated indie game designer and one half of @pillbugint | Tweets my own. | He/Him |",
+			"url": "https://t.co/ArBnkjlEHm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ArBnkjlEHm",
+							"expanded_url": "https://www.swansea.ac.uk/staff/science/compsci/walton-s-p/",
+							"display_url": "swansea.ac.uk/staff/science/…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 985,
+			"friends_count": 606,
+			"listed_count": 59,
+			"created_at": "Tue Dec 02 16:26:57 +0000 2008",
+			"favourites_count": 10161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7D8487",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1318528782429544450/8boEGIAm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318528782429544450/8boEGIAm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17810974/1497803080",
+			"profile_link_color": "568A37",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "66F2AC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "the past few months (maybe years) has been a constant reminder that the most important and (actually) impactful work I do is the most likely to get a token thank-you at the start of a staff meeting and the least likely to support a promotion application."
+	},
+	{
+		"created_at": "Fri Mar 19 14:06:38 +0000 2021",
+		"id": 1372623675212583000,
+		"id_str": "1372912401234980864",
+		"full_text": "Back-of-envelope. If 5 events *were* caused by AZ vaccine, expect 1 event in 2 mil jabs. If 2 mil people in 50s put off their jab by 1 week, expect ~2,000 to get infected, 20-30 seriously ill, 5 to die.  So benefit/risk ratio high even for *1* week. But risk goes on in unjabbed!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76956597,
+			"id_str": "76956597",
+			"name": "David Spiegelhalter",
+			"screen_name": "d_spiegel",
+			"location": "Cambridge, England",
+			"description": "Statistician: + evidence, risk, probability, chance, uncertainty. Chair, Winton Centre. Author- The Art of Statistics. Own opinions. I shun rude or anonymous",
+			"url": "https://t.co/iKUZR2KhDt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iKUZR2KhDt",
+							"expanded_url": "http://www.statslab.cam.ac.uk/~david/",
+							"display_url": "statslab.cam.ac.uk/~david/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75663,
+			"friends_count": 303,
+			"listed_count": 1152,
+			"created_at": "Thu Sep 24 14:49:29 +0000 2009",
+			"favourites_count": 43,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/827668295/me-blag-closer_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/827668295/me-blag-closer_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/76956597/1587624699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 568,
+		"favorite_count": 1586,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Back-of-envelope. If 5 events *were* caused by AZ vaccine, expect 1 event in 2 mil jabs. If 2 mil people in 50s put off their jab by 1 week, expect ~2,000 to get infected, 20-30 seriously ill, 5 to die.  So benefit/risk ratio high even for *1* week. But risk goes on in unjabbed!"
+	},
+	{
+		"created_at": "Fri Mar 19 14:00:32 +0000 2021",
+		"id": 1372866051726250000,
+		"id_str": "1372910866891423744",
+		"full_text": "I'm getting increasingly concerned with hyflex/dual teaching modes being normalised in the future. Taking something that falls pedagogically between two stools and reduces teaching to broadcasting is not the best learning we can take the past year.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7678272,
+			"id_str": "7678272",
+			"name": "Dr. Louise Drumm",
+			"screen_name": "louisedrumm",
+			"location": "Edinburgh, Scotland",
+			"description": "Lecturer, researcher, PhD 🎓 in use of technology in university teaching & learning. Also family #cargobike cyclist. Originally from Dublin, Ireland.",
+			"url": "https://t.co/ABRrkJEHDA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ABRrkJEHDA",
+							"expanded_url": "https://louisedrumm.com/",
+							"display_url": "louisedrumm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1308,
+			"friends_count": 1600,
+			"listed_count": 58,
+			"created_at": "Tue Jul 24 08:27:47 +0000 2007",
+			"favourites_count": 7064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/818138017286291457/CwDPIVra_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/818138017286291457/CwDPIVra_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7678272/1483894098",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 115,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I'm getting increasingly concerned with hyflex/dual teaching modes being normalised in the future. Taking something that falls pedagogically between two stools and reduces teaching to broadcasting is not the best learning we can take the past year."
+	},
+	{
+		"created_at": "Fri Mar 19 08:06:54 +0000 2021",
+		"id": 1372821872560201700,
+		"id_str": "1372821872560201733",
+		"full_text": "@belld17 @HalaMansour @LTHEchat @drnsheridan I have the stickers too! #LTHEChat https://t.co/oaSJof0Go4",
+		"truncated": false,
+		"display_text_range": [
+			45,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						70,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "belld17",
+					"name": "Dawne",
+					"id": 1274404952,
+					"id_str": "1274404952",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "HalaMansour",
+					"name": "Dr Hala Mansour",
+					"id": 95709872,
+					"id_str": "95709872",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						22,
+						31
+					]
+				},
+				{
+					"screen_name": "drnsheridan",
+					"name": "Nathalie ✍️",
+					"id": 60389169,
+					"id_str": "60389169",
+					"indices": [
+						32,
+						44
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1372821866302341000,
+					"id_str": "1372821866302341122",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Ew0-NsDXAAIgi3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ew0-NsDXAAIgi3a.jpg",
+					"url": "https://t.co/oaSJof0Go4",
+					"display_url": "pic.twitter.com/oaSJof0Go4",
+					"expanded_url": "https://twitter.com/cpjobling/status/1372821872560201733/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1372821866302341000,
+					"id_str": "1372821866302341122",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Ew0-NsDXAAIgi3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ew0-NsDXAAIgi3a.jpg",
+					"url": "https://t.co/oaSJof0Go4",
+					"display_url": "pic.twitter.com/oaSJof0Go4",
+					"expanded_url": "https://twitter.com/cpjobling/status/1372821872560201733/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1372821233885143000,
+		"in_reply_to_status_id_str": "1372821233885143044",
+		"in_reply_to_user_id": 4229341,
+		"in_reply_to_user_id_str": "4229341",
+		"in_reply_to_screen_name": "cpjobling",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1606,
+			"friends_count": 1234,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1372300138622939139/cmBPLgFP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372300138622939139/cmBPLgFP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1f36c2b60fbc98ac",
+			"url": "https://api.twitter.com/1.1/geo/id/1f36c2b60fbc98ac.json",
+			"place_type": "city",
+			"name": "Swansea",
+			"full_name": "Swansea, Wales",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.029331,
+							51.5987484
+						],
+						[
+							-3.8621388,
+							51.5987484
+						],
+						[
+							-3.8621388,
+							51.68983
+						],
+						[
+							-4.029331,
+							51.68983
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@belld17 @HalaMansour @LTHEchat @drnsheridan I have the stickers too! #LTHEChat https://t.co/oaSJof0Go4"
+	},
+	{
+		"created_at": "Fri Mar 19 08:04:22 +0000 2021",
+		"id": 1372821233885143000,
+		"id_str": "1372821233885143044",
+		"full_text": "@belld17 @HalaMansour @LTHEchat @drnsheridan Still can’t believe it! #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			45,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						69,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "belld17",
+					"name": "Dawne",
+					"id": 1274404952,
+					"id_str": "1274404952",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "HalaMansour",
+					"name": "Dr Hala Mansour",
+					"id": 95709872,
+					"id_str": "95709872",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						22,
+						31
+					]
+				},
+				{
+					"screen_name": "drnsheridan",
+					"name": "Nathalie ✍️",
+					"id": 60389169,
+					"id_str": "60389169",
+					"indices": [
+						32,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1372655195822383000,
+		"in_reply_to_status_id_str": "1372655195822383112",
+		"in_reply_to_user_id": 1274404952,
+		"in_reply_to_user_id_str": "1274404952",
+		"in_reply_to_screen_name": "belld17",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1606,
+			"friends_count": 1234,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1372300138622939139/cmBPLgFP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372300138622939139/cmBPLgFP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1f36c2b60fbc98ac",
+			"url": "https://api.twitter.com/1.1/geo/id/1f36c2b60fbc98ac.json",
+			"place_type": "city",
+			"name": "Swansea",
+			"full_name": "Swansea, Wales",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.029331,
+							51.5987484
+						],
+						[
+							-3.8621388,
+							51.5987484
+						],
+						[
+							-3.8621388,
+							51.68983
+						],
+						[
+							-4.029331,
+							51.68983
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@belld17 @HalaMansour @LTHEchat @drnsheridan Still can’t believe it! #LTHEChat"
+	},
+	{
 		"created_at": "Thu Mar 18 20:19:07 +0000 2021",
 		"id": 1372643749940097000,
 		"id_str": "1372643749940097024",
