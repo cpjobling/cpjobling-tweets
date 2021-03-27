@@ -1,6 +1,617 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Fri Mar 26 08:27:49 +0000 2021",
+		"id": 1375103614277017600,
+		"id_str": "1375363850380455942",
+		"full_text": "AARRGGHHHH https://t.co/rG5GYYNcqx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1375103602012917800,
+					"id_str": "1375103602012917765",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/ExVZcL9XEAU8y35.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExVZcL9XEAU8y35.jpg",
+					"url": "https://t.co/rG5GYYNcqx",
+					"display_url": "pic.twitter.com/rG5GYYNcqx",
+					"expanded_url": "https://twitter.com/psychemedia/status/1375103614277017614/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1402,
+							"h": 868,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 743,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1375103602012917800,
+					"id_str": "1375103602012917765",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/ExVZcL9XEAU8y35.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ExVZcL9XEAU8y35.jpg",
+					"url": "https://t.co/rG5GYYNcqx",
+					"display_url": "pic.twitter.com/rG5GYYNcqx",
+					"expanded_url": "https://twitter.com/psychemedia/status/1375103614277017614/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1402,
+							"h": 868,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 743,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7129072,
+			"id_str": "7129072",
+			"name": "Tony Hirst",
+			"screen_name": "psychemedia",
+			"location": "UK",
+			"description": "Open public data  / data journalism tinkerer, Isle of WIght resident #f1datajunkie #rallydatajunkie #TrackingJupyter Looking to be useful and make a difference.",
+			"url": "http://t.co/Wf2lbdihKQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Wf2lbdihKQ",
+							"expanded_url": "http://blog.ouseful.info",
+							"display_url": "blog.ouseful.info",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5779,
+			"friends_count": 1876,
+			"listed_count": 721,
+			"created_at": "Thu Jun 28 11:37:39 +0000 2007",
+			"favourites_count": 6074,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 76443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195013164/Picture_23_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195013164/Picture_23_normal.png",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "sv",
+		"text": "AARRGGHHHH https://t.co/rG5GYYNcqx"
+	},
+	{
+		"created_at": "Fri Mar 26 07:48:22 +0000 2021",
+		"id": 1374365950712160300,
+		"id_str": "1375353922588663808",
+		"full_text": "We are looking for maths examples and hoping that perhaps a member of the @NTF_Tweet community will be able to help us. @kay_sambell and I will be going for a second edition of our compendium in a couple of weeks receiving some really marvellous additional examples https://t.co/GLM1K2zzNn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NTF_Tweet",
+					"name": "NTF Tweet",
+					"id": 2315738930,
+					"id_str": "2315738930",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"screen_name": "kay_sambell",
+					"name": "Kay Sambell",
+					"id": 741280496936747000,
+					"id_str": "741280496936747008",
+					"indices": [
+						120,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GLM1K2zzNn",
+					"expanded_url": "https://twitter.com/julieh_psyc/status/1374308702518398984",
+					"display_url": "twitter.com/julieh_psyc/st…",
+					"indices": [
+						266,
+						289
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1561332966,
+			"id_str": "1561332966",
+			"name": "Sally Brown",
+			"screen_name": "ProfSallyBrown",
+			"location": "",
+			"description": "I am a UK-based Independent consultant and visiting professor with expertise in teaching,learning and assesment at HE level",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5935,
+			"friends_count": 1311,
+			"listed_count": 109,
+			"created_at": "Mon Jul 01 20:01:00 +0000 2013",
+			"favourites_count": 41391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/969244225689833473/_S2XNjmi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/969244225689833473/_S2XNjmi_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3cf4768fb6083814",
+			"url": "https://api.twitter.com/1.1/geo/id/3cf4768fb6083814.json",
+			"place_type": "city",
+			"name": "Longbenton",
+			"full_name": "Longbenton, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.601032,
+							55.003873
+						],
+						[
+							-1.5223485,
+							55.003873
+						],
+						[
+							-1.5223485,
+							55.049562
+						],
+						[
+							-1.601032,
+							55.049562
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1374308702518399000,
+		"quoted_status_id_str": "1374308702518398984",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GLM1K2zzNn",
+			"expanded": "https://twitter.com/julieh_psyc/status/1374308702518398984",
+			"display": "twitter.com/julieh_psyc/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 23 10:35:02 +0000 2021",
+			"id": 1374308702518399000,
+			"id_str": "1374308702518398984",
+			"full_text": "@eddequincey @kay_sambell @kszkornik @SLRogersGeol I haven’t, but I bet @ProfSallyBrown and @kay_sambell will be able to point you to someone or something! Alternatively maybe @jdew2 can help?",
+			"truncated": false,
+			"display_text_range": [
+				51,
+				192
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "eddequincey",
+						"name": "Dr Ed de Quincey",
+						"id": 2191281,
+						"id_str": "2191281",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "kay_sambell",
+						"name": "Kay Sambell",
+						"id": 741280496936747000,
+						"id_str": "741280496936747008",
+						"indices": [
+							13,
+							25
+						]
+					},
+					{
+						"screen_name": "kszkornik",
+						"name": "Katie Szkornik",
+						"id": 348924707,
+						"id_str": "348924707",
+						"indices": [
+							26,
+							36
+						]
+					},
+					{
+						"screen_name": "SLRogersGeol",
+						"name": "Steven Rogers",
+						"id": 4074911603,
+						"id_str": "4074911603",
+						"indices": [
+							37,
+							50
+						]
+					},
+					{
+						"screen_name": "ProfSallyBrown",
+						"name": "Sally Brown",
+						"id": 1561332966,
+						"id_str": "1561332966",
+						"indices": [
+							72,
+							87
+						]
+					},
+					{
+						"screen_name": "kay_sambell",
+						"name": "Kay Sambell",
+						"id": 741280496936747000,
+						"id_str": "741280496936747008",
+						"indices": [
+							92,
+							104
+						]
+					},
+					{
+						"screen_name": "jdew2",
+						"name": "Janet De Wilde 💙",
+						"id": 42260612,
+						"id_str": "42260612",
+						"indices": [
+							176,
+							182
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1374296329413922800,
+			"in_reply_to_status_id_str": "1374296329413922816",
+			"in_reply_to_user_id": 2191281,
+			"in_reply_to_user_id_str": "2191281",
+			"in_reply_to_screen_name": "eddequincey",
+			"user": {
+				"id": 582792042,
+				"id_str": "582792042",
+				"name": "Julie Hulme",
+				"screen_name": "JulieH_Psyc",
+				"location": "Keele University, UK",
+				"description": "Psychologist, educator, National Teaching Fellow...fascinated by all things learning & related to #HigherEd. Blogs @ https://t.co/VEkebvR9mb She/her",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VEkebvR9mb",
+								"expanded_url": "http://higherpsyched.home.blog",
+								"display_url": "higherpsyched.home.blog",
+								"indices": [
+									117,
+									140
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2718,
+				"friends_count": 1972,
+				"listed_count": 63,
+				"created_at": "Thu May 17 12:04:38 +0000 2012",
+				"favourites_count": 2235,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8935,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1155692387370524672/Y0y9iXim_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155692387370524672/Y0y9iXim_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/582792042/1600681362",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are looking for maths examples and hoping that perhaps a member of the @NTF_Tweet community will be able to help us. @kay_sambell and I will be going for a second edition of our compendium in a couple of weeks receiving some really marvellous additional examples https://t.co/GLM1K2zzNn"
+	},
+	{
+		"created_at": "Fri Mar 26 07:48:12 +0000 2021",
+		"id": 1374474917991751700,
+		"id_str": "1375353882008780800",
+		"full_text": "@ProfSallyBrown @NTF_Tweet @kay_sambell Calling @AndrewGallach8r ..",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "NTF_Tweet",
+					"name": "NTF Tweet",
+					"id": 2315738930,
+					"id_str": "2315738930",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "kay_sambell",
+					"name": "Kay Sambell",
+					"id": 741280496936747000,
+					"id_str": "741280496936747008",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"screen_name": "AndrewGallach8r",
+					"name": "Andrew Gallacher",
+					"id": 3344020816,
+					"id_str": "3344020816",
+					"indices": [
+						48,
+						64
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1374365950712160300,
+		"in_reply_to_status_id_str": "1374365950712160257",
+		"in_reply_to_user_id": 1561332966,
+		"in_reply_to_user_id_str": "1561332966",
+		"in_reply_to_screen_name": "ProfSallyBrown",
+		"user": {
+			"id": 576631834,
+			"id_str": "576631834",
+			"name": "Dr Claire Garden",
+			"screen_name": "geoffismycar",
+			"location": "",
+			"description": "Mum, #feminist, #engagement #gamification researcher. Lego addict. #WIASN Senior Lecturer Life Science. PhD Molecular Neuroscience. All views own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 597,
+			"friends_count": 910,
+			"listed_count": 8,
+			"created_at": "Thu May 10 22:34:13 +0000 2012",
+			"favourites_count": 1417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/782202479727476736/1zSXanKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/782202479727476736/1zSXanKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/576631834/1512768697",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@ProfSallyBrown @NTF_Tweet @kay_sambell Calling @AndrewGallach8r .."
+	},
+	{
 		"created_at": "Thu Mar 25 17:55:09 +0000 2021",
 		"id": 1375144236446781400,
 		"id_str": "1375144236446781449",
