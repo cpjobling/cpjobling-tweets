@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Thu Apr 08 08:06:27 +0000 2021",
+		"id": 1379830094085120000,
+		"id_str": "1380069515187339266",
+		"full_text": "In our rapidly changing world, it’s essential to reimagine #HigherEd by embracing new ways of teaching and learning. Join the free event to hear from leading institutions, watch live demos &amp; unlock the transformative power of #MicrosoftEDU. https://t.co/RXHuPluHMh https://t.co/mnNynAmWtD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HigherEd",
+					"indices": [
+						59,
+						68
+					]
+				},
+				{
+					"text": "MicrosoftEDU",
+					"indices": [
+						230,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RXHuPluHMh",
+					"expanded_url": "https://msft.it/6011VXLeW",
+					"display_url": "msft.it/6011VXLeW",
+					"indices": [
+						245,
+						268
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1379830084471816200,
+					"id_str": "1379830084471816196",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EyYkJrNXAAQpSNG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyYkJrNXAAQpSNG.jpg",
+					"url": "https://t.co/mnNynAmWtD",
+					"display_url": "pic.twitter.com/mnNynAmWtD",
+					"expanded_url": "https://twitter.com/MicrosoftEDU/status/1379830094085120013/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1379830084471816200,
+					"id_str": "1379830084471816196",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EyYkJrNXAAQpSNG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyYkJrNXAAQpSNG.jpg",
+					"url": "https://t.co/mnNynAmWtD",
+					"display_url": "pic.twitter.com/mnNynAmWtD",
+					"expanded_url": "https://twitter.com/MicrosoftEDU/status/1379830094085120013/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod2.sprinklr.com\" rel=\"nofollow\">Sprinklr Publisher</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17826187,
+			"id_str": "17826187",
+			"name": "Microsoft Education",
+			"screen_name": "MicrosoftEDU",
+			"location": "Redmond, WA",
+			"description": "Empowering every student and educator to achieve more with the best of Microsoft tips and resources for education. #MicrosoftEDU",
+			"url": "https://t.co/PstVZHAjVU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PstVZHAjVU",
+							"expanded_url": "https://educationblog.microsoft.com",
+							"display_url": "educationblog.microsoft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 406798,
+			"friends_count": 4301,
+			"listed_count": 3648,
+			"created_at": "Wed Dec 03 02:29:33 +0000 2008",
+			"favourites_count": 32630,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 48146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00BCF2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268176956002107392/hXS71f2x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268176956002107392/hXS71f2x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17826187/1610560314",
+			"profile_link_color": "0078D7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 402,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In our rapidly changing world, it’s essential to reimagine #HigherEd by embracing new ways of teaching and learning. Join the free event to hear from leading institutions, watch live demos &amp; unlock the transformative power of #MicrosoftEDU. https://t.co/RXHuPluHMh https://t.co/mnNynAmWtD"
+	},
+	{
 		"created_at": "Fri Apr 02 07:07:00 +0000 2021",
 		"id": 1377654065887207400,
 		"id_str": "1377880224831012866",
