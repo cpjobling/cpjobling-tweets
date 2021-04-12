@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 11 09:10:00 +0000 2021",
+		"id": 1380494098965143600,
+		"id_str": "1381172672944611328",
+		"full_text": "Congratulations to our newly appointed Professors within the Faculty of Science and Engineering 🎉\n\n@swanscience\n@SUEngineering\n@bracken_rich\n@ProfRSevilla @UK_ACM \n#SwanseaUni https://t.co/ChELusCQQU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SwanseaUni",
+					"indices": [
+						164,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "swanscience",
+					"name": "College of Science",
+					"id": 382031738,
+					"id_str": "382031738",
+					"indices": [
+						99,
+						111
+					]
+				},
+				{
+					"screen_name": "SUEngineering",
+					"name": "Swansea Engineering",
+					"id": 154145391,
+					"id_str": "154145391",
+					"indices": [
+						112,
+						126
+					]
+				},
+				{
+					"screen_name": "bracken_rich",
+					"name": "Richard Bracken",
+					"id": 3226022806,
+					"id_str": "3226022806",
+					"indices": [
+						127,
+						140
+					]
+				},
+				{
+					"screen_name": "ProfRSevilla",
+					"name": "Rubén Sevilla",
+					"id": 2834108884,
+					"id_str": "2834108884",
+					"indices": [
+						141,
+						154
+					]
+				},
+				{
+					"screen_name": "UK_ACM",
+					"name": "UK-ACM",
+					"id": 4753172056,
+					"id_str": "4753172056",
+					"indices": [
+						155,
+						162
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1380494025216696300,
+					"id_str": "1380494025216696323",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EyiAAHOXIAMgofg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyiAAHOXIAMgofg.jpg",
+					"url": "https://t.co/ChELusCQQU",
+					"display_url": "pic.twitter.com/ChELusCQQU",
+					"expanded_url": "https://twitter.com/SUEngineering/status/1380494098965143552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1380494025216696300,
+					"id_str": "1380494025216696323",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EyiAAHOXIAMgofg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyiAAHOXIAMgofg.jpg",
+					"url": "https://t.co/ChELusCQQU",
+					"display_url": "pic.twitter.com/ChELusCQQU",
+					"expanded_url": "https://twitter.com/SUEngineering/status/1380494098965143552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154145391,
+			"id_str": "154145391",
+			"name": "Swansea Engineering",
+			"screen_name": "SUEngineering",
+			"location": "Swansea University",
+			"description": "Multi-disciplinary engineering department at @SwanseaUni. Follow to find out about our pioneering research and undergraduate/postgraduate opportunities!",
+			"url": "https://t.co/XFEI378QF7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XFEI378QF7",
+							"expanded_url": "https://www.swansea.ac.uk/engineering/",
+							"display_url": "swansea.ac.uk/engineering/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4240,
+			"friends_count": 1025,
+			"listed_count": 68,
+			"created_at": "Thu Jun 10 14:01:55 +0000 2010",
+			"favourites_count": 3900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877844628908724224/95wzwHBO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877844628908724224/95wzwHBO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154145391/1598444469",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 36,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations to our newly appointed Professors within the Faculty of Science and Engineering 🎉\n\n@swanscience\n@SUEngineering\n@bracken_rich\n@ProfRSevilla @UK_ACM \n#SwanseaUni https://t.co/ChELusCQQU"
+	},
+	{
 		"created_at": "Thu Apr 08 08:06:27 +0000 2021",
 		"id": 1379830094085120000,
 		"id_str": "1380069515187339266",
