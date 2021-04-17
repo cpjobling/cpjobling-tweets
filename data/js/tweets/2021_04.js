@@ -1,6 +1,406 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Fri Apr 16 07:17:01 +0000 2021",
+		"id": 1382956177571594200,
+		"id_str": "1382956177571594240",
+		"full_text": "LTHEchat 200: Closing the feedback loop – #LTHEchat https://t.co/Gn9kf0JkvI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						42,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gn9kf0JkvI",
+					"expanded_url": "https://lthechat.com/2021/04/15/lthechat-200-closing-the-feedback-loop/",
+					"display_url": "lthechat.com/2021/04/15/lth…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1607,
+			"friends_count": 1234,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12087,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21774,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1372300138622939139/cmBPLgFP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372300138622939139/cmBPLgFP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1f36c2b60fbc98ac",
+			"url": "https://api.twitter.com/1.1/geo/id/1f36c2b60fbc98ac.json",
+			"place_type": "city",
+			"name": "Swansea",
+			"full_name": "Swansea, Wales",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.029331,
+							51.5987484
+						],
+						[
+							-3.8621388,
+							51.5987484
+						],
+						[
+							-3.8621388,
+							51.68983
+						],
+						[
+							-4.029331,
+							51.68983
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LTHEchat 200: Closing the feedback loop – #LTHEchat https://t.co/Gn9kf0JkvI"
+	},
+	{
+		"created_at": "Fri Apr 16 07:11:56 +0000 2021",
+		"id": 1382696759428808700,
+		"id_str": "1382954897264480257",
+		"full_text": "“Be wary of claims of things. Like, things that sound fantastic and maybe not possible -- don’t suddenly become possible because we don’t understand the technology.” ~ @hybervisible So true -- enjoy our conversation on the @YearsEd Between the Chapters pod: https://t.co/DrTngQA6BX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YearsEd",
+					"name": "25 Years Of Ed Tech: The Audio Version",
+					"id": 1312472054130602000,
+					"id_str": "1312472054130601984",
+					"indices": [
+						223,
+						231
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DrTngQA6BX",
+					"expanded_url": "https://twitter.com/YearsEd/status/1382604867777204227",
+					"display_url": "twitter.com/YearsEd/status…",
+					"indices": [
+						258,
+						281
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16708242,
+			"id_str": "16708242",
+			"name": "Laura Pasquini, Ph.D.",
+			"screen_name": "laurapasquini",
+			"location": "🇨🇦 + 🇨🇮 + 🇺🇸 = home",
+			"description": "Learning & Performance #DigitalLearning #LXD #Coaching #OER #PLN #AcAdv mentoring #FemEdTech; Pods🎙️@YearsEd @CoachingThruIt & @InVinoFab https://t.co/OCjE7dGBIy",
+			"url": "https://t.co/hH6MLGMIcn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hH6MLGMIcn",
+							"expanded_url": "https://linktr.ee/techknowtools",
+							"display_url": "linktr.ee/techknowtools",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OCjE7dGBIy",
+							"expanded_url": "http://pronoun.is/she",
+							"display_url": "pronoun.is/she",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10421,
+			"friends_count": 7177,
+			"listed_count": 1013,
+			"created_at": "Sun Oct 12 14:51:58 +0000 2008",
+			"favourites_count": 18671,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "A7D8F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1379109282512130049/DkpmiF8y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1379109282512130049/DkpmiF8y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16708242/1612636416",
+			"profile_link_color": "94D497",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "1BB884",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1382604867777204200,
+		"quoted_status_id_str": "1382604867777204227",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DrTngQA6BX",
+			"expanded": "https://twitter.com/YearsEd/status/1382604867777204227",
+			"display": "twitter.com/YearsEd/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 15 08:01:02 +0000 2021",
+			"id": 1382604867777204200,
+			"id_str": "1382604867777204227",
+			"full_text": "★ Just published a new episode of 25 Years of Ed Tech: Between the Chapters #23 looking in the black box of A.I. with @hypervisible. Listen: https://t.co/onvMpoL76S",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				164
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hypervisible",
+						"name": "quantified (br)other",
+						"id": 175292337,
+						"id_str": "175292337",
+						"indices": [
+							118,
+							131
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/onvMpoL76S",
+						"expanded_url": "https://share.transistor.fm/s/c13b5602",
+						"display_url": "share.transistor.fm/s/c13b5602",
+						"indices": [
+							141,
+							164
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://transistor.fm\" rel=\"nofollow\">Transistor.fm</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1312472054130602000,
+				"id_str": "1312472054130601984",
+				"name": "25 Years Of Ed Tech: The Audio Version",
+				"screen_name": "YearsEd",
+				"location": "",
+				"description": "Twitter account for the serialized audio version of Martin Weller's 25 Years of Ed Tech book & bonus podcast Between the Chapters Tweets by @edtechfactotum",
+				"url": "https://t.co/BPiRsGtHe9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BPiRsGtHe9",
+								"expanded_url": "http://25years.opened.ca",
+								"display_url": "25years.opened.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 195,
+				"friends_count": 0,
+				"listed_count": 4,
+				"created_at": "Sat Oct 03 19:18:25 +0000 2020",
+				"favourites_count": 129,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 129,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1312472262159687683/y_t45Ol-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312472262159687683/y_t45Ol-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1312472054130601984/1601752908",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Be wary of claims of things. Like, things that sound fantastic and maybe not possible -- don’t suddenly become possible because we don’t understand the technology.” ~ @hybervisible So true -- enjoy our conversation on the @YearsEd Between the Chapters pod: https://t.co/DrTngQA6BX"
+	},
+	{
 		"created_at": "Thu Apr 15 07:26:29 +0000 2021",
 		"id": 1382596171709972500,
 		"id_str": "1382596171709972480",
