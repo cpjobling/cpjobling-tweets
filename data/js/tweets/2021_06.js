@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 05 08:29:45 +0000 2021",
+		"id": 1401093876610384000,
+		"id_str": "1401093876610383874",
+		"full_text": "@tbirdcymru Interesting. I’ve never been able to get on with an iPad with keyboard - even though I have an iPad and a keyboard - I would be lost if I couldn’t boot up my MacBook Pro. #JuneEdTechChallenge",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JuneEdTechChallenge",
+					"indices": [
+						183,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tbirdcymru",
+					"name": "Terese Bird",
+					"id": 4587771,
+					"id_str": "4587771",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1400861551746338800,
+		"in_reply_to_status_id_str": "1400861551746338817",
+		"in_reply_to_user_id": 4587771,
+		"in_reply_to_user_id_str": "4587771",
+		"in_reply_to_screen_name": "tbirdcymru",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1592,
+			"friends_count": 1233,
+			"listed_count": 122,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1372300138622939139/cmBPLgFP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372300138622939139/cmBPLgFP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tbirdcymru Interesting. I’ve never been able to get on with an iPad with keyboard - even though I have an iPad and a keyboard - I would be lost if I couldn’t boot up my MacBook Pro. #JuneEdTechChallenge"
+	},
+	{
 		"created_at": "Wed Jun 02 07:27:46 +0000 2021",
 		"id": 1399991112765411300,
 		"id_str": "1399991112765411329",
