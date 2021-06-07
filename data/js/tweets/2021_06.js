@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 06 17:22:08 +0000 2021",
+		"id": 1401560147328225300,
+		"id_str": "1401590239437758468",
+		"full_text": "Day 6 #JuneEdTechChallenge\n\nTop edtech CPD tip?\n\nTake part in #LTHEchat on @Twitter on Wednesday evenings\nfrom 8-9 pm UK time.\n\nNetwork… Network… Network…\n\n@A_L_T @LTHEchat @AdvanceHE https://t.co/xETxexkNq3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JuneEdTechChallenge",
+					"indices": [
+						6,
+						26
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						62,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"screen_name": "A_L_T",
+					"name": "ALT - alt.ac.uk",
+					"id": 41210876,
+					"id_str": "41210876",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						163,
+						172
+					]
+				},
+				{
+					"screen_name": "AdvanceHE",
+					"name": "Advance HE",
+					"id": 941587234465177600,
+					"id_str": "941587234465177600",
+					"indices": [
+						173,
+						183
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1401560108845371400,
+					"id_str": "1401560108845371401",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E3NXfkMWEAkdtrP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3NXfkMWEAkdtrP.jpg",
+					"url": "https://t.co/xETxexkNq3",
+					"display_url": "pic.twitter.com/xETxexkNq3",
+					"expanded_url": "https://twitter.com/simonrae/status/1401560147328225289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 594,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 895,
+							"h": 1025,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 895,
+							"h": 1025,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1401560108845371400,
+					"id_str": "1401560108845371401",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E3NXfkMWEAkdtrP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3NXfkMWEAkdtrP.jpg",
+					"url": "https://t.co/xETxexkNq3",
+					"display_url": "pic.twitter.com/xETxexkNq3",
+					"expanded_url": "https://twitter.com/simonrae/status/1401560147328225289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 594,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 895,
+							"h": 1025,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 895,
+							"h": 1025,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1401560108841287700,
+					"id_str": "1401560108841287683",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E3NXfkLXwAM8nIG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3NXfkLXwAM8nIG.jpg",
+					"url": "https://t.co/xETxexkNq3",
+					"display_url": "pic.twitter.com/xETxexkNq3",
+					"expanded_url": "https://twitter.com/simonrae/status/1401560147328225289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1413,
+							"h": 1867,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 908,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48292696,
+			"id_str": "48292696",
+			"name": "🇪🇺 Simon Rae … Have ✏️ will ✍️",
+			"screen_name": "simonrae",
+			"location": "Milton Keynes",
+			"description": "retired Lecturer in Professional Development now doing cartoons doodles and drawings for pleasure… also holder of a #LTHEchat Golden Tweeter Award",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1036,
+			"friends_count": 953,
+			"listed_count": 59,
+			"created_at": "Thu Jun 18 08:46:23 +0000 2009",
+			"favourites_count": 4249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DDF0E7",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/616003602117750785/qKNwKfJN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/616003602117750785/qKNwKfJN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48292696/1484765473",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "072430",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Day 6 #JuneEdTechChallenge\n\nTop edtech CPD tip?\n\nTake part in #LTHEchat on @Twitter on Wednesday evenings\nfrom 8-9 pm UK time.\n\nNetwork… Network… Network…\n\n@A_L_T @LTHEchat @AdvanceHE https://t.co/xETxexkNq3"
+	},
+	{
 		"created_at": "Sat Jun 05 08:29:45 +0000 2021",
 		"id": 1401093876610384000,
 		"id_str": "1401093876610383874",
