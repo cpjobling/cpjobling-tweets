@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 21 11:59:12 +0000 2021",
+		"id": 1406914800907604000,
+		"id_str": "1406944791196319744",
+		"full_text": "Join in this week’s novel #LTHEchat &amp; #LrnSciChat mash-up exploring ‘Implementing the Science of Learning in HE’ together, hosted by @pimpmymemory. Wed 8-9pm (BST). Swot up on LrnSci via  https://t.co/qSQnyCFPah so we can welcome our guests with confidence &amp; informed curiosity. https://t.co/h7Q67mI1i6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			286
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"text": "LrnSciChat",
+					"indices": [
+						42,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pimpmymemory",
+					"name": "Dr C. Kuepper-Tetzel",
+					"id": 1959198050,
+					"id_str": "1959198050",
+					"indices": [
+						137,
+						150
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qSQnyCFPah",
+					"expanded_url": "http://lthechat.com/?p=4628",
+					"display_url": "lthechat.com/?p=4628",
+					"indices": [
+						192,
+						215
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1406563142210048000,
+					"id_str": "1406563142210048002",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/E4Udub2WUAIoUj_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4Udub2WUAIoUj_.jpg",
+					"url": "https://t.co/h7Q67mI1i6",
+					"display_url": "pic.twitter.com/h7Q67mI1i6",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1406914800907603968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1880,
+							"h": 1253,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1406563142210048000,
+					"id_str": "1406563142210048002",
+					"indices": [
+						287,
+						310
+					],
+					"media_url": "http://pbs.twimg.com/media/E4Udub2WUAIoUj_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4Udub2WUAIoUj_.jpg",
+					"url": "https://t.co/h7Q67mI1i6",
+					"display_url": "pic.twitter.com/h7Q67mI1i6",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1406914800907603968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1880,
+							"h": 1253,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8748,
+			"friends_count": 3512,
+			"listed_count": 162,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 4573,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9832,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join in this week’s novel #LTHEchat &amp; #LrnSciChat mash-up exploring ‘Implementing the Science of Learning in HE’ together, hosted by @pimpmymemory. Wed 8-9pm (BST). Swot up on LrnSci via  https://t.co/qSQnyCFPah so we can welcome our guests with confidence &amp; informed curiosity. https://t.co/h7Q67mI1i6"
+	},
+	{
 		"created_at": "Wed Jun 16 19:35:05 +0000 2021",
 		"id": 1405247578908901400,
 		"id_str": "1405247578908901377",
