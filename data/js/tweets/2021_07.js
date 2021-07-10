@@ -1,6 +1,585 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 09 12:18:25 +0000 2021",
+		"id": 1413472607526133800,
+		"id_str": "1413472607526133761",
+		"full_text": "@KathyAdvanceHE Hi Kathy\n\nThis is a great initiative, but I'm finding it difficult to navigate to the advice from the padlet map. Is there any chance of adding the number/date and link to the  transcript page?\n\nChris",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KathyAdvanceHE",
+					"name": "Kathy Wright",
+					"id": 556345493,
+					"id_str": "556345493",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1413457238623146000,
+		"in_reply_to_status_id_str": "1413457238623145985",
+		"in_reply_to_user_id": 556345493,
+		"in_reply_to_user_id_str": "556345493",
+		"in_reply_to_screen_name": "KathyAdvanceHE",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1589,
+			"friends_count": 1232,
+			"listed_count": 121,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1372300138622939139/cmBPLgFP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372300138622939139/cmBPLgFP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KathyAdvanceHE Hi Kathy\n\nThis is a great initiative, but I'm finding it difficult to navigate to the advice from the padlet map. Is there any chance of adding the number/date and link to the  transcript page?\n\nChris"
+	},
+	{
+		"created_at": "Fri Jul 09 07:35:24 +0000 2021",
+		"id": 1413401385568292900,
+		"id_str": "1413401385568292866",
+		"full_text": "@_PXavier - Have you seen this Patricia? Could it be a theme for LTEC over the summer? https://t.co/Latq5bcvzO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_PXavier",
+					"name": "Patricia Xavier",
+					"id": 1724921312,
+					"id_str": "1724921312",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Latq5bcvzO",
+					"expanded_url": "https://twitter.com/FabioArico/status/1413183670681313289",
+					"display_url": "twitter.com/FabioArico/sta…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1724921312,
+		"in_reply_to_user_id_str": "1724921312",
+		"in_reply_to_screen_name": "_PXavier",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1589,
+			"friends_count": 1232,
+			"listed_count": 121,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1372300138622939139/cmBPLgFP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372300138622939139/cmBPLgFP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1413183670681313300,
+		"quoted_status_id_str": "1413183670681313289",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Latq5bcvzO",
+			"expanded": "https://twitter.com/FabioArico/status/1413183670681313289",
+			"display": "twitter.com/FabioArico/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 08 17:10:17 +0000 2021",
+			"id": 1413183670681313300,
+			"id_str": "1413183670681313289",
+			"full_text": "Have you checked the #AdvanceHEtorchrelay @AdvanceHE? Launched by @ProfSallyBrown and @kay_sambell: https://t.co/loL8UaxsOt - see vlog by @KathyAdvanceHE: https://t.co/ksZUM2nZrm and the interactive assessment torch map here: https://t.co/NsmHNn1UzK - I will feature there too!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AdvanceHEtorchrelay",
+						"indices": [
+							21,
+							41
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AdvanceHE",
+						"name": "Advance HE",
+						"id": 941587234465177600,
+						"id_str": "941587234465177600",
+						"indices": [
+							42,
+							52
+						]
+					},
+					{
+						"screen_name": "ProfSallyBrown",
+						"name": "Sally Brown",
+						"id": 1561332966,
+						"id_str": "1561332966",
+						"indices": [
+							66,
+							81
+						]
+					},
+					{
+						"screen_name": "kay_sambell",
+						"name": "Kay Sambell",
+						"id": 741280496936747000,
+						"id_str": "741280496936747008",
+						"indices": [
+							86,
+							98
+						]
+					},
+					{
+						"screen_name": "KathyAdvanceHE",
+						"name": "Kathy Wright",
+						"id": 556345493,
+						"id_str": "556345493",
+						"indices": [
+							138,
+							153
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/loL8UaxsOt",
+						"expanded_url": "https://bit.ly/3qY8R7G",
+						"display_url": "bit.ly/3qY8R7G",
+						"indices": [
+							100,
+							123
+						]
+					},
+					{
+						"url": "https://t.co/ksZUM2nZrm",
+						"expanded_url": "https://bit.ly/2VoAOJZ",
+						"display_url": "bit.ly/2VoAOJZ",
+						"indices": [
+							155,
+							178
+						]
+					},
+					{
+						"url": "https://t.co/NsmHNn1UzK",
+						"expanded_url": "https://bit.ly/2TRSxJp",
+						"display_url": "bit.ly/2TRSxJp",
+						"indices": [
+							226,
+							249
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 852663036,
+				"id_str": "852663036",
+				"name": "Prof Fabio R Aricò",
+				"screen_name": "FabioArico",
+				"location": "Norwich",
+				"description": "Britalian. National Teaching Fellow. Professor of Higher Education and Economics at UEA. Pedagogical Research. Pluralism. Tweets = own views. He/him.",
+				"url": "https://t.co/YqceGnsyQv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YqceGnsyQv",
+								"expanded_url": "https://people.uea.ac.uk/f_arico",
+								"display_url": "people.uea.ac.uk/f_arico",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1351,
+				"friends_count": 741,
+				"listed_count": 36,
+				"created_at": "Sat Sep 29 11:04:18 +0000 2012",
+				"favourites_count": 2407,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8147,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1308708254323798016/H4y0hu3s_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308708254323798016/H4y0hu3s_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/852663036/1602320048",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@_PXavier - Have you seen this Patricia? Could it be a theme for LTEC over the summer? https://t.co/Latq5bcvzO"
+	},
+	{
+		"created_at": "Fri Jul 09 07:34:24 +0000 2021",
+		"id": 1413183670681313300,
+		"id_str": "1413401133071089668",
+		"full_text": "Have you checked the #AdvanceHEtorchrelay @AdvanceHE? Launched by @ProfSallyBrown and @kay_sambell: https://t.co/loL8UaxsOt - see vlog by @KathyAdvanceHE: https://t.co/ksZUM2nZrm and the interactive assessment torch map here: https://t.co/NsmHNn1UzK - I will feature there too!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvanceHEtorchrelay",
+					"indices": [
+						21,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdvanceHE",
+					"name": "Advance HE",
+					"id": 941587234465177600,
+					"id_str": "941587234465177600",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"screen_name": "ProfSallyBrown",
+					"name": "Sally Brown",
+					"id": 1561332966,
+					"id_str": "1561332966",
+					"indices": [
+						66,
+						81
+					]
+				},
+				{
+					"screen_name": "kay_sambell",
+					"name": "Kay Sambell",
+					"id": 741280496936747000,
+					"id_str": "741280496936747008",
+					"indices": [
+						86,
+						98
+					]
+				},
+				{
+					"screen_name": "KathyAdvanceHE",
+					"name": "Kathy Wright",
+					"id": 556345493,
+					"id_str": "556345493",
+					"indices": [
+						138,
+						153
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/loL8UaxsOt",
+					"expanded_url": "https://bit.ly/3qY8R7G",
+					"display_url": "bit.ly/3qY8R7G",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/ksZUM2nZrm",
+					"expanded_url": "https://bit.ly/2VoAOJZ",
+					"display_url": "bit.ly/2VoAOJZ",
+					"indices": [
+						155,
+						178
+					]
+				},
+				{
+					"url": "https://t.co/NsmHNn1UzK",
+					"expanded_url": "https://bit.ly/2TRSxJp",
+					"display_url": "bit.ly/2TRSxJp",
+					"indices": [
+						226,
+						249
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 852663036,
+			"id_str": "852663036",
+			"name": "Prof Fabio R Aricò",
+			"screen_name": "FabioArico",
+			"location": "Norwich",
+			"description": "Britalian. National Teaching Fellow. Professor of Higher Education and Economics at UEA. Pedagogical Research. Pluralism. Tweets = own views. He/him.",
+			"url": "https://t.co/YqceGnsyQv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YqceGnsyQv",
+							"expanded_url": "https://people.uea.ac.uk/f_arico",
+							"display_url": "people.uea.ac.uk/f_arico",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1351,
+			"friends_count": 741,
+			"listed_count": 36,
+			"created_at": "Sat Sep 29 11:04:18 +0000 2012",
+			"favourites_count": 2407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1308708254323798016/H4y0hu3s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308708254323798016/H4y0hu3s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/852663036/1602320048",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have you checked the #AdvanceHEtorchrelay @AdvanceHE? Launched by @ProfSallyBrown and @kay_sambell: https://t.co/loL8UaxsOt - see vlog by @KathyAdvanceHE: https://t.co/ksZUM2nZrm and the interactive assessment torch map here: https://t.co/NsmHNn1UzK - I will feature there too!"
+	},
+	{
 		"created_at": "Thu Jul 08 11:14:59 +0000 2021",
 		"id": 1413094257615937500,
 		"id_str": "1413094257615937537",
