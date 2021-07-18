@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 17 08:21:20 +0000 2021",
+		"id": 1416312046992478200,
+		"id_str": "1416312046992478208",
+		"full_text": "Johnson’s Covid experts: sadly on tap, not on top “Many suspect that [the] presence [of the CMO and CSO] was political insurance rather than real reassurance.” https://t.co/JO2GqRXFqx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JO2GqRXFqx",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2021/jul/16/the-guardian-view-on-boris-johnsons-covid-experts-sadly-on-tap-not-on-top",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/vIMdJpfRKN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vIMdJpfRKN",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1588,
+			"friends_count": 1232,
+			"listed_count": 121,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1372300138622939139/cmBPLgFP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372300138622939139/cmBPLgFP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Johnson’s Covid experts: sadly on tap, not on top “Many suspect that [the] presence [of the CMO and CSO] was political insurance rather than real reassurance.” https://t.co/JO2GqRXFqx"
+	},
+	{
 		"created_at": "Fri Jul 16 12:13:32 +0000 2021",
 		"id": 1416008093268430800,
 		"id_str": "1416008093268430853",
