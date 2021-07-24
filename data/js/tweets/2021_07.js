@@ -1,6 +1,448 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 23 12:04:02 +0000 2021",
+		"id": 1418517278023426000,
+		"id_str": "1418542419587518469",
+		"full_text": "My latest THE article. https://t.co/iOmyRMB9XS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iOmyRMB9XS",
+					"expanded_url": "https://twitter.com/timeshighered/status/1418497617714102276",
+					"display_url": "twitter.com/timeshighered/…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 405910853,
+			"id_str": "405910853",
+			"name": "Dr Chris Headleand",
+			"screen_name": "ChrisHeadleand",
+			"location": "Lincoln, England",
+			"description": "Computer Scientist and Director of Teaching and Learning; VR Researcher; Interested in learning communities; Student Engagement evangelist! #SFHEA Dad",
+			"url": "https://t.co/HA0WAkZJl7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HA0WAkZJl7",
+							"expanded_url": "https://chrisheadleand.com/",
+							"display_url": "chrisheadleand.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4003,
+			"friends_count": 1371,
+			"listed_count": 69,
+			"created_at": "Sun Nov 06 00:10:12 +0000 2011",
+			"favourites_count": 20561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349364503511764992/U_aVpo4Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349364503511764992/U_aVpo4Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/405910853/1445964281",
+			"profile_link_color": "445F74",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1418497617714102300,
+		"quoted_status_id_str": "1418497617714102276",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iOmyRMB9XS",
+			"expanded": "https://twitter.com/timeshighered/status/1418497617714102276",
+			"display": "twitter.com/timeshighered/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 23 09:06:01 +0000 2021",
+			"id": 1418497617714102300,
+			"id_str": "1418497617714102276",
+			"full_text": "Don’t confuse online engagement with logging in: when assessing engagement, the sector defaults to the crude measurement of attendance, which is flawed, says @ChrisHeadleand of @UoLCompSci\nMore advice on online learning and teaching at #THECampus\nhttps://t.co/xYxp5EHns5 https://t.co/fsRGIiPa1H",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "THECampus",
+						"indices": [
+							236,
+							246
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ChrisHeadleand",
+						"name": "Dr Chris Headleand",
+						"id": 405910853,
+						"id_str": "405910853",
+						"indices": [
+							158,
+							173
+						]
+					},
+					{
+						"screen_name": "UoLCompSci",
+						"name": "Lincoln School of Computer Science",
+						"id": 381625982,
+						"id_str": "381625982",
+						"indices": [
+							177,
+							188
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/xYxp5EHns5",
+						"expanded_url": "https://bit.ly/3zupivv",
+						"display_url": "bit.ly/3zupivv",
+						"indices": [
+							247,
+							270
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1418497615596040200,
+						"id_str": "1418497615596040196",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/E6-EENxXMAQ8v_E.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6-EENxXMAQ8v_E.jpg",
+						"url": "https://t.co/fsRGIiPa1H",
+						"display_url": "pic.twitter.com/fsRGIiPa1H",
+						"expanded_url": "https://twitter.com/timeshighered/status/1418497617714102276/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 661,
+								"h": 495,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 661,
+								"h": 495,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 661,
+								"h": 495,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1418497615596040200,
+						"id_str": "1418497615596040196",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/E6-EENxXMAQ8v_E.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6-EENxXMAQ8v_E.jpg",
+						"url": "https://t.co/fsRGIiPa1H",
+						"display_url": "pic.twitter.com/fsRGIiPa1H",
+						"expanded_url": "https://twitter.com/timeshighered/status/1418497617714102276/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 661,
+								"h": 495,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 661,
+								"h": 495,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 661,
+								"h": 495,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23602600,
+				"id_str": "23602600",
+				"name": "Times Higher Education",
+				"screen_name": "timeshighered",
+				"location": "Global",
+				"description": "Global HE news, analysis, data, insights. Teaching resources from THE Campus. THE World University Rankings @THEworldunirank. Student advice @THEuniadvice",
+				"url": "http://t.co/SHlBxmu5aC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/SHlBxmu5aC",
+								"expanded_url": "http://www.timeshighereducation.com",
+								"display_url": "timeshighereducation.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 309098,
+				"friends_count": 3454,
+				"listed_count": 5733,
+				"created_at": "Tue Mar 10 15:08:03 +0000 2009",
+				"favourites_count": 5076,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 135117,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1029658581434544129/TRvtevHr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029658581434544129/TRvtevHr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23602600/1626940508",
+				"profile_link_color": "E02200",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F7F1D2",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 35,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My latest THE article. https://t.co/iOmyRMB9XS"
+	},
+	{
+		"created_at": "Fri Jul 23 11:57:55 +0000 2021",
+		"id": 1418224576618586000,
+		"id_str": "1418540879300681733",
+		"full_text": "Three leaders in global HE explore what the pandemic has taught them and how universities can carry those lessons forward as they look to rebuild #THECampus\nhttps://t.co/uHjK4Yd7oA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THECampus",
+					"indices": [
+						146,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uHjK4Yd7oA",
+					"expanded_url": "https://www.timeshighereducation.com/campus/silver-linings-lessons-covid19-crisis",
+					"display_url": "timeshighereducation.com/campus/silver-…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23602600,
+			"id_str": "23602600",
+			"name": "Times Higher Education",
+			"screen_name": "timeshighered",
+			"location": "Global",
+			"description": "Global HE news, analysis, data, insights. Teaching resources from THE Campus. THE World University Rankings @THEworldunirank. Student advice @THEuniadvice",
+			"url": "http://t.co/SHlBxmu5aC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/SHlBxmu5aC",
+							"expanded_url": "http://www.timeshighereducation.com",
+							"display_url": "timeshighereducation.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 309098,
+			"friends_count": 3454,
+			"listed_count": 5733,
+			"created_at": "Tue Mar 10 15:08:03 +0000 2009",
+			"favourites_count": 5076,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 135117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1029658581434544129/TRvtevHr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029658581434544129/TRvtevHr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23602600/1626940508",
+			"profile_link_color": "E02200",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7F1D2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Three leaders in global HE explore what the pandemic has taught them and how universities can carry those lessons forward as they look to rebuild #THECampus\nhttps://t.co/uHjK4Yd7oA"
+	},
+	{
 		"created_at": "Thu Jul 22 07:46:55 +0000 2021",
 		"id": 1418115327305605000,
 		"id_str": "1418115327305605121",
