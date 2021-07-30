@@ -1,6 +1,512 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 29 10:23:48 +0000 2021",
+		"id": 1420326287978209300,
+		"id_str": "1420691519900639233",
+		"full_text": "Join us tomorrow- opportunity to network in 'Topia world, and celebrate some of the innovation in assessment practice that colleagues and students have achieved over the last year. https://t.co/uQve8fkH2f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uQve8fkH2f",
+					"expanded_url": "https://twitter.com/AdvanceHE/status/1420310563880685568",
+					"display_url": "twitter.com/AdvanceHE/stat…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 804753576,
+			"id_str": "804753576",
+			"name": "Kay Hack",
+			"screen_name": "hack_kay",
+			"location": "Coleraine",
+			"description": "PFHEA “Personally, I’m always ready to learn, although I do not always like being taught” (Winston Churchill)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 985,
+			"friends_count": 824,
+			"listed_count": 65,
+			"created_at": "Wed Sep 05 14:53:46 +0000 2012",
+			"favourites_count": 20486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1176016496113401856/MNudMlJy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176016496113401856/MNudMlJy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/804753576/1445797620",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1420310563880685600,
+		"quoted_status_id_str": "1420310563880685568",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uQve8fkH2f",
+			"expanded": "https://twitter.com/AdvanceHE/status/1420310563880685568",
+			"display": "twitter.com/AdvanceHE/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 28 09:10:01 +0000 2021",
+			"id": 1420310563880685600,
+			"id_str": "1420310563880685568",
+			"full_text": "As part of the July Connect Benefit Series the #AdvanceHEtorchrelay has celebrated success and addressed challenges in assessment. Join our assessment torch bearers at the closing ceremonies on 29 July at 08:00 BST or 15:00 BST. Book your place: https://t.co/7HCwqylHFT  #HigherEd https://t.co/xyDovxs9X9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AdvanceHEtorchrelay",
+						"indices": [
+							47,
+							67
+						]
+					},
+					{
+						"text": "HigherEd",
+						"indices": [
+							271,
+							280
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7HCwqylHFT",
+						"expanded_url": "http://ow.ly/iBPf50FxuLE",
+						"display_url": "ow.ly/iBPf50FxuLE",
+						"indices": [
+							246,
+							269
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1420310491818348500,
+						"id_str": "1420310491818348547",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1420310491818348547/pu/img/pwa1veGdCZ0lOG1b.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1420310491818348547/pu/img/pwa1veGdCZ0lOG1b.jpg",
+						"url": "https://t.co/xyDovxs9X9",
+						"display_url": "pic.twitter.com/xyDovxs9X9",
+						"expanded_url": "https://twitter.com/AdvanceHE/status/1420310563880685568/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1420310491818348500,
+						"id_str": "1420310491818348547",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1420310491818348547/pu/img/pwa1veGdCZ0lOG1b.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1420310491818348547/pu/img/pwa1veGdCZ0lOG1b.jpg",
+						"url": "https://t.co/xyDovxs9X9",
+						"display_url": "pic.twitter.com/xyDovxs9X9",
+						"expanded_url": "https://twitter.com/AdvanceHE/status/1420310563880685568/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 48200,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1420310491818348547/pu/vid/480x270/wE0OP4x4AoFuq78x.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1420310491818348547/pu/vid/640x360/jALT5tic0v-_eSqa.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1420310491818348547/pu/pl/iWdTFliAbBHrHfpr.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1420310491818348547/pu/vid/1280x720/NMy6Ao-Lqy8qNXGR.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 941587234465177600,
+				"id_str": "941587234465177600",
+				"name": "Advance HE",
+				"screen_name": "AdvanceHE",
+				"location": "United Kingdom",
+				"description": "We are Advance HE, and we are dedicated to helping higher education shape its future.",
+				"url": "https://t.co/nf6dzkKahl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nf6dzkKahl",
+								"expanded_url": "http://www.advance-he.ac.uk",
+								"display_url": "advance-he.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17439,
+				"friends_count": 633,
+				"listed_count": 150,
+				"created_at": "Fri Dec 15 08:34:25 +0000 2017",
+				"favourites_count": 11172,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7607,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1019956876946141184/5T0ysk5T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019956876946141184/5T0ysk5T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/941587234465177600/1588085734",
+				"profile_link_color": "03A1A4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us tomorrow- opportunity to network in 'Topia world, and celebrate some of the innovation in assessment practice that colleagues and students have achieved over the last year. https://t.co/uQve8fkH2f"
+	},
+	{
+		"created_at": "Thu Jul 29 10:22:06 +0000 2021",
+		"id": 1420639380230840300,
+		"id_str": "1420691091871916037",
+		"full_text": "An experiment:\n\nPlease follow and RT if you’ve had the vaccine https://t.co/bgPeIWjAlc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1420639375013163000,
+					"id_str": "1420639375013163010",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/E7cf_BWXsAIDkNv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7cf_BWXsAIDkNv.jpg",
+					"url": "https://t.co/bgPeIWjAlc",
+					"display_url": "pic.twitter.com/bgPeIWjAlc",
+					"expanded_url": "https://twitter.com/NHSMillion/status/1420639380230840320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1226,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 718,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1420639375013163000,
+					"id_str": "1420639375013163010",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/E7cf_BWXsAIDkNv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7cf_BWXsAIDkNv.jpg",
+					"url": "https://t.co/bgPeIWjAlc",
+					"display_url": "pic.twitter.com/bgPeIWjAlc",
+					"expanded_url": "https://twitter.com/NHSMillion/status/1420639380230840320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 407,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1226,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 718,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4882743003,
+			"id_str": "4882743003",
+			"name": "NHS Million 💙",
+			"screen_name": "NHSMillion",
+			"location": "UK",
+			"description": "We're trying to find a million people who are grateful for NHS staff and happy to support them long after Covid is over. A grassroots campaign run by NHS staff.",
+			"url": "https://t.co/8yebRIsA1D",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8yebRIsA1D",
+							"expanded_url": "http://www.nhsmillion.co.uk",
+							"display_url": "nhsmillion.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 698912,
+			"friends_count": 12078,
+			"listed_count": 1023,
+			"created_at": "Sat Feb 06 19:38:22 +0000 2016",
+			"favourites_count": 27358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29720,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322675085300375553/aGiWB67B_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322675085300375553/aGiWB67B_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4882743003/1604186495",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5305,
+		"favorite_count": 4141,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An experiment:\n\nPlease follow and RT if you’ve had the vaccine https://t.co/bgPeIWjAlc"
+	},
+	{
 		"created_at": "Mon Jul 26 11:06:44 +0000 2021",
 		"id": 1419615163360190500,
 		"id_str": "1419615163360190470",
