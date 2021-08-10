@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 09 17:02:57 +0000 2021",
+		"id": 1424776400414904300,
+		"id_str": "1424778238149251074",
+		"full_text": "Tomorrow's the big day! Good luck to everyone waiting to receive their A Level results! Don't forget, if you didn't get the results you wanted, contact our Clearing hotline! 👇\n\n☎️ 0800 094 9071\n👉 https://t.co/a3RRgJjHfR https://t.co/saeOOUezcm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a3RRgJjHfR",
+					"expanded_url": "https://www.swansea.ac.uk/clearing/",
+					"display_url": "swansea.ac.uk/clearing/",
+					"indices": [
+						196,
+						219
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1424776380135444500,
+					"id_str": "1424776380135444485",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/E8XSkaZXEAUjssC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8XSkaZXEAUjssC.jpg",
+					"url": "https://t.co/saeOOUezcm",
+					"display_url": "pic.twitter.com/saeOOUezcm",
+					"expanded_url": "https://twitter.com/SUEngineering/status/1424776400414904321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424776380135444500,
+					"id_str": "1424776380135444485",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/E8XSkaZXEAUjssC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8XSkaZXEAUjssC.jpg",
+					"url": "https://t.co/saeOOUezcm",
+					"display_url": "pic.twitter.com/saeOOUezcm",
+					"expanded_url": "https://twitter.com/SUEngineering/status/1424776400414904321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154145391,
+			"id_str": "154145391",
+			"name": "Swansea Engineering",
+			"screen_name": "SUEngineering",
+			"location": "Swansea University",
+			"description": "Multi-disciplinary engineering department at @SwanseaUni. Follow to find out about our pioneering research and undergraduate/postgraduate opportunities!",
+			"url": "https://t.co/XFEI378QF7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XFEI378QF7",
+							"expanded_url": "https://www.swansea.ac.uk/engineering/",
+							"display_url": "swansea.ac.uk/engineering/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4275,
+			"friends_count": 1019,
+			"listed_count": 68,
+			"created_at": "Thu Jun 10 14:01:55 +0000 2010",
+			"favourites_count": 3980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877844628908724224/95wzwHBO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877844628908724224/95wzwHBO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154145391/1625129384",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tomorrow's the big day! Good luck to everyone waiting to receive their A Level results! Don't forget, if you didn't get the results you wanted, contact our Clearing hotline! 👇\n\n☎️ 0800 094 9071\n👉 https://t.co/a3RRgJjHfR https://t.co/saeOOUezcm"
+	},
+	{
 		"created_at": "Wed Aug 04 09:25:03 +0000 2021",
 		"id": 1422851063598796800,
 		"id_str": "1422851063598796801",
