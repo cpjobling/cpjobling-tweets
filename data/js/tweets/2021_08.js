@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 18 06:23:21 +0000 2021",
+		"id": 1427655431036575700,
+		"id_str": "1427878768476147716",
+		"full_text": "they're not openly licensed, but all these amazing ebooks from the @OpenUniversity are free on Amazon: https://t.co/KfYPXNla2O #ebookSOS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ebookSOS",
+					"indices": [
+						127,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OpenUniversity",
+					"name": "The Open University",
+					"id": 14049061,
+					"id_str": "14049061",
+					"indices": [
+						67,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KfYPXNla2O",
+					"expanded_url": "https://www.amazon.co.uk/s?i=digital-text&rh=p_27%3AThe+Open+University&s=price-asc-rank&qid=1629214309&text=The+Open+University&ref=sr_st_price-asc-rank",
+					"display_url": "amazon.co.uk/s?i=digital-te…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7127162,
+			"id_str": "7127162",
+			"name": "Martin Weller",
+			"screen_name": "mweller",
+			"location": "Tongwynlais, Cardiff",
+			"description": "Open University, @IETatOU Prof, Director of @oer_hub & @GOGN_OER. Likes dogs, beer, vinyl, ice hockey.\nBook: 25 Years of Ed Tech https://t.co/t7NnUoX0gx…",
+			"url": "https://t.co/EFx8elxHcs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EFx8elxHcs",
+							"expanded_url": "http://blog.edtechie.net/",
+							"display_url": "blog.edtechie.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/t7NnUoX0gx",
+							"expanded_url": "http://aupress.ca/books/120290-2",
+							"display_url": "aupress.ca/books/120290-2",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 11618,
+			"friends_count": 1893,
+			"listed_count": 714,
+			"created_at": "Thu Jun 28 09:14:11 +0000 2007",
+			"favourites_count": 8740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44123,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198930977675984896/STArUuIz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198930977675984896/STArUuIz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7127162/1582792969",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 91,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "they're not openly licensed, but all these amazing ebooks from the @OpenUniversity are free on Amazon: https://t.co/KfYPXNla2O #ebookSOS"
+	},
+	{
 		"created_at": "Tue Aug 17 16:28:30 +0000 2021",
 		"id": 1427260263275942000,
 		"id_str": "1427668670524821506",
