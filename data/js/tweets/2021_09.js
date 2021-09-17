@@ -1,6 +1,1662 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 16 07:41:37 +0000 2021",
+		"id": 1438231146752475100,
+		"id_str": "1438407709972439041",
+		"full_text": "Thanks for joining this #DualMode #HyFlex #Hybrid #LTHEChat \n\nGood night and we hope to see you again next Wednesday, 8pm BST https://t.co/rTlIGPxZpY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DualMode",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"text": "HyFlex",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "Hybrid",
+					"indices": [
+						42,
+						49
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						50,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438145617470050300,
+					"id_str": "1438145617470050317",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/E_VR0ciWUA0_25F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_VR0ciWUA0_25F.jpg",
+					"url": "https://t.co/rTlIGPxZpY",
+					"display_url": "pic.twitter.com/rTlIGPxZpY",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1438231146752475136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438145617470050300,
+					"id_str": "1438145617470050317",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/E_VR0ciWUA0_25F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_VR0ciWUA0_25F.jpg",
+					"url": "https://t.co/rTlIGPxZpY",
+					"display_url": "pic.twitter.com/rTlIGPxZpY",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1438231146752475136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8902,
+			"friends_count": 3503,
+			"listed_count": 163,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 4605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks for joining this #DualMode #HyFlex #Hybrid #LTHEChat \n\nGood night and we hope to see you again next Wednesday, 8pm BST https://t.co/rTlIGPxZpY"
+	},
+	{
+		"created_at": "Thu Sep 16 07:41:32 +0000 2021",
+		"id": 1438228626919542800,
+		"id_str": "1438407691060367361",
+		"full_text": "Q6 #LTHEChat \nWe’re all in this together. #DualMode #HyFlex #Hybrid might feel completely new, or you may have a lot of experience with it. Please make a recommendation or key consideration to bare in mind over the next year (pedagogical, technical or administrative wise) https://t.co/fcqkcOhQSo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"text": "DualMode",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"text": "HyFlex",
+					"indices": [
+						52,
+						59
+					]
+				},
+				{
+					"text": "Hybrid",
+					"indices": [
+						60,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438145145510277000,
+					"id_str": "1438145145510277135",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/E_VRY-WXsA8IWut.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_VRY-WXsA8IWut.jpg",
+					"url": "https://t.co/fcqkcOhQSo",
+					"display_url": "pic.twitter.com/fcqkcOhQSo",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1438228626919542789/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438145145510277000,
+					"id_str": "1438145145510277135",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/E_VRY-WXsA8IWut.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_VRY-WXsA8IWut.jpg",
+					"url": "https://t.co/fcqkcOhQSo",
+					"display_url": "pic.twitter.com/fcqkcOhQSo",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1438228626919542789/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8902,
+			"friends_count": 3503,
+			"listed_count": 163,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 4605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Q6 #LTHEChat \nWe’re all in this together. #DualMode #HyFlex #Hybrid might feel completely new, or you may have a lot of experience with it. Please make a recommendation or key consideration to bare in mind over the next year (pedagogical, technical or administrative wise) https://t.co/fcqkcOhQSo"
+	},
+	{
+		"created_at": "Thu Sep 16 07:41:27 +0000 2021",
+		"id": 1438226110337196000,
+		"id_str": "1438407669300305924",
+		"full_text": "Q5 #LTHEchat What strategies and guidance should we consider when planning for the first synchronous (in-person and online session) teaching and supporting learning session? Be sure to mention your particular context. \n#DualMode #HyFlex #Hybrid https://t.co/s7Kj4fonr5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"text": "DualMode",
+					"indices": [
+						219,
+						228
+					]
+				},
+				{
+					"text": "HyFlex",
+					"indices": [
+						229,
+						236
+					]
+				},
+				{
+					"text": "Hybrid",
+					"indices": [
+						237,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438144468667060200,
+					"id_str": "1438144468667060229",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/E_VQxk6X0AUdTSd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_VQxk6X0AUdTSd.jpg",
+					"url": "https://t.co/s7Kj4fonr5",
+					"display_url": "pic.twitter.com/s7Kj4fonr5",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1438226110337196039/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438144468667060200,
+					"id_str": "1438144468667060229",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/E_VQxk6X0AUdTSd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_VQxk6X0AUdTSd.jpg",
+					"url": "https://t.co/s7Kj4fonr5",
+					"display_url": "pic.twitter.com/s7Kj4fonr5",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1438226110337196039/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8902,
+			"friends_count": 3503,
+			"listed_count": 163,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 4605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Q5 #LTHEchat What strategies and guidance should we consider when planning for the first synchronous (in-person and online session) teaching and supporting learning session? Be sure to mention your particular context. \n#DualMode #HyFlex #Hybrid https://t.co/s7Kj4fonr5"
+	},
+	{
+		"created_at": "Thu Sep 16 07:41:22 +0000 2021",
+		"id": 1438223594786459600,
+		"id_str": "1438407649649909765",
+		"full_text": "Q4 #LTHEChat Thinking about Equality, Diversity and Inclusion (#EDI). How can we support student belonging, being seen, heard and included and associated emotions of learning in synchronous (in-person and online) teaching and supporting learning? \n#DualMode #HyFlex #Hybrid https://t.co/KP22nRF6Jp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"text": "EDI",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "DualMode",
+					"indices": [
+						248,
+						257
+					]
+				},
+				{
+					"text": "HyFlex",
+					"indices": [
+						258,
+						265
+					]
+				},
+				{
+					"text": "Hybrid",
+					"indices": [
+						266,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438143838737031200,
+					"id_str": "1438143838737031169",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E_VQM6PWYAEW8Uy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_VQM6PWYAEW8Uy.jpg",
+					"url": "https://t.co/KP22nRF6Jp",
+					"display_url": "pic.twitter.com/KP22nRF6Jp",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1438223594786459653/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438143838737031200,
+					"id_str": "1438143838737031169",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E_VQM6PWYAEW8Uy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_VQM6PWYAEW8Uy.jpg",
+					"url": "https://t.co/KP22nRF6Jp",
+					"display_url": "pic.twitter.com/KP22nRF6Jp",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1438223594786459653/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8902,
+			"friends_count": 3503,
+			"listed_count": 163,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 4605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Q4 #LTHEChat Thinking about Equality, Diversity and Inclusion (#EDI). How can we support student belonging, being seen, heard and included and associated emotions of learning in synchronous (in-person and online) teaching and supporting learning? \n#DualMode #HyFlex #Hybrid https://t.co/KP22nRF6Jp"
+	},
+	{
+		"created_at": "Thu Sep 16 07:41:16 +0000 2021",
+		"id": 1438221076962717700,
+		"id_str": "1438407623330701315",
+		"full_text": "Q3 #LTHEChat\nDesigning for active learning. How can we can adapt our teaching approaches &amp; maintain comparable learning standards, especially in large #DualMode #HyFlex #Hybrid classes. \nWhat approaches, techniques and activities have worked, or not worked for you? https://t.co/xJ7ZjdKryR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"text": "DualMode",
+					"indices": [
+						155,
+						164
+					]
+				},
+				{
+					"text": "HyFlex",
+					"indices": [
+						165,
+						172
+					]
+				},
+				{
+					"text": "Hybrid",
+					"indices": [
+						173,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438142831940538400,
+					"id_str": "1438142831940538377",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/E_VPSToXEAkkkvj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_VPSToXEAkkkvj.jpg",
+					"url": "https://t.co/xJ7ZjdKryR",
+					"display_url": "pic.twitter.com/xJ7ZjdKryR",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1438221076962717701/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438142831940538400,
+					"id_str": "1438142831940538377",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/E_VPSToXEAkkkvj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_VPSToXEAkkkvj.jpg",
+					"url": "https://t.co/xJ7ZjdKryR",
+					"display_url": "pic.twitter.com/xJ7ZjdKryR",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1438221076962717701/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8902,
+			"friends_count": 3503,
+			"listed_count": 163,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 4605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Q3 #LTHEChat\nDesigning for active learning. How can we can adapt our teaching approaches &amp; maintain comparable learning standards, especially in large #DualMode #HyFlex #Hybrid classes. \nWhat approaches, techniques and activities have worked, or not worked for you? https://t.co/xJ7ZjdKryR"
+	},
+	{
+		"created_at": "Thu Sep 16 07:41:11 +0000 2021",
+		"id": 1438218560388702200,
+		"id_str": "1438407603399311366",
+		"full_text": "Q2 Learners who are making the transition into and through Higher / Further Education have faced two wildly disrupted years. How might we support these learners generally and in this new &amp; different way of learning?\n\n#DualMode #HyFlex #Hybrid #LTHEChat https://t.co/xrlXZlUEgY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DualMode",
+					"indices": [
+						221,
+						230
+					]
+				},
+				{
+					"text": "HyFlex",
+					"indices": [
+						231,
+						238
+					]
+				},
+				{
+					"text": "Hybrid",
+					"indices": [
+						239,
+						246
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						247,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438142637639352300,
+					"id_str": "1438142637639352327",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/E_VPG_zWQAcVhFf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_VPG_zWQAcVhFf.jpg",
+					"url": "https://t.co/xrlXZlUEgY",
+					"display_url": "pic.twitter.com/xrlXZlUEgY",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1438218560388702213/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438142637639352300,
+					"id_str": "1438142637639352327",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/E_VPG_zWQAcVhFf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_VPG_zWQAcVhFf.jpg",
+					"url": "https://t.co/xrlXZlUEgY",
+					"display_url": "pic.twitter.com/xrlXZlUEgY",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1438218560388702213/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8902,
+			"friends_count": 3503,
+			"listed_count": 163,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 4605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Q2 Learners who are making the transition into and through Higher / Further Education have faced two wildly disrupted years. How might we support these learners generally and in this new &amp; different way of learning?\n\n#DualMode #HyFlex #Hybrid #LTHEChat https://t.co/xrlXZlUEgY"
+	},
+	{
+		"created_at": "Thu Sep 16 07:41:07 +0000 2021",
+		"id": 1438216295728783400,
+		"id_str": "1438407586441834500",
+		"full_text": "Q1 #LTHEchat \nWhat does synchronous teaching of in-person and online students look like for you and your institution? \n- What terminology, pedagogies and technology are or will be used?\n- Will you be supported?\n- What size cohort or groups and sessions are you expecting? https://t.co/3psVK6hAAv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438141293062987800,
+					"id_str": "1438141293062987777",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/E_VN4u3XIAE8yOH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_VN4u3XIAE8yOH.jpg",
+					"url": "https://t.co/3psVK6hAAv",
+					"display_url": "pic.twitter.com/3psVK6hAAv",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1438216295728783360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438141293062987800,
+					"id_str": "1438141293062987777",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/E_VN4u3XIAE8yOH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_VN4u3XIAE8yOH.jpg",
+					"url": "https://t.co/3psVK6hAAv",
+					"display_url": "pic.twitter.com/3psVK6hAAv",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1438216295728783360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8902,
+			"friends_count": 3503,
+			"listed_count": 163,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 4605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Q1 #LTHEchat \nWhat does synchronous teaching of in-person and online students look like for you and your institution? \n- What terminology, pedagogies and technology are or will be used?\n- Will you be supported?\n- What size cohort or groups and sessions are you expecting? https://t.co/3psVK6hAAv"
+	},
+	{
+		"created_at": "Thu Sep 16 07:41:03 +0000 2021",
+		"id": 1438216051263778800,
+		"id_str": "1438407570801233927",
+		"full_text": "Welcome to #LTHEchat 212 on #Hybrid #Hyflex #DualMode teaching &amp; learning\nLed by @hintondm @rachelleeobrien @MidAcPracUK\n\nIf you wish to respond to a question - include the hashtag #LTHEchat within your tweet and precede your tweet with A1, A2, A3 \n\nLet’s get started... https://t.co/zIlKrufTpc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"text": "Hybrid",
+					"indices": [
+						28,
+						35
+					]
+				},
+				{
+					"text": "Hyflex",
+					"indices": [
+						36,
+						43
+					]
+				},
+				{
+					"text": "DualMode",
+					"indices": [
+						44,
+						53
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						185,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hintondm",
+					"name": "Danielle M Hinton #SFHEA #PGCHE MSc Int Dev",
+					"id": 36370231,
+					"id_str": "36370231",
+					"indices": [
+						85,
+						94
+					]
+				},
+				{
+					"screen_name": "rachelleeobrien",
+					"name": "Rachelle O’Brien MSc #SFHEA",
+					"id": 43586185,
+					"id_str": "43586185",
+					"indices": [
+						95,
+						111
+					]
+				},
+				{
+					"screen_name": "MidAcPracUK",
+					"name": "Midlands Academic Practice network",
+					"id": 1425092538160099300,
+					"id_str": "1425092538160099330",
+					"indices": [
+						112,
+						124
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438139813153095700,
+					"id_str": "1438139813153095682",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/E_VMilxWQAIxFn_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_VMilxWQAIxFn_.jpg",
+					"url": "https://t.co/zIlKrufTpc",
+					"display_url": "pic.twitter.com/zIlKrufTpc",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1438216051263778817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438139813153095700,
+					"id_str": "1438139813153095682",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/E_VMilxWQAIxFn_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_VMilxWQAIxFn_.jpg",
+					"url": "https://t.co/zIlKrufTpc",
+					"display_url": "pic.twitter.com/zIlKrufTpc",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1438216051263778817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8902,
+			"friends_count": 3503,
+			"listed_count": 163,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 4605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Welcome to #LTHEchat 212 on #Hybrid #Hyflex #DualMode teaching &amp; learning\nLed by @hintondm @rachelleeobrien @MidAcPracUK\n\nIf you wish to respond to a question - include the hashtag #LTHEchat within your tweet and precede your tweet with A1, A2, A3 \n\nLet’s get started... https://t.co/zIlKrufTpc"
+	},
+	{
 		"created_at": "Fri Sep 10 08:49:54 +0000 2021",
 		"id": 1436060355193712600,
 		"id_str": "1436250568331247619",
