@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 21 13:50:11 +0000 2021",
+		"id": 1440214739351601200,
+		"id_str": "1440312403028152324",
+		"full_text": "#JoinUs for #LTHEchat 213: Belonging – does it matter in the student experience? \nDiscussion led this week by @JennnCrow\n\n #SaveTheDate: Wed 22/9, 8-9pm, BST\nBlog post to get you thinking: https://t.co/gxdFgoKChV https://t.co/dSr6PV2E8q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JoinUs",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"text": "SaveTheDate",
+					"indices": [
+						123,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JennnCrow",
+					"name": "Jenny Crow",
+					"id": 835252718,
+					"id_str": "835252718",
+					"indices": [
+						110,
+						120
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gxdFgoKChV",
+					"expanded_url": "https://lthechat.com/2021/09/19/lthechat-213-belonging-does-it-matter-in-the-student-experience-led-by-jenny-crow-jennycrow/",
+					"display_url": "lthechat.com/2021/09/19/lth…",
+					"indices": [
+						189,
+						212
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1440214352989098000,
+					"id_str": "1440214352989097984",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/E_yrUs5VkAAoWVo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_yrUs5VkAAoWVo.jpg",
+					"url": "https://t.co/dSr6PV2E8q",
+					"display_url": "pic.twitter.com/dSr6PV2E8q",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1440214739351601153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440214352989098000,
+					"id_str": "1440214352989097984",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/E_yrUs5VkAAoWVo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_yrUs5VkAAoWVo.jpg",
+					"url": "https://t.co/dSr6PV2E8q",
+					"display_url": "pic.twitter.com/dSr6PV2E8q",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1440214739351601153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8916,
+			"friends_count": 3503,
+			"listed_count": 162,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 4511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#JoinUs for #LTHEchat 213: Belonging – does it matter in the student experience? \nDiscussion led this week by @JennnCrow\n\n #SaveTheDate: Wed 22/9, 8-9pm, BST\nBlog post to get you thinking: https://t.co/gxdFgoKChV https://t.co/dSr6PV2E8q"
+	},
+	{
 		"created_at": "Thu Sep 16 07:41:37 +0000 2021",
 		"id": 1438231146752475100,
 		"id_str": "1438407709972439041",
