@@ -1,6 +1,1812 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 22 20:00:47 +0000 2021",
+		"id": 1440767862419832800,
+		"id_str": "1440768057404575746",
+		"full_text": "Thanks for the #sweet #LTHEchat conversations tonight led by @JennnCrow around 'Belonging – does it matter in the student experience?'\n\n#SeeYouAgainSoon #ProfessionalDevelopment #AcademicTwitter #Teaching #SupportingLearning #TweetChat https://t.co/usSXLNisbJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sweet",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "LTHEchat",
+					"indices": [
+						22,
+						31
+					]
+				},
+				{
+					"text": "SeeYouAgainSoon",
+					"indices": [
+						136,
+						152
+					]
+				},
+				{
+					"text": "ProfessionalDevelopment",
+					"indices": [
+						153,
+						177
+					]
+				},
+				{
+					"text": "AcademicTwitter",
+					"indices": [
+						178,
+						194
+					]
+				},
+				{
+					"text": "Teaching",
+					"indices": [
+						195,
+						204
+					]
+				},
+				{
+					"text": "SupportingLearning",
+					"indices": [
+						205,
+						224
+					]
+				},
+				{
+					"text": "TweetChat",
+					"indices": [
+						225,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JennnCrow",
+					"name": "Jenny Crow",
+					"id": 835252718,
+					"id_str": "835252718",
+					"indices": [
+						61,
+						71
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440734606081228800,
+					"id_str": "1440734606081228811",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/E_6EfasVgAs1A3p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_6EfasVgAs1A3p.jpg",
+					"url": "https://t.co/usSXLNisbJ",
+					"display_url": "pic.twitter.com/usSXLNisbJ",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1440767862419832832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440734606081228800,
+					"id_str": "1440734606081228811",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/E_6EfasVgAs1A3p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_6EfasVgAs1A3p.jpg",
+					"url": "https://t.co/usSXLNisbJ",
+					"display_url": "pic.twitter.com/usSXLNisbJ",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1440767862419832832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8924,
+			"friends_count": 3503,
+			"listed_count": 161,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 4613,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks for the #sweet #LTHEchat conversations tonight led by @JennnCrow around 'Belonging – does it matter in the student experience?'\n\n#SeeYouAgainSoon #ProfessionalDevelopment #AcademicTwitter #Teaching #SupportingLearning #TweetChat https://t.co/usSXLNisbJ"
+	},
+	{
+		"created_at": "Wed Sep 22 19:56:01 +0000 2021",
+		"id": 1440766857460412400,
+		"id_str": "1440766857460412418",
+		"full_text": "@horrocks_simon @LTHEchat @JennnCrow I find social media to be mostly be anti-social these days! \n\n#LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						99,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "horrocks_simon",
+					"name": "Simon Horrocks",
+					"id": 885257749,
+					"id_str": "885257749",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "JennnCrow",
+					"name": "Jenny Crow",
+					"id": 835252718,
+					"id_str": "835252718",
+					"indices": [
+						26,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1440766332807483400,
+		"in_reply_to_status_id_str": "1440766332807483393",
+		"in_reply_to_user_id": 885257749,
+		"in_reply_to_user_id_str": "885257749",
+		"in_reply_to_screen_name": "horrocks_simon",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/CCNBNDBS1G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCNBNDBS1G",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1584,
+			"friends_count": 1233,
+			"listed_count": 119,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@horrocks_simon @LTHEchat @JennnCrow I find social media to be mostly be anti-social these days! \n\n#LTHEChat"
+	},
+	{
+		"created_at": "Wed Sep 22 19:51:52 +0000 2021",
+		"id": 1440765810545287200,
+		"id_str": "1440765810545287177",
+		"full_text": "@LTHEchat @JennnCrow I fear that it divides rather than unites us. #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						67,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "JennnCrow",
+					"name": "Jenny Crow",
+					"id": 835252718,
+					"id_str": "835252718",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1440765341655711700,
+		"in_reply_to_status_id_str": "1440765341655711746",
+		"in_reply_to_user_id": 2659221798,
+		"in_reply_to_user_id_str": "2659221798",
+		"in_reply_to_screen_name": "LTHEchat",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/CCNBNDBS1G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCNBNDBS1G",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1584,
+			"friends_count": 1233,
+			"listed_count": 119,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LTHEchat @JennnCrow I fear that it divides rather than unites us. #LTHEChat"
+	},
+	{
+		"created_at": "Wed Sep 22 19:50:43 +0000 2021",
+		"id": 1440765341655711700,
+		"id_str": "1440765521549410319",
+		"full_text": "Q6 How does digital technology influence sense of belonging?\n\n#LTHEchat 213 @JennnCrow https://t.co/lx6nRnGhZm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						62,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JennnCrow",
+					"name": "Jenny Crow",
+					"id": 835252718,
+					"id_str": "835252718",
+					"indices": [
+						76,
+						86
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440734376027775000,
+					"id_str": "1440734376027774978",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/E_6ESBrUYAImnw5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_6ESBrUYAImnw5.jpg",
+					"url": "https://t.co/lx6nRnGhZm",
+					"display_url": "pic.twitter.com/lx6nRnGhZm",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1440765341655711746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440734376027775000,
+					"id_str": "1440734376027774978",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/E_6ESBrUYAImnw5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_6ESBrUYAImnw5.jpg",
+					"url": "https://t.co/lx6nRnGhZm",
+					"display_url": "pic.twitter.com/lx6nRnGhZm",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1440765341655711746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8924,
+			"friends_count": 3503,
+			"listed_count": 161,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 4613,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Q6 How does digital technology influence sense of belonging?\n\n#LTHEchat 213 @JennnCrow https://t.co/lx6nRnGhZm"
+	},
+	{
+		"created_at": "Wed Sep 22 19:48:21 +0000 2021",
+		"id": 1440764925714964500,
+		"id_str": "1440764925714964488",
+		"full_text": "@LTHEchat @JennnCrow Why do we have to evaluate it? \n\n#LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						54,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "JennnCrow",
+					"name": "Jenny Crow",
+					"id": 835252718,
+					"id_str": "835252718",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1440762824960184300,
+		"in_reply_to_status_id_str": "1440762824960184321",
+		"in_reply_to_user_id": 2659221798,
+		"in_reply_to_user_id_str": "2659221798",
+		"in_reply_to_screen_name": "LTHEchat",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/CCNBNDBS1G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCNBNDBS1G",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1584,
+			"friends_count": 1233,
+			"listed_count": 119,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LTHEchat @JennnCrow Why do we have to evaluate it? \n\n#LTHEChat"
+	},
+	{
+		"created_at": "Wed Sep 22 19:41:51 +0000 2021",
+		"id": 1440763187322704000,
+		"id_str": "1440763292515909636",
+		"full_text": "A5 I don't think you can evaluate sense of belonging with a Likert question. #LTHEchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						77,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240186025,
+			"id_str": "240186025",
+			"name": "Simon Lancaster",
+			"screen_name": "S_J_Lancaster",
+			"location": "Norwich or not",
+			"description": "He / him. Exiled European, Professor of Chemistry Education, National Teaching Fellow.",
+			"url": "https://t.co/bvNjUECd3O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bvNjUECd3O",
+							"expanded_url": "http://www.uea.ac.uk/che/people/faculty/lancasters",
+							"display_url": "uea.ac.uk/che/people/fac…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8108,
+			"friends_count": 6725,
+			"listed_count": 241,
+			"created_at": "Wed Jan 19 10:32:36 +0000 2011",
+			"favourites_count": 9962,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000053679902/d95b82c56b64d2ec493fe9be630663fb_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000053679902/d95b82c56b64d2ec493fe9be630663fb_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240186025/1372342264",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "A5 I don't think you can evaluate sense of belonging with a Likert question. #LTHEchat"
+	},
+	{
+		"created_at": "Wed Sep 22 19:40:36 +0000 2021",
+		"id": 1440762824960184300,
+		"id_str": "1440762978131857408",
+		"full_text": "Q5 How do you evaluate sense of belonging?\n\n#LTHEchat 213 @JennnCrow https://t.co/lvNsLWgwH9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						44,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JennnCrow",
+					"name": "Jenny Crow",
+					"id": 835252718,
+					"id_str": "835252718",
+					"indices": [
+						58,
+						68
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440734041527914500,
+					"id_str": "1440734041527914498",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/E_6D-jkVkAI4BO2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_6D-jkVkAI4BO2.jpg",
+					"url": "https://t.co/lvNsLWgwH9",
+					"display_url": "pic.twitter.com/lvNsLWgwH9",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1440762824960184321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440734041527914500,
+					"id_str": "1440734041527914498",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/E_6D-jkVkAI4BO2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_6D-jkVkAI4BO2.jpg",
+					"url": "https://t.co/lvNsLWgwH9",
+					"display_url": "pic.twitter.com/lvNsLWgwH9",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1440762824960184321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8924,
+			"friends_count": 3503,
+			"listed_count": 161,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 4613,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Q5 How do you evaluate sense of belonging?\n\n#LTHEchat 213 @JennnCrow https://t.co/lvNsLWgwH9"
+	},
+	{
+		"created_at": "Wed Sep 22 19:30:27 +0000 2021",
+		"id": 1440760311447969800,
+		"id_str": "1440760421099524099",
+		"full_text": "Q4 Has COVID-19 changed the way you approach belonging?\n\n#LTHEchat 213 @JennnCrow https://t.co/5TZOaIiDif",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						57,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JennnCrow",
+					"name": "Jenny Crow",
+					"id": 835252718,
+					"id_str": "835252718",
+					"indices": [
+						71,
+						81
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440733682550009900,
+					"id_str": "1440733682550009857",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/E_6DpqRVcAEH4a-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_6DpqRVcAEH4a-.jpg",
+					"url": "https://t.co/5TZOaIiDif",
+					"display_url": "pic.twitter.com/5TZOaIiDif",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1440760311447969793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440733682550009900,
+					"id_str": "1440733682550009857",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/E_6DpqRVcAEH4a-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_6DpqRVcAEH4a-.jpg",
+					"url": "https://t.co/5TZOaIiDif",
+					"display_url": "pic.twitter.com/5TZOaIiDif",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1440760311447969793/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8924,
+			"friends_count": 3503,
+			"listed_count": 161,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 4613,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Q4 Has COVID-19 changed the way you approach belonging?\n\n#LTHEchat 213 @JennnCrow https://t.co/5TZOaIiDif"
+	},
+	{
+		"created_at": "Wed Sep 22 19:20:13 +0000 2021",
+		"id": 1440757792193671200,
+		"id_str": "1440757846950375438",
+		"full_text": "Q3 How do you support your students at a distance?\n\n#LTHEchat 213 @JennnCrow https://t.co/n2HE2p8tfl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						52,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JennnCrow",
+					"name": "Jenny Crow",
+					"id": 835252718,
+					"id_str": "835252718",
+					"indices": [
+						66,
+						76
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440732187171586000,
+					"id_str": "1440732187171586061",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/E_6CSnjVgA0cu0U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_6CSnjVgA0cu0U.jpg",
+					"url": "https://t.co/n2HE2p8tfl",
+					"display_url": "pic.twitter.com/n2HE2p8tfl",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1440757792193671177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440732187171586000,
+					"id_str": "1440732187171586061",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/E_6CSnjVgA0cu0U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_6CSnjVgA0cu0U.jpg",
+					"url": "https://t.co/n2HE2p8tfl",
+					"display_url": "pic.twitter.com/n2HE2p8tfl",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1440757792193671177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8924,
+			"friends_count": 3503,
+			"listed_count": 161,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 4613,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Q3 How do you support your students at a distance?\n\n#LTHEchat 213 @JennnCrow https://t.co/n2HE2p8tfl"
+	},
+	{
+		"created_at": "Wed Sep 22 19:11:10 +0000 2021",
+		"id": 1440755275280101400,
+		"id_str": "1440755569963372549",
+		"full_text": "Q2 How do you enable sense of belonging within your students?\n\n#LTHEchat 213 @JennnCrow https://t.co/Fv44Kn0Msi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEchat",
+					"indices": [
+						63,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JennnCrow",
+					"name": "Jenny Crow",
+					"id": 835252718,
+					"id_str": "835252718",
+					"indices": [
+						77,
+						87
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440731803807977500,
+					"id_str": "1440731803807977482",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/E_6B8TaVEAoq5hI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_6B8TaVEAoq5hI.jpg",
+					"url": "https://t.co/Fv44Kn0Msi",
+					"display_url": "pic.twitter.com/Fv44Kn0Msi",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1440755275280101376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440731803807977500,
+					"id_str": "1440731803807977482",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/E_6B8TaVEAoq5hI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_6B8TaVEAoq5hI.jpg",
+					"url": "https://t.co/Fv44Kn0Msi",
+					"display_url": "pic.twitter.com/Fv44Kn0Msi",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1440755275280101376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2659221798,
+			"id_str": "2659221798",
+			"name": "LTHE Tweetchat",
+			"screen_name": "LTHEchat",
+			"location": "",
+			"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+			"url": "https://t.co/IprE39BVnA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IprE39BVnA",
+							"expanded_url": "http://lthechat.com",
+							"display_url": "lthechat.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8924,
+			"friends_count": 3503,
+			"listed_count": 161,
+			"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+			"favourites_count": 4613,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1444238119",
+			"profile_link_color": "7ECAE6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Q2 How do you enable sense of belonging within your students?\n\n#LTHEchat 213 @JennnCrow https://t.co/Fv44Kn0Msi"
+	},
+	{
+		"created_at": "Wed Sep 22 19:09:58 +0000 2021",
+		"id": 1440755267608604700,
+		"id_str": "1440755267608604678",
+		"full_text": "Only peripherally engaging with #LTHEChat tonight.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						32,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/CCNBNDBS1G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCNBNDBS1G",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1584,
+			"friends_count": 1233,
+			"listed_count": 119,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Only peripherally engaging with #LTHEChat tonight."
+	},
+	{
 		"created_at": "Tue Sep 21 13:50:11 +0000 2021",
 		"id": 1440214739351601200,
 		"id_str": "1440312403028152324",
