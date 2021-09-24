@@ -1,6 +1,861 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 23 16:57:45 +0000 2021",
+		"id": 1441045238341005300,
+		"id_str": "1441084380613652486",
+		"full_text": "If you are new, welcome! If you are returning, welcome back! We hope you’ve had a great summer and are looking forward to joining us here at Swansea University!\n\nFor all new starter and arrival information please visit: https://t.co/zrIg1L2uzx 🙌 https://t.co/Akk1s8EapN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zrIg1L2uzx",
+					"expanded_url": "https://buff.ly/3i2Lwym",
+					"display_url": "buff.ly/3i2Lwym",
+					"indices": [
+						220,
+						243
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1441045232896909300,
+					"id_str": "1441045232896909312",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/E_-fARwXIAAcBL5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_-fARwXIAAcBL5.jpg",
+					"url": "https://t.co/Akk1s8EapN",
+					"display_url": "pic.twitter.com/Akk1s8EapN",
+					"expanded_url": "https://twitter.com/SUEngineering/status/1441045238341005318/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1441045232896909300,
+					"id_str": "1441045232896909312",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/E_-fARwXIAAcBL5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_-fARwXIAAcBL5.jpg",
+					"url": "https://t.co/Akk1s8EapN",
+					"display_url": "pic.twitter.com/Akk1s8EapN",
+					"expanded_url": "https://twitter.com/SUEngineering/status/1441045238341005318/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154145391,
+			"id_str": "154145391",
+			"name": "Swansea Engineering",
+			"screen_name": "SUEngineering",
+			"location": "Swansea University",
+			"description": "Multi-disciplinary engineering department at @SwanseaUni. Follow to find out about our pioneering research and undergraduate/postgraduate opportunities!",
+			"url": "https://t.co/XFEI378QF7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XFEI378QF7",
+							"expanded_url": "https://www.swansea.ac.uk/engineering/",
+							"display_url": "swansea.ac.uk/engineering/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4309,
+			"friends_count": 1023,
+			"listed_count": 69,
+			"created_at": "Thu Jun 10 14:01:55 +0000 2010",
+			"favourites_count": 4064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877844628908724224/95wzwHBO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877844628908724224/95wzwHBO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154145391/1625129384",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you are new, welcome! If you are returning, welcome back! We hope you’ve had a great summer and are looking forward to joining us here at Swansea University!\n\nFor all new starter and arrival information please visit: https://t.co/zrIg1L2uzx 🙌 https://t.co/Akk1s8EapN"
+	},
+	{
+		"created_at": "Thu Sep 23 16:51:58 +0000 2021",
+		"id": 1440930083330461700,
+		"id_str": "1441082927077490696",
+		"full_text": "“For the fourth time, It’s actually really simple, guy.We wear a mask to protect those around us. We may be carrying and transmitting the virus. Everyone in here gets it, I don’t understand why you’re struggling so much with this simple human concept of kindness to others” https://t.co/nL2Nqh5C43",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1440930079526293500,
+					"id_str": "1440930079526293505",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E_82ReBXEAEFeeE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_82ReBXEAEFeeE.jpg",
+					"url": "https://t.co/nL2Nqh5C43",
+					"display_url": "pic.twitter.com/nL2Nqh5C43",
+					"expanded_url": "https://twitter.com/DrRichJohnston/status/1440930083330461696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 988,
+							"h": 682,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 988,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440930079526293500,
+					"id_str": "1440930079526293505",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E_82ReBXEAEFeeE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_82ReBXEAEFeeE.jpg",
+					"url": "https://t.co/nL2Nqh5C43",
+					"display_url": "pic.twitter.com/nL2Nqh5C43",
+					"expanded_url": "https://twitter.com/DrRichJohnston/status/1440930083330461696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 988,
+							"h": 682,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 988,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 469,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 64442900,
+			"id_str": "64442900",
+			"name": "Prof Richard Johnston",
+			"screen_name": "DrRichJohnston",
+			"location": "Swansea, Wales",
+			"description": "I see dead things...with X-rays | One time Fellow @NatureNews | Prof of an imaging research group | Bioinspiration | Founder @ResearchAsArt | Engagement he/him",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4245,
+			"friends_count": 2828,
+			"listed_count": 109,
+			"created_at": "Mon Aug 10 16:25:11 +0000 2009",
+			"favourites_count": 13012,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032948130302631936/-iJaARlq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032948130302631936/-iJaARlq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64442900/1431512952",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 46,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“For the fourth time, It’s actually really simple, guy.We wear a mask to protect those around us. We may be carrying and transmitting the virus. Everyone in here gets it, I don’t understand why you’re struggling so much with this simple human concept of kindness to others” https://t.co/nL2Nqh5C43"
+	},
+	{
+		"created_at": "Thu Sep 23 16:43:17 +0000 2021",
+		"id": 1438570275214332000,
+		"id_str": "1441080743896272896",
+		"full_text": "I am absolutely fuming at the Free Speech Bill committee Oxbridge JCR/MCR shenanigans today",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6100082,
+			"id_str": "6100082",
+			"name": "Jim Dickinson",
+			"screen_name": "jim_dickinson",
+			"location": "Watford",
+			"description": "Runs @Wonkhe SUs. Trustee @winchestersu. HE policy. Pop. Pro EU(rovision). Windmills not walls. FRSA. High horse rider. Dreams of visiting Moldova.",
+			"url": "https://t.co/ABmNu4lHA0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ABmNu4lHA0",
+							"expanded_url": "https://wonkhe.com/staff/jim-dickinson/",
+							"display_url": "wonkhe.com/staff/jim-dick…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9362,
+			"friends_count": 3738,
+			"listed_count": 124,
+			"created_at": "Thu May 17 08:41:56 +0000 2007",
+			"favourites_count": 19912,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 90034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAEBFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1396710720255975427/6lvyh9vf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396710720255975427/6lvyh9vf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6100082/1631192574",
+			"profile_link_color": "FF00FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F5F0F4",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 72,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I am absolutely fuming at the Free Speech Bill committee Oxbridge JCR/MCR shenanigans today"
+	},
+	{
+		"created_at": "Thu Sep 23 16:42:38 +0000 2021",
+		"id": 1438793047979044900,
+		"id_str": "1441080577168392193",
+		"full_text": "As outlined in our last #LTHEChat, I agree with @WarwickLanguage that #Hyflex (often done in the name of efficiency) is a poor choice for learners and teachers. Teaching, cognitive and social presence must be truly felt by both groups. Teach them better, separately. #Innoconf21",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"text": "Hyflex",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"text": "Innoconf21",
+					"indices": [
+						267,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WarwickLanguage",
+					"name": "Teresa MacKinnon",
+					"id": 81817497,
+					"id_str": "81817497",
+					"indices": [
+						48,
+						64
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17308664,
+			"id_str": "17308664",
+			"name": "Alejandro Armellini",
+			"screen_name": "alejandroa",
+			"location": "Leicestershire & Portsmouth",
+			"description": "Professor and Dean of Digital & Distributed Learning.  University of Portsmouth. PFHEA, FRSA. Own views.",
+			"url": "https://t.co/LTlZLqegn6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LTlZLqegn6",
+							"expanded_url": "https://alejandroarmellini.wordpress.com/",
+							"display_url": "alejandroarmellini.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2229,
+			"friends_count": 914,
+			"listed_count": 0,
+			"created_at": "Tue Nov 11 12:26:42 +0000 2008",
+			"favourites_count": 1008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/745599342074011648/h-FcMAu4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/745599342074011648/h-FcMAu4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17308664/1420405813",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "As outlined in our last #LTHEChat, I agree with @WarwickLanguage that #Hyflex (often done in the name of efficiency) is a poor choice for learners and teachers. Teaching, cognitive and social presence must be truly felt by both groups. Teach them better, separately. #Innoconf21"
+	},
+	{
+		"created_at": "Thu Sep 23 16:42:05 +0000 2021",
+		"id": 1438795145273659400,
+		"id_str": "1441080439519596544",
+		"full_text": "Many practitioners link \"interaction\" &amp; \"engagement\" (different concepts) to \"quizzes\". To be clear: using knowledge-checking quizzes does not per se make a course interactive, nor does their use provide a credible metric for engagement. #Innoconf21 #HigherEd #LS2021 #LTHEChat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Innoconf21",
+					"indices": [
+						242,
+						253
+					]
+				},
+				{
+					"text": "HigherEd",
+					"indices": [
+						254,
+						263
+					]
+				},
+				{
+					"text": "LS2021",
+					"indices": [
+						264,
+						271
+					]
+				},
+				{
+					"text": "LTHEChat",
+					"indices": [
+						272,
+						281
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17308664,
+			"id_str": "17308664",
+			"name": "Alejandro Armellini",
+			"screen_name": "alejandroa",
+			"location": "Leicestershire & Portsmouth",
+			"description": "Professor and Dean of Digital & Distributed Learning.  University of Portsmouth. PFHEA, FRSA. Own views.",
+			"url": "https://t.co/LTlZLqegn6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LTlZLqegn6",
+							"expanded_url": "https://alejandroarmellini.wordpress.com/",
+							"display_url": "alejandroarmellini.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2229,
+			"friends_count": 914,
+			"listed_count": 0,
+			"created_at": "Tue Nov 11 12:26:42 +0000 2008",
+			"favourites_count": 1008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/745599342074011648/h-FcMAu4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/745599342074011648/h-FcMAu4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17308664/1420405813",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Many practitioners link \"interaction\" &amp; \"engagement\" (different concepts) to \"quizzes\". To be clear: using knowledge-checking quizzes does not per se make a course interactive, nor does their use provide a credible metric for engagement. #Innoconf21 #HigherEd #LS2021 #LTHEChat"
+	},
+	{
+		"created_at": "Thu Sep 23 16:41:38 +0000 2021",
+		"id": 1441080327271817200,
+		"id_str": "1441080327271817218",
+		"full_text": "@LJ_Rees @susaltteam Agreed. Great listen. We’ll done Jo! #pinchofsalt",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pinchofsalt",
+					"indices": [
+						58,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LJ_Rees",
+					"name": "Louise Rees",
+					"id": 723537068178190300,
+					"id_str": "723537068178190336",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "susaltteam",
+					"name": "SUSALT",
+					"id": 2587806050,
+					"id_str": "2587806050",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1438864904241430500,
+		"in_reply_to_status_id_str": "1438864904241430535",
+		"in_reply_to_user_id": 723537068178190300,
+		"in_reply_to_user_id_str": "723537068178190336",
+		"in_reply_to_screen_name": "LJ_Rees",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/CCNBNDBS1G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCNBNDBS1G",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1585,
+			"friends_count": 1233,
+			"listed_count": 119,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1f36c2b60fbc98ac",
+			"url": "https://api.twitter.com/1.1/geo/id/1f36c2b60fbc98ac.json",
+			"place_type": "city",
+			"name": "Swansea",
+			"full_name": "Swansea, Wales",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-4.029331,
+							51.5987484
+						],
+						[
+							-3.8621388,
+							51.5987484
+						],
+						[
+							-3.8621388,
+							51.68983
+						],
+						[
+							-4.029331,
+							51.68983
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LJ_Rees @susaltteam Agreed. Great listen. We’ll done Jo! #pinchofsalt"
+	},
+	{
 		"created_at": "Wed Sep 22 20:00:47 +0000 2021",
 		"id": 1440767862419832800,
 		"id_str": "1440768057404575746",
