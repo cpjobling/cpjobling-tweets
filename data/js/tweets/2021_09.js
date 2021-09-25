@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 24 07:35:16 +0000 2021",
+		"id": 1441090730949156900,
+		"id_str": "1441305215332978688",
+		"full_text": "The ability to share your screen to all breakout rooms is a useful addition to Zoom so that students can get clear task instructions. https://t.co/mqqRED7D7e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mqqRED7D7e",
+					"expanded_url": "https://twitter.com/susaltteam/status/1440966254295199749",
+					"display_url": "twitter.com/susaltteam/sta…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 723537068178190300,
+			"id_str": "723537068178190336",
+			"name": "Louise Rees",
+			"screen_name": "LJ_Rees",
+			"location": "Wales, United Kingdom",
+			"description": "Senior Academic Developer. FHEA; COLF. Promoting excellent teaching & #CPD in all its forms, #HEAFellowship, #UKPSF, #RIGS, #coachingHE, #susalthea. Views own.",
+			"url": "https://t.co/v5ci3Nr9Ha",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/v5ci3Nr9Ha",
+							"expanded_url": "https://salt.swan.ac.uk",
+							"display_url": "salt.swan.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 562,
+			"friends_count": 344,
+			"listed_count": 0,
+			"created_at": "Fri Apr 22 15:40:54 +0000 2016",
+			"favourites_count": 2843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1372953108750467072/vXpZjMTx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372953108750467072/vXpZjMTx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/723537068178190336/1505547219",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1440966254295199700,
+		"quoted_status_id_str": "1440966254295199749",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mqqRED7D7e",
+			"expanded": "https://twitter.com/susaltteam/status/1440966254295199749",
+			"display": "twitter.com/susaltteam/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 23 09:08:21 +0000 2021",
+			"id": 1440966254295199700,
+			"id_str": "1440966254295199749",
+			"full_text": "There were Zoom updates this summer to enhance teaching, engagement and inclusion. \n\nWatch our summary: \nhttps://t.co/rn3Fm7yQdT\n\n(Swansea University staff login required)\n\n#Zoom https://t.co/NMLcAjjLoE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				178
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Zoom",
+						"indices": [
+							173,
+							178
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rn3Fm7yQdT",
+						"expanded_url": "https://bit.ly/ZoomUpdatesSummer2021",
+						"display_url": "bit.ly/ZoomUpdatesSum…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1440966054994382800,
+						"id_str": "1440966054994382850",
+						"indices": [
+							179,
+							202
+						],
+						"media_url": "http://pbs.twimg.com/media/E_9W_hFWEAIun7g.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_9W_hFWEAIun7g.jpg",
+						"url": "https://t.co/NMLcAjjLoE",
+						"display_url": "pic.twitter.com/NMLcAjjLoE",
+						"expanded_url": "https://twitter.com/susaltteam/status/1440966254295199749/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1920,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1440966054994382800,
+						"id_str": "1440966054994382850",
+						"indices": [
+							179,
+							202
+						],
+						"media_url": "http://pbs.twimg.com/media/E_9W_hFWEAIun7g.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_9W_hFWEAIun7g.jpg",
+						"url": "https://t.co/NMLcAjjLoE",
+						"display_url": "pic.twitter.com/NMLcAjjLoE",
+						"expanded_url": "https://twitter.com/susaltteam/status/1440966254295199749/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1920,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2587806050,
+				"id_str": "2587806050",
+				"name": "SUSALT",
+				"screen_name": "susaltteam",
+				"location": "",
+				"description": "Twitter account for the Swansea Academy for Learning and Teaching (SALT Team)",
+				"url": "https://t.co/BJONKjXOW7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BJONKjXOW7",
+								"expanded_url": "https://salt.swan.ac.uk/",
+								"display_url": "salt.swan.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 691,
+				"friends_count": 107,
+				"listed_count": 26,
+				"created_at": "Wed Jun 25 16:23:37 +0000 2014",
+				"favourites_count": 307,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1900,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/618376385955000320/ddaWT38u_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/618376385955000320/ddaWT38u_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2587806050/1436266879",
+				"profile_link_color": "62397B",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The ability to share your screen to all breakout rooms is a useful addition to Zoom so that students can get clear task instructions. https://t.co/mqqRED7D7e"
+	},
+	{
 		"created_at": "Thu Sep 23 16:57:45 +0000 2021",
 		"id": 1441045238341005300,
 		"id_str": "1441084380613652486",
