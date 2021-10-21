@@ -1,6 +1,2098 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 20 20:01:50 +0000 2021",
+		"id": 1450915179236102100,
+		"id_str": "1450915179236102154",
+		"full_text": "@LTHEchat So that's it! \n\nGoodbye #LTHEChat. \n\nGoodbye @twitter.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						34,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						55,
+						63
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1450914718432956400,
+		"in_reply_to_status_id_str": "1450914718432956418",
+		"in_reply_to_user_id": 2659221798,
+		"in_reply_to_user_id_str": "2659221798",
+		"in_reply_to_screen_name": "LTHEchat",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/CCNBNDBS1G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCNBNDBS1G",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1580,
+			"friends_count": 1148,
+			"listed_count": 120,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LTHEchat So that's it! \n\nGoodbye #LTHEChat. \n\nGoodbye @twitter."
+	},
+	{
+		"created_at": "Wed Oct 20 19:41:06 +0000 2021",
+		"id": 1450909961333231600,
+		"id_str": "1450909961333231618",
+		"full_text": "@LTHEchat @drdjwalker @SmithySusanA A4: It's because I don't believe that there's any hope of change that I'll leave this #lthechat as I've left many others recently. Without hope.",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lthechat",
+					"indices": [
+						122,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "drdjwalker",
+					"name": "David Walker",
+					"id": 50085455,
+					"id_str": "50085455",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "SmithySusanA",
+					"name": "Susan Smith",
+					"id": 2338931029,
+					"id_str": "2338931029",
+					"indices": [
+						22,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1450907168652214300,
+		"in_reply_to_status_id_str": "1450907168652214274",
+		"in_reply_to_user_id": 2659221798,
+		"in_reply_to_user_id_str": "2659221798",
+		"in_reply_to_screen_name": "LTHEchat",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/CCNBNDBS1G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCNBNDBS1G",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1580,
+			"friends_count": 1148,
+			"listed_count": 120,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LTHEchat @drdjwalker @SmithySusanA A4: It's because I don't believe that there's any hope of change that I'll leave this #lthechat as I've left many others recently. Without hope."
+	},
+	{
+		"created_at": "Wed Oct 20 19:36:10 +0000 2021",
+		"id": 1450908722495205400,
+		"id_str": "1450908722495205380",
+		"full_text": "@Judith_ekn @S_J_Lancaster @KiuSum https://t.co/dQBJQCnVdc",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Judith_ekn",
+					"name": "Dr Judith Enterkin",
+					"id": 2425498854,
+					"id_str": "2425498854",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "S_J_Lancaster",
+					"name": "Simon Lancaster",
+					"id": 240186025,
+					"id_str": "240186025",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "KiuSum",
+					"name": "Kiu Sum",
+					"id": 246951711,
+					"id_str": "246951711",
+					"indices": [
+						27,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dQBJQCnVdc",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1450907168652214274",
+					"display_url": "twitter.com/LTHEchat/statu…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1450908454156185600,
+		"in_reply_to_status_id_str": "1450908454156185610",
+		"in_reply_to_user_id": 2425498854,
+		"in_reply_to_user_id_str": "2425498854",
+		"in_reply_to_screen_name": "Judith_ekn",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/CCNBNDBS1G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCNBNDBS1G",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1580,
+			"friends_count": 1148,
+			"listed_count": 120,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1450907168652214300,
+		"quoted_status_id_str": "1450907168652214274",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dQBJQCnVdc",
+			"expanded": "https://twitter.com/LTHEchat/status/1450907168652214274",
+			"display": "twitter.com/LTHEchat/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 20 19:30:00 +0000 2021",
+			"id": 1450907168652214300,
+			"id_str": "1450907168652214274",
+			"full_text": "Q4 How can institutions more effectively support staff to engage in scholarship? #LTHEchat\n\n@drdjwalker &amp; @SmithySusanA \n\nPlease reply with A4 #LTHEchat and your comments. https://t.co/z2hKi3qQe8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				175
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTHEchat",
+						"indices": [
+							81,
+							90
+						]
+					},
+					{
+						"text": "LTHEchat",
+						"indices": [
+							147,
+							156
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "drdjwalker",
+						"name": "David Walker",
+						"id": 50085455,
+						"id_str": "50085455",
+						"indices": [
+							92,
+							103
+						]
+					},
+					{
+						"screen_name": "SmithySusanA",
+						"name": "Susan Smith",
+						"id": 2338931029,
+						"id_str": "2338931029",
+						"indices": [
+							110,
+							123
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1450838405185683500,
+						"id_str": "1450838405185683456",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/FCJp17eWQAAorvf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCJp17eWQAAorvf.jpg",
+						"url": "https://t.co/z2hKi3qQe8",
+						"display_url": "pic.twitter.com/z2hKi3qQe8",
+						"expanded_url": "https://twitter.com/LTHEchat/status/1450907168652214274/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1450838405185683500,
+						"id_str": "1450838405185683456",
+						"indices": [
+							176,
+							199
+						],
+						"media_url": "http://pbs.twimg.com/media/FCJp17eWQAAorvf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCJp17eWQAAorvf.jpg",
+						"url": "https://t.co/z2hKi3qQe8",
+						"display_url": "pic.twitter.com/z2hKi3qQe8",
+						"expanded_url": "https://twitter.com/LTHEchat/status/1450907168652214274/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2659221798,
+				"id_str": "2659221798",
+				"name": "LTHE Tweetchat",
+				"screen_name": "LTHEchat",
+				"location": "",
+				"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+				"url": "https://t.co/hZv8XbCh7U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hZv8XbCh7U",
+								"expanded_url": "http://lthechat.com",
+								"display_url": "lthechat.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9004,
+				"friends_count": 3496,
+				"listed_count": 164,
+				"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+				"favourites_count": 4617,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10010,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1634740763",
+				"profile_link_color": "7ECAE6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@Judith_ekn @S_J_Lancaster @KiuSum https://t.co/dQBJQCnVdc"
+	},
+	{
+		"created_at": "Wed Oct 20 19:28:19 +0000 2021",
+		"id": 1450906745962909700,
+		"id_str": "1450906745962909700",
+		"full_text": "@Judith_ekn @LTHEchat @drdjwalker @SmithySusanA https://t.co/MVthYn90bG",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Judith_ekn",
+					"name": "Dr Judith Enterkin",
+					"id": 2425498854,
+					"id_str": "2425498854",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "drdjwalker",
+					"name": "David Walker",
+					"id": 50085455,
+					"id_str": "50085455",
+					"indices": [
+						22,
+						33
+					]
+				},
+				{
+					"screen_name": "SmithySusanA",
+					"name": "Susan Smith",
+					"id": 2338931029,
+					"id_str": "2338931029",
+					"indices": [
+						34,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MVthYn90bG",
+					"expanded_url": "https://twitter.com/LTHEchat/status/1450902135659450374",
+					"display_url": "twitter.com/LTHEchat/statu…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1450905963649720300,
+		"in_reply_to_status_id_str": "1450905963649720325",
+		"in_reply_to_user_id": 2425498854,
+		"in_reply_to_user_id_str": "2425498854",
+		"in_reply_to_screen_name": "Judith_ekn",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/CCNBNDBS1G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCNBNDBS1G",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1580,
+			"friends_count": 1148,
+			"listed_count": 120,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1450902135659450400,
+		"quoted_status_id_str": "1450902135659450374",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MVthYn90bG",
+			"expanded": "https://twitter.com/LTHEchat/status/1450902135659450374",
+			"display": "twitter.com/LTHEchat/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 20 19:10:00 +0000 2021",
+			"id": 1450902135659450400,
+			"id_str": "1450902135659450374",
+			"full_text": "Q2 What forms or outputs can or should scholarship take? #LTHEchat\n\n@drdjwalker &amp; @SmithySusanA \n\nPlease reply with A2 #LTHEchat and your comments. https://t.co/BH64Os9Rsd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				151
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTHEchat",
+						"indices": [
+							57,
+							66
+						]
+					},
+					{
+						"text": "LTHEchat",
+						"indices": [
+							123,
+							132
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "drdjwalker",
+						"name": "David Walker",
+						"id": 50085455,
+						"id_str": "50085455",
+						"indices": [
+							68,
+							79
+						]
+					},
+					{
+						"screen_name": "SmithySusanA",
+						"name": "Susan Smith",
+						"id": 2338931029,
+						"id_str": "2338931029",
+						"indices": [
+							86,
+							99
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1450837376952148000,
+						"id_str": "1450837376952147974",
+						"indices": [
+							152,
+							175
+						],
+						"media_url": "http://pbs.twimg.com/media/FCJo6FAXoAYX3_1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCJo6FAXoAYX3_1.jpg",
+						"url": "https://t.co/BH64Os9Rsd",
+						"display_url": "pic.twitter.com/BH64Os9Rsd",
+						"expanded_url": "https://twitter.com/LTHEchat/status/1450902135659450374/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1450837376952148000,
+						"id_str": "1450837376952147974",
+						"indices": [
+							152,
+							175
+						],
+						"media_url": "http://pbs.twimg.com/media/FCJo6FAXoAYX3_1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCJo6FAXoAYX3_1.jpg",
+						"url": "https://t.co/BH64Os9Rsd",
+						"display_url": "pic.twitter.com/BH64Os9Rsd",
+						"expanded_url": "https://twitter.com/LTHEchat/status/1450902135659450374/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2659221798,
+				"id_str": "2659221798",
+				"name": "LTHE Tweetchat",
+				"screen_name": "LTHEchat",
+				"location": "",
+				"description": "a collaborative project to discuss learning & teaching in HE with the wider community via tweetchats, first #lthechat 29.10.14, Wed 8-9pm UK time, join us!",
+				"url": "https://t.co/hZv8XbCh7U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hZv8XbCh7U",
+								"expanded_url": "http://lthechat.com",
+								"display_url": "lthechat.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9004,
+				"friends_count": 3496,
+				"listed_count": 164,
+				"created_at": "Sat Jul 19 11:13:30 +0000 2014",
+				"favourites_count": 4617,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10010,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/493788994547613697/3q2OoTbK_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2659221798/1634740763",
+				"profile_link_color": "7ECAE6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@Judith_ekn @LTHEchat @drdjwalker @SmithySusanA https://t.co/MVthYn90bG"
+	},
+	{
+		"created_at": "Wed Oct 20 18:33:56 +0000 2021",
+		"id": 1450893058229391400,
+		"id_str": "1450893058229391369",
+		"full_text": "@_PXavier @LTHEchat @drdjwalker @SmithySusanA Sorry already decided: I'm just waiting for my archive and then I'm closing this account. No one will notice that I've gone.",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_PXavier",
+					"name": "Patricia Xavier",
+					"id": 1724921312,
+					"id_str": "1724921312",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"screen_name": "drdjwalker",
+					"name": "David Walker",
+					"id": 50085455,
+					"id_str": "50085455",
+					"indices": [
+						20,
+						31
+					]
+				},
+				{
+					"screen_name": "SmithySusanA",
+					"name": "Susan Smith",
+					"id": 2338931029,
+					"id_str": "2338931029",
+					"indices": [
+						32,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1450891171451097000,
+		"in_reply_to_status_id_str": "1450891171451097092",
+		"in_reply_to_user_id": 1724921312,
+		"in_reply_to_user_id_str": "1724921312",
+		"in_reply_to_screen_name": "_PXavier",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/CCNBNDBS1G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCNBNDBS1G",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1580,
+			"friends_count": 1148,
+			"listed_count": 120,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@_PXavier @LTHEchat @drdjwalker @SmithySusanA Sorry already decided: I'm just waiting for my archive and then I'm closing this account. No one will notice that I've gone."
+	},
+	{
+		"created_at": "Wed Oct 20 18:13:15 +0000 2021",
+		"id": 1450887854024970200,
+		"id_str": "1450887854024970242",
+		"full_text": "@LTHEchat @drdjwalker @SmithySusanA I will be watching my last #LTHEChat today as @cpjobling. \n\nI'll be sad to go ... but it's time ...",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTHEChat",
+					"indices": [
+						63,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTHEchat",
+					"name": "LTHE Tweetchat",
+					"id": 2659221798,
+					"id_str": "2659221798",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "drdjwalker",
+					"name": "David Walker",
+					"id": 50085455,
+					"id_str": "50085455",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "SmithySusanA",
+					"name": "Susan Smith",
+					"id": 2338931029,
+					"id_str": "2338931029",
+					"indices": [
+						22,
+						35
+					]
+				},
+				{
+					"screen_name": "cpjobling",
+					"name": "Chris Jobling",
+					"id": 4229341,
+					"id_str": "4229341",
+					"indices": [
+						82,
+						92
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1450783480225443800,
+		"in_reply_to_status_id_str": "1450783480225443846",
+		"in_reply_to_user_id": 2659221798,
+		"in_reply_to_user_id_str": "2659221798",
+		"in_reply_to_screen_name": "LTHEchat",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/CCNBNDBS1G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCNBNDBS1G",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1580,
+			"friends_count": 1148,
+			"listed_count": 120,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LTHEchat @drdjwalker @SmithySusanA I will be watching my last #LTHEChat today as @cpjobling. \n\nI'll be sad to go ... but it's time ..."
+	},
+	{
+		"created_at": "Wed Oct 20 17:12:54 +0000 2021",
+		"id": 1450872665460383700,
+		"id_str": "1450872665460383749",
+		"full_text": "@LeeFallin It’s been coming for some time. Twitter ain’t wot it used to be.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeeFallin",
+					"name": "Dr Lee Fallin",
+					"id": 55448837,
+					"id_str": "55448837",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1450869581753589800,
+		"in_reply_to_status_id_str": "1450869581753589760",
+		"in_reply_to_user_id": 55448837,
+		"in_reply_to_user_id_str": "55448837",
+		"in_reply_to_screen_name": "LeeFallin",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/CCNBNDBS1G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCNBNDBS1G",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1580,
+			"friends_count": 1148,
+			"listed_count": 120,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LeeFallin It’s been coming for some time. Twitter ain’t wot it used to be."
+	},
+	{
+		"created_at": "Wed Oct 20 15:47:22 +0000 2021",
+		"id": 1450851141311516700,
+		"id_str": "1450851141311516675",
+		"full_text": "@LJ_Rees Maybe, but not for much longer. I’m getting very close to packing it all in now. There’s little joy in #HE teaching left.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HE",
+					"indices": [
+						112,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LJ_Rees",
+					"name": "Louise Rees",
+					"id": 723537068178190300,
+					"id_str": "723537068178190336",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1450848618919993300,
+		"in_reply_to_status_id_str": "1450848618919993349",
+		"in_reply_to_user_id": 723537068178190300,
+		"in_reply_to_user_id_str": "723537068178190336",
+		"in_reply_to_screen_name": "LJ_Rees",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/CCNBNDBS1G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCNBNDBS1G",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1580,
+			"friends_count": 1148,
+			"listed_count": 120,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LJ_Rees Maybe, but not for much longer. I’m getting very close to packing it all in now. There’s little joy in #HE teaching left."
+	},
+	{
+		"created_at": "Wed Oct 20 14:14:47 +0000 2021",
+		"id": 1450827843445919700,
+		"id_str": "1450827843445919744",
+		"full_text": "@ChrisHallSALT Thanks Chris",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisHallSALT",
+					"name": "Chris Hall - SALT",
+					"id": 902439718134186000,
+					"id_str": "902439718134185984",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1450827407481581600,
+		"in_reply_to_status_id_str": "1450827407481581576",
+		"in_reply_to_user_id": 902439718134186000,
+		"in_reply_to_user_id_str": "902439718134185984",
+		"in_reply_to_screen_name": "ChrisHallSALT",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/CCNBNDBS1G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCNBNDBS1G",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1580,
+			"friends_count": 1148,
+			"listed_count": 120,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ChrisHallSALT Thanks Chris"
+	},
+	{
+		"created_at": "Wed Oct 20 14:10:34 +0000 2021",
+		"id": 1450826782966435800,
+		"id_str": "1450826782966435841",
+		"full_text": "So that's it. Just waiting for my archive and then I'm closing my account.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1450826512832290800,
+		"in_reply_to_status_id_str": "1450826512832290816",
+		"in_reply_to_user_id": 4229341,
+		"in_reply_to_user_id_str": "4229341",
+		"in_reply_to_screen_name": "cpjobling",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/CCNBNDBS1G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCNBNDBS1G",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1580,
+			"friends_count": 1148,
+			"listed_count": 120,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "So that's it. Just waiting for my archive and then I'm closing my account."
+	},
+	{
+		"created_at": "Wed Oct 20 14:09:30 +0000 2021",
+		"id": 1450826512832290800,
+		"id_str": "1450826512832290816",
+		"full_text": "14 Years and 6 months and no one to say goodbye!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1450811962904899600,
+		"in_reply_to_status_id_str": "1450811962904899587",
+		"in_reply_to_user_id": 4229341,
+		"in_reply_to_user_id_str": "4229341",
+		"in_reply_to_screen_name": "cpjobling",
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/CCNBNDBS1G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCNBNDBS1G",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1580,
+			"friends_count": 1148,
+			"listed_count": 120,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "14 Years and 6 months and no one to say goodbye!"
+	},
+	{
+		"created_at": "Wed Oct 20 13:11:41 +0000 2021",
+		"id": 1450811962904899600,
+		"id_str": "1450811962904899587",
+		"full_text": "This may be my last tweet.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/CCNBNDBS1G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCNBNDBS1G",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1580,
+			"friends_count": 1148,
+			"listed_count": 120,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "This may be my last tweet."
+	},
+	{
+		"created_at": "Wed Oct 20 08:13:59 +0000 2021",
+		"id": 1450737045324935200,
+		"id_str": "1450737045324935168",
+		"full_text": "Sorry, @Twitter. Breaking @TweetDeck was the last straw. I'm off!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Twitter",
+					"name": "Twitter",
+					"id": 783214,
+					"id_str": "783214",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"screen_name": "TweetDeck",
+					"name": "TweetDeck",
+					"id": 14803701,
+					"id_str": "14803701",
+					"indices": [
+						26,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/CCNBNDBS1G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCNBNDBS1G",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1580,
+			"friends_count": 1148,
+			"listed_count": 120,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Sorry, @Twitter. Breaking @TweetDeck was the last straw. I'm off!"
+	},
+	{
+		"created_at": "Wed Oct 20 08:07:10 +0000 2021",
+		"id": 1450735330311778300,
+		"id_str": "1450735330311778304",
+		"full_text": "TweetDeck original has gone and I want it back!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">TweetDeck Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4229341,
+			"id_str": "4229341",
+			"name": "Chris Jobling",
+			"screen_name": "cpjobling",
+			"location": "Swansea",
+			"description": "Senior Lecturer, @SUEngineering, @SwanseaUni. Once a regular at #LTHEchat and #BYOD4L. Not on Facebook!",
+			"url": "https://t.co/CCNBNDBS1G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCNBNDBS1G",
+							"expanded_url": "http://about.me/cpjobling",
+							"display_url": "about.me/cpjobling",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 1580,
+			"friends_count": 1148,
+			"listed_count": 120,
+			"created_at": "Wed Apr 11 19:13:11 +0000 2007",
+			"favourites_count": 12322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1438407357126565891/QiqMr8Lg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4229341/1398287038",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "TweetDeck original has gone and I want it back!"
+	},
+	{
 		"created_at": "Mon Oct 18 16:39:56 +0000 2021",
 		"id": 1450139596130504700,
 		"id_str": "1450139596130504714",
